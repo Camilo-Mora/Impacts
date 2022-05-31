@@ -1,0 +1,1488 @@
+
+
+
+
+
+
+
+
+
+<!DOCTYPE html>
+<html class=" no-js" lang="en">
+    <head>
+        <meta charset="UTF-8"/><script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(e,n,t){function r(t){if(!n[t]){var o=n[t]={exports:{}};e[t][0].call(o.exports,function(n){var o=e[t][1][n];return r(o||n)},o,o.exports)}return n[t].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<t.length;o++)r(t[o]);return r}({1:[function(e,n,t){function r(){}function o(e,n,t){return function(){return i(e,[c.now()].concat(u(arguments)),n?null:this,t),n?void 0:this}}var i=e("handle"),a=e(2),u=e(3),f=e("ee").get("tracer"),c=e("loader"),s=NREUM;"undefined"==typeof window.newrelic&&(newrelic=s);var p=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],d="api-",l=d+"ixn-";a(p,function(e,n){s[n]=o(d+n,!0,"api")}),s.addPageAction=o(d+"addPageAction",!0),s.setCurrentRouteName=o(d+"routeName",!0),n.exports=newrelic,s.interaction=function(){return(new r).get()};var m=r.prototype={createTracer:function(e,n){var t={},r=this,o="function"==typeof n;return i(l+"tracer",[c.now(),e,t],r),function(){if(f.emit((o?"":"no-")+"fn-start",[c.now(),r,o],t),o)try{return n.apply(this,arguments)}finally{f.emit("fn-end",[c.now()],t)}}}};a("setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(e,n){m[n]=o(l+n)}),newrelic.noticeError=function(e){"string"==typeof e&&(e=new Error(e)),i("err",[e,c.now()])}},{}],2:[function(e,n,t){function r(e,n){var t=[],r="",i=0;for(r in e)o.call(e,r)&&(t[i]=n(r,e[r]),i+=1);return t}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],3:[function(e,n,t){function r(e,n,t){n||(n=0),"undefined"==typeof t&&(t=e?e.length:0);for(var r=-1,o=t-n||0,i=Array(o<0?0:o);++r<o;)i[r]=e[n+r];return i}n.exports=r},{}],4:[function(e,n,t){n.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],ee:[function(e,n,t){function r(){}function o(e){function n(e){return e&&e instanceof r?e:e?f(e,u,i):i()}function t(t,r,o,i){if(!d.aborted||i){e&&e(t,r,o);for(var a=n(o),u=m(t),f=u.length,c=0;c<f;c++)u[c].apply(a,r);var p=s[y[t]];return p&&p.push([b,t,r,a]),a}}function l(e,n){v[e]=m(e).concat(n)}function m(e){return v[e]||[]}function w(e){return p[e]=p[e]||o(t)}function g(e,n){c(e,function(e,t){n=n||"feature",y[t]=n,n in s||(s[n]=[])})}var v={},y={},b={on:l,emit:t,get:w,listeners:m,context:n,buffer:g,abort:a,aborted:!1};return b}function i(){return new r}function a(){(s.api||s.feature)&&(d.aborted=!0,s=d.backlog={})}var u="nr@context",f=e("gos"),c=e(2),s={},p={},d=n.exports=o();d.backlog=s},{}],gos:[function(e,n,t){function r(e,n,t){if(o.call(e,n))return e[n];var r=t();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,n,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return e[n]=r,r}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],handle:[function(e,n,t){function r(e,n,t,r){o.buffer([e],r),o.emit(e,n,t)}var o=e("ee").get("handle");n.exports=r,r.ee=o},{}],id:[function(e,n,t){function r(e){var n=typeof e;return!e||"object"!==n&&"function"!==n?-1:e===window?0:a(e,i,function(){return o++})}var o=1,i="nr@id",a=e("gos");n.exports=r},{}],loader:[function(e,n,t){function r(){if(!x++){var e=h.info=NREUM.info,n=d.getElementsByTagName("script")[0];if(setTimeout(s.abort,3e4),!(e&&e.licenseKey&&e.applicationID&&n))return s.abort();c(y,function(n,t){e[n]||(e[n]=t)}),f("mark",["onload",a()+h.offset],null,"api");var t=d.createElement("script");t.src="https://"+e.agent,n.parentNode.insertBefore(t,n)}}function o(){"complete"===d.readyState&&i()}function i(){f("mark",["domContent",a()+h.offset],null,"api")}function a(){return E.exists&&performance.now?Math.round(performance.now()):(u=Math.max((new Date).getTime(),u))-h.offset}var u=(new Date).getTime(),f=e("handle"),c=e(2),s=e("ee"),p=window,d=p.document,l="addEventListener",m="attachEvent",w=p.XMLHttpRequest,g=w&&w.prototype;NREUM.o={ST:setTimeout,CT:clearTimeout,XHR:w,REQ:p.Request,EV:p.Event,PR:p.Promise,MO:p.MutationObserver};var v=""+location,y={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1026.min.js"},b=w&&g&&g[l]&&!/CriOS/.test(navigator.userAgent),h=n.exports={offset:u,now:a,origin:v,features:{},xhrWrappable:b};e(1),d[l]?(d[l]("DOMContentLoaded",i,!1),p[l]("load",r,!1)):(d[m]("onreadystatechange",o),p[m]("onload",r)),f("mark",["firstbyte",u],null,"api");var x=0,E=e(4)},{}]},{},["loader"]);</script><script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"applicationTime":1040,"licenseKey":"913fae2ed4","applicationID":"9863671","queueTime":1,"beacon":"bam.nr-data.net","transactionName":"MlAHYEpQC0dXV0ZRWAsaI0FWUhFdWVodWUURXAZYXW4TXVNDHE5eAEIWDktFBFZaUQ==","errorBeacon":"bam.nr-data.net","agent":""}</script>
+        <!-- Start SEO custom tags -->
+<meta name="robots" content="noarchive,nofollow,NOODP" />
+<meta name="description" content="" />
+<meta property="og:description" content="Uma J. Lele, John W. Mellor, Jobs, Poverty and the &quot;Green Revolution&quot;, International Affairs (Royal Institute of International Affairs 1944-), Vol. 48, No. 1 (Jan., 1972), pp. 20-32" />
+<meta name="MSSmartTagsPreventParsing" content="true" />
+<!-- End SEO custom tags -->
+        
+            <!-- prod DTM script -->
+            <script src="//assets.adobedtm.com/e0b918adcf7233db110ce33e1416a2e6448e08e6/satelliteLib-5c3c84854607a1fc3328b9b539472ebd81244f0b.js"></script>
+        
+        
+        <meta name="viewport" content="width=device-width" />
+        
+        
+        <meta name="ST.publisher" content="Wiley" />
+    
+
+    
+        <meta name="ST.desc" content="ARCHIVE" />
+    
+
+    
+        <meta name="ST.printIssn" content="00205850" />
+    
+    
+    
+        <meta name="ST.onlineIssn" content="14682346" />
+    
+    
+    <meta name="ST.PlatformAPIKey" content="83e2edc873d4" />
+
+
+        
+        <link rel="apple-touch-icon" href="//www.jstor.org/assets/legacy_20170316T1337/files/shared/images/apple-touch-icon.png" />
+        <link rel="stylesheet" href="//www.jstor.org/assets/legacy_20170316T1337/files/legacy/css/legacy_v2.css" />
+        <script src="//www.jstor.org/assets/legacy_20170316T1337/files/shared/js/vendor/jquery-1-10-2.js"></script>
+
+        
+        
+    <link rel="stylesheet" href="//www.jstor.org/assets/article-view_20170310T0927/files/article-view/css/article-view.css" />
+
+
+        
+    <link rel="canonical" href="http://www.jstor.org/stable/2613624" />
+
+        <title>
+    Jobs, Poverty and the "Green Revolution" on JSTOR
+</title>
+
+        <script type="text/javascript" class="ddo">
+            var  DDO  = {};
+            DDO.pageData={
+                
+    "pageName" : "article view",
+    "pageChannel" : "content:article:pagescan",
+    "pageProduct" : "jstor",
+    "pagePlatform" : "seq"
+
+            };
+
+            DDO.userData = {
+                
+    "loginStatus" : "false",
+    "userAuthentication" : "Institutional",
+    "userInstitution" : "[&#39;r2.fs.fed.us&#39;]",
+    "institutionID" : "[&#39;40800&#39;]",
+    "myJstorUserID" : "None"
+
+            };
+
+            
+DDO.contentData = {
+    "contentName" : "International Affairs (Royal Institute of International Affairs 1944-)",
+    "objectDOI" : "10.2307/2613624",
+    "contentType" : "journal",
+    "contentIssue" : "Vol. 48, No. 1 (Jan., 1972), pp. 20-32",
+    "contentPublisher" : "Wiley on behalf of the Royal Institute of International Affairs",
+    "contentDiscipline" : "[&#39;Political Science&#39;, &#39;Social Sciences&#39;, &#39;International Relations&#39;]",
+    "userAuthorization" : "Standard - Archive"
+};
+
+
+
+DDO.itemData = {
+    "itemTitle":"Jobs, Poverty and the &quot;Green Revolution&quot;",
+    "pageCount":"13",
+    "itemType" : "article"
+};
+
+
+    DDO.itemData.accessType = "institution";
+
+
+
+
+
+
+        </script>
+    </head>
+    <body>
+        
+            <script>
+    var validateElementsPresent = function() {
+        var requiredElementSelectors = ['#px-js', '#px-pixel'];
+
+        requiredElementSelectors.forEach(function(selector){
+            if (!$(selector).length) {
+                storePerimeterXLoadingError(selector, 'element not present');
+            }
+        });
+    }, storePerimeterXLoadingError = function(element, errorType) {
+        if (window.perimeterXLoadingErrors) {
+            if (!window.perimeterXLoadingErrors.hasOwnProperty(element)) {
+                window.perimeterXLoadingErrors[element] = errorType;
+            }
+        } else {
+            window.perimeterXLoadingErrors = {};
+            window.perimeterXLoadingErrors[element] = errorType;
+        }
+    };
+</script>
+
+
+<!-- PerimeterX -->
+<script id="px-js" type="text/javascript">
+    (function(){
+        window._pxAppId = 'PXu4K0s8nX';
+        window._pxRootUrl = '/px/xhr';
+
+        
+        window._pxParam1 = "r2.fs.fed.us";
+        
+
+        
+        window._pxParam2 = "journal";
+        
+
+        var p = document.getElementsByTagName('script')[0],
+            s = document.createElement('script');
+        s.async = 1;
+        s.src = '/px/client/main.min.js';
+        s.onerror = function() {
+            storePerimeterXLoadingError('asyncScript', 'element present but not loaded');
+        };
+        p.parentNode.insertBefore(s,p);
+    }());
+</script>
+<div style="position:fixed; top:0; left:0;" width="1" height="1">
+    <img id="px-pixel" src="/px/xhr/api/v1/collector/pxPixel.gif?appId=PXu4K0s8nX" onerror="storePerimeterXLoadingError('pixel', 'element present but not loaded')" alt="">
+</div>
+<noscript>
+    <div style="position:fixed; top:0; left:0;" width="1" height="1">
+        <img id="px-pixel-nojs" src="/px/xhr/api/v1/collector/noScript.gif?appId=PXu4K0s8nX" alt="">
+    </div>
+</noscript>
+<!-- End PerimeterX -->
+
+
+        
+
+        
+        
+
+        <div id="skipNav">
+            <a class="visuallyhidden" href="#content">Skip to Main Content</a>
+        </div>
+
+        
+
+        
+
+        
+        <nav class="top-bar" data-topbar role="navigation">
+            <div class="row" id="nav-global">
+                <ul class="title-area">
+                    <li class="name" id="menu-jstor-logo"><a href="/"><img src="//www.jstor.org/assets/legacy_20170316T1337/files/shared/images/JSTOR_Logo_RGB_60x76.gif" alt="JSTOR" /></a></li>
+                </ul>
+
+                <section class="top-bar-section">
+                    <ul class="left main-global-menu">
+                        <li class="show-for-large-up"><a href="/" id="menu-home">Home</a></li>
+                        
+                        <li class="has-dropdown show-for-small-up"><a href="/action/showAdvancedSearch" id="menu-search">Search</a>
+                            <ul class="dropdown">
+                                <li><a href="/action/showAdvancedSearch">Advanced Search</a></li>
+                            </ul>
+                        </li>
+                        <li class="has-dropdown show-for-small-up"><a href="/action/showJournals?browseType=title" id="menu-browse">Browse</a>
+                            <ul class="dropdown">
+                                <li><a href="/action/showJournals?browseType=title">by Title</a></li>
+                                <li><a href="/action/showJournals?browseType=publisherInstance">by Publisher</a></li>
+                                <li><a href="/subjects">by Subject</a></li>
+                            </ul>
+                        </li>
+                        <li class="has-dropdown show-for-medium-up"><a href="/profile" id="menu-myjstor">MyJSTOR</a>
+                            <ul class="dropdown">
+                                <li><a href="/profile">My Profile</a></li>
+                                <li class="no-js-hide"><a href="/myjstor/mylists">My Lists</a></li>
+                                <li id="joyride-5"><a href="/action/showShelf">Shelf</a></li>
+                                <li><a href="/action/showSubscriptions">JPASS Downloads</a></li>
+                                <li><a href="/action/showPurchases">Purchase History</a></li>
+                                
+                            </ul>
+                        </li>
+                        
+                    </ul>
+                    <div class="right" data-topbar data-options="is_hover: false">
+                        
+                        <ul id="nav-support">
+                            <li class="show-for-large-up">
+                                <ul>
+                                    <li>
+    <a href="http://support.jstor.org" target="_blank" title="This link opens in a new window">Help</a>
+</li>
+                                    <li>
+    <a href="/forms/content/jstor-help-support" target="_blank" title="This link opens in a new window">Contact Us</a>
+</li>
+
+                                    <li>
+    <a href="http://about.jstor.org/" target="_blank" title="This link opens in a new window">About</a>
+</li>
+                                </ul>
+                            </li>
+                            
+    <li><a href="/action/showLogin?redirectUri=%2Fstable%2F2613624">Login</a></li>
+
+                            
+                        </ul>
+                        
+                            
+                        
+                        
+                    </div>
+                </section>
+            </div>
+        </nav>
+
+
+        <div id="content" role="main" class="content row" data-equalizer>
+            
+    
+
+    
+    
+    
+    <div class="small-12 columns">
+        
+
+
+<section id="topicCard" class="topic-card mtxl hide">
+    <div class="white heading pvm phxl">
+        Your PDF has successfully downloaded.
+    </div>
+    <div class="row">
+        <div class="small-9 medium-8 columns">
+            <h2 class="white mvm">You may be interested in finding more content on these topics:</h2>
+        </div>
+        <div class="small-3 medium-4 columns txtR">
+            <span data-tooltip aria-haspopup="true" class="tip-left" title="These are links to topic pages on JSTOR.<br/><br/>These topics are related to your article. Descriptions currently come from DBpedia.org; we are considering additional sources.">
+                <a href="#" class="white mvm prxl inline-block">What's this?</a>
+            </span>
+            <a href="/" class="white close mvm prxl inline-block">Close [x]</a>
+        </div>
+    </div>
+    <div class="row cards" data-equalizer="" data-equalize-on="large">
+    
+        
+            <div class="large-3 columns">
+                <div class="card" data-equalizer-watch="">
+                    <h3 class="lookslikeh2">
+                        <a href="/topic/employment/" data-sc="text link:topic card" data-topic="employment">
+                            Employment
+                        </a>
+                    </h3>
+                    <div class="count mbm"></div>
+                    <p></p>
+                </div>
+            </div>
+        
+         <div class="hide-for-large-up columns">
+            <button class="button button-full-width js-toggle-topics">Show more topics</button>
+        </div>
+        
+
+        
+    
+        
+        <div class="js-more-topics">
+        
+            <div class="large-3 columns">
+                <div class="card" data-equalizer-watch="">
+                    <h3 class="lookslikeh2">
+                        <a href="/topic/industrial-agriculture/" data-sc="text link:topic card" data-topic="industrial-agriculture">
+                            Industrial agriculture
+                        </a>
+                    </h3>
+                    <div class="count mbm"></div>
+                    <p></p>
+                </div>
+            </div>
+        
+
+        
+    
+        
+            <div class="large-3 columns">
+                <div class="card" data-equalizer-watch="">
+                    <h3 class="lookslikeh2">
+                        <a href="/topic/agricultural-policy/" data-sc="text link:topic card" data-topic="agricultural-policy">
+                            Agricultural policy
+                        </a>
+                    </h3>
+                    <div class="count mbm"></div>
+                    <p></p>
+                </div>
+            </div>
+        
+
+        
+    
+        
+            <div class="large-3 columns end">
+                <div class="card" data-equalizer-watch="">
+                    <h3 class="lookslikeh2">
+                        <a href="/topic/crop-production/" data-sc="text link:topic card" data-topic="crop-production">
+                            Crop production
+                        </a>
+                    </h3>
+                    <div class="count mbm"></div>
+                    <p></p>
+                </div>
+            </div>
+        
+
+        
+        </div>
+        
+    
+    </div>
+</section>
+
+
+    </div>
+    
+    
+
+
+    <div class="slideOutBar" role="complementary">
+        <div id="navToggle">
+            <a href="#">Click to Show/Hide Side Bar</a>
+        </div>
+    </div>
+    <div class="small-4 xlarge-push-8 columns subcontent" data-equalizer-watch>
+     <div class="subcontent-body">
+            
+                
+                    
+
+<div class="subcontent-search-box">
+    <form role="form" class="form-jstor basic-search-form" action="/action/doBasicSearch" method="GET">
+    
+
+    
+
+    <div class="row collapse">
+        <div class="small-6 medium-7 large-5 columns">
+            
+            <label for="q0" class="visuallyhidden">Search JSTOR</label>
+            <input id="q0" title="Search Box" name="Query" type="text" class="searchBox small" placeholder="" value="">
+        </div>
+
+        
+        <div class="small-4 large-5 columns">
+            <div class="selectContainer">
+                <label class="visuallyhidden" for="QSFSearchFilter">Filter search by</label>
+                <select name="filter" id="QSFSearchFilter">
+                
+                    <option value="iid:10.2307/i324591" selected="selected">In This Issue</option>
+                
+                    <option value="jid:10.2307/j100185">In This Title</option>
+                
+                    <option value="">All Content</option>
+                
+                </select>
+            </div>
+        </div>
+        
+
+        
+
+        <button type="submit" class="button tiny small-2 medium-2 columns" data-sc="but click:search">Search</button>
+    </div>
+
+    
+</form>
+
+</div>
+                
+            
+            
+                
+
+
+
+    <div class="border-full-thick phm mvl ptm provider-statement">
+        <h2 class="mbn">Access</h2>
+        <p class="smTxt">Your access to JSTOR provided by National Forest Service Library</p>
+    </div>
+
+
+            
+
+            
+    <div class="revive-ad mvl">
+        
+
+
+<script type='text/javascript'>
+    <!--//<![CDATA[
+        var m3_u = '//ja.jstor.org/www/serve/ajs.php';
+
+        if (!document.MAX_used){
+            document.MAX_used = ',';
+        }
+        document.write("<script type='text/javascript' src='" + m3_u);
+        
+    var is_urp = false,
+    is_shelved = false,
+    is_in_jpass = true,
+    is_from_daily = false;
+    document.write("?zoneid=16");
+    document.write("&amp;articleId=10.2307/2613624");
+    
+        document.write ("&amp;issueId=10.2307/i324591");
+        document.write("&amp;publisherCode=black");
+    
+    document.write ("&amp;journalCode=inteaffaroyainst");
+    document.write("&amp;urp=" + is_urp);
+    document.write("&amp;rfs=" + is_shelved);
+    document.write("&amp;jpass=" + is_in_jpass);
+    document.write("&amp;fromDaily=" + is_from_daily);
+
+        document.write('&amp;cb=1982745765');
+        if (document.MAX_used != ','){
+            document.write("&amp;exclude=" + document.MAX_used);
+        }
+        document.write(document.charset ?
+                                '&amp;charset='+document.charset :
+                                (document.characterSet ?
+                                        '&amp;charset='+document.characterSet : ''));
+        document.write("&amp;loc=" + escape(window.location));
+        if (document.referrer) {
+            document.write("&amp;referer=" + escape(document.referrer));
+        }
+        if (document.context) {
+            document.write("&context=" + escape(document.context));
+        }
+        if (document.mmm_fo) {
+            document.write("&amp;mmm_fo=1");
+        }
+        document.write("'><\/script>");
+    //]]>-->
+</script>
+<noscript>
+    <a href="//ja.jstor.org/www/serve/ck.php?n=a680fa70&amp;cb=1982745765" target="_blank">
+        <img src="//ja.jstor.org/www/serve/avw-jstor.php?zoneid=16&amp;cb=1982745765&amp;n=a680fa70" border="0" alt=""/>
+    </a>
+</noscript>
+
+    </div>
+
+        </div>
+    </div>
+    <div class="small-8 xlarge-pull-4 columns maincontent column-max-width" data-equalizer-watch>
+        
+    
+
+    <div class="article-view-info">
+        
+        
+        
+
+
+
+    <div class="row mtm">
+        
+        
+    </div>
+
+
+
+        
+        
+        
+
+<ul class="breadcrumbs ">
+
+    <li class="breadcrumb-journal">
+        
+        
+        <a href="/action/showPublication?journalCode=inteaffaroyainst">International Affairs (Royal Institute o...</a>
+        
+        
+    </li>
+
+    <li class="breadcrumb-issue">
+        
+        
+        <a href="/stable/i324591">Vol. 48, No. 1, Jan., 1972</a>
+        
+        
+    </li>
+
+    <li class="breadcrumb-article current">
+        
+        
+        Jobs, Poverty and th...
+        
+        
+    </li>
+
+</ul>
+        
+
+        <div class="row">
+            <div class="xlarge-9 columns">
+                
+
+
+    <div class="row clearfix">
+         <div class="small-12 columns ">
+         
+           
+               
+                <div class="left prl cover-image">
+                    
+
+    <a class="cover-url" href="/action/showPublication?journalCode=inteaffaroyainst">
+
+    <img class="cover" aria-label="Thumbnail" src="data:image/gif;base64,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" alt="International Affairs (Royal Institute of International Affairs 1944-)">
+
+    </a>
+
+
+                </div>
+                
+            
+         
+             <div class="medium-8 inline-block">
+                 
+    <div class="lookslikeh5 mbl" data-qa="content-type">Journal Article</div>
+    
+        <h1 class="title">
+        
+            Jobs, Poverty and the "Green Revolution"
+        
+        </h1>
+
+        
+        
+    <div class="contrib">
+        
+Uma J. Lele and John W. Mellor
+    </div>
+
+    
+
+    
+        
+
+
+    <div class="journal">
+        <cite>International Affairs (Royal Institute of International Affairs 1944-)</cite>
+    </div>
+
+        
+    
+        <div class="src mbl">
+            Vol. 48, No. 1 (Jan., 1972), pp. 20-32
+        </div>
+    
+
+        
+
+
+    <div class="publisher">
+        Published by: <a href="/publisher/black" class="publisher-link">Wiley</a> on behalf of the <a href="/publisher/riia" class="publisher-link">Royal Institute of International Affairs</a>
+    </div>
+
+        
+    <div class="doi">
+        DOI: 10.2307/2613624
+    </div>
+
+    
+        
+    <div class="stable">
+        Stable URL: http://www.jstor.org/stable/2613624
+    </div>
+
+        
+    <div class="count">
+        Page Count: 13
+    </div>
+
+
+
+                 
+
+
+    
+    <div class="topics mtl">
+        <strong>Topics:</strong>
+        
+            <a href="/topic/employment/" data-sc="text link:topic link">Employment</a>, 
+        
+            <a href="/topic/industrial-agriculture/" data-sc="text link:topic link">Industrial agriculture</a>, 
+        
+            <a href="/topic/agricultural-policy/" data-sc="text link:topic link">Agricultural policy</a>, 
+        
+            <a href="/topic/crop-production/" data-sc="text link:topic link">Crop production</a>, 
+        
+            <a href="/topic/imports/" data-sc="text link:topic link">Imports</a>, 
+        
+            <a href="/topic/farm-economics/" data-sc="text link:topic link">Farm economics</a>, 
+        
+            <a href="/topic/crop-economics/" data-sc="text link:topic link">Crop economics</a>, 
+        
+            <a href="/topic/crops/" data-sc="text link:topic link">Crops</a>, 
+        
+            <a href="/topic/green-revolution/" data-sc="text link:topic link">Green revolution</a>, 
+        
+            <a href="/topic/financial-investments/" data-sc="text link:topic link">Financial investments</a>
+        
+    </div>
+    
+
+             </div>
+        </div>
+    </div>
+
+            </div>
+            <div class="xlarge-3 columns" id="pds-mobile-place-holder">
+                
+    <ul class="action-buttons mtm mln">
+        
+        <li class="download-pdf-button">
+            
+    
+        <a href="/stable/pdf/2613624.pdf" target="_blank" class="button button-jstor pdfLink" data-doi="2613624" data-sc="but click:pdf download">
+            Download PDF
+        </a>
+    
+
+
+        </li>
+        
+            <li class="no-js-hide">
+                
+    <a href="/register/mylists?redirectUri=/stable/2613624%3Fopen_mylists%3D10.2307%252F2613624"
+       class="no-js-hide mylists-add button button-jstor">
+        Add to My Lists
+    </a>
+
+            </li>
+            <li class="cite-this-item-button">
+                <a href="#" class="button button-jstor cite-this-item" data-reveal-id="citation-tools" data-doi="10.2307/2613624">
+    Cite this Item
+</a>
+
+
+<div id="citation-tools" class="reveal-modal medium" data-reveal aria-labelledby="citation-tools-title" aria-live="polite" aria-relevant="additions" aria-atomic="true" aria-busy="false" aria-hidden="true" role="dialog">
+
+    <header>
+        <h2 id="citation-tools-title">Cite This Item</h2>
+    </header>
+    <div id="citationBody" class="reveal-body">
+        <div class="mbm">
+            <div class="lookslikeh2">Copy Citation</div>
+        </div>
+        <div class="copy-citation-mla notranslate">
+        
+        </div>
+        <div class="copy-citation-apa notranslate">
+        
+        </div>
+        <div class="copy-citation-chicago notranslate">
+        
+        </div>
+        <div class="mbm">
+            <div class="lookslikeh2">Export Citation</div>
+        </div>
+        <div class="export-citation-refworks mbm mlm">
+            <a href="/citation/refworks/" target="_blank" data-sc="text link:citation refworks">Export to RefWorks</a>
+        </div>
+        <div class="export-citation-ris mbm mlm">
+            <a href="/citation/ris/" data-sc="text link:citation ris">Export a RIS file</a> (For EndNote, ProCite, Reference Manager, Zotero…)
+        </div>
+        <div class="export-citation-text mbm mlm">
+            <a href="/citation/text/" data-sc="text link: citation text">Export a Text file</a> (For BibTex)
+        </div>
+        <div class="citation-note">
+            <strong>Note:</strong> Always review your references and make any necessary corrections before using. Pay attention to names, capitalization, and dates.
+        </div>
+    </div>
+
+    <a href="#" class="close-reveal-modal" aria-label="Close Overlay">&#215; <span class="visuallyhidden">Close Overlay</span></a>
+</div>
+
+
+
+        <script id="tpl-citation_item" type="text/x-handlebars-template">
+        
+    
+    <div class="mbm mlm">
+        <strong class="mbs">{{ label }}</strong>
+        <div class="clearfix">
+            <div id="{{ label }}_text" class="{{ class_name }} left pas brdra citation-copy">{{ citation }}</div>
+            <button data-tooltip data-options="disable_for_touch:true" data-tracking="{{ label }}" data-selector="clipboard-tip-{{ label }}" title="Copy to Clipboard" aria-label="Copy {{ label }} format to clipboard" data-clipboard-target="#{{ label }}_text" class="button button-img copy tiny mhs" type="button">Copy</button>
+        </div>
+    </div>
+
+
+        </script>
+
+
+            </li>
+        
+    
+    
+        
+        <li class="journal_info_button">
+            <a href="#" class="button button-jstor has-dropdown" data-dropdown="journal_info_drop" aria-controls="journal_info_drop" aria-expanded="false" title="Select to display Journal Info">Journal Info</a>
+            
+<div id="journal_info_drop" class="f-dropdown content medium txtL " data-dropdown-content aria-hidden="true" tabindex="-1" aria-autoclose="false">
+
+    <div class="journal lookslikeh2 drop-content-title">International Affairs (Royal Institute of International Affairs 1944-)</div>
+
+    <div class="journal_description mtm"><strong>Description:</strong> <cite>International Affairs</cite> is Britain's leading journal of international 
+  relations. Founded by and edited at the Royal Institute of International Affairs 
+  in London, it has not only developed a much valued insight into European policy 
+  debates but has also become renowned for its coverage of global policy issues. 
+  It provides a stimulating and international mix of authors and draws on the 
+  best of both English-language and foreign-language debates. Articles, all fully 
+  refereed, are commissioned from a wide range of authoritative and interesting 
+  writers who have something new and original to say about topics that matter. 
+  In addition, <cite>International Affairs</cite> has an extensive book reviews 
+  section, containing up to 100 reviews each quarter, written by experts in the 
+  field. 
+  <p> JSTOR provides a digital archive of the print version of <cite>International 
+    Affairs</cite>. The electronic version of <cite>International Affairs</cite> 
+    is available at <a href="http://www.interscience.wiley.com">http://www.interscience.wiley.com</a>. 
+    Authorized users may be able to access the full text articles at this site.</p></div>
+    
+
+    <div class="coverage-period mtm"><strong>Coverage:</strong> 1944-2011 (Vol. 20, No. 1 - Vol. 87, No. 6)</div>
+
+
+    
+
+
+<div class="moving-wall mtm">
+    <dl class="accordion" data-accordion>
+        <dt class="visuallyhidden">Moving Wall</dt>
+        <dd class="accordion-navigation">
+            <strong>Moving Wall:</strong> 5 years <a href="#panel1">(What is the moving wall?)</a>
+            <div id="panel1" class="content mtm prl">
+                <dl>
+                    <dt class="hide">Moving Wall</dt>
+                    <dd class="alert-box secondary">
+                        <p>The "moving wall" represents the time period between the last issue
+                        available in JSTOR and the most recently published issue of a journal.
+                        Moving walls are generally represented in years. In rare instances, a
+                        publisher has elected to have a "zero" moving wall, so their current
+                        issues are available in JSTOR shortly after publication.<br>
+                        Note: In calculating the moving wall, the current year is not counted.<br>
+                        For example, if the current year is 2008 and a journal has a 5 year
+                        moving wall, articles from the year 2002 are available.</p>
+                        <dl>
+                            <dt><strong>Terms Related to the Moving Wall</strong></dt>
+                            <dd><strong>Fixed walls:</strong> Journals with no new volumes being added to the archive.</dd>
+                            <dd><strong>Absorbed:</strong> Journals that are combined with another title.</dd>
+                            <dd><strong>Complete:</strong> Journals that are no longer published or that have been
+                            combined with another title.</dd>
+                        </dl>
+                    </dd>
+                </dl>
+            </div>
+            
+        </dd>
+    </dl>
+</div>
+
+
+
+    <div class="issn mtm"><strong>ISSN:</strong> 00205850</div>
+
+
+    <div class="eissn mtm"><strong>EISSN:</strong> 14682346</div>
+
+        
+    <div class="subjects mtm"><strong>Subjects:</strong> 
+        
+            Political Science,
+        
+            Social Sciences,
+        
+            International Relations
+        
+    </div>
+
+
+    <div class="collections mtm"><strong>Collections:</strong>
+        
+            JSTOR Essential Collection,
+        
+            Arts & Sciences II Collection,
+        
+            Corporate & For-Profit Access Initiative Collection
+        
+    </div>
+
+
+    <a href="#" class="close close-overlay" aria-label="Close Overlay">&#215; <span class="visuallyhidden">Close Overlay</span></a>
+
+
+</div>
+
+        </li>
+        
+    
+    
+    </ul>
+    
+        <noscript>
+    <div class="clearfix" aria-hidden="true">
+        <div class="article-tools txtL pal">
+            <ul class="no-bullet mbn">
+                <li><strong>Article Tools</strong></li>
+                <li>
+                    <a href="/citation/info/10.2307/2613624" target="_blank">
+                        Cite this Item
+                    </a>
+                </li>
+                
+                    <li class="mvs">
+                        <a href="/stable/2613624?item_view=journal_info" target="_blank">Journal Info</a>
+                    </li>
+                
+            </ul>
+        </div>
+    </div>
+</noscript>
+    
+
+            </div>
+        </div>
+        <div class="row">
+            <div class="medium-8 columns">
+            
+            
+            </div>
+        </div>
+    </div>
+
+    
+    <div id="article_view_content" class="article-view-content ptxl">
+        <div class="row collapse">
+            
+            <div class="small-12 xlarge-4 xlarge-push-8 columns">
+                
+
+<div id="issue-pager" class="ptm">
+    
+        
+            <a class="previous-item" href="/stable/2613623">&#171; Previous Item</a>
+        
+        &nbsp;|&nbsp;
+        
+            <a class="next-item" href="/stable/2613625">Next Item &#187;</a>
+        
+    
+</div>
+
+            </div>
+            
+            <div class="small-12 xlarge-8 xlarge-pull-4 columns">
+                <dl class="tabs three-up" data-tab data-options="deep_linking:true; scroll_to_content: false">
+                    <dt class="visuallyhidden">Item Type</dt>
+                    <dd class="active" role="tablist" id="page_scan_tab" data-equalizer-watch>
+                        <a role="tab" href="#page_scan_tab_contents" data-sc="tab:article tab">
+                            Article
+                        </a>
+                    </dd>
+                    
+    <dd id="page_thumbnails_tab" class="show-for-medium-up" role="tablist">
+        <a role="tab" href="#page_thumbnails_tab_contents" data-sc="tab:thumbnails tab">Thumbnails</a>
+    </dd>
+    
+    
+    
+
+                </dl>
+            </div>
+        </div>
+        <div class="row">
+            <div class="small-12 columns">
+                <div class="tabs-content">
+                    <noscript>
+                        <div class="notify-error reading-length" aria-hidden="true">
+                            You have javascript disabled.
+                        </div>
+                        
+    <p class="f15">To read this item, please 
+    
+        <a href="/stable/pdf/2613624.pdf" target="_blank" class="button button-jstor pdfLink" data-doi="2613624" data-sc="but click:pdf download">
+            Download PDF
+        </a>
+    
+
+</p>
+
+                    </noscript>
+
+                    
+                    
+
+                    
+    <div class="content active" role="tabpanel" id="page_scan_tab_contents">
+        <div class="page-scan">
+    <div class="row mbm">
+        <div class="small-12 columns">
+            <span class="page-scan-current-page">
+</span>
+        </div>
+        
+    </div>
+    
+    
+    <div class="page-scan-wrapper">
+        
+
+        
+<div class="previous-page">
+    <a href="#">
+        <span class="previous" data-sc="image:previous page">Previous Page</span>
+        <span class="previous-bottom" data-sc="image:previous page">Previous Page</span>
+    </a>
+</div>
+
+
+        <div class="page-center">
+            
+                <div id="search-term-highlight-container" class="relative scan-image-wrapper loading" data-search-text="">
+                    <img class="page-scan-container" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-page="" data-last="13" alt="Jobs, Poverty and the &quot;Green Revolution&quot; "/>
+                </div>
+            
+        </div>
+        
+<div class="next-page">
+    <a href="#">
+        <span class="next" data-sc="image:next page">Next Page</span>
+        <span class="next-bottom" data-sc="image:next page">Next Page</span>
+    </a>
+</div>
+
+
+        
+
+    </div>
+
+    
+            <div id="page1" data-doi="10.2307/2613624" data-page="20" data-pagename="Viewing page 20 of pages 20-32" data-s3="czM6Ly9zZXF1b2lhLWNlZGFyL2NpZC1wcm9kLTEvYWM4NzhjNmYvMTIwZi8zMGMwL2FhNDEvNWM3YzJlMzM1MGU3L2kzMjQ1OTEvMjYxMzYyNC9ncmFwaGljL3BhZ2VzL2R0Yy4zMC50aWYuZ2lm" data-ocr="czM6Ly9zZXF1b2lhLWNlZGFyL2NpZC1wcm9kLTEvYWM4NzhjNmYvMTIwZi8zMGMwL2FhNDEvNWM3YzJlMzM1MGU3L2kzMjQ1OTEvMjYxMzYyNC9vY3JzLzMwLnhtbF9fLi5KU1RPUl9PQ1JfSlNPTg"></div>
+    
+            <div id="page2" data-doi="10.2307/2613624" data-page="21" data-pagename="Viewing page 21 of pages 20-32" data-s3="czM6Ly9zZXF1b2lhLWNlZGFyL2NpZC1wcm9kLTEvYWM4NzhjNmYvMTIwZi8zMGMwL2FhNDEvNWM3YzJlMzM1MGU3L2kzMjQ1OTEvMjYxMzYyNC9ncmFwaGljL3BhZ2VzL2R0Yy4zMS50aWYuZ2lm" data-ocr="czM6Ly9zZXF1b2lhLWNlZGFyL2NpZC1wcm9kLTEvYWM4NzhjNmYvMTIwZi8zMGMwL2FhNDEvNWM3YzJlMzM1MGU3L2kzMjQ1OTEvMjYxMzYyNC9vY3JzLzMxLnhtbF9fLi5KU1RPUl9PQ1JfSlNPTg"></div>
+    
+            <div id="page3" data-doi="10.2307/2613624" data-page="22" data-pagename="Viewing page 22 of pages 20-32" data-s3="czM6Ly9zZXF1b2lhLWNlZGFyL2NpZC1wcm9kLTEvYWM4NzhjNmYvMTIwZi8zMGMwL2FhNDEvNWM3YzJlMzM1MGU3L2kzMjQ1OTEvMjYxMzYyNC9ncmFwaGljL3BhZ2VzL2R0Yy4zMi50aWYuZ2lm" data-ocr="czM6Ly9zZXF1b2lhLWNlZGFyL2NpZC1wcm9kLTEvYWM4NzhjNmYvMTIwZi8zMGMwL2FhNDEvNWM3YzJlMzM1MGU3L2kzMjQ1OTEvMjYxMzYyNC9vY3JzLzMyLnhtbF9fLi5KU1RPUl9PQ1JfSlNPTg"></div>
+    
+            <div id="page4" data-doi="10.2307/2613624" data-page="23" data-pagename="Viewing page 23 of pages 20-32" data-s3="czM6Ly9zZXF1b2lhLWNlZGFyL2NpZC1wcm9kLTEvYWM4NzhjNmYvMTIwZi8zMGMwL2FhNDEvNWM3YzJlMzM1MGU3L2kzMjQ1OTEvMjYxMzYyNC9ncmFwaGljL3BhZ2VzL2R0Yy4zMy50aWYuZ2lm" data-ocr="czM6Ly9zZXF1b2lhLWNlZGFyL2NpZC1wcm9kLTEvYWM4NzhjNmYvMTIwZi8zMGMwL2FhNDEvNWM3YzJlMzM1MGU3L2kzMjQ1OTEvMjYxMzYyNC9vY3JzLzMzLnhtbF9fLi5KU1RPUl9PQ1JfSlNPTg"></div>
+    
+            <div id="page5" data-doi="10.2307/2613624" data-page="24" data-pagename="Viewing page 24 of pages 20-32" data-s3="czM6Ly9zZXF1b2lhLWNlZGFyL2NpZC1wcm9kLTEvYWM4NzhjNmYvMTIwZi8zMGMwL2FhNDEvNWM3YzJlMzM1MGU3L2kzMjQ1OTEvMjYxMzYyNC9ncmFwaGljL3BhZ2VzL2R0Yy4zNC50aWYuZ2lm" data-ocr="czM6Ly9zZXF1b2lhLWNlZGFyL2NpZC1wcm9kLTEvYWM4NzhjNmYvMTIwZi8zMGMwL2FhNDEvNWM3YzJlMzM1MGU3L2kzMjQ1OTEvMjYxMzYyNC9vY3JzLzM0LnhtbF9fLi5KU1RPUl9PQ1JfSlNPTg"></div>
+    
+            <div id="page6" data-doi="10.2307/2613624" data-page="25" data-pagename="Viewing page 25 of pages 20-32" data-s3="czM6Ly9zZXF1b2lhLWNlZGFyL2NpZC1wcm9kLTEvYWM4NzhjNmYvMTIwZi8zMGMwL2FhNDEvNWM3YzJlMzM1MGU3L2kzMjQ1OTEvMjYxMzYyNC9ncmFwaGljL3BhZ2VzL2R0Yy4zNS50aWYuZ2lm" data-ocr="czM6Ly9zZXF1b2lhLWNlZGFyL2NpZC1wcm9kLTEvYWM4NzhjNmYvMTIwZi8zMGMwL2FhNDEvNWM3YzJlMzM1MGU3L2kzMjQ1OTEvMjYxMzYyNC9vY3JzLzM1LnhtbF9fLi5KU1RPUl9PQ1JfSlNPTg"></div>
+    
+            <div id="page7" data-doi="10.2307/2613624" data-page="26" data-pagename="Viewing page 26 of pages 20-32" data-s3="czM6Ly9zZXF1b2lhLWNlZGFyL2NpZC1wcm9kLTEvYWM4NzhjNmYvMTIwZi8zMGMwL2FhNDEvNWM3YzJlMzM1MGU3L2kzMjQ1OTEvMjYxMzYyNC9ncmFwaGljL3BhZ2VzL2R0Yy4zNi50aWYuZ2lm" data-ocr="czM6Ly9zZXF1b2lhLWNlZGFyL2NpZC1wcm9kLTEvYWM4NzhjNmYvMTIwZi8zMGMwL2FhNDEvNWM3YzJlMzM1MGU3L2kzMjQ1OTEvMjYxMzYyNC9vY3JzLzM2LnhtbF9fLi5KU1RPUl9PQ1JfSlNPTg"></div>
+    
+            <div id="page8" data-doi="10.2307/2613624" data-page="27" data-pagename="Viewing page 27 of pages 20-32" data-s3="czM6Ly9zZXF1b2lhLWNlZGFyL2NpZC1wcm9kLTEvYWM4NzhjNmYvMTIwZi8zMGMwL2FhNDEvNWM3YzJlMzM1MGU3L2kzMjQ1OTEvMjYxMzYyNC9ncmFwaGljL3BhZ2VzL2R0Yy4zNy50aWYuZ2lm" data-ocr="czM6Ly9zZXF1b2lhLWNlZGFyL2NpZC1wcm9kLTEvYWM4NzhjNmYvMTIwZi8zMGMwL2FhNDEvNWM3YzJlMzM1MGU3L2kzMjQ1OTEvMjYxMzYyNC9vY3JzLzM3LnhtbF9fLi5KU1RPUl9PQ1JfSlNPTg"></div>
+    
+            <div id="page9" data-doi="10.2307/2613624" data-page="28" data-pagename="Viewing page 28 of pages 20-32" data-s3="czM6Ly9zZXF1b2lhLWNlZGFyL2NpZC1wcm9kLTEvYWM4NzhjNmYvMTIwZi8zMGMwL2FhNDEvNWM3YzJlMzM1MGU3L2kzMjQ1OTEvMjYxMzYyNC9ncmFwaGljL3BhZ2VzL2R0Yy4zOC50aWYuZ2lm" data-ocr="czM6Ly9zZXF1b2lhLWNlZGFyL2NpZC1wcm9kLTEvYWM4NzhjNmYvMTIwZi8zMGMwL2FhNDEvNWM3YzJlMzM1MGU3L2kzMjQ1OTEvMjYxMzYyNC9vY3JzLzM4LnhtbF9fLi5KU1RPUl9PQ1JfSlNPTg"></div>
+    
+            <div id="page10" data-doi="10.2307/2613624" data-page="29" data-pagename="Viewing page 29 of pages 20-32" data-s3="czM6Ly9zZXF1b2lhLWNlZGFyL2NpZC1wcm9kLTEvYWM4NzhjNmYvMTIwZi8zMGMwL2FhNDEvNWM3YzJlMzM1MGU3L2kzMjQ1OTEvMjYxMzYyNC9ncmFwaGljL3BhZ2VzL2R0Yy4zOS50aWYuZ2lm" data-ocr="czM6Ly9zZXF1b2lhLWNlZGFyL2NpZC1wcm9kLTEvYWM4NzhjNmYvMTIwZi8zMGMwL2FhNDEvNWM3YzJlMzM1MGU3L2kzMjQ1OTEvMjYxMzYyNC9vY3JzLzM5LnhtbF9fLi5KU1RPUl9PQ1JfSlNPTg"></div>
+    
+            <div id="page11" data-doi="10.2307/2613624" data-page="30" data-pagename="Viewing page 30 of pages 20-32" data-s3="czM6Ly9zZXF1b2lhLWNlZGFyL2NpZC1wcm9kLTEvYWM4NzhjNmYvMTIwZi8zMGMwL2FhNDEvNWM3YzJlMzM1MGU3L2kzMjQ1OTEvMjYxMzYyNC9ncmFwaGljL3BhZ2VzL2R0Yy40MC50aWYuZ2lm" data-ocr="czM6Ly9zZXF1b2lhLWNlZGFyL2NpZC1wcm9kLTEvYWM4NzhjNmYvMTIwZi8zMGMwL2FhNDEvNWM3YzJlMzM1MGU3L2kzMjQ1OTEvMjYxMzYyNC9vY3JzLzQwLnhtbF9fLi5KU1RPUl9PQ1JfSlNPTg"></div>
+    
+            <div id="page12" data-doi="10.2307/2613624" data-page="31" data-pagename="Viewing page 31 of pages 20-32" data-s3="czM6Ly9zZXF1b2lhLWNlZGFyL2NpZC1wcm9kLTEvYWM4NzhjNmYvMTIwZi8zMGMwL2FhNDEvNWM3YzJlMzM1MGU3L2kzMjQ1OTEvMjYxMzYyNC9ncmFwaGljL3BhZ2VzL2R0Yy40MS50aWYuZ2lm" data-ocr="czM6Ly9zZXF1b2lhLWNlZGFyL2NpZC1wcm9kLTEvYWM4NzhjNmYvMTIwZi8zMGMwL2FhNDEvNWM3YzJlMzM1MGU3L2kzMjQ1OTEvMjYxMzYyNC9vY3JzLzQxLnhtbF9fLi5KU1RPUl9PQ1JfSlNPTg"></div>
+    
+            <div id="page13" data-doi="10.2307/2613624" data-page="32" data-pagename="Viewing page 32 of pages 20-32" data-s3="czM6Ly9zZXF1b2lhLWNlZGFyL2NpZC1wcm9kLTEvYWM4NzhjNmYvMTIwZi8zMGMwL2FhNDEvNWM3YzJlMzM1MGU3L2kzMjQ1OTEvMjYxMzYyNC9ncmFwaGljL3BhZ2VzL2R0Yy40Mi50aWYuZ2lm" data-ocr="czM6Ly9zZXF1b2lhLWNlZGFyL2NpZC1wcm9kLTEvYWM4NzhjNmYvMTIwZi8zMGMwL2FhNDEvNWM3YzJlMzM1MGU3L2kzMjQ1OTEvMjYxMzYyNC9vY3JzLzQyLnhtbF9fLi5KU1RPUl9PQ1JfSlNPTg"></div>
+    
+</div>
+<div class="no_img_available hide">
+    
+    <div class="no-page-display f15 mtxl pdf-only-cta txt">
+        We're having trouble loading this content. 
+    
+        <a href="/stable/pdf/2613624.pdf" target="_blank" class="button button-jstor pdfLink" data-doi="2613624" data-sc="but click:pdf download">
+            Download PDF
+        </a>
+    
+
+ instead.
+    </div>
+    
+</div>
+
+
+
+
+    </div>
+    <div class="content" role="tabpanel" id="page_thumbnails_tab_contents">
+        <div id="thumbnails" class="reading-length">
+    <h2>Page Thumbnails</h2>
+   
+    <div id="thumbs" class="mtl ">
+        <ul class="medium-block-grid-4 txtC pbs">
+            
+                <li class="txtM">
+                    <a href="/stable/2613624?seq=1">
+                        <img id="thumbnail_image_1"
+                             src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+                             data-echo="czM6Ly9zZXF1b2lhLWNlZGFyL2NpZC1wcm9kLTEvYWM4NzhjNmYvMTIwZi8zMGMwL2FhNDEvNWM3YzJlMzM1MGU3L2kzMjQ1OTEvMjYxMzYyNC9ncmFwaGljL3NtYWxsL2R0Yy4zMC50aWYuanBn"
+                             alt="Thumbnail: Page 
+20"/>
+                        <div>
+20</div>
+                    </a>
+                </li>
+            
+                <li class="txtM">
+                    <a href="/stable/2613624?seq=2">
+                        <img id="thumbnail_image_2"
+                             src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+                             data-echo="czM6Ly9zZXF1b2lhLWNlZGFyL2NpZC1wcm9kLTEvYWM4NzhjNmYvMTIwZi8zMGMwL2FhNDEvNWM3YzJlMzM1MGU3L2kzMjQ1OTEvMjYxMzYyNC9ncmFwaGljL3NtYWxsL2R0Yy4zMS50aWYuanBn"
+                             alt="Thumbnail: Page 
+21"/>
+                        <div>
+21</div>
+                    </a>
+                </li>
+            
+                <li class="txtM">
+                    <a href="/stable/2613624?seq=3">
+                        <img id="thumbnail_image_3"
+                             src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+                             data-echo="czM6Ly9zZXF1b2lhLWNlZGFyL2NpZC1wcm9kLTEvYWM4NzhjNmYvMTIwZi8zMGMwL2FhNDEvNWM3YzJlMzM1MGU3L2kzMjQ1OTEvMjYxMzYyNC9ncmFwaGljL3NtYWxsL2R0Yy4zMi50aWYuanBn"
+                             alt="Thumbnail: Page 
+22"/>
+                        <div>
+22</div>
+                    </a>
+                </li>
+            
+                <li class="txtM">
+                    <a href="/stable/2613624?seq=4">
+                        <img id="thumbnail_image_4"
+                             src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+                             data-echo="czM6Ly9zZXF1b2lhLWNlZGFyL2NpZC1wcm9kLTEvYWM4NzhjNmYvMTIwZi8zMGMwL2FhNDEvNWM3YzJlMzM1MGU3L2kzMjQ1OTEvMjYxMzYyNC9ncmFwaGljL3NtYWxsL2R0Yy4zMy50aWYuanBn"
+                             alt="Thumbnail: Page 
+23"/>
+                        <div>
+23</div>
+                    </a>
+                </li>
+            
+                <li class="txtM">
+                    <a href="/stable/2613624?seq=5">
+                        <img id="thumbnail_image_5"
+                             src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+                             data-echo="czM6Ly9zZXF1b2lhLWNlZGFyL2NpZC1wcm9kLTEvYWM4NzhjNmYvMTIwZi8zMGMwL2FhNDEvNWM3YzJlMzM1MGU3L2kzMjQ1OTEvMjYxMzYyNC9ncmFwaGljL3NtYWxsL2R0Yy4zNC50aWYuanBn"
+                             alt="Thumbnail: Page 
+24"/>
+                        <div>
+24</div>
+                    </a>
+                </li>
+            
+                <li class="txtM">
+                    <a href="/stable/2613624?seq=6">
+                        <img id="thumbnail_image_6"
+                             src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+                             data-echo="czM6Ly9zZXF1b2lhLWNlZGFyL2NpZC1wcm9kLTEvYWM4NzhjNmYvMTIwZi8zMGMwL2FhNDEvNWM3YzJlMzM1MGU3L2kzMjQ1OTEvMjYxMzYyNC9ncmFwaGljL3NtYWxsL2R0Yy4zNS50aWYuanBn"
+                             alt="Thumbnail: Page 
+25"/>
+                        <div>
+25</div>
+                    </a>
+                </li>
+            
+                <li class="txtM">
+                    <a href="/stable/2613624?seq=7">
+                        <img id="thumbnail_image_7"
+                             src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+                             data-echo="czM6Ly9zZXF1b2lhLWNlZGFyL2NpZC1wcm9kLTEvYWM4NzhjNmYvMTIwZi8zMGMwL2FhNDEvNWM3YzJlMzM1MGU3L2kzMjQ1OTEvMjYxMzYyNC9ncmFwaGljL3NtYWxsL2R0Yy4zNi50aWYuanBn"
+                             alt="Thumbnail: Page 
+26"/>
+                        <div>
+26</div>
+                    </a>
+                </li>
+            
+                <li class="txtM">
+                    <a href="/stable/2613624?seq=8">
+                        <img id="thumbnail_image_8"
+                             src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+                             data-echo="czM6Ly9zZXF1b2lhLWNlZGFyL2NpZC1wcm9kLTEvYWM4NzhjNmYvMTIwZi8zMGMwL2FhNDEvNWM3YzJlMzM1MGU3L2kzMjQ1OTEvMjYxMzYyNC9ncmFwaGljL3NtYWxsL2R0Yy4zNy50aWYuanBn"
+                             alt="Thumbnail: Page 
+27"/>
+                        <div>
+27</div>
+                    </a>
+                </li>
+            
+                <li class="txtM">
+                    <a href="/stable/2613624?seq=9">
+                        <img id="thumbnail_image_9"
+                             src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+                             data-echo="czM6Ly9zZXF1b2lhLWNlZGFyL2NpZC1wcm9kLTEvYWM4NzhjNmYvMTIwZi8zMGMwL2FhNDEvNWM3YzJlMzM1MGU3L2kzMjQ1OTEvMjYxMzYyNC9ncmFwaGljL3NtYWxsL2R0Yy4zOC50aWYuanBn"
+                             alt="Thumbnail: Page 
+28"/>
+                        <div>
+28</div>
+                    </a>
+                </li>
+            
+                <li class="txtM">
+                    <a href="/stable/2613624?seq=10">
+                        <img id="thumbnail_image_10"
+                             src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+                             data-echo="czM6Ly9zZXF1b2lhLWNlZGFyL2NpZC1wcm9kLTEvYWM4NzhjNmYvMTIwZi8zMGMwL2FhNDEvNWM3YzJlMzM1MGU3L2kzMjQ1OTEvMjYxMzYyNC9ncmFwaGljL3NtYWxsL2R0Yy4zOS50aWYuanBn"
+                             alt="Thumbnail: Page 
+29"/>
+                        <div>
+29</div>
+                    </a>
+                </li>
+            
+                <li class="txtM">
+                    <a href="/stable/2613624?seq=11">
+                        <img id="thumbnail_image_11"
+                             src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+                             data-echo="czM6Ly9zZXF1b2lhLWNlZGFyL2NpZC1wcm9kLTEvYWM4NzhjNmYvMTIwZi8zMGMwL2FhNDEvNWM3YzJlMzM1MGU3L2kzMjQ1OTEvMjYxMzYyNC9ncmFwaGljL3NtYWxsL2R0Yy40MC50aWYuanBn"
+                             alt="Thumbnail: Page 
+30"/>
+                        <div>
+30</div>
+                    </a>
+                </li>
+            
+                <li class="txtM">
+                    <a href="/stable/2613624?seq=12">
+                        <img id="thumbnail_image_12"
+                             src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+                             data-echo="czM6Ly9zZXF1b2lhLWNlZGFyL2NpZC1wcm9kLTEvYWM4NzhjNmYvMTIwZi8zMGMwL2FhNDEvNWM3YzJlMzM1MGU3L2kzMjQ1OTEvMjYxMzYyNC9ncmFwaGljL3NtYWxsL2R0Yy40MS50aWYuanBn"
+                             alt="Thumbnail: Page 
+31"/>
+                        <div>
+31</div>
+                    </a>
+                </li>
+            
+                <li class="txtM">
+                    <a href="/stable/2613624?seq=13">
+                        <img id="thumbnail_image_13"
+                             src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+                             data-echo="czM6Ly9zZXF1b2lhLWNlZGFyL2NpZC1wcm9kLTEvYWM4NzhjNmYvMTIwZi8zMGMwL2FhNDEvNWM3YzJlMzM1MGU3L2kzMjQ1OTEvMjYxMzYyNC9ncmFwaGljL3NtYWxsL2R0Yy40Mi50aWYuanBn"
+                             alt="Thumbnail: Page 
+32"/>
+                        <div>
+32</div>
+                    </a>
+                </li>
+            
+        </ul>
+    </div>
+    
+</div>
+    </div>
+    
+    
+
+                </div>
+            </div>
+        </div>
+        
+            <div class="mbl ">
+                <div class="copyright-statement">
+    
+        <cite>International Affairs (Royal Institute of International Affairs 1944-)</cite> © 1972 <a href="/publisher/riia" class="publisher-link">Royal Institute of International Affairs</a>
+    
+</div>
+            </div>
+        
+
+        
+        <div class="mbl rightslink">
+           
+
+
+
+
+    
+    <a class="ccc-logo" target="_blank" href="https://www.copyright.com/openurl.do?sid=pd_ITHAKA&servicename=all&WT.mc_id=tpd_ITHAKA19334192&issn=00205850&date=1972" title="This link opens in a new window">
+        Request Permissions
+    </a>
+
+        </div>
+        
+    </div>
+
+
+    
+        <div id="cdt" data-jimg-host="pt.j-img.org" data-content-id="ac878c6f-120f-30c0-aa41-5c7c2e3350e7" data-uuid="0d8454a7-599a-4568-ab4c-c9eb933009e7" data-urp="false"></div>
+    
+
+    
+
+    
+
+
+
+<div class="theme-tabs sustainability">
+    <a id="expandContent" href="/sustainability">
+        <div class="tab-expand right">
+            Part of <span class="theme">Sustainability</span>
+        </div>
+    </a>
+    <a id="expandTab" href="#">
+        <div class="tab left">
+            <img src="//www.jstor.org/assets/article-view_20170310T0927/files/shared/images/theme-leaf.png" />
+        </div>
+    </a>
+    <div id="searchContainer">
+        <form role="form" class="form-jstor basic-search-form" action="/sustainability/search" method="GET">
+    
+
+    
+
+    <div class="row collapse">
+        <div class="small-10 medium-10 columns">
+            
+            <label for="q0" class="visuallyhidden">Search JSTOR</label>
+            <input id="q0" title="Search Box" name="Query" type="text" class="searchBox medium mbn" placeholder="Search Sustainability" value="">
+        </div>
+
+        
+
+        
+        
+            <input type="hidden" name="theme" value="sustainability" />
+        
+        
+
+        <button type="submit" class="button tiny small-2 medium-2 columns" data-sc="but click:search">Search</button>
+    </div>
+
+    
+</form>
+
+    </div>
+</div>
+
+
+    </div>
+
+        </div>
+
+        
+    
+
+
+
+
+        
+        <footer class="prn">
+            <div class="footer-nav">
+                <div class="row collapse">
+                    <div class="small-12 columns">
+                        <ul class="inline-list menu menu-footer">
+                            <li><a href="/">JSTOR Home</a></li>
+                            <li><a href="http://about.jstor.org/" target="_blank" title="This link opens in a new window">About</a></li>
+                            <li><a href="/action/showAdvancedSearch">Search</a></li>
+                            <li><a href="/action/showJournals?browseType=title">Browse</a></li>
+                            <li><a href="http://about.jstor.org/terms" target="_blank" title="This link opens in a new window">Terms and Conditions</a></li>
+                            <li><a href="http://about.jstor.org/privacy" target="_blank" title="This link opens in a new window">Privacy Policy</a></li>
+                            <li><a href="http://about.jstor.org/content/jstors-use-cookies" target="_blank" title="This link opens in a new window">Cookies</a></li>
+                            <li><a href="http://about.jstor.org/accessibility" target="_blank" title="This link opens in a new window">Accessibility</a></li>
+                            <li><a href="http://support.jstor.org" target="_blank" title="This link opens in a new window">Help</a></li>
+                            <li>
+    <a href="/forms/content/jstor-help-support" target="_blank" title="This link opens in a new window">Contact Us</a>
+</li>
+
+                            
+                        </ul>
+                    </div>
+                </div>
+            </div>
+            <div class="row collapse">
+                <div class="small-6 medium-9 large-10 columns">
+                    <p>JSTOR is part of ITHAKA, a not-for-profit organization helping the academic community use digital technologies to preserve the scholarly record and to advance research and teaching in sustainable ways.<br />
+                    &copy;2000-2017 ITHAKA. All Rights Reserved. JSTOR&reg;, the JSTOR logo, JPASS&reg;, and ITHAKA&reg; are registered trademarks of ITHAKA.</p>
+                </div>
+                
+                <div class="small-5 medium-2 large-1 columns no-js-hide">
+                    <div id="google_translate_element" aria-hidden="true"></div>
+                </div>
+                
+                <div class="columns"></div>
+            </div>
+        </footer>
+
+        
+
+        
+    
+        <script id="tpl-loading" type="text/x-handlebars-template">
+        
+        
+
+<div id="loading" class="reveal-modal small" data-reveal aria-labelledby="loadingTitle" aria-hidden="true" role="dialog">
+    <header>
+        <h2 id="loadingTitle">{{{ heading }}}</h2>
+    </header>
+    <div id="loadingBody" class="reveal-body">
+        {{{ body }}}
+    </div>
+    <a href="#" class="close-reveal-modal" aria-label="Close Overlay">&#215; <span class="visuallyhidden">Close Overlay</span></a>
+</div>
+
+    
+        </script>
+
+    <div id="mylists" class="reveal-modal medium" data-reveal
+     aria-labelledby="mylists_title" aria-hidden="true"  aria-live="polite" aria-atomic="true"
+     aria-relevant="additions"role="dialog">
+    <header>
+        <h2 id="mylists_title">Loading</h2>
+    </header>
+    <div id="mylists_body" class="reveal-body">
+        <p>Processing your request...</p>
+    </div>
+    <a href="#" class="close-reveal-modal" aria-label="Close Overlay">&#215; <span class="visuallyhidden">Close Overlay</span></a>
+</div>
+    
+        <script id="tpl-my-lists-register" type="text/x-handlebars-template">
+        
+        
+
+
+<div class="row pal">
+    <div class="large-6 columns">
+        <div class="row">
+            <div class="lookslikeh2">Organize Your Work</div>
+            <p class="pln pbn">Make lists and save your research.</p>
+        </div>
+
+        
+
+        
+        
+        <div class="row"><a id="reg_uri" href="{{{ reg_url }}}" class="button button-jstor mtl">Register</a></div>
+        
+        
+
+        
+        <div class="row">
+            <p class="pln pbn">
+                Already have an account? <a id="login_uri" href="{{{ login_url }}}" class=" mvl">Login</a>
+            </p>
+        </div>
+        
+    </div>
+    <div class="large-6 columns">
+        <div class="row">
+            <div class="lookslikeh2">How does it work?</div>
+            <ol>
+                <li class="mvm">Register for a free MyJSTOR account.</li>
+                <li class="mvm">Add articles and eBook chapters to your lists.</li>
+                <li class="mvm">Get citations in MLA, APA, and Chicago formats.</li>
+            </ol>
+        </div>
+    </div>
+</div>
+
+    
+        </script>
+
+
+
+        
+    
+            <script type="text/javascript" src="//www.jstor.org/assets/legacy_20170316T1337/files/legacy/js/legacy.min.js"></script>
+
+            
+            <script type="text/javascript">
+    function googleTranslateElementInit() {
+        new google.translate.TranslateElement(
+            {
+                pageLanguage: 'en',
+                layout: google.translate.TranslateElement.InlineLayout.SIMPLE,
+                autoDisplay: false
+            },
+            'google_translate_element'
+        );
+    }
+</script>
+<script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
+
+            
+        
+    
+        <script type="text/javascript" src="//www.jstor.org/assets/article-view_20170310T0927/files/article-view/js/article-view.min.js"></script>
+    
+
+
+        
+    <script>
+    // COUNTER 4 tagging code
+    window.starData = {
+        'contentType': 'journal',
+        'journal': 'International Affairs (Royal Institute of International Affairs 1944-)',
+        'article': 'Jobs, Poverty and the &quot;Green Revolution&quot;',
+        'institution_consortium_map': ['r2.fs.fed.us'],
+        'yop': '1972',
+        'doi': '10.2307/2613624',
+        'SEARCH_FED': 'False',
+        'has_access': true,
+        'page_scan': true,
+        'pdf_only': false,
+        'full_text': false,
+        'id' : 'excelsior:aac7e9c867a4679f2030f58225f79425'
+    };
+</script>
+    
+            
+            <script>
+                var _$tarQ = _$tarQ || [];
+
+                (function (){
+                        var stars = document.createElement('script'),
+                            s = document.getElementsByTagName('script')[0];
+
+                        stars.async= true;
+                        stars.type = 'text/javascript';
+                        stars.src =  "//receiver.star.ith.semcs.net/star-aws.js" ;
+
+                        s.parentNode.insertBefore(stars, s);
+                    }
+                )();
+            </script>
+            
+        
+
+
+        <div id="env_info" class="hide" data-debug="False"></div>
+
+        
+        <!-- DTM Footer code -->
+        <script type="text/javascript">
+            //To prevent JS errors when disabled
+            if(typeof _satellite !== "undefined"){
+                _satellite.pageBottom();
+            }
+        </script>
+        
+    </body>
+</html>
