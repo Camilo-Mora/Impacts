@@ -1,0 +1,968 @@
+<!DOCTYPE html>
+<!--[if IE 8 ]>    <html class="ie8"> <![endif]-->
+<!--[if IE 9 ]>    <html class="ie9"> <![endif]-->
+<!--[if (gt IE 9)|!(IE)]><!-->
+<html class="no-js" lang="en"> <!--<![endif]-->
+<head>
+ 
+<meta charset="utf-8"/>
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+<meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+<title>Conserving Biodiversity in Agricultural Landscapes: Model-Based Planning ToolsEDITED BY ROBERT K. SWIHART AND JEFFREY E. MOORE xv+336 pp., 45 figs., 25.5×18×2 cm, ISBN 1 55753 333 4 paperback, US$ 24.95, West Lafayette, USA: Purdue University Press, 2004 - | Environmental Conservation | Cambridge Core</title>
+ 
+ 
+<link rel="icon" href="/core/cambridge-core/public/images/favicon.ico" type="image/x-icon"/>
+<link rel="shortcut icon" href="/core/cambridge-core/public/images/favicon.ico" type="image/x-icon"/>
+<link href='//fonts.googleapis.com/css?family=Noto+Sans:400,700,400italic,700italic' rel='stylesheet' type='text/css'>
+<link rel="stylesheet" type="text/css" href="//www.cambridge.org/packages/cambridge_themes/stylesheets/global_nav/v1.2.min.css">
+<!--[if (gte IE 10)|!(IE)]><!-->
+<link rel="stylesheet" href="/core/cambridge-core/public/css/app.css"/>
+<link rel="dns-prefetch" href="https://usage.prod.aop.cambridge.org/v1/events">
+<link rel="stylesheet" href="/core/cambridge-core/public/bower_components/font-awesome/css/font-awesome.min.css"/>
+<script src="/core/cambridge-core/public/bower_components/jquery/dist/jquery.min.js"></script>
+<!--<![endif]-->
+ 
+ 
+ 
+<!--[if lt IE 10]>
+    <link rel="stylesheet" href="/core/cambridge-core/public/css/ie-8-9.css" />
+    <script src="/core/cambridge-core/public/js/ie8-head.min.js"></script>
+    <script src="/core/cambridge-core/public/js/jquery-1.11.2.min.js"></script>
+    <![endif]-->
+<script src="/core/cambridge-core/public/bower_components/modernizr/modernizr.js"></script>
+<meta property="og:site_name" content="Cambridge Core"/>
+<meta property="og:type" content="website"/>
+<meta property="og:url" content="/core/journals/environmental-conservation/article/conserving-biodiversity-in-agricultural-landscapes-modelbased-planning-toolsedited-by-robert-k-swihart-and-jeffrey-e-moore-xv336-pp-45-figs-255182-cm-isbn-1-55753-333-4-paperback-us-2495-west-lafayette-usa-purdue-university-press-2004/BEA0EC567C4A398FEE0B7C01C283DEB5"/>
+<meta property="og:title" content="Conserving Biodiversity in Agricultural Landscapes: Model-Based Planning ToolsEDITED BY ROBERT K. SWIHART AND JEFFREY E. MOORE xv+336 pp., 45 figs., 25.5×18×2 cm, ISBN 1 55753 333 4 paperback, US$ 24.95, West Lafayette, USA: Purdue University Press, 2004 -  | Environmental Conservation | Cambridge Core"/>
+<meta property="og:description" content="&lt;div class=&quot;title&quot;&gt;Conserving Biodiversity in Agricultural Landscapes: Model-Based Planning ToolsEDITED BY ROBERT K. SWIHART AND JEFFREY E. MOORE xv+336 pp., 45 figs., 25.5×18×2 cm, ISBN 1 55753 333 4 paperback, US$ 24.95, West Lafayette, USA: Purdue University Press, 2004 - &lt;/div&gt; - Volume 32 Issue 2 - THOMAS M. GEHRING"/>
+<meta property="og:image" content=""/>
+<meta name="description" content="Conserving Biodiversity in Agricultural Landscapes: Model-Based Planning ToolsEDITED BY ROBERT K. SWIHART AND JEFFREY E. MOORE xv+336 pp., 45 figs., 25.5×18×2 cm, ISBN 1 55753 333 4 paperback, US$ 24.95, West Lafayette, USA: Purdue University Press, 2004 -  - Volume 32 Issue 2 - THOMAS M. GEHRING">
+<link rel="canonical" href="https://www.cambridge.org/core/journals/environmental-conservation/article/conserving-biodiversity-in-agricultural-landscapes-modelbased-planning-toolsedited-by-robert-k-swihart-and-jeffrey-e-moore-xv336-pp-45-figs-255182-cm-isbn-1-55753-333-4-paperback-us-2495-west-lafayette-usa-purdue-university-press-2004/BEA0EC567C4A398FEE0B7C01C283DEB5">
+<meta name="citation_journal_title" content="Environmental Conservation">
+<meta name="citation_publisher" content="Cambridge University Press">
+<meta name="citation_title" content="Conserving Biodiversity in Agricultural Landscapes: Model-Based Planning ToolsEDITED BY ROBERT K. SWIHART AND JEFFREY E. MOORE xv+336 pp., 45 figs., 25.5×18×2 cm, ISBN 1 55753 333 4 paperback, US$ 24.95, West Lafayette, USA: Purdue University Press, 2004 -">
+<meta name="citation_author" content="THOMAS M. GEHRING">
+<meta name="citation_author_institution" content="Central Michigan University">
+<meta name="citation_author_email" content="gehri1tm@cmich.edu">
+<meta name="citation_publication_date" content="2005/06">
+<meta name="citation_online_date" content="2005/09/15">
+<meta name="citation_volume" content="32">
+<meta name="citation_issue" content="2">
+<meta name="citation_firstpage" content="192">
+<meta name="citation_lastpage" content="193">
+<meta name="citation_issn" content="1469-4387">
+<meta name="citation_issn" content="0376-8929">
+<meta name="citation_doi" content="10.1017/S0376892905272326">
+<meta name="citation_pdf_url" content="https://www.cambridge.org/core/services/aop-cambridge-core/content/view/BEA0EC567C4A398FEE0B7C01C283DEB5/S0376892905002328a.pdf/div-class-title-conserving-biodiversity-in-agricultural-landscapes-model-based-planning-toolsedited-by-robert-k-swihart-and-jeffrey-e-moore-xv-336-pp-45-figs-25-5-18-2-cm-isbn-1-55753-333-4-paperback-us-24-95-west-lafayette-usa-purdue-university-press-2004-div.pdf">
+<link rel="alternate" href="/core/journals/environmental-conservation/article/conserving-biodiversity-in-agricultural-landscapes-modelbased-planning-toolsedited-by-robert-k-swihart-and-jeffrey-e-moore-xv336-pp-45-figs-255182-cm-isbn-1-55753-333-4-paperback-us-2495-west-lafayette-usa-purdue-university-press-2004/BEA0EC567C4A398FEE0B7C01C283DEB5" hreflang="en"/> <script> (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function() { (i[r].q=i[r].q||[]).push(arguments)} ,i[r].l=1*new Date();a=s.createElement(o), m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m) })(window,document,'script','https://www.google-analytics.com/analytics.js','ga'); ga('create', 'UA-86516288-1', 'auto'); ga('send', 'pageview'); </script>
+</head>
+<body>
+<a id="skiptocontent" href="#maincontent">Skip to main content</a>
+<div class="cookie-message">
+<div class="row">
+<div class="small-11 columns">
+<p>We use cookies to distinguish you from other users and to provide you with a better experience on our websites. Close this message to accept cookies or find out how to <a href="http://www.cambridge.org/about-us/legal-notices/cookies-policy/" target="_blank">manage your cookie settings</a>.</p>
+</div>
+<div class="small-1 columns">
+<a href="#" onclick="closeMessage();" class="cookie-close">
+<!--[if IE 8 ]>
+                  <img alt = "Close cookie message" title = "Close cookie message" src = "/core/cambridge-core/public/images/icn_circle__btn_close_white.png">
+                  <![endif]-->
+<!--[if (gte IE 9)|!(IE)]><!-->
+<img alt="Close cookie message" title="Close cookie message" src="/core/cambridge-core/public/images/icn_circle__btn_close_white.svg">
+<!--<![endif]-->
+</a>
+</div>
+</div>
+</div>
+<script>
+  var cookieMessage = $('.cookie-message');
+  var cookieName = 'EULAW';
+  var closeMessage = function () {
+      $.cookie(cookieName, true, {expires: 365, path:'/'});
+      cookieMessage.slideUp().promise().done(function () {
+          cookieMessage.remove();
+      });
+  };
+  $(document).ready(function () {
+      if ($.cookie(cookieName) !== 'true') {
+          cookieMessage.slideDown();
+      }
+  });
+  </script>
+<div id="login-modal" class="reveal-modal small" data-reveal>
+<div class="wrapper large-margin-top-for-small-only">
+<div class="row margin-top">
+<div class="large-12 columns">
+<div class="panel callout message"></div>
+</div>
+</div>
+<div class="row margin-top">
+<div class="small-6 large-6 columns"><a href="#" onclick="$('#login-modal').foundation('reveal', 'close');return false;" class="right small button radius transparent cancel">Cancel</a></div>
+<div class="small-6 large-6 columns">
+<a href="/core/login?ref=%2Fcore%2Fjournals%2Fenvironmental-conservation%2Farticle%2Fconserving-biodiversity-in-agricultural-landscapes-modelbased-planning-toolsedited-by-robert-k-swihart-and-jeffrey-e-moore-xv336-pp-45-figs-255182-cm-isbn-1-55753-333-4-paperback-us-2495-west-lafayette-usa-purdue-university-press-2004%2FBEA0EC567C4A398FEE0B7C01C283DEB5" class="left small radius button blue confirm login">Log in</a>
+</div>
+</div>
+<a class="close-reveal-modal">&#215;</a>
+</div>
+</div>
+<header>
+<div class="contain-to-grid" id="mainWrapper">
+<!--[if IE 7]>
+    <div id="global-nav" style="display: none"></div>
+      <![endif]-->
+<!--[if gte IE 8]><!-->
+<div id="global-nav"></div>
+<!--<![endif]-->
+<div class="clear"></div>
+</div>
+</header>
+<div class="off-canvas-wrap desktop overflow-visible">
+<div class="inner-wrap">
+</div>
+</div>
+<div class="row print-only">
+<div class="small-12 columns">
+<img src="/core/cambridge-core/public/images/logo_core.png" class="core-logo" alt=""/>
+</div>
+</div>
+<section class="sub-header slide-up">
+<div class="row">
+<div class="column">
+<a href="/core/">
+<div class="logo-core"><span class="show-for-sr">Home</span></div>
+</a>
+<form class="subject-search search-form prevent-empty-search no-margin-right" action="/core/search" method="GET">
+<div class="row">
+<div class="row collapse postfix-radius">
+<div class="submit-in-field js-outglow-parent clearfix">
+<div class="small-10 columns">
+<input type="text" name="q" value="" autocomplete="off" class=" js-outglow prefix-radius" placeholder="Search all journal & book content" aria-label="Search all journal & book content">
+</div>
+<div class="small-2 columns">
+<input type="submit" value="Submit search" class="button postfix">
+</div>
+</div>
+ 
+<label class="accessible"><input type="checkbox" name="checkbox" value="value">Only search content I have access to</label>
+</div>
+</div>
+</form>
+</div>
+</div>
+</section>
+<section class="menu secondary">
+<div class="row wrapper">
+<div class="column">
+<ul>
+<li><a href="#" class="menu-icon"></a></li>
+</ul>
+<ul class="sub-nav  dropdown-menu-mobile" role="menu">
+<li class="show-for-small"><a href="/core/login?ref=">Log in</a></li>
+<li class="show-for-small"><a href="/core/register">Register</a></li>
+ 
+<li><a href="/core/browse-subjects" class="no-padding-left-for-large">Browse subjects</a></li>
+<li><a href="/core/what-we-publish">What we publish</a></li>
+<li><a href="/core/services">Services</a></li>
+<li><a href="/core/about">About Cambridge Core</a></li>
+</ul>
+<div class="right">
+<ul class="show-for-small-only profile-mobile">
+<li><a href="#" class="button transparent radius search-small"><span class="icon mobile-search grey"></span></a></li>
+ 
+</ul>
+<ul class="sub-nav dropdown-menu-mobile profile" role="menu">
+<li class="hide-for-personal institution-name">
+<a class="institution-login" href="//shibboleth.cambridge.org/CJOShibb2/index?app=https://www.cambridge.org/core/shibboleth?ref=/core" id="institution-current">Institution login</a>
+</li>
+<li class="divider"></li>
+<li class="hide-for-small register"><a href="/core/register?ref=%2Fcore%2Fjournals%2Fenvironmental-conservation%2Farticle%2Fconserving-biodiversity-in-agricultural-landscapes-modelbased-planning-toolsedited-by-robert-k-swihart-and-jeffrey-e-moore-xv336-pp-45-figs-255182-cm-isbn-1-55753-333-4-paperback-us-2495-west-lafayette-usa-purdue-university-press-2004%2FBEA0EC567C4A398FEE0B7C01C283DEB5" class="button small radius transparent">Register</a></li>
+<li><a href="/core/login?ref=%2Fcore%2Fjournals%2Fenvironmental-conservation%2Farticle%2Fconserving-biodiversity-in-agricultural-landscapes-modelbased-planning-toolsedited-by-robert-k-swihart-and-jeffrey-e-moore-xv336-pp-45-figs-255182-cm-isbn-1-55753-333-4-paperback-us-2495-west-lafayette-usa-purdue-university-press-2004%2FBEA0EC567C4A398FEE0B7C01C283DEB5" class="button small radius blue">Log in</a></li>
+</ul>
+</div>
+</div>
+</div>
+</section>
+<section class="breadcrumbs-wrapper smaller">
+<div class="row">
+<ul class="large-2 column backToSearch hide">
+<li>
+<a href="#">&lt; Back to search results</a>
+</li>
+</ul>
+<script type="text/javascript">
+        var searchResultKey = 'fromSearch';
+        var $backToSearch = $('.backToSearch');
+        var fromSearch = localStorage.getItem(searchResultKey);
+    
+        if (fromSearch) {
+            $backToSearch.find('li a').attr('href', fromSearch);
+            $backToSearch.removeClass('hide');
+            localStorage.removeItem(searchResultKey);
+        }
+    </script>
+<ul class="large-10 column breadcrumbs">
+<li><a href="/core/">Home</a></li><li><a href="/core/what-we-publish/journals">Journals</a></li><li><a href="/core/journals/environmental-conservation">Environmental Conservation</a></li><li><a href="/core/journals/environmental-conservation/issue/F8C96E2CB0646E2B1F1C165B566AC50A">Volume 32 Issue 2</a></li><li class="current"><a href="#">Conserving Biodiversity in Agri...</a></li>
+</ul>
+</div>
+</section>
+<div class="flash-message-container">
+<div class="flash-message">
+<div data-alert class="alert-box alert">
+<div class="alert alert-danger">Unfortunately you do not have access to this content, please use the <strong>Get access</strong> link below for information on how to access this content.</div>
+<a href="#" class="close">&times;</a>
+</div>
+<div id="ajaxMessages" class="ajaxMessages"></div>
+</div>
+</div>
+<div class="article-wrapper">
+<section class="banner article small  " style="background-image: url(/core/services/aop-file-manager/file/567915195cefc91d0c2d4010)">
+<div class="content">
+<div class="center-all-container">
+<div class="center-all">
+<div class="row">
+<div class="large-8 medium-8 small-12 column banner-title">
+<div class="title title-left white">Environmental&nbsp;Conservation</div>
+</div>
+<div class="large-4 medium-4 small-12 column hide-for-print">
+<form action="/core/journals/environmental-conservation/listing" method="GET" class="search-form">
+<div class="row">
+<div class=" columns ">
+<div class="row collapse postfix-radius search-input js-outglow-parent">
+<div class="small-10 columns">
+<input type="text" name="q" value="" autocomplete="off" class=" js-outglow prefix-radius" placeholder="Search Environmental Conservation" aria-label="Search Environmental Conservation">
+<input type="hidden" name="searchWithinIds" id="searchWithinIds" value="A218EAF4E0E042B46D28788C80419CA8"/>
+</div>
+<div class="small-2 columns">
+<input type="submit" value="Submit search" class="button postfix">
+</div>
+</div>
+</div>
+</div>
+</form>
+</div>
+</div>
+</div>
+</div>
+</div>
+</section>
+<div class="column large-12 page-tabs">
+<div class="row">
+<div class="tab-title current-mobile hide-for-large-up">
+<a href="">Article</a>
+<div class="blue-square"><a href="" class="icon arrow"></a></div>
+</div>
+<ul class="tabs" data-tab data-options="deep_linking:true; scroll_to_content:false">
+<li class="tab-title active"><a href="#information">Article</a></li>
+<li class="tab-title"><a href="#metrics">Metrics</a></li>
+</ul>
+<ul class="social white right hide-for-small hide-for-medium">
+<li><a href="#" data-hasqtip="Save to my bookmarks" aria-describedby="qtip-text" data-prod-id="BEA0EC567C4A398FEE0B7C01C283DEB5" data-prod-type="JOURNAL_ARTICLE" data-bookmark class="icon bookmark requires-login"></a></li>
+<li><a href="http://www.cambridge.org/academic/journals-content-alerts/" target="_blank" data-hasqtip="Set alert" aria-describedby="qtip-text" class="icon alert"></a>
+</li>
+<li>
+<a href="#" data-hasqtip="Share" aria-describedby="qtip-text" class="icon share"></a>
+</li>
+</ul>
+</div>
+</div>
+<div class="tabs-content" id="maincontent">
+<div class="content active" id="information">
+<section class="row">
+<div class="large-12 columns">
+<div class="split-panel opposite-cols">
+<div class="wrapper">
+<div class="page-operatives enable-full-width margin-top-for-small margin-top-for-medium">
+<div class="small-12 large-9 column main-column">
+</div>
+<div class="small-12 large-3 large-offset-9 narrow-column hide-for-medium hide-for-small">
+<ul class="text-resizer-controls left">
+<li>
+<ul id="text-resizer-controls" class="textresizer ">
+<li class="standard-text textresizer-active">Aa</li>
+<li class="large-text">Aa</li>
+</ul>
+</li>
+</ul>
+<ul class="right">
+<li class="icon toggle close"></li>
+</ul>
+</div>
+</div>
+<div class="panel large-9 small-12 column main-column article-page left">
+<ul class="social white left hide-for-large-up">
+<li><a href="#" data-hasqtip="Save to my bookmarks" aria-describedby="qtip-text" data-prod-id="BEA0EC567C4A398FEE0B7C01C283DEB5" data-prod-type="JOURNAL_ARTICLE" data-bookmark class="icon bookmark requires-login"></a></li>
+<li><a href="http://www.cambridge.org/academic/journals-content-alerts/" target="_blank" data-hasqtip="Set alert" aria-describedby="qtip-text" class="icon alert"></a>
+</li>
+<li>
+<a href="#" data-hasqtip="Share" aria-describedby="qtip-text" class="icon share"></a>
+</li>
+</ul>
+<div class="article-meta overview">
+<ul class="access">
+<li class="status get">
+<a href="#" class="get hasTooltipCustom-top" data-qtip-event="click">Get access</a>
+<div class="custom-tooltip custom-tooltip--buttons">
+<div class="grey-bg">
+<div class="row">
+<div class="column small-12 text-center tooltip-row">Check if you have access via personal or institutional login</div>
+</div>
+<div class="tooltip-row row text-center padding-bottom">
+<a href="/core/login?ref=%2Fcore%2Fjournals%2Fenvironmental-conservation%2Farticle%2Fconserving-biodiversity-in-agricultural-landscapes-modelbased-planning-toolsedited-by-robert-k-swihart-and-jeffrey-e-moore-xv336-pp-45-figs-255182-cm-isbn-1-55753-333-4-paperback-us-2495-west-lafayette-usa-purdue-university-press-2004%2FBEA0EC567C4A398FEE0B7C01C283DEB5" class="button small radius blue ">Log in</a>
+<a href="/core/register?ref=%2Fcore%2Fjournals%2Fenvironmental-conservation%2Farticle%2Fconserving-biodiversity-in-agricultural-landscapes-modelbased-planning-toolsedited-by-robert-k-swihart-and-jeffrey-e-moore-xv336-pp-45-figs-255182-cm-isbn-1-55753-333-4-paperback-us-2495-west-lafayette-usa-purdue-university-press-2004%2FBEA0EC567C4A398FEE0B7C01C283DEB5" class="button small radius blue ">Register</a>
+<a href="#" data-prod-id="BEA0EC567C4A398FEE0B7C01C283DEB5" class="button small radius blue margin-top-small recommend-product parent-product" data-cup-event='{"eventCode":"TA-EX","eventContext":"/core/journals/environmental-conservation/article/conserving-biodiversity-in-agricultural-landscapes-modelbased-planning-toolsedited-by-robert-k-swihart-and-jeffrey-e-moore-xv336-pp-45-figs-255182-cm-isbn-1-55753-333-4-paperback-us-2495-west-lafayette-usa-purdue-university-press-2004/BEA0EC567C4A398FEE0B7C01C283DEB5","usedIdentities":[],"eventType":"REC","searchScope":"PRODUCT","productId":"BEA0EC567C4A398FEE0B7C01C283DEB5"}'>
+Recommend to librarian
+</a>
+</div>
+</div>
+</div>
+</li>
+<li class="status open-access">
+</li>
+</ul>
+<ul class="title-volume-issue">
+<li class="title ">
+<a class="force-inline" title="Volume 32 " href="/core/journals/environmental-conservation/volume/CE69383EDA90071E371757CDA05655DF">Volume 32</a>,
+<a class="force-inline" title="Issue 2 " href="/core/journals/environmental-conservation/issue/F8C96E2CB0646E2B1F1C165B566AC50A">Issue 2 </a>
+</li>
+<li class="published">
+<span class="date">June 2005</span><span class="date">, pp. 192-193</span>
+</li>
+</ul>
+</div>
+<div id="Top" class="reading-width">
+<div class="article-page">
+<div class="overview no-margin-bottom">
+<div class="divider print-only margin-top-large"></div>
+<h1 class="article-title">Conserving Biodiversity in Agricultural Landscapes: Model-Based Planning ToolsEDITED BY ROBERT K. SWIHART AND JEFFREY E. MOORE xv+336 pp., 45 figs., 25.5×18×2 cm, ISBN 1 55753 333 4 paperback, US$ 24.95, West Lafayette, USA: Purdue University Press, 2004 -</h1>
+<ul class="details no-padding-bottom">
+<li class="author">
+<a href="/core/search?filters%5BauthorTerms%5D=THOMAS M. GEHRING&eventCode=SE-AU" class="more-by-this-author ">THOMAS M. GEHRING</a> <sup data-affiliation-id="a1" class="">(a1)</sup>
+<i class="icon open-drawer small toggle-affiliations" aria-label="View all author information"></i>
+</li>
+<div id="author-affiliations" style="display:none" class="margin-bottom margin-top">
+<ul class="full-contributor-listing">
+<li id="a1" class="contributor-affiliation"><strong><sup>(a1)</sup></strong> <div><div class="aff">Department of Biology, <institution>Central Michigan University</institution>, Mount Pleasant, MI 48859, <country>USA</country> e-mail: <email>gehri1tm@cmich.edu</email></div></div></li>
+</ul>
+</div>
+<script>
+                                                        $('.author i').on('click', function (e) {
+                                                            e.preventDefault();
+                                                            var $authorAffiliations = $('#author-affiliations');
+                                                            var $hiddenAuthors = $('.hidden-author');
+                                                            var $button = $(this);
+                                                            $authorAffiliations.toggle();
+                                                            $button.toggleClass('close');
+                                                            $hiddenAuthors.toggleClass('hide');
+                                                            if ($authorAffiliations.is(':visible')) {
+                                                                $button.attr('aria-label', 'Hide all author information');
+                                                            } else {
+                                                                $button.attr('aria-label', 'View all author information');
+                                                            }
+                                                        });
+                                                    </script>
+<li>
+<ul class="article-components">
+<li class="source">DOI: <a href="https://doi.org/10.1017/S0376892905272326" target="_blank" class="url">https://doi.org/10.1017/S0376892905272326</a></li>
+<li class="published">Published online: <span class="date">15 September 2005</li>
+</ul>
+</li>
+</ul>
+</div>
+<div class="overview article-overview">
+<div class="abstract-image">
+<div class="divider less-space"> </div>
+<div class="article-actions">
+<div>
+<ul class="other-actions col-1">
+<a class="button small radius blue export-citation-product" data-prod-id="BEA0EC567C4A398FEE0B7C01C283DEB5">Export citation</a>
+<a href="https://s100.copyright.com/AppDispatchServlet?publisherName=CUP&amp;publication=ENC&amp;title=Conserving%20Biodiversity%20in%20Agricultural%20Landscapes:%20Model-Based%20Planning%20ToolsEDITED%20BY%20ROBERT%20K.%20SWIHART%20AND%20JEFFREY%20E.%20MOORE%20xv+336%20pp.,%2045%20figs.,%2025.5%C3%9718%C3%972%20cm,%20ISBN%201%2055753%20333%204%20paperback,%20US$%2024.95,%20West%20Lafayette,%20USA:%20Purdue%20University%20Press,%202004%20-&amp;publicationDate=2005-09-15&amp;author=THOMAS%20M.%20GEHRING&amp;copyright=2005%20Foundation%20for%20Environmental%20Conservation&amp;contentID=10.1017/S0376892905272326&amp;startPage=192&amp;endPage=193&amp;orderBeanReset=True&amp;volumeNum=32&amp;issueNum=2" target="_blank" class="button small transparent radius">Request permission</a>
+</ul>
+<ul class="other-actions col-2">
+</ul>
+</div>
+</div>
+<div class="divider less-space"> </div>
+<div id="abstract" class="summary-title clear">Abstract</div>
+<div class="divider"> </div>
+<div class="abstract-image-replacement">
+<img src="//static.cambridge.org/content/id/urn:cambridge.org:id:article:S0376892905272326/resource/name/firstPage-S0376892905002328a.jpg" title="Image of the first page of this article"/>
+</div>
+<div class="divider"> </div>
+</div>
+<div class="overview article-overview">
+<div id="author" class="summary-title">Copyright</div>
+<div class="description">
+<div class="copyright">2005 Foundation for Environmental Conservation</div>
+</div>
+</div>
+<div class="divider"> </div>
+</div>
+</div>
+</div>
+<div id="recommendProduct" class="reveal-modal large" data-reveal>
+<div id="type-display">
+<div class="header">
+<div class="heading_07">Recommend this journal</div>
+<p>Email your librarian or administrator to recommend adding this journal to your organisation's collection.</p>
+</div>
+<div class="row book-title">
+<div class="small-12 columns">
+<div class="heading_08">Environmental Conservation</div>
+</div>
+</div>
+<div class="row book-details book-overview">
+<div class="small-12 columns">
+<ul>
+<li class="meta-info issn">ISSN: 0376-8929<li>
+<li class="meta-info eissn">EISSN: 1469-4387<li>
+<li class="meta-info url">URL: /core/journals/environmental-conservation<li>
+</ul>
+</div>
+</div>
+</div>
+<div class="row wrapper no-padding-top">
+<div class="small-12 columns">
+<div class="flash-message-container">
+<div class="flash-message">
+<div data-alert class="alert-box alert">
+<div class="alert alert-danger">Unfortunately you do not have access to this content, please use the <strong>Get access</strong> link below for information on how to access this content.</div>
+<a href="#" class="close">&times;</a>
+</div>
+<div id="ajaxMessages" class="ajaxMessages"></div>
+</div>
+</div>
+<div class="row margin-top">
+<div class="large-12 columns">
+<form id="recommend" action="/core/services/aop-cambridge-core/recommend/send" method="post" data-abide="ajax">
+<input type="hidden" name="_csrf" value="TVzP5PKY-rKtOJ2t12Fqihpe8lxJ0IpSKC-M">
+<div id="inputs">
+<input type="hidden" name="productType" value="journal">
+<input type="hidden" name="productLink" value="">
+<input type="hidden" name="productID" value="A218EAF4E0E042B46D28788C80419CA8">
+<input type="hidden" name="productTitle" value="Environmental Conservation">
+<input type="hidden" name="productIssn" value="03768929">
+<input type="hidden" name="productEissn" value="14694387">
+</div>
+<input type="hidden" name="yourNamePrefill" value="">
+<input type="hidden" name="yourEmailPrefill" value="">
+<div class="row">
+<div class="large-6 medium-12 small-12 columns">
+<div class="row">
+<div class="small-12 columns">
+<label>
+Your name *
+<input name="yourName" id="yourName" type="text" required="required" maxlength="100" placeholder="Enter your name"/>
+</label>
+<small class="error">Please enter your name</small>
+</div>
+</div>
+</div>
+<div class="large-6 medium-12 small-12 columns">
+<div class="row">
+<div class="small-12 columns">
+<label>
+Your email address *
+<input name="yourEmail" id="yourEmail" type="text" required="required" pattern="email" maxlength="100" placeholder="Enter your email address"/>
+</label>
+<small class="error">Please enter a valid email address</small>
+</div>
+</div>
+</div>
+</div>
+<div class="row">
+<div class="small-12 large-12 columns">
+<fieldset>
+<legend>Who would you like to send this to? *</legend>
+<div class="row">
+<div class="small-12 large-6 columns no-padding-left margin-top-for-medium no-margin-top">
+<div id="administrator-email" class="small-12 columns">
+<label class="organisation-option" for="administratorEmail"><span>Your administrator's email <span data-dropdown="administratorEmailInfo" aria-controls="administratorEmailInfo" aria-expanded="false" class="icon info tooltip-icon"></span></span><div id="administratorEmailInfo" data-dropdown-content class="f-dropdown content medium" aria-hidden="true" tabindex="-1"><p class="text-left">You can enter one or more administrator email addresses.</p></div></label>
+<div class="row collapse postfix-radius">
+<div class="large-10 small-10 columns">
+<input type="hidden" id="selected-values" name="selectedAdministratorEmails" value=""/>
+<input id="administratorEmail" name="administratorEmail" type="text" placeholder="Enter an email address" autocomplete="off"/>
+<span id="emailaddress-invalid" class="error" style="display:none">Please enter a valid email address</span>
+<span id="emailaddress-added" class="error" style="display:none">Email already added</span>
+</div>
+<div class="large-2 small-2 columns">
+<input type="submit" value="Add" id="add-administrator" class="button radius postfix" aria-label="Add administrator email">
+</div>
+</div>
+<div class="row">
+<div class="small-12 large-12 columns">
+<div id="selected-administrator-emails" class="margin-top" style="display:none"></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</fieldset>
+</div>
+</div>
+<div class="row">
+<div class="small-12 medium-6 columns">
+<div class="small-12 medium-12 large-6 columns">
+<label>Optional message
+<textarea name="message" id="message" rows="3" maxlength="250" placeholder="Enter a message for your libarian or administrator"></textarea>
+</label>
+</div>
+</div>
+<div class="small-12 medium-6 columns">
+<link rel="stylesheet" href="/core/captcha/public/bower_components/visualcaptcha.jquery/visualcaptcha.src.css"/>
+<link rel="stylesheet" href="/core/captcha/public/captcha.css"/>
+<div class="wrap">
+<div class="pre-captcha-wrapper">
+<div class="captcha-wrapper">
+<h2>CAPTCHA *</h2>
+<a id="captcha-skip-to-audio" href="#captcha-audio-challenge" aria-hidden="false">Skip to the audio challenge</a>
+<div id="sample-captcha"></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</form>
+<div class="row margin-top">
+<div class="small-6 large-6 columns">
+<button href="#" onclick="$('#recommendProduct').foundation('reveal', 'close');return false;" class="button radius transparent right">Cancel</button>
+</div>
+<div class="small-6 large-6 columns">
+<button type="submit" onclick="$('form#recommend').submit();" id="recommend-submit" class="button blue radius left">Send</button>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<a class="close-reveal-modal">×</a>
+</div>
+<script>
+                                  $('.icon.toggle.close').on('click', function () {
+                                      $('.article-meta').toggleClass('reading-width');
+                                  });
+                              </script>
+</div>
+<div class="panel large-3 small-12 narrow-column article-page chapter right">
+<script>
+                                  $(document).ready(function () {
+                                    $('texmath, .tex-math, .mathJaxTex').hide();
+                                  });
+                                </script>
+</div>
+</div>
+</div>
+</div>
+</section>
+</div>
+<div class="content" id="contents">
+</div>
+<div class="content" id="references">
+</div>
+<div class="content" id="metrics">
+<script type="text/javascript">
+            $(document).ready(function () {
+          
+              var fullTextViews = {
+                total: '4',
+                data: [],
+                containerId: 'article-months-chart-fulltext-views'
+              };
+                fullTextViews.data.push([
+                  {v: 'Sep 2016'},
+                  0
+                ]);
+                fullTextViews.data.push([
+                  {v: 'Oct 2016'},
+                  0
+                ]);
+                fullTextViews.data.push([
+                  {v: 'Nov 2016'},
+                  0
+                ]);
+                fullTextViews.data.push([
+                  {v: 'Dec 2016'},
+                  0
+                ]);
+                fullTextViews.data.push([
+                  {v: 'Jan 2017'},
+                  2
+                ]);
+                fullTextViews.data.push([
+                  {v: 'Feb 2017'},
+                  2
+                ]);
+                fullTextViews.data.push([
+                  {v: 'Mar 2017'},
+                  4
+                ]);
+                fullTextViews.data.push([
+                  {v: 'Apr 2017'},
+                  4
+                ]);
+          
+              var abstractViews = {
+                total: '12',
+                data: [],
+                containerId: 'article-months-chart-abstract-views'
+              };
+                abstractViews.data.push([
+                  {v: 'Sep 2016'},
+                  2
+                ]);
+                abstractViews.data.push([
+                  {v: 'Oct 2016'},
+                  3
+                ]);
+                abstractViews.data.push([
+                  {v: 'Nov 2016'},
+                  4
+                ]);
+                abstractViews.data.push([
+                  {v: 'Dec 2016'},
+                  4
+                ]);
+                abstractViews.data.push([
+                  {v: 'Jan 2017'},
+                  5
+                ]);
+                abstractViews.data.push([
+                  {v: 'Feb 2017'},
+                  7
+                ]);
+                abstractViews.data.push([
+                  {v: 'Mar 2017'},
+                  12
+                ]);
+                abstractViews.data.push([
+                  {v: 'Apr 2017'},
+                  12
+                ]);
+          
+              var chartsToRender = [
+                {
+                  containerId: fullTextViews.containerId,
+                  chartType: 'LineChart',
+                  data: fullTextViews.data,
+                  total: fullTextViews.total,
+                  columns: [
+                    ['string', 'Month'],
+                    ['number', 'Full text views']
+                  ],
+                  chartOptions: {
+                    hAxis: {
+                      title: 'Months'
+                    },
+                    vAxis: {
+                      title: 'Cumulative views',
+                      format: 0
+                    },
+                    legend: 'none',
+                    lineWidth: 3,
+                    pointSize: 5
+                  }
+                },
+                {
+                  containerId: abstractViews.containerId,
+                  data: abstractViews.data,
+                  total: abstractViews.total,
+                  chartType: 'LineChart',
+                  columns: [
+                    ['string', 'Month'],
+                    ['number', 'Abstract views']
+                  ],
+                  chartOptions: {
+                    hAxis: {
+                      title: 'Months'
+                    },
+                    vAxis: {
+                      title: 'Cumulative views',
+                      format: 0
+                    },
+                    legend: 'none',
+                    lineWidth: 3,
+                    pointSize: 5
+                  }
+                }
+              ];
+          
+              AOP.metrics.init({
+                chartsToRender: chartsToRender,
+                limitSingleChartWidth: true
+              });
+          
+            });
+          
+          </script>
+<section class="row metrics">
+<div class="large-12 columns">
+<div class="split-panel opposite-cols">
+<div class="wrapper">
+<div class="panel small-12 column main-column">
+<div class="reading-width">
+<h2 class="heading_03">Metrics</h2>
+<div class="divider"></div>
+<div class="metrics-section full-text-views ">
+<h2 class="heading_06">Full text views<span> <span data-dropdown="full-text-view-info" aria-controls="full-text-view-info" aria-expanded="false" class="icon info tooltip-icon"></span></span><div id="full-text-view-info" data-dropdown-content class="f-dropdown content medium" aria-hidden="true" tabindex="-1"><p class="text-left">Full text views reflects the number of PDF downloads, PDFs sent to Google Drive, Dropbox and Kindle and HTML full text views.</p></div></h2>
+<div class="summary">
+<div>Total number of HTML views: <span>0</span></div>
+<div>Total number of PDF views: <span>4</span> *</div>
+</div>
+<div class="clear"></div>
+<div class="chart">
+<div class="loader">
+<div>
+<img src="/core/system/public/img/ajax_loader_gray_256.gif" alt=""><span>Loading metrics...</span>
+</div>
+</div>
+<div class="row">
+<div class="large-12 columns">
+<div id="article-months-chart-fulltext-views"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="divider"></div>
+<div class="metrics-section abstract-views ">
+<h2 class="heading_06">Abstract views<span> <span data-dropdown="abstract-view-info" aria-controls="abstract-view-info" aria-expanded="false" class="icon info tooltip-icon"></span></span><div id="abstract-view-info" data-dropdown-content class="f-dropdown content medium" aria-hidden="true" tabindex="-1"><p class="text-left">Abstract views reflect the number of visits to the article landing page.</p></div></h2>
+<div class="summary">
+<div>
+Total abstract views: <span>12</span> *
+</div>
+</div>
+<div class="clear"></div>
+<div class="chart">
+<div class="loader">
+<div>
+<img src="/core/system/public/img/ajax_loader_gray_256.gif" alt=""><span>Loading metrics...</span>
+</div>
+</div>
+<div class="row">
+<div class="large-12 columns">
+<div id="article-months-chart-abstract-views"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="margin-top"><p>* Views captured on Cambridge Core between September 2016 - 14th April 2017. This data will be updated every 24 hours.</p></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</section>
+</div>
+<div class="content" id="errata">
+<section class="row">
+<div class="large-12 columns">
+<div class="split-panel opposite-cols">
+<div class="wrapper">
+<div class="panel small-12 column main-column">
+<div class="reading-width">
+</div>
+</div>
+</div>
+</div>
+</div>
+</section>
+</div>
+</div>
+</div>
+<script>
+          $(document).ready(function () {
+              AOP.loadScript('//s7.addthis.com/js/300/addthis_widget.js#async=1', function () {
+                  var addthis_config = addthis_config || {};
+                  var addthis_share = addthis_share || {};
+                  addthis_config.pubid = 'ra-554b7ca6217c131b';
+                  addthis_config.ui_click = true;
+
+
+                  // Initialise the addthis service
+                  addthis.init();
+                  // Apply config & share options to any share button on screen.
+                  addthis.button('.share', addthis_config, addthis_share);
+              });
+          });
+      </script>
+<footer>
+<div class="top menu centered">
+<div id="services" class="content">
+<ul class="tabs">
+<li class="tab-title"><a href="/core/services/librarians">Librarians</a></li>
+<li class="tab-title"><a href="/core/services/authors">Authors</a></li>
+<li class="tab-title"><a href="/core/services/publishing-partners">Publishing partners</a></li>
+<li class="tab-title"><a href="/core/services/agents">Agents</a></li>
+<li class="tab-title"><a href="/core/services/corporates">Corporates</a></li>
+</ul>
+</div>
+</div>
+<div class="mid">
+<div class="row">
+<ul class="accordion" data-accordion>
+<li class="accordion-navigation">
+<a href="#additional" class="accordion-expander">Additional Information<span class="icon tablet open-drawer"></span></a>
+<div id="additional" class="content">
+<div class="large-9 column menu">
+<ul class="sub-nav site-map margin-top">
+<li><a href="/core/accessibility">Accessibility</a></li>
+<li><a href="http://blog.journals.cambridge.org/" target="_blank">Our blog</a></li>
+<li><a href="/core/news">News</a></li>
+<li><a href="/core/contact">Contact us</a></li>
+<li><a href="/core/help/FAQs">Help</a></li>
+<li><a href="/core/terms">Cambridge Core terms of use</a></li>
+<li><a href="http://www.cambridge.org/about-us/feedback">Feedback</a></li>
+<li><a href="/core/sitemap">Sitemap</a></li>
+</ul>
+</div>
+<div class="large-3 column">
+<div class="social-container">
+<div class="title">Join us online</div>
+<ul class="social">
+<li><a href="https://www.facebook.com/CambridgeCore" target="_blank" class="icon fb"></a></li>
+<li><a href="https://twitter.com/CambridgeCore" target="_blank" class="icon tw"></a></li>
+<li><a href="https://plus.google.com/114953848908220702663/posts" target="_blank" class="icon gp"></a></li>
+<li><a href="https://www.youtube.com/user/CambridgeJournals" target="_blank" class="icon yt"></a></li>
+</ul>
+</div>
+</div>
+</div>
+</li>
+</ul>
+</div>
+</div>
+<div class="bottom">
+<div class="row menu">
+<ul class="column accordion" data-accordion>
+<li class="accordion-navigation">
+<a href="#legal" class="accordion-expander">Legal Information<span class="icon tablet open-drawer"></span></a>
+<div id="legal" class="content">
+<ul class="title-area">
+<li class="logo">
+<div itemscope itemtype="http://schema.org/Organization">
+<a itemprop="url" href="http://www.cambridge.org">
+<img itemprop="logo" src="/core/cambridge-core/public/images/cambridge_logo.png" alt="Cambridge University Press">
+</a>
+</div>
+</li>
+</ul>
+<ul class="sub-nav">
+<li><a href="http://www.cambridge.org/about-us/rights-permissions/">Rights & Permissions</a></li>
+<li><a href="http://www.cambridge.org/about-us/legal-notices/copyright/">Copyright</a></li>
+<li><a href="http://www.cambridge.org/about-us/legal-notices/privacy-policy/">Privacy Policy</a></li>
+<li><a href="http://www.cambridge.org/about-us/legal-notices/terms-use">Terms of use</a></li>
+<li><a href="http://www.cambridge.org/about-us/legal-notices/cookies-policy/">Cookies Policy</a></li>
+<li class="copyright hide-for-medium hide-for-small">
+<a href="#">&#169; Cambridge University Press 2017</a>
+</li>
+<li class="back-to-top hide-for-large-up"><a href="#">Back to top</a></li>
+</ul>
+</div>
+</li>
+</ul>
+</div>
+</div>
+<div class="mid hide-for-large-up">
+<div class="row">
+<ul class="tablet-footer-actions clearfix">
+<li class="copyright">
+<a href="#">&#169; Cambridge University Press 2017</a>
+</li>
+<li class="back-to-top right"><a href="#">Back to top</a></li>
+</ul>
+</div>
+</div>
+</footer>
+<script src="/core/cambridge-core/public/bower_components/foundation/js/foundation.js"></script>
+<script src="/core/cambridge-core/public/js/plugins/jquery.autocomplete.min.js"></script>
+<script src="/core/cambridge-core/public/js/plugins/slick.min.js"></script>
+<script src="/core/cambridge-core/public/js/plugins/jquery.qtip.min.js"></script>
+<script src="/core/cambridge-core/public/js/plugins/foggy.min.js"></script>
+<script src="/core/cambridge-core/public/js/plugins/jquery.cookie.js"></script>
+<script src="/core/cambridge-core/public/js/plugins/jquery.textresizer.min.js"></script>
+<script src="/core/cambridge-core/public/js/plugins/chosen.jquery.min.js"></script>
+<script src="/core/cambridge-core/public/js/plugins/jquery.sticky.js"></script>
+<script type="text/javascript">
+        var AOP = AOP || {};
+        AOP.konakart = AOP.konakart || {
+                kkRoot: '',
+                storeId: 'store_b2b_self_service',
+                kkCatalogId: '',
+                kkCurrencyId: ''
+            };
+
+    </script>
+ 
+ 
+<script type="text/javascript" language="javascript">
+      window.AOP = window.AOP || {};
+      window.AOP.pageId = '';
+      window.AOP.baseUrl = '/core';
+      window.AOP.env = 'prod';
+      window.AOP.webTrendsFpcdom = '.www.cambridge.org';
+      window.AOP.webtrendsSourceId = 'dcs2229lnlwr3lqf1qfic2m50_4k5s';
+      window.AOP.shouldUseCitationTool = true;
+      ;
+    </script>
+<script src="/core/system/public/js/foundationUtils.js" language="javascript" type="text/javascript"></script>
+<script src="/core/system/public/js/confirmModal.js" language="javascript" type="text/javascript"></script>
+<script src="/core/system/public/js/trimWhitespace.js" language="javascript" type="text/javascript"></script>
+<script src="/core/system/public/js/loadScript.js" language="javascript" type="text/javascript"></script>
+<script src="/core/aop-shared-components/public/isArray.js"></script>
+<script src="/core/aop-shared-components/public/parseQuerystring.js"></script>
+<script src="/core/aop-shared-components/public/createAlertBox.js"></script>
+<script src="/core/aop-shared-components/public/webtrends.load.js"></script>
+<div id="confirmModalWrapper">
+<div id="confirm-modal" class="reveal-modal small" data-reveal>
+<div class="wrapper">
+<div class="title"></div>
+<div class="row">
+<div class="large-12 columns">
+<div class="panel callout message">
+</div>
+</div>
+</div>
+<div class="row margin-top">
+<div class="small-6 large-6 columns"><a class="right small button radius transparent cancel">Cancel</a></div>
+<div class="small-6 large-6 columns"><a href="#" class="left small radius button blue confirm">Confirm</a></div>
+</div>
+<a class="close-reveal-modal">&#215;</a>
+</div>
+</div>
+</div>
+ 
+<script src="/core/cambridge-core/public/js/validation.js" language="javascript"></script>
+<script src="/core/cambridge-core/public/js/selected-actions.js" language="javascript"></script>
+<script src="/core/easybib/public/js/app.js" language="javascript"></script>
+<script src="https://www.gstatic.com/charts/loader.js" language="javascript"></script>
+<script src="/core/cambridge-core/public/js/charts.js" language="javascript"></script>
+<script src="/core/cambridge-core/public/js/metrics.js" language="javascript"></script>
+<script src="/core/cambridge-core/public/js/recommend.js" language="javascript"></script>
+<script src="/core/captcha/public/bower_components/visualcaptcha.jquery/visualcaptcha.jquery.js" language="javascript"></script>
+<script src="/core/captcha/public/captcha.js" language="javascript"></script>
+<script src="/core/cambridge-core/public/js/bookmark.js" language="javascript"></script>
+<script src="/core/cambridge-core/public/js/journals/journals.js" language="javascript"></script>
+<script src="/core/system/public/js/validation.js" language="javascript" type="text/javascript"></script>
+ 
+<script src="/core/cambridge-core/public/js/jquery-extend.js"></script>
+<script src="/core/cambridge-core/public/js/additional.js"></script>
+<script type="text/javascript" src="//www.cambridge.org/packages/cambridge_themes/javascripts/global_navbar/v1.2.min.js"></script>
+<!--[if lt IE 9]>
+        <script src="/core/cambridge-core/public/js/plugins/rem.min.js"></script>
+    <![endif]-->
+<script src="/core/cambridge-core/public/js/app.js"></script>
+<script src="/core/cambridge-core/public/js/analytics/events.js"></script>
+<script src="/core/cambridge-core/public/js/analytics/listeners/counter.js"></script>
+<script language="javascript" type="text/javascript">
+        $(document).cupEvent();
+
+        AOP.initCounterReporter({
+            apiKey: 'qzD90fb0r257ZKVtGSFnG3UucyyMdgvu8u250Fa0',
+            apiUrl: 'https://usage.prod.aop.cambridge.org/v1/events',
+            applicationId: '8a94020952a738f80152b223c992000b',
+            identities: [],
+            sessionId: '1qJIKjAm71ToTk0aJDYlYT4A_6W_R1uO',
+            eventContext: '/core/journals/environmental-conservation/article/conserving-biodiversity-in-agricultural-landscapes-modelbased-planning-toolsedited-by-robert-k-swihart-and-jeffrey-e-moore-xv336-pp-45-figs-255182-cm-isbn-1-55753-333-4-paperback-us-2495-west-lafayette-usa-purdue-university-press-2004/BEA0EC567C4A398FEE0B7C01C283DEB5'
+        })
+    </script>
+</body>
+</html>

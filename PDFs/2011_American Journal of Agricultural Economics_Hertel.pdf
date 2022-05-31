@@ -1,0 +1,1360 @@
+
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+    <!-- Responsive View Port -->
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
+
+    <!-- Meta -->
+    <meta charset="utf-8" /><meta http-equiv="X-UA-Compatible" content="IE=Edge" />
+    <!-- Bookmark Icons -->
+    <link rel="apple-touch-icon" sizes="180x180" href="/UI/app/img/apple-touch-icon.png" /><link rel="icon" type="image/png" href="/UI/app/img/favicon-32x32.png" sizes="32x32" /><link rel="icon" type="image/png" href="/UI/app/img/favicon-16x16.png" sizes="16x16" /><link rel="manifest" href="/UI/app/img/manifest.json" /><link rel="mask-icon" href="/UI/app/img/safari-pinned-tab.svg" color="#5bbad5" /><link rel="shortcut icon" href="/UI/app/img/favicon.ico" /><meta name="msapplication-config" content="/UI/app/img/browserconfig.xml" /><meta name="theme-color" content="#002f65" />
+
+    <!-- Stylesheets -->
+    
+<link href="https://fonts.googleapis.com/css?family=Merriweather:300,400,400italic,700,700italic|Source+Sans+Pro:400,400italic,700,700italic" type="text/css" rel="stylesheet"/>
+<link href="//oup.silverchair-cdn.com/cassette.axd/stylesheet/babe450751479b8edf053be8fc63c14d027d24c3/globalCSS" type="text/css" rel="stylesheet"/>
+<link href="//oup.silverchair-cdn.com/cassette.axd/stylesheet/7f205a0b34174418576911868d654b544c0687d4/cookiePolicyCSS" type="text/css" rel="stylesheet"/>
+<link href="//cdn.jsdelivr.net/chartist.js/latest/chartist.min.css" type="text/css" rel="stylesheet"/>
+
+        <link href=//oup.silverchair-cdn.com/data/SiteBuilderAssetsOriginals/Live/CSS/journals/global.css rel="stylesheet" type="text/css" />
+    
+        <link href=//oup.silverchair-cdn.com/data/SiteBuilderAssets/Live/CSS/ajae/Site1791399881.css rel="stylesheet" type="text/css" />
+    
+
+    <!-- Scripts -->
+    
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js" type="text/javascript"></script>
+<script type="text/javascript">
+if(!window.jQuery){
+document.write('<script src="//oup.silverchair-cdn.com/cassette.axd/script/8b6babff47b8a9793f37036fd1b1a3ad41d38423/UI/app/vendor/jquery-1.8.3.min.js" type="text/javascript"><\/script>');
+}
+</script>
+
+<!--     
+
+ -->
+
+    <script type="text/javascript">
+        var App = App || {};
+        App.LoginUserInfo = { 
+            isInstLoggedIn: [0] 
+        };
+
+        App.CurrentSubdomain = 'ajae';
+    </script>
+
+    <!-- Extra Head Content -->
+    
+    
+        <script type="application/ld+json">
+        {"@context":"http://schema.org","@id":"https://academic.oup.com/ajae/article/93/2/259/53674/The-Global-Supply-and-Demand-for-Agricultural-Land","@type":"ScholarlyArticle","name":"The Global Supply and Demand for Agricultural Land in 2050: A Perfect Storm in the Making?  1  ","about":["A - General Economics and Teaching","A1 - General Economics","A10 - General","A11 - Role of Economics; Role of Economists; Market for Economists","A12 - Relation of Economics to Other Disciplines","A13 - Relation of Economics to Social Values","A14 - Sociology of Economics","A19 - Other","A2 - Economic Education and Teaching of Economics","A20 - General","A21 - Pre-college","A22 - Undergraduate","A23 - Graduate","A29 - Other","A3 - Collective Works","A30 - General","A31 - Collected Writings of Individuals","A32 - Collective Volumes","A33 - Handbooks","A39 - Other","C - Mathematical and Quantitative Methods","C0 - General","C00 - General","C01 - Econometrics","C02 - Mathematical Methods","C1 - Econometric and Statistical Methods and Methodology: General","C10 - General","C11 - Bayesian Analysis: General","C12 - Hypothesis Testing: General","C13 - Estimation: General","C14 - Semiparametric and Nonparametric Methods: General","C15 - Statistical Simulation Methods: General","C16 - Specific Distributions","C18 - Methodological Issues: General","C19 - Other","C2 - Single Equation Models; Single Variables","C20 - General","C21 - Cross-Sectional Models; Spatial Models; Treatment Effect Models; Quantile Regressions","C22 - Time-Series Models; Dynamic Quantile Regressions; Dynamic Treatment Effect Models; Diffusion Processes","C23 - Panel Data Models; Spatio-temporal Models","C24 - Truncated and Censored Models; Switching Regression Models; Threshold Regression Models","C25 - Discrete Regression and Qualitative Choice Models; Discrete Regressors; Proportions; Probabilities","C26 - Instrumental Variables (IV) Estimation","C29 - Other","C3 - Multiple or Simultaneous Equation Models; Multiple Variables","C30 - General","C31 - Cross-Sectional Models; Spatial Models; Treatment Effect Models; Quantile Regressions; Social Interaction Models","C32 - Time-Series Models; Dynamic Quantile Regressions; Dynamic Treatment Effect Models; Diffusion Processes; State Space Models","C33 - Panel Data Models; Spatio-temporal Models","C34 - Truncated and Censored Models; Switching Regression Models","C35 - Discrete Regression and Qualitative Choice Models; Discrete Regressors; Proportions","C36 - Instrumental Variables (IV) Estimation","C38 - Classification Methods; Cluster Analysis; Principal Components; Factor Models","C39 - Other","C4 - Econometric and Statistical Methods: Special Topics","C40 - General","C41 - Duration Analysis; Optimal Timing Strategies","C42 - Survey Methods","C43 - Index Numbers and Aggregation","C44 - Operations Research; Statistical Decision Theory","C45 - Neural Networks and Related Topics","C46 - Specific Distributions; Specific Statistics","C49 - Other","C5 - Econometric Modeling","C50 - General","C51 - Model Construction and Estimation","C52 - Model Evaluation, Validation, and Selection","C53 - Forecasting and Prediction Methods; Simulation Methods","C54 - Quantitative Policy Modeling","C55 - Large Data Sets: Modeling and Analysis","C57 - Econometrics of Games and Auctions","C58 - Financial Econometrics","C59 - Other","C6 - Mathematical Methods; Programming Models; Mathematical and Simulation Modeling","C60 - General","C61 - Optimization Techniques; Programming Models; Dynamic Analysis","C62 - Existence and Stability Conditions of Equilibrium","C63 - Computational Techniques; Simulation Modeling","C65 - Miscellaneous Mathematical Tools","C67 - Input-Output Models","C68 - Computable General Equilibrium Models","C69 - Other","C7 - Game Theory and Bargaining Theory","C70 - General","C71 - Cooperative Games","C72 - Noncooperative Games","C73 - Stochastic and Dynamic Games; Evolutionary Games; Repeated Games","C78 - Bargaining Theory; Matching Theory","C79 - Other","C8 - Data Collection and Data Estimation Methodology; Computer Programs","C80 - General","C81 - Methodology for Collecting, Estimating, and Organizing Microeconomic Data; Data Access","C82 - Methodology for Collecting, Estimating, and Organizing Macroeconomic Data; Data Access","C83 - Survey Methods; Sampling Methods","C87 - Econometric Software","C88 - Other Computer Software","C89 - Other","C9 - Design of Experiments","C90 - General","C91 - Laboratory, Individual Behavior","C92 - Laboratory, Group Behavior","C93 - Field Experiments","C99 - Other","D - Microeconomics","D0 - General","D00 - General","D01 - Microeconomic Behavior: Underlying Principles","D02 - Institutions: Design, Formation, Operations, and Impact","D03 - Behavioral Microeconomics: Underlying Principles","D04 - Microeconomic Policy: Formulation; Implementation, and Evaluation","D1 - Household Behavior and Family Economics","D10 - General","D11 - Consumer Economics: Theory","D12 - Consumer Economics: Empirical Analysis","D13 - Household Production and Intrahousehold Allocation","D14 - Household Saving; Personal Finance","D18 - Consumer Protection","D19 - Other","D2 - Production and Organizations","D20 - General","D21 - Firm Behavior: Theory","D22 - Firm Behavior: Empirical Analysis","D23 - Organizational Behavior; Transaction Costs; Property Rights","D24 - Production; Cost; Capital; Capital, Total Factor, and Multifactor Productivity; Capacity","D29 - Other","D3 - Distribution","D30 - General","D31 - Personal Income, Wealth, and Their Distributions","D33 - Factor Income Distribution","D39 - Other","D4 - Market Structure, Pricing, and Design","D40 - General","D41 - Perfect Competition","D42 - Monopoly","D43 - Oligopoly and Other Forms of Market Imperfection","D44 - Auctions","D45 - Rationing; Licensing","D46 - Value Theory","D47 - Market Design","D49 - Other","D5 - General Equilibrium and Disequilibrium","D50 - General","D51 - Exchange and Production Economies","D52 - Incomplete Markets","D53 - Financial Markets","D57 - Input-Output Tables and Analysis","D58 - Computable and Other Applied General Equilibrium Models","D59 - Other","D6 - Welfare Economics","D60 - General","D61 - Allocative Efficiency; Cost-Benefit Analysis","D62 - Externalities","D63 - Equity, Justice, Inequality, and Other Normative Criteria and Measurement","D64 - Altruism; Philanthropy","D69 - Other","D7 - Analysis of Collective Decision-Making","D70 - General","D71 - Social Choice; Clubs; Committees; Associations","D72 - Political Processes: Rent-seeking, Lobbying, Elections, Legislatures, and Voting Behavior","D73 - Bureaucracy; Administrative Processes in Public Organizations; Corruption","D74 - Conflict; Conflict Resolution; Alliances; Revolutions","D78 - Positive Analysis of Policy Formulation and Implementation","D79 - Other","D8 - Information, Knowledge, and Uncertainty","D80 - General","D81 - Criteria for Decision-Making under Risk and Uncertainty","D82 - Asymmetric and Private Information; Mechanism Design","D83 - Search; Learning; Information and Knowledge; Communication; Belief; Unawareness","D84 - Expectations; Speculations","D85 - Network Formation and Analysis: Theory","D86 - Economics of Contract: Theory","D87 - Neuroeconomics","D89 - Other","D9 - Intertemporal Choice","D90 - General","D91 - Intertemporal Consumer Choice; Life Cycle Models and Saving","D92 - Intertemporal Firm Choice, Investment, Capacity, and Financing","D99 - Other","E - Macroeconomics and Monetary Economics","E0 - General","E02 - Institutions and the Macroeconomy","E00 - General","E01 - Measurement and Data on National Income and Product Accounts and Wealth; Environmental Accounts","E03 - Behavioral Macroeconomics","E1 - General Aggregative Models","E10 - General","E11 - Marxian; Sraffian; Kaleckian","E12 - Keynes; Keynesian; Post-Keynesian","E13 - Neoclassical","E14 - Austrian; Evolutionary; Institutional","E16 - Social Accounting Matrix","E17 - Forecasting and Simulation: Models and Applications","E19 - Other","E2 - Consumption, Saving, Production, Investment, Labor Markets, and Informal Economy","E20 - General","E21 - Consumption; Saving; Wealth","E22 - Investment; Capital; Intangible Capital; Capacity","E23 - Production","E24 - Employment; Unemployment; Wages; Intergenerational Income Distribution; Aggregate Human Capital; Aggregate Labor Productivity","E25 - Aggregate Factor Income Distribution","E26 - Informal Economy; Underground Economy","E27 - Forecasting and Simulation: Models and Applications","E29 - Other","E3 - Prices, Business Fluctuations, and Cycles","E30 - General","E31 - Price Level; Inflation; Deflation","E32 - Business Fluctuations; Cycles","E37 - Forecasting and Simulation: Models and Applications","E39 - Other","E4 - Money and Interest Rates","E40 - General","E41 - Demand for Money","E42 - Monetary Systems; Standards; Regimes; Government and the Monetary System; Payment Systems","E43 - Interest Rates: Determination, Term Structure, and Effects","E44 - Financial Markets and the Macroeconomy","E47 - Forecasting and Simulation: Models and Applications","E49 - Other","E5 - Monetary Policy, Central Banking, and the Supply of Money and Credit","E50 - General","E51 - Money Supply; Credit; Money Multipliers","E52 - Monetary Policy","E58 - Central Banks and Their Policies","E59 - Other","E6 - Macroeconomic Policy, Macroeconomic Aspects of Public Finance, and General Outlook","E60 - General","E61 - Policy Objectives; Policy Designs and Consistency; Policy Coordination","E62 - Fiscal Policy","E63 - Comparative or Joint Analysis of Fiscal and Monetary Policy; Stabilization; Treasury Policy","E64 - Incomes Policy; Price Policy","E65 - Studies of Particular Policy Episodes","E66 - General Outlook and Conditions","E69 - Other","F - International Economics","F0 - General","F00 - General","F01 - Global Outlook","F02 - International Economic Order and Integration","F1 - Trade","F10 - General","F11 - Neoclassical Models of Trade","F12 - Models of Trade with Imperfect Competition and Scale Economies; Fragmentation","F13 - Trade Policy; International Trade Organizations","F14 - Empirical Studies of Trade","F15 - Economic Integration","F16 - Trade and Labor Market Interactions","F17 - Trade Forecasting and Simulation","F18 - Trade and Environment","F19 - Other","F2 - International Factor Movements and International Business","F20 - General","F21 - International Investment; Long-Term Capital Movements","F22 - International Migration","F23 - Multinational Firms; International Business","F24 - Remittances","F29 - Other","F3 - International Finance","F30 - General","F31 - Foreign Exchange","F32 - Current Account Adjustment; Short-Term Capital Movements","F33 - International Monetary Arrangements and Institutions","F34 - International Lending and Debt Problems","F35 - Foreign Aid","F36 - Financial Aspects of Economic Integration","F37 - International Finance Forecasting and Simulation: Models and Applications","F38 - International Financial Policy: Financial Transactions Tax; Capital Controls","F39 - Other","F4 - Macroeconomic Aspects of International Trade and Finance","F40 - General","F41 - Open Economy Macroeconomics","F42 - International Policy Coordination and Transmission","F43 - Economic Growth of Open Economies","F44 - International Business Cycles","F45 - Macroeconomic Issues of Monetary Unions","F47 - Forecasting and Simulation: Models and Applications","F49 - Other","F5 - International Relations, National Security, and International Political Economy","F50 - General","F51 - International Conflicts; Negotiations; Sanctions","F52 - National Security; Economic Nationalism","F53 - International Agreements and Observance; International Organizations","F54 - Colonialism; Imperialism; Postcolonialism","F55 - International Institutional Arrangements","F59 - Other","F6 - Economic Impacts of Globalization","F60 - General","F61 - Microeconomic Impacts","F62 - Macroeconomic Impacts","F63 - Economic Development","F64 - Environment","F65 - Finance","F66 - Labor","F68 - Policy","F69 - Other","G - Financial Economics","G0 - General","G00 - General","G01 - Financial Crises","G02 - Behavioral Finance: Underlying Principles","G1 - General Financial Markets","G10 - General","G11 - Portfolio Choice; Investment Decisions","G12 - Asset Pricing; Trading volume; Bond Interest Rates","G13 - Contingent Pricing; Futures Pricing","G14 - Information and Market Efficiency; Event Studies; Insider Trading","G15 - International Financial Markets","G17 - Financial Forecasting and Simulation","G18 - Government Policy and Regulation","G19 - Other","G2 - Financial Institutions and Services","G20 - General","G21 - Banks; Depository Institutions; Micro Finance Institutions; Mortgages","G22 - Insurance; Insurance Companies; Actuarial Studies","G23 - Non-bank Financial Institutions; Financial Instruments; Institutional Investors","G24 - Investment Banking; Venture Capital; Brokerage; Ratings and Ratings Agencies","G28 - Government Policy and Regulation","G29 - Other","G3 - Corporate Finance and Governance","G30 - General","G31 - Capital Budgeting; Fixed Investment and Inventory Studies; Capacity","G32 - Financing Policy; Financial Risk and Risk Management; Capital and Ownership Structure; Value of Firms; Goodwill","G33 - Bankruptcy; Liquidation","G34 - Mergers; Acquisitions; Restructuring; Corporate Governance","G35 - Payout Policy","G38 - Government Policy and Regulation","G39 - Other","H - Public Economics","H0 - General","H00 - General","H1 - Structure and Scope of Government","H10 - General","H11 - Structure, Scope, and Performance of Government","H12 - Crisis Management","H13 - Economics of Eminent Domain; Expropriation; Nationalization","H19 - Other","H2 - Taxation, Subsidies, and Revenue","H20 - General","H21 - Efficiency; Optimal Taxation","H22 - Incidence","H23 - Externalities; Redistributive Effects; Environmental Taxes and Subsidies","H24 - Personal Income and Other Nonbusiness Taxes and Subsidies; includes inheritance and gift taxes","H25 - Business Taxes and Subsidies","H26 - Tax Evasion and Avoidance","H27 - Other Sources of Revenue","H29 - Other","H3 - Fiscal Policies and Behavior of Economic Agents","H30 - General","H31 - Household","H32 - Firm","H39 - Other","H4 - Publicly Provided Goods","H40 - General","H41 - Public Goods","H42 - Publicly Provided Private Goods","H43 - Project Evaluation; Social Discount Rate","H44 - Publicly Provided Goods: Mixed Markets","H49 - Other","H5 - National Government Expenditures and Related Policies","H50 - General","H51 - Government Expenditures and Health","H52 - Government Expenditures and Education","H53 - Government Expenditures and Welfare Programs","H54 - Infrastructures; Other Public Investment and Capital Stock","H55 - Social Security and Public Pensions","H56 - National Security and War","H57 - Procurement","H59 - Other","H6 - National Budget, Deficit, and Debt","H60 - General","H61 - Budget; Budget Systems","H62 - Deficit; Surplus","H63 - Debt; Debt Management; Sovereign Debt","H68 - Forecasts of Budgets, Deficits, and Debt","H69 - Other","H7 - State and Local Government; Intergovernmental Relations","H70 - General","H71 - State and Local Taxation, Subsidies, and Revenue","H72 - State and Local Budget and Expenditures","H73 - Interjurisdictional Differentials and Their Effects","H74 - State and Local Borrowing","H75 - State and Local Government: Health; Education; Welfare; Public Pensions","H76 - State and Local Government: Other Expenditure Categories","H77 - Intergovernmental Relations; Federalism; Secession","H79 - Other","H8 - Miscellaneous Issues","H80 - General","H81 - Governmental Loans; Loan Guarantees; Credits; Grants; Bailouts","H82 - Governmental Property","H83 - Public Administration; Public Sector Accounting and Audits","H84 - Disaster Aid","H87 - International Fiscal Issues; International Public Goods","H89 - Other","I - Health, Education, and Welfare","I0 - General","I00 - General","I1 - Health","I10 - General","I11 - Analysis of Health Care Markets","I12 - Health Behavior","I13 - Health Insurance, Public and Private","I14 - Health and Inequality","I15 - Health and Economic Development","I18 - Government Policy; Regulation; Public Health","I19 - Other","I2 - Education and Research Institutions","I20 - General","I21 - Analysis of Education","I22 - Educational Finance; Financial Aid","I23 - Higher Education; Research Institutions","I24 - Education and Inequality","I25 - Education and Economic Development","I26 - Returns to Education","I28 - Government Policy","I29 - Other","I3 - Welfare, Well-Being, and Poverty","I30 - General","I31 - General Welfare","I32 - Measurement and Analysis of Poverty","I38 - Government Policy; Provision and Effects of Welfare Programs","I39 - Other","J - Labor and Demographic Economics","J0 - General","J00 - General","J01 - Labor Economics: General","J08 - Labor Economics Policies","J1 - Demographic Economics","J10 - General","J11 - Demographic Trends, Macroeconomic Effects, and Forecasts","J12 - Marriage; Marital Dissolution; Family Structure; Domestic Abuse","J13 - Fertility; Family Planning; Child Care; Children; Youth","J14 - Economics of the Elderly; Economics of the Handicapped; Non-Labor Market Discrimination","J15 - Economics of Minorities, Races, Indigenous Peoples, and Immigrants; Non-labor Discrimination","J16 - Economics of Gender; Non-labor Discrimination","J17 - Value of Life; Forgone Income","J18 - Public Policy","J19 - Other","J2 - Demand and Supply of Labor","J20 - General","J21 - Labor Force and Employment, Size, and Structure","J22 - Time Allocation and Labor Supply","J23 - Labor Demand","J24 - Human Capital; Skills; Occupational Choice; Labor Productivity","J26 - Retirement; Retirement Policies","J28 - Safety; Job Satisfaction; Related Public Policy","J29 - Other","J3 - Wages, Compensation, and Labor Costs","J30 - General","J31 - Wage Level and Structure; Wage Differentials","J32 - Nonwage Labor Costs and Benefits; Retirement Plans; Private Pensions","J33 - Compensation Packages; Payment Methods","J38 - Public Policy","J39 - Other","J4 - Particular Labor Markets","J40 - General","J41 - Labor Contracts","J42 - Monopsony; Segmented Labor Markets","J43 - Agricultural Labor Markets","J44 - Professional Labor Markets; Occupational Licensing","J45 - Public Sector Labor Markets","J46 - Informal Labor Markets","J47 - Coercive Labor Markets","J48 - Public Policy","J49 - Other","J5 - Labor-Management Relations, Trade Unions, and Collective Bargaining","J50 - General","J51 - Trade Unions: Objectives, Structure, and Effects","J52 - Dispute Resolution: Strikes, Arbitration, and Mediation; Collective Bargaining","J53 - Labor-Management Relations; Industrial Jurisprudence","J54 - Producer Cooperatives; Labor Managed Firms; Employee Ownership","J58 - Public Policy","J59 - Other","J6 - Mobility, Unemployment, Vacancies, and Immigrant Workers","J60 - General","J61 - Geographic Labor Mobility; Immigrant Workers","J62 - Job, Occupational, and Intergenerational Mobility","J63 - Turnover; Vacancies; Layoffs","J64 - Unemployment: Models, Duration, Incidence, and Job Search","J65 - Unemployment Insurance; Severance Pay; Plant Closings","J68 - Public Policy","J69 - Other","J7 - Labor Discrimination","J70 - General","J71 - Discrimination","J78 - Public Policy","J79 - Other","J8 - Labor Standards: National and International","J80 - General","J81 - Working Conditions","J82 - Labor Force Composition","J83 - Workers' Rights","J88 - Public Policy","J89 - Other","L - Industrial Organization","L0 - General","L00 - General","L1 - Market Structure, Firm Strategy, and Market Performance","L10 - General","L11 - Production, Pricing, and Market Structure; Size Distribution of Firms","L12 - Monopoly; Monopolization Strategies","L13 - Oligopoly and Other Imperfect Markets","L14 - Transactional Relationships; Contracts and Reputation; Networks","L15 - Information and Product Quality; Standardization and Compatibility","L16 - Industrial Organization and Macroeconomics: Industrial Structure and Structural Change; Industrial Price Indices","L17 - Open Source Products and Markets","L19 - Other","L2 - Firm Objectives, Organization, and Behavior","L20 - General","L21 - Business Objectives of the Firm","L22 - Firm Organization and Market Structure","L23 - Organization of Production","L24 - Contracting Out; Joint Ventures; Technology Licensing","L25 - Firm Performance: Size, Diversification, and Scope","L26 - Entrepreneurship","L29 - Other","L3 - Nonprofit Organizations and Public Enterprise","L30 - General","L31 - Nonprofit Institutions; NGOs; Social Entrepreneurship","L32 - Public Enterprises; Public-Private Enterprises","L33 - Comparison of Public and Private Enterprises and Nonprofit Institutions; Privatization; Contracting Out","L38 - Public Policy","L39 - Other","L4 - Antitrust Issues and Policies","L40 - General","L41 - Monopolization; Horizontal Anticompetitive Practices","L42 - Vertical Restraints; Resale Price Maintenance; Quantity Discounts","L43 - Legal Monopolies and Regulation or Deregulation","L44 - Antitrust Policy and Public Enterprises, Nonprofit Institutions, and Professional Organizations","L49 - Other","L5 - Regulation and Industrial Policy","L50 - General","L51 - Economics of Regulation","L52 - Industrial Policy; Sectoral Planning Methods","L53 - Enterprise Policy","L59 - Other","L6 - Industry Studies: Manufacturing","L60 - General","L61 - Metals and Metal Products; Cement; Glass; Ceramics","L62 - Automobiles; Other Transportation Equipment; Related Parts and Equipment","L63 - Microelectronics; Computers; Communications Equipment","L64 - Other Machinery; Business Equipment; Armaments","L65 - Chemicals; Rubber; Drugs; Biotechnology","L66 - Food; Beverages; Cosmetics; Tobacco; Wine and Spirits","L67 - Other Consumer Nondurables: Clothing, Textiles, Shoes, and Leather Goods; Household Goods; Sports Equipment","L68 - Appliances; Furniture; Other Consumer Durables","L69 - Other","L7 - Industry Studies: Primary Products and Construction","L70 - General","L71 - Mining, Extraction, and Refining: Hydrocarbon Fuels","L72 - Mining, Extraction, and Refining: Other Nonrenewable Resources","L73 - Forest Products","L74 - Construction","L78 - Government Policy","L79 - Other","L8 - Industry Studies: Services","L80 - General","L81 - Retail and Wholesale Trade; e-Commerce","L82 - Entertainment; Media","L83 - Sports; Gambling; Recreation; Tourism","L84 - Personal, Professional, and Business Services","L85 - Real Estate Services","L86 - Information and Internet Services; Computer Software","L87 - Postal and Delivery Services","L88 - Government Policy","L89 - Other","L9 - Industry Studies: Transportation and Utilities","L90 - General","L91 - Transportation: General","L92 - Railroads and Other Surface Transportation","L93 - Air Transportation","L94 - Electric Utilities","L95 - Gas Utilities; Pipelines; Water Utilities","L96 - Telecommunications","L97 - Utilities: General","L98 - Government Policy","L99 - Other","M - Business Administration and Business Economics; Marketing; Accounting; Personnel Economics","M0 - General","M00 - General","M1 - Business Administration","M10 - General","M11 - Production Management","M12 - Personnel Management; Executives; Executive Compensation","M13 - New Firms; Startups","M14 - Corporate Culture; Social Responsibility","M15 - IT Management","M16 - International Business Administration","M19 - Other","M2 - Business Economics","M20 - General","M21 - Business Economics","M29 - Other","M3 - Marketing and Advertising","M30 - General","M31 - Marketing","M37 - Advertising","M38 - Marketing and Advertising: Government Policy and Regulation","M39 - Other","M4 - Accounting and Auditing","M40 - General","M41 - Accounting","M42 - Auditing","M48 - Government Policy and Regulation","M49 - Other","M5 - Personnel Economics","M50 - General","M51 - Firm Employment Decisions; Promotions","M52 - Compensation and Compensation Methods and Their Effects","M53 - Training","M54 - Labor Management","M55 - Labor Contracting Devices","M59 - Other","O - Economic Development, Innovation, Technological Change, and Growth","O1 - Economic Development","O10 - General","O11 - Macroeconomic Analyses of Economic Development","O12 - Microeconomic Analyses of Economic Development","O13 - Agriculture; Natural Resources; Energy; Environment; Other Primary Products","O14 - Industrialization; Manufacturing and Service Industries; Choice of Technology","O15 - Human Resources; Human Development; Income Distribution; Migration","O16 - Financial Markets; Saving and Capital Investment; Corporate Finance and Governance","O17 - Formal and Informal Sectors; Shadow Economy; Institutional Arrangements","O18 - Urban, Rural, Regional, and Transportation Analysis; Housing; Infrastructure","O19 - International Linkages to Development; Role of International Organizations","O2 - Development Planning and Policy","O20 - General","O21 - Planning Models; Planning Policy","O22 - Project Analysis","O23 - Fiscal and Monetary Policy in Development","O24 - Trade Policy; Factor Movement Policy; Foreign Exchange Policy","O25 - Industrial Policy","O29 - Other","O3 - Innovation; Research and Development; Technological Change; Intellectual Property Rights","O30 - General","O31 - Innovation and Invention: Processes and Incentives","O32 - Management of Technological Innovation and R&D","O33 - Technological Change: Choices and Consequences; Diffusion Processes","O34 - Intellectual Property and Intellectual Capital","O35 - Social Innovation","O38 - Government Policy","O39 - Other","O4 - Economic Growth and Aggregate Productivity","O40 - General","O41 - One, Two, and Multisector Growth Models","O42 - Monetary Growth Models","O43 - Institutions and Growth","O44 - Environment and Growth","O47 - Empirical Studies of Economic Growth; Aggregate Productivity; Cross-Country Output Convergence","O49 - Other","O5 - Economywide Country Studies","O50 - General","O51 - U.S.; Canada","O52 - Europe","O53 - Asia including Middle East","O54 - Latin America; Caribbean","O55 - Africa","O56 - Oceania","O57 - Comparative Studies of Countries","Q - Agricultural and Natural Resource Economics; Environmental and Ecological Economics","Q0 - General","Q00 - General","Q01 - Sustainable Development","Q02 - Commodity Markets","Q1 - Agriculture","Q10 - General","Q11 - Aggregate Supply and Demand Analysis; Prices","Q12 - Micro Analysis of Farm Firms, Farm Households, and Farm Input Markets","Q13 - Agricultural Markets and Marketing; Cooperatives; Agribusiness","Q14 - Agricultural Finance","Q15 - Land Ownership and Tenure; Land Reform; Land Use; Irrigation; Agriculture and Environment","Q16 - R&D; Agricultural Technology; Biofuels; Agricultural Extension Services","Q17 - Agriculture in International Trade","Q18 - Agricultural Policy; Food Policy","Q19 - Other","Q2 - Renewable Resources and Conservation","Q20 - General","Q21 - Demand and Supply; Prices","Q22 - Fishery; Aquaculture","Q23 - Forestry","Q24 - Land","Q25 - Water","Q26 - Recreational Aspects of Natural Resources","Q27 - Issues in International Trade","Q28 - Government Policy","Q29 - Other","Q3 - Nonrenewable Resources and Conservation","Q30 - General","Q31 - Demand and Supply; Prices","Q32 - Exhaustible Resources and Economic Development","Q33 - Resource Booms","Q34 - Natural Resources and Domestic and International Conflicts","Q35 - Hydrocarbon Resources","Q37 - Issues in International Trade","Q38 - Government Policy","Q39 - Other","Q4 - Energy","Q40 - General","Q41 - Demand and Supply; Prices","Q42 - Alternative Energy Sources","Q43 - Energy and the Macroeconomy","Q47 - Energy Forecasting","Q48 - Government Policy","Q49 - Other","Q5 - Environmental Economics","Q50 - General","Q51 - Valuation of Environmental Effects","Q52 - Pollution Control Adoption Costs; Distributional Effects; Employment Effects","Q53 - Air Pollution; Water Pollution; Noise; Hazardous Waste; Solid Waste; Recycling","Q54 - Climate; Natural Disasters; Global Warming","Q55 - Technological Innovation","Q56 - Environment and Development; Environment and Trade; Sustainability; Environmental Accounts and Accounting; Environmental Equity; Population Growth","Q57 - Ecological Economics: Ecosystem Services; Biodiversity Conservation; Bioeconomics; Industrial Ecology","Q58 - Government Policy","Q59 - Other","R - Urban, Rural, Regional, Real Estate, and Transportation Economics","R0 - General","R00 - General","R1 - General Regional Economics","R10 - General","R11 - Regional Economic Activity: Growth, Development, Environmental Issues, and Changes","R12 - Size and Spatial Distributions of Regional Economic Activity","R13 - General Equilibrium and Welfare Economic Analysis of Regional Economies","R14 - Land Use Patterns","R15 - Econometric and Input-Output Models; Other Models","R19 - Other","R2 - Household Analysis","R20 - General","R21 - Housing Demand","R22 - Other Demand","R23 - Regional Migration; Regional Labor Markets; Population; Neighborhood Characteristics","R28 - Government Policy","R29 - Other","R3 - Real Estate Markets, Spatial Production Analysis, and Firm Location","R30 - General","R31 - Housing Supply and Markets","R32 - Other Spatial Production and Pricing Analysis","R33 - Nonagricultural and Nonresidential Real Estate Markets","R34 - Input Demand Analysis","R38 - Government Policy","R39 - Other","R4 - Transportation Economics","R40 - General","R41 - Transportation: Demand, Supply, and Congestion; Travel Time; Safety and Accidents; Transportation Noise","R42 - Government and Private Investment Analysis; Road Maintenance; Transportation Planning","R48 - Government Pricing and Policy","R49 - Other","R5 - Regional Government Analysis","R50 - General","R51 - Finance in Urban and Rural Economies","R52 - Land Use and Other Regulations","R53 - Public Facility Location Analysis; Public Investment and Capital Stock","R58 - Regional Development Planning and Policy","R59 - Other"],"datePublished":"2011-01-01","isPartOf":{"@id":"https://academic.oup.com/ajae/issue/93/2","@type":"PublicationIssue","issueNumber":"2","datePublished":"2011-01-01","isPartOf":{"@id":"https://academic.oup.com/ajae","@type":"Periodical","name":"American Journal of Agricultural Economics","issn":["1467-8276"]}},"url":"http://dx.doi.org/10.1093/ajae/aaq189","inLanguage":"en","copyrightHolder":"Agricultural and Applied Economics Association","copyrightYear":"2017","publisher":"Oxford University Press","sameAs":"https://academic.oup.com/ajae/article/93/2/259/53674/The-Global-Supply-and-Demand-for-Agricultural-Land","author":[{"name":"Hertel, Thomas W.","affiliation":"AAEA Presidential Address delivered by Thomas W. Hertel, Purdue University.","@type":"Person"}],"description":"© The Author (2011). Published by Oxford University Press on behalf of the Agricultural and Applied Economics Association. All rights reserved. For permissions, please e-mail: journals.permissions@oup.comOver the past three years, there has been a convergence of interest in the global farm and food system and its contributions to feeding the world’s population as well as to ensuring the environmental sustainability of the planet. The 2007/2008 commodity crisis underscored the vulnerability of the global food system to shocks from extreme weather events, energy and financial markets, as well as government interventions in the form of export bans and other measures designed to avoid domestic adjustment to global scarcity. We have learned that a “perfect storm” in which all these factors coincide can have a devastating impact on the world’s poor, as well as pressuring the world’s natural resource base. As we look ahead to the middle of this century, will...","pageStart":"259","pageEnd":"275"}
+    </script>
+<meta name="citation_author" content="Hertel, Thomas W." /><meta name="citation_author_institution" content="AAEA Presidential Address delivered by Thomas W. Hertel, Purdue University." /><meta name="citation_title" content="The Global Supply and Demand for Agricultural Land in 2050: A Perfect Storm in the Making?" /><meta name="citation_firstpage" content="259" /><meta name="citation_lastpage" content="275" /><meta name="citation_doi" content="10.1093/ajae/aaq189" /><meta name="citation_journal_title" content="American Journal of Agricultural Economics" /><meta name="citation_journal_abbrev" content="Am J Agric Econ" /><meta name="citation_volume" content="93" /><meta name="citation_issue" content="2" /><meta name="citation_publication_date" content="2011/01/01" /><meta name="citation_issn" content="0002-9092" /><meta name="citation_publisher" content="Oxford University Press" /><meta name="citation_reference" content="citation_title=Climate volatility deepens poverty vulnerability in developing countries; citation_text=();  citation_journal_title=Environmental Research Letters;  citation_year=2009;  citation_volume=4;  citation_issue=3;  citation_pages=034004" /><meta name="citation_reference" content="citation_title=Calibration of a Land Cover Supply Function Using Transition Probabilities;  citation_url=http://www.gtap.agecon.purdue.edu/resources/res_display.asp?RecordID=2947;  citation_year=2008; " /><meta name="citation_reference" content="citation_title=Agricultural Research, Productivity, and Food Prices in the Long Run; citation_text=(September 4);  citation_journal_title=Science;  citation_year=2009;  citation_volume=325;  citation_issue=5945;  citation_pages=1209-1210; " /><meta name="citation_reference" content="citation_title=Introduction to the Environmental Kuznets Curve Special Issue;  citation_journal_title=Environment and Development Economics;  citation_year=1997;  citation_volume=2;  citation_issue=04;  citation_pages=369-381; " /><meta name="citation_reference" content="citation_title=The role of pasture and soybean in deforestation of the Brazilian Amazon; citation_text=();  citation_journal_title=Environmental Research Letters;  citation_year=2010;  citation_volume=5;  citation_issue=2;  citation_pages=024002" /><meta name="citation_reference" content="citation_text=Working Paper. Ames, Iowa: Center for Agricultural and Rural Development, Iowa State University;  citation_journal_title=Agricultural Land Elasticities in the United States and Brazil;  citation_year=2010; " /><meta name="citation_reference" content=" citation_publisher_name=World Resources Institute; citation_publisher_loc=Washington, DC, USA;  citation_journal_title=Navigating the Numbers: Greenhouse Gas Data and International Climate Policy;  citation_year=2009; " /><meta name="citation_reference" content="citation_title=The Extent and Characteristics of Manure Use on U.S. Cropland under Rate Restrictions;  citation_url=http://ideas.repec.org/p/ags/aaea09/49172.html;  citation_year=2009; " /><meta name="citation_reference" content="citation_title=The resource outlook to 2050. By how much do land, water use and crop yields need to increase by 2050?; citation_text=June 24; citation_publisher_loc=Rome, Italy;  citation_journal_title=Session 2;  citation_year=2009; " /><meta name="citation_reference" content="citation_text=Issue Paper. Council for Agricultural Science and Technology;  citation_journal_title=Agricultural Productivity Strategies for the Future - Addressing U.S. and Global Challenges;  citation_year=2010; " /><meta name="citation_reference" content="citation_title=The Land Resource for Agriculture;  citation_journal_title=Philosophical Transactions of the Royal Society of London. Series B, Biological Sciences;  citation_year=1985;  citation_volume=310;  citation_issue=1144;  citation_pages=151-159; " /><meta name="citation_reference" content=" citation_publisher_name=The World Bank; citation_publisher_loc=Washington, D. C.;  citation_journal_title=Rising global interest in farmland: Can it yield sustainable and equitable benefits?;  citation_year=2010; " /><meta name="citation_reference" content="citation_title=Hares and Tortoises: Interactions of Fast and Slow Variablesin Ecosystems; citation_text=(November 21);  citation_journal_title=Ecosystems;  citation_year=2000;  citation_volume=3;  citation_issue=6;  citation_pages=495-497; " /><meta name="citation_reference" content="citation_org=Energy Information Agency; citation_title=Annual Energy Outlook 2010; citation_text=US Dept. of Energy;  citation_year=2010; " /><meta name="citation_reference" content="citation_title=Economic Benefits from Research: An Example from Agriculture; citation_text=(September 14);  citation_journal_title=Science;  citation_year=1979;  citation_volume=205;  citation_issue=4411;  citation_pages=1101-1107; " /><meta name="citation_reference" content="citation_title=Ethanol Can Contribute to Energy and Environmental Goals; citation_text=(January 27);  citation_journal_title=Science;  citation_year=2006;  citation_volume=311;  citation_issue=5760;  citation_pages=506-508; " /><meta name="citation_reference" content="citation_title=How do climate change and bioenergy alter the long-term outlook for food, agriculture and resource availability?; citation_text=Rome, Italy: June 24;  citation_journal_title=Session 2;  citation_year=2009; " /><meta name="citation_reference" content="citation_title=Can technology deliver on the yield challenge to 2050?; citation_text=Rome, Italy: June 24;  citation_journal_title=Session 4;  citation_year=2009; " /><meta name="citation_reference" content="citation_title=Is a slowdown in agricultural productivity growth contributing to the rise in commodity prices?;  citation_journal_title=Agricultural Economics;  citation_year=2008;  citation_volume=39;  citation_issue=supplement;  citation_pages=431-441; " /><meta name="citation_reference" content="citation_title=Global Consequences of Land Use; citation_text=(July 22);  citation_journal_title=Science;  citation_year=2005;  citation_volume=309;  citation_issue=5734;  citation_pages=570-574; " /><meta name="citation_reference" content="citation_org=Food and Agriculture Organization of the United Nations.; citation_title=Environmental services and agriculture;  citation_publisher_name=Food and Agriculture Organisation of the United Nations, 12–32; citation_publisher_loc=Rome, Italy;  citation_journal_title=The State of Food and Agriculture 2007;  citation_year=2007; " /><meta name="citation_reference" content="citation_org=Food and Agriculture Organization, and Organization for Economic Co-Operation and Development.;  citation_publisher_name=Food and Agriculture Organization of the United Nations/Organization for Economic Co-Operation and Development; citation_publisher_loc=Paris and Rome;  citation_journal_title=Agricultural Outlook: 2008-2017;  citation_year=2008; " /><meta name="citation_reference" content="citation_title=Pathways of Agricultural Expansion Across the Tropics: Implications for Forest Conservation and Carbon Emissions; citation_text=(forthcoming);  citation_journal_title=Proceedings of the National Academy of Sciences; " /><meta name="citation_reference" content="citation_title=The opportunity cost of land use and the global potential for greenhouse gas mitigation in agriculture and forestry;  citation_journal_title=Resource and Energy Economics;  citation_year=2009;  citation_volume=31;  citation_issue=4;  citation_pages=299-319; " /><meta name="citation_reference" content="citation_title=Global Economic Integration and Land Use Change;  citation_journal_title=Journal of Economic Integration;  citation_year=2008;  citation_volume=23;  citation_issue=3;  citation_pages=463-488; " /><meta name="citation_reference" content="citation_title=Farming and the Fate of Wild Nature; citation_text=(January 28);  citation_journal_title=Science;  citation_year=2005;  citation_volume=307;  citation_issue=5709;  citation_pages=550-555; " /><meta name="citation_reference" content=" citation_publisher_name=Johns Hopkins University Press; citation_publisher_loc=Baltimore;  citation_journal_title=Agricultural Development: An International Perspective;  citation_year=1985; " /><meta name="citation_reference" content="citation_text=Center for Global Trade Analysis, Department of Agricultural Economics, Purdue University;  citation_journal_title=The Poverty Implications of Climate-Induced Crop Yield Changes by 2030;  citation_year=2010; " /><meta name="citation_reference" content="citation_title=Global Land Use and Greenhouse Gas Emissions Impacts of US Maize Ethanol: Estimating Market-Mediated Responses;  citation_journal_title=BioScience;  citation_year=2010;  citation_volume=66;  citation_issue=3;  citation_pages=223-231; " /><meta name="citation_reference" content="citation_title=Land Use In Computable General Equilibrium Models: An Overview; citation_text=Routledge Explorations in Environmental Economics;  citation_publisher_name=Routledge; citation_publisher_loc=United Kingdom;  citation_journal_title=Economic Analysis of Land Use in Global Climate Change Policy;  citation_year=2009; " /><meta name="citation_reference" content="citation_title=Nitrogen-Land Substitution in Corn Production: A Reconciliation of Aggregate and Firm-Level Evidence; citation_text=(February);  citation_journal_title=American Journal of Agricultural Economics;  citation_year=1996;  citation_volume=78;  citation_issue=1;  citation_pages=30-40; " /><meta name="citation_reference" content="citation_title=Biofuels for all?; citation_text=Understanding the Global Impacts of Multinational Mandates. In Orlando, Florida, USA, July 27;  citation_year=2008; " /><meta name="citation_reference" content="citation_title=The Worldwide Extent of Land-Use Change;  citation_journal_title=BioScience;  citation_year=1994;  citation_volume=44;  citation_issue=5;  citation_pages=305-313; " /><meta name="citation_reference" content="citation_org=International Rice Research Institute.; citation_text=Los Baños, Laguna, Philippines;  citation_journal_title=Farm-Level Constraints to High Rice Yields in Asia: 1974–1977;  citation_year=1979; " /><meta name="citation_reference" content="citation_title=The Indirect Land Use Impacts of United States Biofuel Policies: The Importance of Acreage, Yield, and Bilateral Trade Responses;  citation_journal_title=American Journal of Agricultural Economics;  citation_year=2009;  citation_volume=91;  citation_issue=4;  citation_pages=895-909; " /><meta name="citation_reference" content="citation_title=A Synthesis of Information on Rapid Land-cover Change for the Period 1981–2000;  citation_journal_title=BioScience;  citation_year=2005;  citation_volume=55;  citation_issue=2;  citation_pages=115-124; " /><meta name="citation_reference" content="citation_title=Mind the Gap: How do climate and agricultural management explain the ‘yield gap’ of croplands around the world?”; citation_text=unpublished manuscript, Center for Sustainability and the Global Environment, University of Wisconsin;  citation_year=2010; " /><meta name="citation_reference" content="citation_title=Crop Yield Gaps: Their Importance, Magnitudes, and Causes;  citation_journal_title=Annual Review of Environment and Resources;  citation_year=2009;  citation_volume=34;  citation_issue=1;  citation_pages=179-204; " /><meta name="citation_reference" content="citation_title=Land-use change and carbon sinks: Econometric estimation of the carbon sequestration supply function;  citation_journal_title=Journal of Environmental Economics and Management;  citation_year=2006;  citation_volume=51;  citation_issue=2;  citation_pages=135-152; " /><meta name="citation_reference" content=" citation_edition=9th Ed;  citation_publisher_name=Ballantyne Press; citation_publisher_loc=inburgh and London;  citation_journal_title=An Essay on the Principle of Population;  citation_year=1888; " /><meta name="citation_reference" content="citation_title=Insights from EMF-associated agricultural and forestry greenhouse gas mitigation studies; citation_text=Chp. 20.;  citation_publisher_name=Cambridge University Press; citation_publisher_loc=Cambridge, England;  citation_journal_title=Human-Induced Climate Change: An Interdisciplinary Assessment;  citation_year=2007; " /><meta name="citation_reference" content="citation_title=Estimating the Intensive and Extensive Margins of Crop Land Yields in the United States presented at the AAEA/AERE Annual Meeting; citation_text=July, Milwaukee, Wisconsin;  citation_year=2009; " /><meta name="citation_reference" content="citation_org=McKinsey &amp;. Co.; citation_text=2030 Water Resources Group: McKinsey &amp; Co.;  citation_journal_title=Charting Our Water Future: Economic frameworks to inform decision-making;  citation_year=2009; " /><meta name="citation_reference" content="citation_title=US Biofuel Baseline; citation_text=Food and Agricultural Policy Research Institute, University of Missouri;  citation_year=2010; " /><meta name="citation_reference" content="citation_title=Farming the planet: 2. Geographic distribution of crop areas, yields, physiological types, and net primary production in the year 2000; citation_text=();  citation_journal_title=Global Biogeochemical Cycles;  citation_year=2008;  citation_volume=22; " /><meta name="citation_reference" content="citation_text=International Food Policy Research Institute (IFPRI);  citation_journal_title=The Costs of Agricultural Adaptation to Climate Change;  citation_year=2010; " /><meta name="citation_reference" content="citation_title=The yield gap of global grain production: A spatial analysis;  citation_journal_title=Agricultural Systems;  citation_year=2010;  citation_volume=103;  citation_issue=5;  citation_pages=316-326; " /><meta name="citation_reference" content=" citation_publisher_name=Harvard University Press;  citation_journal_title=Starved for science: how biotechnology is being kept out of Africa;  citation_year=2008; " /><meta name="citation_reference" content="citation_title=Characterizing the Spatial Patterns of Global Fertilizer Application and Manure Production;  citation_journal_title=Earth Interactions;  citation_year=2010;  citation_volume=14;  citation_issue=2;  citation_pages=1-22; " /><meta name="citation_reference" content="citation_title=Agriculture and Forests: Recent Trends, Future Prospects; citation_text=Strüngmann Forum Reports;  citation_publisher_name=MIT Press, 4 11–31; citation_publisher_loc=Cambridge, MA;  citation_journal_title=Linkages of Sustainability;  citation_year=2010; " /><meta name="citation_reference" content="citation_title=People on the Land: Changes in Global Population and Croplands during the 20th Century;  citation_journal_title=AMBIO;  citation_year=2002;  citation_pages=251-257; " /><meta name="citation_reference" content="citation_title=Global Land-Cover Change: Recent Progress, Remaining Challenges;  citation_url=http://dx.doi.org/10.1007/3-540-32202-7_2;  citation_publisher_name=Springer; citation_publisher_loc=The Netherlands;  citation_journal_title=Land Use and Land Cover Change;  citation_year=2006;  citation_pages=9-39; " /><meta name="citation_reference" content="citation_title=Trade Liberalization As A Vehicle For Adapting To Global Warming;  citation_journal_title=Agricultural and Resource Economics Review;  citation_year=2000;  citation_volume=29;  citation_issue=2;  citation_pages=1-14; " /><meta name="citation_reference" content="citation_title=Global economic effects of changes in crops, pasture, and forests due to changing climate, carbon dioxide, and ozone;  citation_journal_title=Energy Policy;  citation_year=2007;  citation_volume=35;  citation_issue=11;  citation_pages=5370-5383; " /><meta name="citation_reference" content="citation_title=Productivity Growth in World Agriculture: Sources and Constraints;  citation_journal_title=The Journal of Economic Perspectives;  citation_year=2002;  citation_volume=16;  citation_issue=4;  citation_pages=161-184; " /><meta name="citation_reference" content="citation_title=Robust negative impacts of climate change on African agriculture; citation_text=();  citation_journal_title=Environmental Research Letters;  citation_year=2010;  citation_volume=5;  citation_issue=1;  citation_pages=014010" /><meta name="citation_reference" content="citation_title=Nonlinear temperature effects indicate severe damages to U.S. crop yields under climate change;  citation_journal_title=Proceedings of the National Academy of Sciences;  citation_year=2009;  citation_volume=106;  citation_pages=15594-15598; " /><meta name="citation_reference" content="citation_title=International Evidence On Food Consumption Patterns;  citation_url=http://ideas.repec.org/p/ags/uerstb/33580.html;  citation_year=2003; " /><meta name="citation_reference" content="citation_title=Use of U.S. Croplands for Biofuels Increases Greenhouse Gases Through Emissions from Land-Use Change; citation_text=(February 29);  citation_journal_title=Science;  citation_year=2008;  citation_volume=319;  citation_issue=5867;  citation_pages=1238-1240; " /><meta name="citation_reference" content="citation_title=Stocks, Flows, and Prospects of Land; citation_text=Strüngmann Forum Reports;  citation_publisher_name=MIT Press; citation_publisher_loc=Cambridge, MA;  citation_journal_title=Linkages of Sustainability;  citation_year=2010;  citation_volume=4;  citation_pages=71-96; " /><meta name="citation_reference" content="citation_title=An Analysis of Forestry Carbon Sequestration as a Response to Climate Change; citation_text=Copenhagen Consensus on Climate;  citation_year=2010; " /><meta name="citation_reference" content="citation_title=The influence of conversion of forest types on carbon sequestration and other ecosystem services in the South Central United States;  citation_journal_title=Ecological Economics;  citation_year=2006;  citation_volume=57;  citation_issue=4;  citation_pages=698-708; " /><meta name="citation_reference" content="citation_text=Second.;  citation_publisher_name=Blackwell; citation_publisher_loc=Oxford;  citation_journal_title=The World Food Economy;  citation_year=2010; " /><meta name="citation_reference" content="citation_title=Long-term Global Agricultural Output Supply-Demand Balance and Real Farm and Food Prices;  citation_journal_title=Farm Policy Journal;  citation_year=2009;  citation_volume=6;  citation_issue=1; " /><meta name="citation_reference" content="citation_org=United Nations Environment Programme.;  citation_publisher_name=United Nations Environment Programme; citation_publisher_loc=Paris;  citation_journal_title=Towards sustainable production and use of resources assessing biofuels;  citation_year=2009; " /><meta name="citation_reference" content="citation_title=Nutrient Imbalances in Agricultural Development;  citation_journal_title=Science;  citation_year=2009;  citation_volume=324;  citation_issue=5934;  citation_pages=1519-1520; " /><meta name="citation_reference" content=" citation_publisher_name=Financial Times Press; citation_publisher_loc=New Jersey, USA;  citation_journal_title=The Economics of Food;  citation_year=2010; " /><meta name="citation_reference" content="citation_text=Pacific Northwest National Laboratory;  citation_journal_title=The Implications of Limiting CO2 Concentrations for Agriculture, Land Use, Land-use Change Emissions and Bioenergy;  citation_year=2009; " /><meta name="citation_reference" content="citation_org=World Bank.; citation_text=World Development Report;  citation_journal_title=Agriculture for Development;  citation_year=2008; " /><meta name="citation_pdf_url" content="https://academic.oup.com/ajae/article-pdf/93/2/259/115624/aaq189.pdf" />
+    
+
+
+    <link rel="canonical" href="https://academic.oup.com/ajae/article-abstract/93/2/259/53674/The-Global-Supply-and-Demand-for-Agricultural-Land" />
+
+
+        <!-- Start: GPT Async -->
+
+<script async='async' src='https://www.googletagservices.com/tag/js/gpt.js'></script>
+<script>
+  var googletag = googletag || {};
+  googletag.cmd = googletag.cmd || [];
+</script>
+
+
+
+<script type='text/javascript'>
+  var gptAdSlots = [];
+  googletag.cmd.push(function() {
+
+    
+    var mapping_ad1 = googletag.sizeMapping().
+    addSize([768, 0], [728, 90]).
+    addSize([0, 0], [320, 50]).build();
+    gptAdSlots["ad1"] = googletag.defineSlot('/116097782/ajae_InFront_Ad1', [[728, 90], [320, 50]], 'adBlockHeader').
+    defineSizeMapping(mapping_ad1).
+    addService(googletag.pubads());
+    
+    var mapping_ad2 = googletag.sizeMapping().
+	addSize([0, 0], []).
+    addSize([768, 0], [[300, 250], [300, 600], [160, 600]]).build();
+    gptAdSlots["ad2"] = googletag.defineSlot('/116097782/ajae_InFront_Ad2', [[300, 250], [160, 600], [300, 600]], 'adBlockMainBodyTop').
+    defineSizeMapping(mapping_ad2).
+    addService(googletag.pubads());
+    
+    var mapping_ad3 = googletag.sizeMapping().
+	addSize([0, 0], []).
+    addSize([768, 0], [[300, 250], [300, 600], [160, 600]]).build();
+    gptAdSlots["ad3"] = googletag.defineSlot('/116097782/ajae_InFront_Ad3', [[300, 250], [160, 600], [300, 600]], 'adBlockMainBodyBottom').
+    defineSizeMapping(mapping_ad3).
+    addService(googletag.pubads());
+    
+    var mapping_ad4 = googletag.sizeMapping().
+	addSize([0, 0], []).
+    addSize([768, 0], [728, 90]).build();
+    gptAdSlots["ad4"] = googletag.defineSlot('/116097782/ajae_InFront_Ad4', [728, 90], 'adBlockFooter').
+    defineSizeMapping(mapping_ad4).
+    addService(googletag.pubads());
+    
+
+    googletag.pubads().enableSingleRequest();
+    googletag.pubads().collapseEmptyDivs();
+    googletag.enableServices();
+  });
+</script>
+
+
+    <script>
+        var oupcookiepolicy_siteid = "journals";;	  	// the website id	
+        var oupcookiepolicy_messagetype = 'implied';			            // type of alert message e.g, implied / explicit
+        var oupcookiepolicy_preferredlanguage = "en";		// preferred language of the website
+        var oupcookiepolicy_impliedmessageclass = 'cookiepolicyimplied';	// the css class for implied alert message
+        var oupcookiepolicy_documentroot = '/';	  			                // the document root the cookie is set to
+    </script>
+    <noscript>We use cookies to enhance your experience on our website. By continuing to use our website, you are agreeing to our use of cookies. You can change your cookie settings at any time. <a href="https://global.oup.com/cookiepolicy/" target="_blank">Find out more</a></noscript>
+
+    <script type="text/javascript">
+        var NTPT_PGEXTRA='event_type=Login-full-text.pdf&supplier_tag=SC_Journals&siteid=ajae&authzrequired=false&doi=10.1093/ajae/aaq189';
+    </script>
+<title>
+	Global Supply and Demand for Agricultural Land in 2050: A Perfect Storm in the Making?1 | American Journal of Agricultural Economics | Oxford Academic
+</title></head>
+
+<body data-sitename="americanjournalofagriculturaleconomics" class="off-canvas pg_article" theme-ajae>
+    <a href="#main" class="skipnav">Skip to Main Content</a>
+    <form method="post" action="./The-Global-Supply-and-Demand-for-Agricultural-Land?redirectedFrom=PDF" id="webform">
+<div class="aspNetHidden">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwULLTEzMTQwMzI3MTMPZBYCZg9kFgJmD2QWBGYPZBYCAg0PZBYCAgEPZBYCZg8WAh4EVGV4dAXtmgE8bWV0YSBuYW1lPSJjaXRhdGlvbl9hdXRob3IiIGNvbnRlbnQ9IkhlcnRlbCwgVGhvbWFzIFcuIiAvPjxtZXRhIG5hbWU9ImNpdGF0aW9uX2F1dGhvcl9pbnN0aXR1dGlvbiIgY29udGVudD0iQUFFQSBQcmVzaWRlbnRpYWwgQWRkcmVzcyBkZWxpdmVyZWQgYnkgVGhvbWFzIFcuIEhlcnRlbCwgUHVyZHVlIFVuaXZlcnNpdHkuIiAvPjxtZXRhIG5hbWU9ImNpdGF0aW9uX3RpdGxlIiBjb250ZW50PSJUaGUgR2xvYmFsIFN1cHBseSBhbmQgRGVtYW5kIGZvciBBZ3JpY3VsdHVyYWwgTGFuZCBpbiAyMDUwOiBBIFBlcmZlY3QgU3Rvcm0gaW4gdGhlIE1ha2luZz8iIC8+PG1ldGEgbmFtZT0iY2l0YXRpb25fZmlyc3RwYWdlIiBjb250ZW50PSIyNTkiIC8+PG1ldGEgbmFtZT0iY2l0YXRpb25fbGFzdHBhZ2UiIGNvbnRlbnQ9IjI3NSIgLz48bWV0YSBuYW1lPSJjaXRhdGlvbl9kb2kiIGNvbnRlbnQ9IjEwLjEwOTMvYWphZS9hYXExODkiIC8+PG1ldGEgbmFtZT0iY2l0YXRpb25fam91cm5hbF90aXRsZSIgY29udGVudD0iQW1lcmljYW4gSm91cm5hbCBvZiBBZ3JpY3VsdHVyYWwgRWNvbm9taWNzIiAvPjxtZXRhIG5hbWU9ImNpdGF0aW9uX2pvdXJuYWxfYWJicmV2IiBjb250ZW50PSJBbSBKIEFncmljIEVjb24iIC8+PG1ldGEgbmFtZT0iY2l0YXRpb25fdm9sdW1lIiBjb250ZW50PSI5MyIgLz48bWV0YSBuYW1lPSJjaXRhdGlvbl9pc3N1ZSIgY29udGVudD0iMiIgLz48bWV0YSBuYW1lPSJjaXRhdGlvbl9wdWJsaWNhdGlvbl9kYXRlIiBjb250ZW50PSIyMDExLzAxLzAxIiAvPjxtZXRhIG5hbWU9ImNpdGF0aW9uX2lzc24iIGNvbnRlbnQ9IjAwMDItOTA5MiIgLz48bWV0YSBuYW1lPSJjaXRhdGlvbl9wdWJsaXNoZXIiIGNvbnRlbnQ9Ik94Zm9yZCBVbml2ZXJzaXR5IFByZXNzIiAvPjxtZXRhIG5hbWU9ImNpdGF0aW9uX3JlZmVyZW5jZSIgY29udGVudD0iY2l0YXRpb25fdGl0bGU9Q2xpbWF0ZSB2b2xhdGlsaXR5IGRlZXBlbnMgcG92ZXJ0eSB2dWxuZXJhYmlsaXR5IGluIGRldmVsb3BpbmcgY291bnRyaWVzOyBjaXRhdGlvbl90ZXh0PSgpOyAgY2l0YXRpb25fam91cm5hbF90aXRsZT1FbnZpcm9ubWVudGFsIFJlc2VhcmNoIExldHRlcnM7ICBjaXRhdGlvbl95ZWFyPTIwMDk7ICBjaXRhdGlvbl92b2x1bWU9NDsgIGNpdGF0aW9uX2lzc3VlPTM7ICBjaXRhdGlvbl9wYWdlcz0wMzQwMDQiIC8+PG1ldGEgbmFtZT0iY2l0YXRpb25fcmVmZXJlbmNlIiBjb250ZW50PSJjaXRhdGlvbl90aXRsZT1DYWxpYnJhdGlvbiBvZiBhIExhbmQgQ292ZXIgU3VwcGx5IEZ1bmN0aW9uIFVzaW5nIFRyYW5zaXRpb24gUHJvYmFiaWxpdGllczsgIGNpdGF0aW9uX3VybD1odHRwOi8vd3d3Lmd0YXAuYWdlY29uLnB1cmR1ZS5lZHUvcmVzb3VyY2VzL3Jlc19kaXNwbGF5LmFzcD9SZWNvcmRJRD0yOTQ3OyAgY2l0YXRpb25feWVhcj0yMDA4OyAiIC8+PG1ldGEgbmFtZT0iY2l0YXRpb25fcmVmZXJlbmNlIiBjb250ZW50PSJjaXRhdGlvbl90aXRsZT1BZ3JpY3VsdHVyYWwgUmVzZWFyY2gsIFByb2R1Y3Rpdml0eSwgYW5kIEZvb2QgUHJpY2VzIGluIHRoZSBMb25nIFJ1bjsgY2l0YXRpb25fdGV4dD0oU2VwdGVtYmVyIDQpOyAgY2l0YXRpb25fam91cm5hbF90aXRsZT1TY2llbmNlOyAgY2l0YXRpb25feWVhcj0yMDA5OyAgY2l0YXRpb25fdm9sdW1lPTMyNTsgIGNpdGF0aW9uX2lzc3VlPTU5NDU7ICBjaXRhdGlvbl9wYWdlcz0xMjA5LTEyMTA7ICIgLz48bWV0YSBuYW1lPSJjaXRhdGlvbl9yZWZlcmVuY2UiIGNvbnRlbnQ9ImNpdGF0aW9uX3RpdGxlPUludHJvZHVjdGlvbiB0byB0aGUgRW52aXJvbm1lbnRhbCBLdXpuZXRzIEN1cnZlIFNwZWNpYWwgSXNzdWU7ICBjaXRhdGlvbl9qb3VybmFsX3RpdGxlPUVudmlyb25tZW50IGFuZCBEZXZlbG9wbWVudCBFY29ub21pY3M7ICBjaXRhdGlvbl95ZWFyPTE5OTc7ICBjaXRhdGlvbl92b2x1bWU9MjsgIGNpdGF0aW9uX2lzc3VlPTA0OyAgY2l0YXRpb25fcGFnZXM9MzY5LTM4MTsgIiAvPjxtZXRhIG5hbWU9ImNpdGF0aW9uX3JlZmVyZW5jZSIgY29udGVudD0iY2l0YXRpb25fdGl0bGU9VGhlIHJvbGUgb2YgcGFzdHVyZSBhbmQgc295YmVhbiBpbiBkZWZvcmVzdGF0aW9uIG9mIHRoZSBCcmF6aWxpYW4gQW1hem9uOyBjaXRhdGlvbl90ZXh0PSgpOyAgY2l0YXRpb25fam91cm5hbF90aXRsZT1FbnZpcm9ubWVudGFsIFJlc2VhcmNoIExldHRlcnM7ICBjaXRhdGlvbl95ZWFyPTIwMTA7ICBjaXRhdGlvbl92b2x1bWU9NTsgIGNpdGF0aW9uX2lzc3VlPTI7ICBjaXRhdGlvbl9wYWdlcz0wMjQwMDIiIC8+PG1ldGEgbmFtZT0iY2l0YXRpb25fcmVmZXJlbmNlIiBjb250ZW50PSJjaXRhdGlvbl90ZXh0PVdvcmtpbmcgUGFwZXIuIEFtZXMsIElvd2E6IENlbnRlciBmb3IgQWdyaWN1bHR1cmFsIGFuZCBSdXJhbCBEZXZlbG9wbWVudCwgSW93YSBTdGF0ZSBVbml2ZXJzaXR5OyAgY2l0YXRpb25fam91cm5hbF90aXRsZT1BZ3JpY3VsdHVyYWwgTGFuZCBFbGFzdGljaXRpZXMgaW4gdGhlIFVuaXRlZCBTdGF0ZXMgYW5kIEJyYXppbDsgIGNpdGF0aW9uX3llYXI9MjAxMDsgIiAvPjxtZXRhIG5hbWU9ImNpdGF0aW9uX3JlZmVyZW5jZSIgY29udGVudD0iIGNpdGF0aW9uX3B1Ymxpc2hlcl9uYW1lPVdvcmxkIFJlc291cmNlcyBJbnN0aXR1dGU7IGNpdGF0aW9uX3B1Ymxpc2hlcl9sb2M9V2FzaGluZ3RvbiwgREMsIFVTQTsgIGNpdGF0aW9uX2pvdXJuYWxfdGl0bGU9TmF2aWdhdGluZyB0aGUgTnVtYmVyczogR3JlZW5ob3VzZSBHYXMgRGF0YSBhbmQgSW50ZXJuYXRpb25hbCBDbGltYXRlIFBvbGljeTsgIGNpdGF0aW9uX3llYXI9MjAwOTsgIiAvPjxtZXRhIG5hbWU9ImNpdGF0aW9uX3JlZmVyZW5jZSIgY29udGVudD0iY2l0YXRpb25fdGl0bGU9VGhlIEV4dGVudCBhbmQgQ2hhcmFjdGVyaXN0aWNzIG9mIE1hbnVyZSBVc2Ugb24gVS5TLiBDcm9wbGFuZCB1bmRlciBSYXRlIFJlc3RyaWN0aW9uczsgIGNpdGF0aW9uX3VybD1odHRwOi8vaWRlYXMucmVwZWMub3JnL3AvYWdzL2FhZWEwOS80OTE3Mi5odG1sOyAgY2l0YXRpb25feWVhcj0yMDA5OyAiIC8+PG1ldGEgbmFtZT0iY2l0YXRpb25fcmVmZXJlbmNlIiBjb250ZW50PSJjaXRhdGlvbl90aXRsZT1UaGUgcmVzb3VyY2Ugb3V0bG9vayB0byAyMDUwLiBCeSBob3cgbXVjaCBkbyBsYW5kLCB3YXRlciB1c2UgYW5kIGNyb3AgeWllbGRzIG5lZWQgdG8gaW5jcmVhc2UgYnkgMjA1MD87IGNpdGF0aW9uX3RleHQ9SnVuZSAyNDsgY2l0YXRpb25fcHVibGlzaGVyX2xvYz1Sb21lLCBJdGFseTsgIGNpdGF0aW9uX2pvdXJuYWxfdGl0bGU9U2Vzc2lvbiAyOyAgY2l0YXRpb25feWVhcj0yMDA5OyAiIC8+PG1ldGEgbmFtZT0iY2l0YXRpb25fcmVmZXJlbmNlIiBjb250ZW50PSJjaXRhdGlvbl90ZXh0PUlzc3VlIFBhcGVyLiBDb3VuY2lsIGZvciBBZ3JpY3VsdHVyYWwgU2NpZW5jZSBhbmQgVGVjaG5vbG9neTsgIGNpdGF0aW9uX2pvdXJuYWxfdGl0bGU9QWdyaWN1bHR1cmFsIFByb2R1Y3Rpdml0eSBTdHJhdGVnaWVzIGZvciB0aGUgRnV0dXJlIC0gQWRkcmVzc2luZyBVLlMuIGFuZCBHbG9iYWwgQ2hhbGxlbmdlczsgIGNpdGF0aW9uX3llYXI9MjAxMDsgIiAvPjxtZXRhIG5hbWU9ImNpdGF0aW9uX3JlZmVyZW5jZSIgY29udGVudD0iY2l0YXRpb25fdGl0bGU9VGhlIExhbmQgUmVzb3VyY2UgZm9yIEFncmljdWx0dXJlOyAgY2l0YXRpb25fam91cm5hbF90aXRsZT1QaGlsb3NvcGhpY2FsIFRyYW5zYWN0aW9ucyBvZiB0aGUgUm95YWwgU29jaWV0eSBvZiBMb25kb24uIFNlcmllcyBCLCBCaW9sb2dpY2FsIFNjaWVuY2VzOyAgY2l0YXRpb25feWVhcj0xOTg1OyAgY2l0YXRpb25fdm9sdW1lPTMxMDsgIGNpdGF0aW9uX2lzc3VlPTExNDQ7ICBjaXRhdGlvbl9wYWdlcz0xNTEtMTU5OyAiIC8+PG1ldGEgbmFtZT0iY2l0YXRpb25fcmVmZXJlbmNlIiBjb250ZW50PSIgY2l0YXRpb25fcHVibGlzaGVyX25hbWU9VGhlIFdvcmxkIEJhbms7IGNpdGF0aW9uX3B1Ymxpc2hlcl9sb2M9V2FzaGluZ3RvbiwgRC4gQy47ICBjaXRhdGlvbl9qb3VybmFsX3RpdGxlPVJpc2luZyBnbG9iYWwgaW50ZXJlc3QgaW4gZmFybWxhbmQ6IENhbiBpdCB5aWVsZCBzdXN0YWluYWJsZSBhbmQgZXF1aXRhYmxlIGJlbmVmaXRzPzsgIGNpdGF0aW9uX3llYXI9MjAxMDsgIiAvPjxtZXRhIG5hbWU9ImNpdGF0aW9uX3JlZmVyZW5jZSIgY29udGVudD0iY2l0YXRpb25fdGl0bGU9SGFyZXMgYW5kIFRvcnRvaXNlczogSW50ZXJhY3Rpb25zIG9mIEZhc3QgYW5kIFNsb3cgVmFyaWFibGVzaW4gRWNvc3lzdGVtczsgY2l0YXRpb25fdGV4dD0oTm92ZW1iZXIgMjEpOyAgY2l0YXRpb25fam91cm5hbF90aXRsZT1FY29zeXN0ZW1zOyAgY2l0YXRpb25feWVhcj0yMDAwOyAgY2l0YXRpb25fdm9sdW1lPTM7ICBjaXRhdGlvbl9pc3N1ZT02OyAgY2l0YXRpb25fcGFnZXM9NDk1LTQ5NzsgIiAvPjxtZXRhIG5hbWU9ImNpdGF0aW9uX3JlZmVyZW5jZSIgY29udGVudD0iY2l0YXRpb25fb3JnPUVuZXJneSBJbmZvcm1hdGlvbiBBZ2VuY3k7IGNpdGF0aW9uX3RpdGxlPUFubnVhbCBFbmVyZ3kgT3V0bG9vayAyMDEwOyBjaXRhdGlvbl90ZXh0PVVTIERlcHQuIG9mIEVuZXJneTsgIGNpdGF0aW9uX3llYXI9MjAxMDsgIiAvPjxtZXRhIG5hbWU9ImNpdGF0aW9uX3JlZmVyZW5jZSIgY29udGVudD0iY2l0YXRpb25fdGl0bGU9RWNvbm9taWMgQmVuZWZpdHMgZnJvbSBSZXNlYXJjaDogQW4gRXhhbXBsZSBmcm9tIEFncmljdWx0dXJlOyBjaXRhdGlvbl90ZXh0PShTZXB0ZW1iZXIgMTQpOyAgY2l0YXRpb25fam91cm5hbF90aXRsZT1TY2llbmNlOyAgY2l0YXRpb25feWVhcj0xOTc5OyAgY2l0YXRpb25fdm9sdW1lPTIwNTsgIGNpdGF0aW9uX2lzc3VlPTQ0MTE7ICBjaXRhdGlvbl9wYWdlcz0xMTAxLTExMDc7ICIgLz48bWV0YSBuYW1lPSJjaXRhdGlvbl9yZWZlcmVuY2UiIGNvbnRlbnQ9ImNpdGF0aW9uX3RpdGxlPUV0aGFub2wgQ2FuIENvbnRyaWJ1dGUgdG8gRW5lcmd5IGFuZCBFbnZpcm9ubWVudGFsIEdvYWxzOyBjaXRhdGlvbl90ZXh0PShKYW51YXJ5IDI3KTsgIGNpdGF0aW9uX2pvdXJuYWxfdGl0bGU9U2NpZW5jZTsgIGNpdGF0aW9uX3llYXI9MjAwNjsgIGNpdGF0aW9uX3ZvbHVtZT0zMTE7ICBjaXRhdGlvbl9pc3N1ZT01NzYwOyAgY2l0YXRpb25fcGFnZXM9NTA2LTUwODsgIiAvPjxtZXRhIG5hbWU9ImNpdGF0aW9uX3JlZmVyZW5jZSIgY29udGVudD0iY2l0YXRpb25fdGl0bGU9SG93IGRvIGNsaW1hdGUgY2hhbmdlIGFuZCBiaW9lbmVyZ3kgYWx0ZXIgdGhlIGxvbmctdGVybSBvdXRsb29rIGZvciBmb29kLCBhZ3JpY3VsdHVyZSBhbmQgcmVzb3VyY2UgYXZhaWxhYmlsaXR5PzsgY2l0YXRpb25fdGV4dD1Sb21lLCBJdGFseTogSnVuZSAyNDsgIGNpdGF0aW9uX2pvdXJuYWxfdGl0bGU9U2Vzc2lvbiAyOyAgY2l0YXRpb25feWVhcj0yMDA5OyAiIC8+PG1ldGEgbmFtZT0iY2l0YXRpb25fcmVmZXJlbmNlIiBjb250ZW50PSJjaXRhdGlvbl90aXRsZT1DYW4gdGVjaG5vbG9neSBkZWxpdmVyIG9uIHRoZSB5aWVsZCBjaGFsbGVuZ2UgdG8gMjA1MD87IGNpdGF0aW9uX3RleHQ9Um9tZSwgSXRhbHk6IEp1bmUgMjQ7ICBjaXRhdGlvbl9qb3VybmFsX3RpdGxlPVNlc3Npb24gNDsgIGNpdGF0aW9uX3llYXI9MjAwOTsgIiAvPjxtZXRhIG5hbWU9ImNpdGF0aW9uX3JlZmVyZW5jZSIgY29udGVudD0iY2l0YXRpb25fdGl0bGU9SXMgYSBzbG93ZG93biBpbiBhZ3JpY3VsdHVyYWwgcHJvZHVjdGl2aXR5IGdyb3d0aCBjb250cmlidXRpbmcgdG8gdGhlIHJpc2UgaW4gY29tbW9kaXR5IHByaWNlcz87ICBjaXRhdGlvbl9qb3VybmFsX3RpdGxlPUFncmljdWx0dXJhbCBFY29ub21pY3M7ICBjaXRhdGlvbl95ZWFyPTIwMDg7ICBjaXRhdGlvbl92b2x1bWU9Mzk7ICBjaXRhdGlvbl9pc3N1ZT1zdXBwbGVtZW50OyAgY2l0YXRpb25fcGFnZXM9NDMxLTQ0MTsgIiAvPjxtZXRhIG5hbWU9ImNpdGF0aW9uX3JlZmVyZW5jZSIgY29udGVudD0iY2l0YXRpb25fdGl0bGU9R2xvYmFsIENvbnNlcXVlbmNlcyBvZiBMYW5kIFVzZTsgY2l0YXRpb25fdGV4dD0oSnVseSAyMik7ICBjaXRhdGlvbl9qb3VybmFsX3RpdGxlPVNjaWVuY2U7ICBjaXRhdGlvbl95ZWFyPTIwMDU7ICBjaXRhdGlvbl92b2x1bWU9MzA5OyAgY2l0YXRpb25faXNzdWU9NTczNDsgIGNpdGF0aW9uX3BhZ2VzPTU3MC01NzQ7ICIgLz48bWV0YSBuYW1lPSJjaXRhdGlvbl9yZWZlcmVuY2UiIGNvbnRlbnQ9ImNpdGF0aW9uX29yZz1Gb29kIGFuZCBBZ3JpY3VsdHVyZSBPcmdhbml6YXRpb24gb2YgdGhlIFVuaXRlZCBOYXRpb25zLjsgY2l0YXRpb25fdGl0bGU9RW52aXJvbm1lbnRhbCBzZXJ2aWNlcyBhbmQgYWdyaWN1bHR1cmU7ICBjaXRhdGlvbl9wdWJsaXNoZXJfbmFtZT1Gb29kIGFuZCBBZ3JpY3VsdHVyZSBPcmdhbmlzYXRpb24gb2YgdGhlIFVuaXRlZCBOYXRpb25zLCAxMuKAkzMyOyBjaXRhdGlvbl9wdWJsaXNoZXJfbG9jPVJvbWUsIEl0YWx5OyAgY2l0YXRpb25fam91cm5hbF90aXRsZT1UaGUgU3RhdGUgb2YgRm9vZCBhbmQgQWdyaWN1bHR1cmUgMjAwNzsgIGNpdGF0aW9uX3llYXI9MjAwNzsgIiAvPjxtZXRhIG5hbWU9ImNpdGF0aW9uX3JlZmVyZW5jZSIgY29udGVudD0iY2l0YXRpb25fb3JnPUZvb2QgYW5kIEFncmljdWx0dXJlIE9yZ2FuaXphdGlvbiwgYW5kIE9yZ2FuaXphdGlvbiBmb3IgRWNvbm9taWMgQ28tT3BlcmF0aW9uIGFuZCBEZXZlbG9wbWVudC47ICBjaXRhdGlvbl9wdWJsaXNoZXJfbmFtZT1Gb29kIGFuZCBBZ3JpY3VsdHVyZSBPcmdhbml6YXRpb24gb2YgdGhlIFVuaXRlZCBOYXRpb25zL09yZ2FuaXphdGlvbiBmb3IgRWNvbm9taWMgQ28tT3BlcmF0aW9uIGFuZCBEZXZlbG9wbWVudDsgY2l0YXRpb25fcHVibGlzaGVyX2xvYz1QYXJpcyBhbmQgUm9tZTsgIGNpdGF0aW9uX2pvdXJuYWxfdGl0bGU9QWdyaWN1bHR1cmFsIE91dGxvb2s6IDIwMDgtMjAxNzsgIGNpdGF0aW9uX3llYXI9MjAwODsgIiAvPjxtZXRhIG5hbWU9ImNpdGF0aW9uX3JlZmVyZW5jZSIgY29udGVudD0iY2l0YXRpb25fdGl0bGU9UGF0aHdheXMgb2YgQWdyaWN1bHR1cmFsIEV4cGFuc2lvbiBBY3Jvc3MgdGhlIFRyb3BpY3M6IEltcGxpY2F0aW9ucyBmb3IgRm9yZXN0IENvbnNlcnZhdGlvbiBhbmQgQ2FyYm9uIEVtaXNzaW9uczsgY2l0YXRpb25fdGV4dD0oZm9ydGhjb21pbmcpOyAgY2l0YXRpb25fam91cm5hbF90aXRsZT1Qcm9jZWVkaW5ncyBvZiB0aGUgTmF0aW9uYWwgQWNhZGVteSBvZiBTY2llbmNlczsgIiAvPjxtZXRhIG5hbWU9ImNpdGF0aW9uX3JlZmVyZW5jZSIgY29udGVudD0iY2l0YXRpb25fdGl0bGU9VGhlIG9wcG9ydHVuaXR5IGNvc3Qgb2YgbGFuZCB1c2UgYW5kIHRoZSBnbG9iYWwgcG90ZW50aWFsIGZvciBncmVlbmhvdXNlIGdhcyBtaXRpZ2F0aW9uIGluIGFncmljdWx0dXJlIGFuZCBmb3Jlc3RyeTsgIGNpdGF0aW9uX2pvdXJuYWxfdGl0bGU9UmVzb3VyY2UgYW5kIEVuZXJneSBFY29ub21pY3M7ICBjaXRhdGlvbl95ZWFyPTIwMDk7ICBjaXRhdGlvbl92b2x1bWU9MzE7ICBjaXRhdGlvbl9pc3N1ZT00OyAgY2l0YXRpb25fcGFnZXM9Mjk5LTMxOTsgIiAvPjxtZXRhIG5hbWU9ImNpdGF0aW9uX3JlZmVyZW5jZSIgY29udGVudD0iY2l0YXRpb25fdGl0bGU9R2xvYmFsIEVjb25vbWljIEludGVncmF0aW9uIGFuZCBMYW5kIFVzZSBDaGFuZ2U7ICBjaXRhdGlvbl9qb3VybmFsX3RpdGxlPUpvdXJuYWwgb2YgRWNvbm9taWMgSW50ZWdyYXRpb247ICBjaXRhdGlvbl95ZWFyPTIwMDg7ICBjaXRhdGlvbl92b2x1bWU9MjM7ICBjaXRhdGlvbl9pc3N1ZT0zOyAgY2l0YXRpb25fcGFnZXM9NDYzLTQ4ODsgIiAvPjxtZXRhIG5hbWU9ImNpdGF0aW9uX3JlZmVyZW5jZSIgY29udGVudD0iY2l0YXRpb25fdGl0bGU9RmFybWluZyBhbmQgdGhlIEZhdGUgb2YgV2lsZCBOYXR1cmU7IGNpdGF0aW9uX3RleHQ9KEphbnVhcnkgMjgpOyAgY2l0YXRpb25fam91cm5hbF90aXRsZT1TY2llbmNlOyAgY2l0YXRpb25feWVhcj0yMDA1OyAgY2l0YXRpb25fdm9sdW1lPTMwNzsgIGNpdGF0aW9uX2lzc3VlPTU3MDk7ICBjaXRhdGlvbl9wYWdlcz01NTAtNTU1OyAiIC8+PG1ldGEgbmFtZT0iY2l0YXRpb25fcmVmZXJlbmNlIiBjb250ZW50PSIgY2l0YXRpb25fcHVibGlzaGVyX25hbWU9Sm9obnMgSG9wa2lucyBVbml2ZXJzaXR5IFByZXNzOyBjaXRhdGlvbl9wdWJsaXNoZXJfbG9jPUJhbHRpbW9yZTsgIGNpdGF0aW9uX2pvdXJuYWxfdGl0bGU9QWdyaWN1bHR1cmFsIERldmVsb3BtZW50OiBBbiBJbnRlcm5hdGlvbmFsIFBlcnNwZWN0aXZlOyAgY2l0YXRpb25feWVhcj0xOTg1OyAiIC8+PG1ldGEgbmFtZT0iY2l0YXRpb25fcmVmZXJlbmNlIiBjb250ZW50PSJjaXRhdGlvbl90ZXh0PUNlbnRlciBmb3IgR2xvYmFsIFRyYWRlIEFuYWx5c2lzLCBEZXBhcnRtZW50IG9mIEFncmljdWx0dXJhbCBFY29ub21pY3MsIFB1cmR1ZSBVbml2ZXJzaXR5OyAgY2l0YXRpb25fam91cm5hbF90aXRsZT1UaGUgUG92ZXJ0eSBJbXBsaWNhdGlvbnMgb2YgQ2xpbWF0ZS1JbmR1Y2VkIENyb3AgWWllbGQgQ2hhbmdlcyBieSAyMDMwOyAgY2l0YXRpb25feWVhcj0yMDEwOyAiIC8+PG1ldGEgbmFtZT0iY2l0YXRpb25fcmVmZXJlbmNlIiBjb250ZW50PSJjaXRhdGlvbl90aXRsZT1HbG9iYWwgTGFuZCBVc2UgYW5kIEdyZWVuaG91c2UgR2FzIEVtaXNzaW9ucyBJbXBhY3RzIG9mIFVTIE1haXplIEV0aGFub2w6IEVzdGltYXRpbmcgTWFya2V0LU1lZGlhdGVkIFJlc3BvbnNlczsgIGNpdGF0aW9uX2pvdXJuYWxfdGl0bGU9QmlvU2NpZW5jZTsgIGNpdGF0aW9uX3llYXI9MjAxMDsgIGNpdGF0aW9uX3ZvbHVtZT02NjsgIGNpdGF0aW9uX2lzc3VlPTM7ICBjaXRhdGlvbl9wYWdlcz0yMjMtMjMxOyAiIC8+PG1ldGEgbmFtZT0iY2l0YXRpb25fcmVmZXJlbmNlIiBjb250ZW50PSJjaXRhdGlvbl90aXRsZT1MYW5kIFVzZSBJbiBDb21wdXRhYmxlIEdlbmVyYWwgRXF1aWxpYnJpdW0gTW9kZWxzOiBBbiBPdmVydmlldzsgY2l0YXRpb25fdGV4dD1Sb3V0bGVkZ2UgRXhwbG9yYXRpb25zIGluIEVudmlyb25tZW50YWwgRWNvbm9taWNzOyAgY2l0YXRpb25fcHVibGlzaGVyX25hbWU9Um91dGxlZGdlOyBjaXRhdGlvbl9wdWJsaXNoZXJfbG9jPVVuaXRlZCBLaW5nZG9tOyAgY2l0YXRpb25fam91cm5hbF90aXRsZT1FY29ub21pYyBBbmFseXNpcyBvZiBMYW5kIFVzZSBpbiBHbG9iYWwgQ2xpbWF0ZSBDaGFuZ2UgUG9saWN5OyAgY2l0YXRpb25feWVhcj0yMDA5OyAiIC8+PG1ldGEgbmFtZT0iY2l0YXRpb25fcmVmZXJlbmNlIiBjb250ZW50PSJjaXRhdGlvbl90aXRsZT1OaXRyb2dlbi1MYW5kIFN1YnN0aXR1dGlvbiBpbiBDb3JuIFByb2R1Y3Rpb246IEEgUmVjb25jaWxpYXRpb24gb2YgQWdncmVnYXRlIGFuZCBGaXJtLUxldmVsIEV2aWRlbmNlOyBjaXRhdGlvbl90ZXh0PShGZWJydWFyeSk7ICBjaXRhdGlvbl9qb3VybmFsX3RpdGxlPUFtZXJpY2FuIEpvdXJuYWwgb2YgQWdyaWN1bHR1cmFsIEVjb25vbWljczsgIGNpdGF0aW9uX3llYXI9MTk5NjsgIGNpdGF0aW9uX3ZvbHVtZT03ODsgIGNpdGF0aW9uX2lzc3VlPTE7ICBjaXRhdGlvbl9wYWdlcz0zMC00MDsgIiAvPjxtZXRhIG5hbWU9ImNpdGF0aW9uX3JlZmVyZW5jZSIgY29udGVudD0iY2l0YXRpb25fdGl0bGU9QmlvZnVlbHMgZm9yIGFsbD87IGNpdGF0aW9uX3RleHQ9VW5kZXJzdGFuZGluZyB0aGUgR2xvYmFsIEltcGFjdHMgb2YgTXVsdGluYXRpb25hbCBNYW5kYXRlcy4gSW4gT3JsYW5kbywgRmxvcmlkYSwgVVNBLCBKdWx5IDI3OyAgY2l0YXRpb25feWVhcj0yMDA4OyAiIC8+PG1ldGEgbmFtZT0iY2l0YXRpb25fcmVmZXJlbmNlIiBjb250ZW50PSJjaXRhdGlvbl90aXRsZT1UaGUgV29ybGR3aWRlIEV4dGVudCBvZiBMYW5kLVVzZSBDaGFuZ2U7ICBjaXRhdGlvbl9qb3VybmFsX3RpdGxlPUJpb1NjaWVuY2U7ICBjaXRhdGlvbl95ZWFyPTE5OTQ7ICBjaXRhdGlvbl92b2x1bWU9NDQ7ICBjaXRhdGlvbl9pc3N1ZT01OyAgY2l0YXRpb25fcGFnZXM9MzA1LTMxMzsgIiAvPjxtZXRhIG5hbWU9ImNpdGF0aW9uX3JlZmVyZW5jZSIgY29udGVudD0iY2l0YXRpb25fb3JnPUludGVybmF0aW9uYWwgUmljZSBSZXNlYXJjaCBJbnN0aXR1dGUuOyBjaXRhdGlvbl90ZXh0PUxvcyBCYcOxb3MsIExhZ3VuYSwgUGhpbGlwcGluZXM7ICBjaXRhdGlvbl9qb3VybmFsX3RpdGxlPUZhcm0tTGV2ZWwgQ29uc3RyYWludHMgdG8gSGlnaCBSaWNlIFlpZWxkcyBpbiBBc2lhOiAxOTc04oCTMTk3NzsgIGNpdGF0aW9uX3llYXI9MTk3OTsgIiAvPjxtZXRhIG5hbWU9ImNpdGF0aW9uX3JlZmVyZW5jZSIgY29udGVudD0iY2l0YXRpb25fdGl0bGU9VGhlIEluZGlyZWN0IExhbmQgVXNlIEltcGFjdHMgb2YgVW5pdGVkIFN0YXRlcyBCaW9mdWVsIFBvbGljaWVzOiBUaGUgSW1wb3J0YW5jZSBvZiBBY3JlYWdlLCBZaWVsZCwgYW5kIEJpbGF0ZXJhbCBUcmFkZSBSZXNwb25zZXM7ICBjaXRhdGlvbl9qb3VybmFsX3RpdGxlPUFtZXJpY2FuIEpvdXJuYWwgb2YgQWdyaWN1bHR1cmFsIEVjb25vbWljczsgIGNpdGF0aW9uX3llYXI9MjAwOTsgIGNpdGF0aW9uX3ZvbHVtZT05MTsgIGNpdGF0aW9uX2lzc3VlPTQ7ICBjaXRhdGlvbl9wYWdlcz04OTUtOTA5OyAiIC8+PG1ldGEgbmFtZT0iY2l0YXRpb25fcmVmZXJlbmNlIiBjb250ZW50PSJjaXRhdGlvbl90aXRsZT1BIFN5bnRoZXNpcyBvZiBJbmZvcm1hdGlvbiBvbiBSYXBpZCBMYW5kLWNvdmVyIENoYW5nZSBmb3IgdGhlIFBlcmlvZCAxOTgx4oCTMjAwMDsgIGNpdGF0aW9uX2pvdXJuYWxfdGl0bGU9QmlvU2NpZW5jZTsgIGNpdGF0aW9uX3llYXI9MjAwNTsgIGNpdGF0aW9uX3ZvbHVtZT01NTsgIGNpdGF0aW9uX2lzc3VlPTI7ICBjaXRhdGlvbl9wYWdlcz0xMTUtMTI0OyAiIC8+PG1ldGEgbmFtZT0iY2l0YXRpb25fcmVmZXJlbmNlIiBjb250ZW50PSJjaXRhdGlvbl90aXRsZT1NaW5kIHRoZSBHYXA6IEhvdyBkbyBjbGltYXRlIGFuZCBhZ3JpY3VsdHVyYWwgbWFuYWdlbWVudCBleHBsYWluIHRoZSDigJh5aWVsZCBnYXDigJkgb2YgY3JvcGxhbmRzIGFyb3VuZCB0aGUgd29ybGQ/4oCdOyBjaXRhdGlvbl90ZXh0PXVucHVibGlzaGVkIG1hbnVzY3JpcHQsIENlbnRlciBmb3IgU3VzdGFpbmFiaWxpdHkgYW5kIHRoZSBHbG9iYWwgRW52aXJvbm1lbnQsIFVuaXZlcnNpdHkgb2YgV2lzY29uc2luOyAgY2l0YXRpb25feWVhcj0yMDEwOyAiIC8+PG1ldGEgbmFtZT0iY2l0YXRpb25fcmVmZXJlbmNlIiBjb250ZW50PSJjaXRhdGlvbl90aXRsZT1Dcm9wIFlpZWxkIEdhcHM6IFRoZWlyIEltcG9ydGFuY2UsIE1hZ25pdHVkZXMsIGFuZCBDYXVzZXM7ICBjaXRhdGlvbl9qb3VybmFsX3RpdGxlPUFubnVhbCBSZXZpZXcgb2YgRW52aXJvbm1lbnQgYW5kIFJlc291cmNlczsgIGNpdGF0aW9uX3llYXI9MjAwOTsgIGNpdGF0aW9uX3ZvbHVtZT0zNDsgIGNpdGF0aW9uX2lzc3VlPTE7ICBjaXRhdGlvbl9wYWdlcz0xNzktMjA0OyAiIC8+PG1ldGEgbmFtZT0iY2l0YXRpb25fcmVmZXJlbmNlIiBjb250ZW50PSJjaXRhdGlvbl90aXRsZT1MYW5kLXVzZSBjaGFuZ2UgYW5kIGNhcmJvbiBzaW5rczogRWNvbm9tZXRyaWMgZXN0aW1hdGlvbiBvZiB0aGUgY2FyYm9uIHNlcXVlc3RyYXRpb24gc3VwcGx5IGZ1bmN0aW9uOyAgY2l0YXRpb25fam91cm5hbF90aXRsZT1Kb3VybmFsIG9mIEVudmlyb25tZW50YWwgRWNvbm9taWNzIGFuZCBNYW5hZ2VtZW50OyAgY2l0YXRpb25feWVhcj0yMDA2OyAgY2l0YXRpb25fdm9sdW1lPTUxOyAgY2l0YXRpb25faXNzdWU9MjsgIGNpdGF0aW9uX3BhZ2VzPTEzNS0xNTI7ICIgLz48bWV0YSBuYW1lPSJjaXRhdGlvbl9yZWZlcmVuY2UiIGNvbnRlbnQ9IiBjaXRhdGlvbl9lZGl0aW9uPTl0aCBFZDsgIGNpdGF0aW9uX3B1Ymxpc2hlcl9uYW1lPUJhbGxhbnR5bmUgUHJlc3M7IGNpdGF0aW9uX3B1Ymxpc2hlcl9sb2M9aW5idXJnaCBhbmQgTG9uZG9uOyAgY2l0YXRpb25fam91cm5hbF90aXRsZT1BbiBFc3NheSBvbiB0aGUgUHJpbmNpcGxlIG9mIFBvcHVsYXRpb247ICBjaXRhdGlvbl95ZWFyPTE4ODg7ICIgLz48bWV0YSBuYW1lPSJjaXRhdGlvbl9yZWZlcmVuY2UiIGNvbnRlbnQ9ImNpdGF0aW9uX3RpdGxlPUluc2lnaHRzIGZyb20gRU1GLWFzc29jaWF0ZWQgYWdyaWN1bHR1cmFsIGFuZCBmb3Jlc3RyeSBncmVlbmhvdXNlIGdhcyBtaXRpZ2F0aW9uIHN0dWRpZXM7IGNpdGF0aW9uX3RleHQ9Q2hwLiAyMC47ICBjaXRhdGlvbl9wdWJsaXNoZXJfbmFtZT1DYW1icmlkZ2UgVW5pdmVyc2l0eSBQcmVzczsgY2l0YXRpb25fcHVibGlzaGVyX2xvYz1DYW1icmlkZ2UsIEVuZ2xhbmQ7ICBjaXRhdGlvbl9qb3VybmFsX3RpdGxlPUh1bWFuLUluZHVjZWQgQ2xpbWF0ZSBDaGFuZ2U6IEFuIEludGVyZGlzY2lwbGluYXJ5IEFzc2Vzc21lbnQ7ICBjaXRhdGlvbl95ZWFyPTIwMDc7ICIgLz48bWV0YSBuYW1lPSJjaXRhdGlvbl9yZWZlcmVuY2UiIGNvbnRlbnQ9ImNpdGF0aW9uX3RpdGxlPUVzdGltYXRpbmcgdGhlIEludGVuc2l2ZSBhbmQgRXh0ZW5zaXZlIE1hcmdpbnMgb2YgQ3JvcCBMYW5kIFlpZWxkcyBpbiB0aGUgVW5pdGVkIFN0YXRlcyBwcmVzZW50ZWQgYXQgdGhlIEFBRUEvQUVSRSBBbm51YWwgTWVldGluZzsgY2l0YXRpb25fdGV4dD1KdWx5LCBNaWx3YXVrZWUsIFdpc2NvbnNpbjsgIGNpdGF0aW9uX3llYXI9MjAwOTsgIiAvPjxtZXRhIG5hbWU9ImNpdGF0aW9uX3JlZmVyZW5jZSIgY29udGVudD0iY2l0YXRpb25fb3JnPU1jS2luc2V5ICZhbXA7LiBDby47IGNpdGF0aW9uX3RleHQ9MjAzMCBXYXRlciBSZXNvdXJjZXMgR3JvdXA6IE1jS2luc2V5ICZhbXA7IENvLjsgIGNpdGF0aW9uX2pvdXJuYWxfdGl0bGU9Q2hhcnRpbmcgT3VyIFdhdGVyIEZ1dHVyZTogRWNvbm9taWMgZnJhbWV3b3JrcyB0byBpbmZvcm0gZGVjaXNpb24tbWFraW5nOyAgY2l0YXRpb25feWVhcj0yMDA5OyAiIC8+PG1ldGEgbmFtZT0iY2l0YXRpb25fcmVmZXJlbmNlIiBjb250ZW50PSJjaXRhdGlvbl90aXRsZT1VUyBCaW9mdWVsIEJhc2VsaW5lOyBjaXRhdGlvbl90ZXh0PUZvb2QgYW5kIEFncmljdWx0dXJhbCBQb2xpY3kgUmVzZWFyY2ggSW5zdGl0dXRlLCBVbml2ZXJzaXR5IG9mIE1pc3NvdXJpOyAgY2l0YXRpb25feWVhcj0yMDEwOyAiIC8+PG1ldGEgbmFtZT0iY2l0YXRpb25fcmVmZXJlbmNlIiBjb250ZW50PSJjaXRhdGlvbl90aXRsZT1GYXJtaW5nIHRoZSBwbGFuZXQ6IDIuIEdlb2dyYXBoaWMgZGlzdHJpYnV0aW9uIG9mIGNyb3AgYXJlYXMsIHlpZWxkcywgcGh5c2lvbG9naWNhbCB0eXBlcywgYW5kIG5ldCBwcmltYXJ5IHByb2R1Y3Rpb24gaW4gdGhlIHllYXIgMjAwMDsgY2l0YXRpb25fdGV4dD0oKTsgIGNpdGF0aW9uX2pvdXJuYWxfdGl0bGU9R2xvYmFsIEJpb2dlb2NoZW1pY2FsIEN5Y2xlczsgIGNpdGF0aW9uX3llYXI9MjAwODsgIGNpdGF0aW9uX3ZvbHVtZT0yMjsgIiAvPjxtZXRhIG5hbWU9ImNpdGF0aW9uX3JlZmVyZW5jZSIgY29udGVudD0iY2l0YXRpb25fdGV4dD1JbnRlcm5hdGlvbmFsIEZvb2QgUG9saWN5IFJlc2VhcmNoIEluc3RpdHV0ZSAoSUZQUkkpOyAgY2l0YXRpb25fam91cm5hbF90aXRsZT1UaGUgQ29zdHMgb2YgQWdyaWN1bHR1cmFsIEFkYXB0YXRpb24gdG8gQ2xpbWF0ZSBDaGFuZ2U7ICBjaXRhdGlvbl95ZWFyPTIwMTA7ICIgLz48bWV0YSBuYW1lPSJjaXRhdGlvbl9yZWZlcmVuY2UiIGNvbnRlbnQ9ImNpdGF0aW9uX3RpdGxlPVRoZSB5aWVsZCBnYXAgb2YgZ2xvYmFsIGdyYWluIHByb2R1Y3Rpb246IEEgc3BhdGlhbCBhbmFseXNpczsgIGNpdGF0aW9uX2pvdXJuYWxfdGl0bGU9QWdyaWN1bHR1cmFsIFN5c3RlbXM7ICBjaXRhdGlvbl95ZWFyPTIwMTA7ICBjaXRhdGlvbl92b2x1bWU9MTAzOyAgY2l0YXRpb25faXNzdWU9NTsgIGNpdGF0aW9uX3BhZ2VzPTMxNi0zMjY7ICIgLz48bWV0YSBuYW1lPSJjaXRhdGlvbl9yZWZlcmVuY2UiIGNvbnRlbnQ9IiBjaXRhdGlvbl9wdWJsaXNoZXJfbmFtZT1IYXJ2YXJkIFVuaXZlcnNpdHkgUHJlc3M7ICBjaXRhdGlvbl9qb3VybmFsX3RpdGxlPVN0YXJ2ZWQgZm9yIHNjaWVuY2U6IGhvdyBiaW90ZWNobm9sb2d5IGlzIGJlaW5nIGtlcHQgb3V0IG9mIEFmcmljYTsgIGNpdGF0aW9uX3llYXI9MjAwODsgIiAvPjxtZXRhIG5hbWU9ImNpdGF0aW9uX3JlZmVyZW5jZSIgY29udGVudD0iY2l0YXRpb25fdGl0bGU9Q2hhcmFjdGVyaXppbmcgdGhlIFNwYXRpYWwgUGF0dGVybnMgb2YgR2xvYmFsIEZlcnRpbGl6ZXIgQXBwbGljYXRpb24gYW5kIE1hbnVyZSBQcm9kdWN0aW9uOyAgY2l0YXRpb25fam91cm5hbF90aXRsZT1FYXJ0aCBJbnRlcmFjdGlvbnM7ICBjaXRhdGlvbl95ZWFyPTIwMTA7ICBjaXRhdGlvbl92b2x1bWU9MTQ7ICBjaXRhdGlvbl9pc3N1ZT0yOyAgY2l0YXRpb25fcGFnZXM9MS0yMjsgIiAvPjxtZXRhIG5hbWU9ImNpdGF0aW9uX3JlZmVyZW5jZSIgY29udGVudD0iY2l0YXRpb25fdGl0bGU9QWdyaWN1bHR1cmUgYW5kIEZvcmVzdHM6IFJlY2VudCBUcmVuZHMsIEZ1dHVyZSBQcm9zcGVjdHM7IGNpdGF0aW9uX3RleHQ9U3Ryw7xuZ21hbm4gRm9ydW0gUmVwb3J0czsgIGNpdGF0aW9uX3B1Ymxpc2hlcl9uYW1lPU1JVCBQcmVzcywgNCAxMeKAkzMxOyBjaXRhdGlvbl9wdWJsaXNoZXJfbG9jPUNhbWJyaWRnZSwgTUE7ICBjaXRhdGlvbl9qb3VybmFsX3RpdGxlPUxpbmthZ2VzIG9mIFN1c3RhaW5hYmlsaXR5OyAgY2l0YXRpb25feWVhcj0yMDEwOyAiIC8+PG1ldGEgbmFtZT0iY2l0YXRpb25fcmVmZXJlbmNlIiBjb250ZW50PSJjaXRhdGlvbl90aXRsZT1QZW9wbGUgb24gdGhlIExhbmQ6IENoYW5nZXMgaW4gR2xvYmFsIFBvcHVsYXRpb24gYW5kIENyb3BsYW5kcyBkdXJpbmcgdGhlIDIwdGggQ2VudHVyeTsgIGNpdGF0aW9uX2pvdXJuYWxfdGl0bGU9QU1CSU87ICBjaXRhdGlvbl95ZWFyPTIwMDI7ICBjaXRhdGlvbl9wYWdlcz0yNTEtMjU3OyAiIC8+PG1ldGEgbmFtZT0iY2l0YXRpb25fcmVmZXJlbmNlIiBjb250ZW50PSJjaXRhdGlvbl90aXRsZT1HbG9iYWwgTGFuZC1Db3ZlciBDaGFuZ2U6IFJlY2VudCBQcm9ncmVzcywgUmVtYWluaW5nIENoYWxsZW5nZXM7ICBjaXRhdGlvbl91cmw9aHR0cDovL2R4LmRvaS5vcmcvMTAuMTAwNy8zLTU0MC0zMjIwMi03XzI7ICBjaXRhdGlvbl9wdWJsaXNoZXJfbmFtZT1TcHJpbmdlcjsgY2l0YXRpb25fcHVibGlzaGVyX2xvYz1UaGUgTmV0aGVybGFuZHM7ICBjaXRhdGlvbl9qb3VybmFsX3RpdGxlPUxhbmQgVXNlIGFuZCBMYW5kIENvdmVyIENoYW5nZTsgIGNpdGF0aW9uX3llYXI9MjAwNjsgIGNpdGF0aW9uX3BhZ2VzPTktMzk7ICIgLz48bWV0YSBuYW1lPSJjaXRhdGlvbl9yZWZlcmVuY2UiIGNvbnRlbnQ9ImNpdGF0aW9uX3RpdGxlPVRyYWRlIExpYmVyYWxpemF0aW9uIEFzIEEgVmVoaWNsZSBGb3IgQWRhcHRpbmcgVG8gR2xvYmFsIFdhcm1pbmc7ICBjaXRhdGlvbl9qb3VybmFsX3RpdGxlPUFncmljdWx0dXJhbCBhbmQgUmVzb3VyY2UgRWNvbm9taWNzIFJldmlldzsgIGNpdGF0aW9uX3llYXI9MjAwMDsgIGNpdGF0aW9uX3ZvbHVtZT0yOTsgIGNpdGF0aW9uX2lzc3VlPTI7ICBjaXRhdGlvbl9wYWdlcz0xLTE0OyAiIC8+PG1ldGEgbmFtZT0iY2l0YXRpb25fcmVmZXJlbmNlIiBjb250ZW50PSJjaXRhdGlvbl90aXRsZT1HbG9iYWwgZWNvbm9taWMgZWZmZWN0cyBvZiBjaGFuZ2VzIGluIGNyb3BzLCBwYXN0dXJlLCBhbmQgZm9yZXN0cyBkdWUgdG8gY2hhbmdpbmcgY2xpbWF0ZSwgY2FyYm9uIGRpb3hpZGUsIGFuZCBvem9uZTsgIGNpdGF0aW9uX2pvdXJuYWxfdGl0bGU9RW5lcmd5IFBvbGljeTsgIGNpdGF0aW9uX3llYXI9MjAwNzsgIGNpdGF0aW9uX3ZvbHVtZT0zNTsgIGNpdGF0aW9uX2lzc3VlPTExOyAgY2l0YXRpb25fcGFnZXM9NTM3MC01MzgzOyAiIC8+PG1ldGEgbmFtZT0iY2l0YXRpb25fcmVmZXJlbmNlIiBjb250ZW50PSJjaXRhdGlvbl90aXRsZT1Qcm9kdWN0aXZpdHkgR3Jvd3RoIGluIFdvcmxkIEFncmljdWx0dXJlOiBTb3VyY2VzIGFuZCBDb25zdHJhaW50czsgIGNpdGF0aW9uX2pvdXJuYWxfdGl0bGU9VGhlIEpvdXJuYWwgb2YgRWNvbm9taWMgUGVyc3BlY3RpdmVzOyAgY2l0YXRpb25feWVhcj0yMDAyOyAgY2l0YXRpb25fdm9sdW1lPTE2OyAgY2l0YXRpb25faXNzdWU9NDsgIGNpdGF0aW9uX3BhZ2VzPTE2MS0xODQ7ICIgLz48bWV0YSBuYW1lPSJjaXRhdGlvbl9yZWZlcmVuY2UiIGNvbnRlbnQ9ImNpdGF0aW9uX3RpdGxlPVJvYnVzdCBuZWdhdGl2ZSBpbXBhY3RzIG9mIGNsaW1hdGUgY2hhbmdlIG9uIEFmcmljYW4gYWdyaWN1bHR1cmU7IGNpdGF0aW9uX3RleHQ9KCk7ICBjaXRhdGlvbl9qb3VybmFsX3RpdGxlPUVudmlyb25tZW50YWwgUmVzZWFyY2ggTGV0dGVyczsgIGNpdGF0aW9uX3llYXI9MjAxMDsgIGNpdGF0aW9uX3ZvbHVtZT01OyAgY2l0YXRpb25faXNzdWU9MTsgIGNpdGF0aW9uX3BhZ2VzPTAxNDAxMCIgLz48bWV0YSBuYW1lPSJjaXRhdGlvbl9yZWZlcmVuY2UiIGNvbnRlbnQ9ImNpdGF0aW9uX3RpdGxlPU5vbmxpbmVhciB0ZW1wZXJhdHVyZSBlZmZlY3RzIGluZGljYXRlIHNldmVyZSBkYW1hZ2VzIHRvIFUuUy4gY3JvcCB5aWVsZHMgdW5kZXIgY2xpbWF0ZSBjaGFuZ2U7ICBjaXRhdGlvbl9qb3VybmFsX3RpdGxlPVByb2NlZWRpbmdzIG9mIHRoZSBOYXRpb25hbCBBY2FkZW15IG9mIFNjaWVuY2VzOyAgY2l0YXRpb25feWVhcj0yMDA5OyAgY2l0YXRpb25fdm9sdW1lPTEwNjsgIGNpdGF0aW9uX3BhZ2VzPTE1NTk0LTE1NTk4OyAiIC8+PG1ldGEgbmFtZT0iY2l0YXRpb25fcmVmZXJlbmNlIiBjb250ZW50PSJjaXRhdGlvbl90aXRsZT1JbnRlcm5hdGlvbmFsIEV2aWRlbmNlIE9uIEZvb2QgQ29uc3VtcHRpb24gUGF0dGVybnM7ICBjaXRhdGlvbl91cmw9aHR0cDovL2lkZWFzLnJlcGVjLm9yZy9wL2Fncy91ZXJzdGIvMzM1ODAuaHRtbDsgIGNpdGF0aW9uX3llYXI9MjAwMzsgIiAvPjxtZXRhIG5hbWU9ImNpdGF0aW9uX3JlZmVyZW5jZSIgY29udGVudD0iY2l0YXRpb25fdGl0bGU9VXNlIG9mIFUuUy4gQ3JvcGxhbmRzIGZvciBCaW9mdWVscyBJbmNyZWFzZXMgR3JlZW5ob3VzZSBHYXNlcyBUaHJvdWdoIEVtaXNzaW9ucyBmcm9tIExhbmQtVXNlIENoYW5nZTsgY2l0YXRpb25fdGV4dD0oRmVicnVhcnkgMjkpOyAgY2l0YXRpb25fam91cm5hbF90aXRsZT1TY2llbmNlOyAgY2l0YXRpb25feWVhcj0yMDA4OyAgY2l0YXRpb25fdm9sdW1lPTMxOTsgIGNpdGF0aW9uX2lzc3VlPTU4Njc7ICBjaXRhdGlvbl9wYWdlcz0xMjM4LTEyNDA7ICIgLz48bWV0YSBuYW1lPSJjaXRhdGlvbl9yZWZlcmVuY2UiIGNvbnRlbnQ9ImNpdGF0aW9uX3RpdGxlPVN0b2NrcywgRmxvd3MsIGFuZCBQcm9zcGVjdHMgb2YgTGFuZDsgY2l0YXRpb25fdGV4dD1TdHLDvG5nbWFubiBGb3J1bSBSZXBvcnRzOyAgY2l0YXRpb25fcHVibGlzaGVyX25hbWU9TUlUIFByZXNzOyBjaXRhdGlvbl9wdWJsaXNoZXJfbG9jPUNhbWJyaWRnZSwgTUE7ICBjaXRhdGlvbl9qb3VybmFsX3RpdGxlPUxpbmthZ2VzIG9mIFN1c3RhaW5hYmlsaXR5OyAgY2l0YXRpb25feWVhcj0yMDEwOyAgY2l0YXRpb25fdm9sdW1lPTQ7ICBjaXRhdGlvbl9wYWdlcz03MS05NjsgIiAvPjxtZXRhIG5hbWU9ImNpdGF0aW9uX3JlZmVyZW5jZSIgY29udGVudD0iY2l0YXRpb25fdGl0bGU9QW4gQW5hbHlzaXMgb2YgRm9yZXN0cnkgQ2FyYm9uIFNlcXVlc3RyYXRpb24gYXMgYSBSZXNwb25zZSB0byBDbGltYXRlIENoYW5nZTsgY2l0YXRpb25fdGV4dD1Db3BlbmhhZ2VuIENvbnNlbnN1cyBvbiBDbGltYXRlOyAgY2l0YXRpb25feWVhcj0yMDEwOyAiIC8+PG1ldGEgbmFtZT0iY2l0YXRpb25fcmVmZXJlbmNlIiBjb250ZW50PSJjaXRhdGlvbl90aXRsZT1UaGUgaW5mbHVlbmNlIG9mIGNvbnZlcnNpb24gb2YgZm9yZXN0IHR5cGVzIG9uIGNhcmJvbiBzZXF1ZXN0cmF0aW9uIGFuZCBvdGhlciBlY29zeXN0ZW0gc2VydmljZXMgaW4gdGhlIFNvdXRoIENlbnRyYWwgVW5pdGVkIFN0YXRlczsgIGNpdGF0aW9uX2pvdXJuYWxfdGl0bGU9RWNvbG9naWNhbCBFY29ub21pY3M7ICBjaXRhdGlvbl95ZWFyPTIwMDY7ICBjaXRhdGlvbl92b2x1bWU9NTc7ICBjaXRhdGlvbl9pc3N1ZT00OyAgY2l0YXRpb25fcGFnZXM9Njk4LTcwODsgIiAvPjxtZXRhIG5hbWU9ImNpdGF0aW9uX3JlZmVyZW5jZSIgY29udGVudD0iY2l0YXRpb25fdGV4dD1TZWNvbmQuOyAgY2l0YXRpb25fcHVibGlzaGVyX25hbWU9QmxhY2t3ZWxsOyBjaXRhdGlvbl9wdWJsaXNoZXJfbG9jPU94Zm9yZDsgIGNpdGF0aW9uX2pvdXJuYWxfdGl0bGU9VGhlIFdvcmxkIEZvb2QgRWNvbm9teTsgIGNpdGF0aW9uX3llYXI9MjAxMDsgIiAvPjxtZXRhIG5hbWU9ImNpdGF0aW9uX3JlZmVyZW5jZSIgY29udGVudD0iY2l0YXRpb25fdGl0bGU9TG9uZy10ZXJtIEdsb2JhbCBBZ3JpY3VsdHVyYWwgT3V0cHV0IFN1cHBseS1EZW1hbmQgQmFsYW5jZSBhbmQgUmVhbCBGYXJtIGFuZCBGb29kIFByaWNlczsgIGNpdGF0aW9uX2pvdXJuYWxfdGl0bGU9RmFybSBQb2xpY3kgSm91cm5hbDsgIGNpdGF0aW9uX3llYXI9MjAwOTsgIGNpdGF0aW9uX3ZvbHVtZT02OyAgY2l0YXRpb25faXNzdWU9MTsgIiAvPjxtZXRhIG5hbWU9ImNpdGF0aW9uX3JlZmVyZW5jZSIgY29udGVudD0iY2l0YXRpb25fb3JnPVVuaXRlZCBOYXRpb25zIEVudmlyb25tZW50IFByb2dyYW1tZS47ICBjaXRhdGlvbl9wdWJsaXNoZXJfbmFtZT1Vbml0ZWQgTmF0aW9ucyBFbnZpcm9ubWVudCBQcm9ncmFtbWU7IGNpdGF0aW9uX3B1Ymxpc2hlcl9sb2M9UGFyaXM7ICBjaXRhdGlvbl9qb3VybmFsX3RpdGxlPVRvd2FyZHMgc3VzdGFpbmFibGUgcHJvZHVjdGlvbiBhbmQgdXNlIG9mIHJlc291cmNlcyBhc3Nlc3NpbmcgYmlvZnVlbHM7ICBjaXRhdGlvbl95ZWFyPTIwMDk7ICIgLz48bWV0YSBuYW1lPSJjaXRhdGlvbl9yZWZlcmVuY2UiIGNvbnRlbnQ9ImNpdGF0aW9uX3RpdGxlPU51dHJpZW50IEltYmFsYW5jZXMgaW4gQWdyaWN1bHR1cmFsIERldmVsb3BtZW50OyAgY2l0YXRpb25fam91cm5hbF90aXRsZT1TY2llbmNlOyAgY2l0YXRpb25feWVhcj0yMDA5OyAgY2l0YXRpb25fdm9sdW1lPTMyNDsgIGNpdGF0aW9uX2lzc3VlPTU5MzQ7ICBjaXRhdGlvbl9wYWdlcz0xNTE5LTE1MjA7ICIgLz48bWV0YSBuYW1lPSJjaXRhdGlvbl9yZWZlcmVuY2UiIGNvbnRlbnQ9IiBjaXRhdGlvbl9wdWJsaXNoZXJfbmFtZT1GaW5hbmNpYWwgVGltZXMgUHJlc3M7IGNpdGF0aW9uX3B1Ymxpc2hlcl9sb2M9TmV3IEplcnNleSwgVVNBOyAgY2l0YXRpb25fam91cm5hbF90aXRsZT1UaGUgRWNvbm9taWNzIG9mIEZvb2Q7ICBjaXRhdGlvbl95ZWFyPTIwMTA7ICIgLz48bWV0YSBuYW1lPSJjaXRhdGlvbl9yZWZlcmVuY2UiIGNvbnRlbnQ9ImNpdGF0aW9uX3RleHQ9UGFjaWZpYyBOb3J0aHdlc3QgTmF0aW9uYWwgTGFib3JhdG9yeTsgIGNpdGF0aW9uX2pvdXJuYWxfdGl0bGU9VGhlIEltcGxpY2F0aW9ucyBvZiBMaW1pdGluZyBDTzIgQ29uY2VudHJhdGlvbnMgZm9yIEFncmljdWx0dXJlLCBMYW5kIFVzZSwgTGFuZC11c2UgQ2hhbmdlIEVtaXNzaW9ucyBhbmQgQmlvZW5lcmd5OyAgY2l0YXRpb25feWVhcj0yMDA5OyAiIC8+PG1ldGEgbmFtZT0iY2l0YXRpb25fcmVmZXJlbmNlIiBjb250ZW50PSJjaXRhdGlvbl9vcmc9V29ybGQgQmFuay47IGNpdGF0aW9uX3RleHQ9V29ybGQgRGV2ZWxvcG1lbnQgUmVwb3J0OyAgY2l0YXRpb25fam91cm5hbF90aXRsZT1BZ3JpY3VsdHVyZSBmb3IgRGV2ZWxvcG1lbnQ7ICBjaXRhdGlvbl95ZWFyPTIwMDg7ICIgLz48bWV0YSBuYW1lPSJjaXRhdGlvbl9wZGZfdXJsIiBjb250ZW50PSJodHRwczovL2FjYWRlbWljLm91cC5jb20vYWphZS9hcnRpY2xlLXBkZi85My8yLzI1OS8xMTU2MjQvYWFxMTg5LnBkZiIgLz5kAgQPZBYCZg9kFgJmDxYEHgRocmVmBXEvL291cC5zaWx2ZXJjaGFpci1jZG4uY29tL0Rvd25sb2FkRmlsZS9Eb3dubG9hZEltYWdlLmFzcHg/aW1hZ2U9JlBQVHR5cGU9U2xpZGVTZXQmYXI9NTM2NzQmeHNsdFBhdGg9fi9VSS9hcHAvWFNMVB4JaW5uZXJodG1sBRREb3dubG9hZCBBbGwgRmlndXJlc2RkJDBE6mM77tCL78rNWv9Wwt/yzbM=" />
+</div>
+
+<div class="aspNetHidden">
+
+	<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="2173C2F0" />
+</div>
+        </form>
+        
+        <input id="hdnSiteID" type="hidden" value="5424" />
+
+        
+
+        
+    <div class="master-container">
+        <section class="master-header row">
+                <div class="widget widget-SitePageHeader widget-instance-OUP_SitePageHeader">
+        
+    <div class="ad-banner">
+    <div class="widget widget-AdBlock widget-instance-HeaderAd">
+        <div id="adBlockHeader" style=' '>
+    <script>
+        googletag.cmd.push(function () { googletag.display('adBlockHeader'); });
+    </script>
+</div>
+
+    </div>
+
+    </div>
+
+    <div class="oup-header">
+        <div class="center-inner-row">
+
+            <div class="oup-header-logo">
+                <a href="/"><img src="//oup.silverchair-cdn.com/UI/app/svg/umbrella/oxford-academic-logo.svg" alt="Oxford University Press" class="oup-header-image"></a>
+            </div><!-- /.oup-header-logo -->
+
+            <ul class="oup-header-menu account-menu">
+
+                <!-- MOBILE SEARCH  -->
+                <li class="oup-header-menu-item mobile">
+                    <button href="" class="btn btn-as-icon mobile-dropdown-toggle mobile-search-toggle">
+                        <i class="icon-menu_search"><span class="screenreader-text">Search</span></i>
+                    </button>
+                </li>
+
+                <!-- MOBILE MENU -->
+                <li class="oup-header-menu-item mobile">
+                    <button href="" class="btn btn-as-icon mobile-dropdown-toggle mobile-account-toggle">
+                        <i class="icon-menu_account"><span class="screenreader-text">Account Menu</span></i>
+                    </button>
+                </li>
+
+                <!-- MOBILE NAV -->
+                <li class="oup-header-menu-item mobile">
+                    <button href="" class="btn btn-as-icon mobile-dropdown-toggle mobile-nav-toggle">
+                        <i class="icon-menu_hamburger"><span class="screenreader-text">Menu</span></i>
+                    </button>
+                </li>
+
+                <!-- DESKTOP INSTITUTIONS -->
+
+                <!-- DESKTOP SIGN IN -->
+                <li class="oup-header-menu-item desktop">
+                    <a href="" class="dropdown-toggle signin" id="header-account-info-user-fullname">
+                        
+Sign In                        <i class="icon-general-arrow-filled-down arrow-icon"></i>
+                    </a>
+                    <div class="dropdown-panel dropdown-panel-signin dropdown-panel-form">
+                        <div class="spinner"></div>
+                    </div><!-- /.dropdown-panel -->
+                </li>
+
+                <!-- DESKTOP REGISTRATION -->
+                    <li class="oup-header-menu-item desktop"><a href="/my-account/register?siteId=5424&amp;returnUrl=%2fajae%2farticle-abstract%2f93%2f2%2f259%2f53674%2fThe-Global-Supply-and-Demand-for-Agricultural-Land%3fredirectedFrom%3dPDF" class="register">Register</a></li>
+
+                <!-- LANGUAGE -->
+                    <!-- <li class="oup-header-menu-item desktop">
+                        <a href="" class="dropdown-toggle language">Language</a>
+                        <div class="dropdown-panel">
+                            <div class="dropdown-menu">
+                                <ul>
+                                    foreach (var lang in Model.LanguageOptions)
+                                    {
+                                        string selectedClass = (lang.SiteId == Model.SiteId ? " selected" : "");
+                                        Html.Raw(String.Format("<li class=\"header-language-item{0}\"><a href=\"//{1}\">{2}</a></li>", selectedClass, lang.SiteUrl, lang.LanguageText))
+                                        ;
+                                    }
+                                </ul>
+                            </div>
+                        </div>
+                    </li> -->
+
+            </ul><!-- /.oup-header-menu .account-menu -->
+        </div><!-- /.center-inner-row -->
+    </div><!-- /.oup-header -->
+
+<div class="dropdown-panel-wrap">
+
+    
+    <div class="dropdown-panel mobile-search-dropdown">
+        <div class="mobile-search-inner-wrap">
+            <div class="navbar-search">
+                <div id="MobileMicrositeSearch" class="mobile-microsite-search">
+                    <label>
+                        <span class="screenreader-text">Navbar Search Filter</span>
+                        <select class="navbar-search-filter" id="navbar-search-filter">
+                        </select>
+                    </label>
+                    <label for="MobileMicrositeSearchTerm"><span class="screenreader-text">Mobile Microsite Search Term</span></label>
+                    <input class="mobile-search-input mobile-microsite-search-term" type="text" maxlength="255" placeholder="Search" id="MobileMicrositeSearchTerm">
+
+                    <span id="MobileMicrositeSearchIcon" class="mobile-microsite-search-icon mobile-search-submit icon-menu_search"></span>
+
+                </div><!-- /#MobileMicrositeSearch -->
+            </div><!-- /.navbar-search -->
+        </div><!-- /.mobile-search-inner-wrap -->
+    </div><!-- /.dropdown-panel .dropdown-panel-search -->
+
+    
+    <div class="dropdown-panel mobile-account-dropdown">
+        <ul class="site-menu site-menu-lvl-0">
+            <li class="site-menu-item site-menu-lvl-0">
+                <a href="" class="nav-link mobile-account-signin dummy-link" id="header-account-info-user-fullname">
+                    
+Sign In                    <i class="mobile-nav-arrow icon-general_arrow-down"></i>
+                </a>
+                <ul class="site-menu site-menu-lvl-1">
+                    <li class="dropdown-signin-form">
+                        <div class="spinner"></div>
+                    </li>
+                </ul>
+            </li>
+                            <li class="site-menu-item">
+                    <a href="/my-account/register?siteId=5424&amp;returnUrl=%2fajae%2farticle-abstract%2f93%2f2%2f259%2f53674%2fThe-Global-Supply-and-Demand-for-Agricultural-Land%3fredirectedFrom%3dPDF" class="register nav-link">Register</a>
+                </li>
+        </ul>
+    </div><!-- /.dropdown-panel .dropdown-panel-account -->
+
+    
+    <div class="dropdown-panel mobile-nav-dropdown">
+        
+
+<i class="desktop-nav-arrow icon-general-arrow-filled-down arrow-icon"></i><i class="mobile-nav-arrow icon-general_arrow-down"></i><ul class="site-menu site-menu-lvl-0"><li class="site-menu-item site-menu-lvl-0" id="site-menu-item-651600"><a href="//academic.oup.com/ajae/issue" class="nav-link">Issues</a></li><li class="site-menu-item site-menu-lvl-0" id="site-menu-item-651601"><a href="//academic.oup.com/ajae/#" class="nav-link dummy-link">JEL</a><i class="desktop-nav-arrow icon-general-arrow-filled-down arrow-icon"></i><i class="mobile-nav-arrow icon-general_arrow-down"></i><ul class="site-menu site-menu-lvl-0"><li class="site-menu-item site-menu-lvl-0" id="site-menu-item-1"><a href="https://academic.oup.com/ajae/search-results?q=&tax=JEL/A" class="nav-link">A - General Economics and Teaching</a></li><li class="site-menu-item site-menu-lvl-0" id="site-menu-item-2"><a href="https://academic.oup.com/ajae/search-results?q=&tax=JEL/C" class="nav-link">C - Mathematical and Quantitative Methods</a></li><li class="site-menu-item site-menu-lvl-0" id="site-menu-item-3"><a href="https://academic.oup.com/ajae/search-results?q=&tax=JEL/D" class="nav-link">D - Microeconomics</a></li><li class="site-menu-item site-menu-lvl-0" id="site-menu-item-4"><a href="https://academic.oup.com/ajae/search-results?q=&tax=JEL/E" class="nav-link">E - Macroeconomics and Monetary Economics</a></li><li class="site-menu-item site-menu-lvl-0" id="site-menu-item-5"><a href="https://academic.oup.com/ajae/search-results?q=&tax=JEL/F" class="nav-link">F - International Economics</a></li><li class="site-menu-item site-menu-lvl-0" id="site-menu-item-6"><a href="https://academic.oup.com/ajae/search-results?q=&tax=JEL/G" class="nav-link">G - Financial Economics</a></li><li class="site-menu-item site-menu-lvl-0" id="site-menu-item-7"><a href="https://academic.oup.com/ajae/search-results?q=&tax=JEL/H" class="nav-link">H - Public Economics</a></li><li class="site-menu-item site-menu-lvl-0" id="site-menu-item-8"><a href="https://academic.oup.com/ajae/search-results?q=&tax=JEL/I" class="nav-link">I - Health, Education, and Welfare</a></li><li class="site-menu-item site-menu-lvl-0" id="site-menu-item-9"><a href="https://academic.oup.com/ajae/search-results?q=&tax=JEL/J" class="nav-link">J - Labor and Demographic Economics</a></li><li class="site-menu-item site-menu-lvl-0" id="site-menu-item-10"><a href="https://academic.oup.com/ajae/search-results?q=&tax=JEL/L" class="nav-link">L - Industrial Organization</a></li><li class="site-menu-item site-menu-lvl-0" id="site-menu-item-11"><a href="https://academic.oup.com/ajae/search-results?q=&tax=JEL/M" class="nav-link">M - Business Administration and Business Economics; Marketing; Accounting; Personnel Economics</a></li><li class="site-menu-item site-menu-lvl-0" id="site-menu-item-12"><a href="https://academic.oup.com/ajae/search-results?q=&tax=JEL/O" class="nav-link">O - Economic Development, Innovation, Technological Change, and Growth</a></li><li class="site-menu-item site-menu-lvl-0" id="site-menu-item-13"><a href="https://academic.oup.com/ajae/search-results?q=&tax=JEL/Q" class="nav-link">Q - Agricultural and Natural Resource Economics; Environmental and Ecological Economics</a></li><li class="site-menu-item site-menu-lvl-0" id="site-menu-item-14"><a href="https://academic.oup.com/ajae/search-results?q=&tax=JEL/R" class="nav-link">R - Urban, Rural, Regional, Real Estate, and Transportation Economics</a></li><li class="site-menu-item site-menu-lvl-0" id="site-menu-item-15"><a href="https://academic.oup.com/ajae/search-results?q=&tax=JEL/ConceptScheme" class="nav-link">Browse All</a></li></ul></li><li class="site-menu-item site-menu-lvl-0" id="site-menu-item-651602"><a href="//academic.oup.com/ajae/advance-access" class="nav-link">Advance Articles</a></li><li class="site-menu-item site-menu-lvl-0" id="site-menu-item-651598"><a href="//academic.oup.com/ajae/#" class="nav-link dummy-link">Publish</a><i class="desktop-nav-arrow icon-general-arrow-filled-down arrow-icon"></i><i class="mobile-nav-arrow icon-general_arrow-down"></i><ul class="site-menu site-menu-lvl-1"><li class="site-menu-item site-menu-lvl-1" id="site-menu-item-651603"><a href="//academic.oup.com/ajae/pages/Author_Guidelines" class="nav-link">Author Guidelines</a></li><li class="site-menu-item site-menu-lvl-1" id="site-menu-item-651604"><a href="https://editorialexpress.com/ajae" class="nav-link">Submit</a></li><li class="site-menu-item site-menu-lvl-1" id="site-menu-item-651605"><a href="http://www.oxfordjournals.org/en/authors/offprints.html" class="nav-link">Order Offprints</a></li><li class="site-menu-item site-menu-lvl-1" id="site-menu-item-651606"><a href="http://www.oxfordjournals.org/en/oxford-open/index.html" class="nav-link">Open Access Options</a></li></ul></li><li class="site-menu-item site-menu-lvl-0" id="site-menu-item-651607"><a href="//academic.oup.com/ajae/subscribe" class="nav-link">Purchase</a></li><li class="site-menu-item site-menu-lvl-0" id="site-menu-item-651599"><a href="//academic.oup.com/ajae/#" class="nav-link dummy-link">About</a><i class="desktop-nav-arrow icon-general-arrow-filled-down arrow-icon"></i><i class="mobile-nav-arrow icon-general_arrow-down"></i><ul class="site-menu site-menu-lvl-1"><li class="site-menu-item site-menu-lvl-1" id="site-menu-item-651608"><a href="//academic.oup.com/ajae/pages/About" class="nav-link">About American Journal of Agricultural Economics</a></li><li class="site-menu-item site-menu-lvl-1" id="site-menu-item-651609"><a href="http://www.aaea.org/" class="nav-link">About the Agricultural and Applied Economics Association</a></li><li class="site-menu-item site-menu-lvl-1" id="site-menu-item-651610"><a href="//academic.oup.com/ajae/pages/Editorial_Board" class="nav-link">Editorial Board</a></li><li class="site-menu-item site-menu-lvl-1" id="site-menu-item-651611"><a href="http://www.oupmediainfo.com/" class="nav-link">Advertising and Corporate Services</a></li><li class="site-menu-item site-menu-lvl-1" id="site-menu-item-651612"><a href="//academic.oup.com/my-account/email-alerts" class="nav-link">Alerts</a></li><li class="site-menu-item site-menu-lvl-1" id="site-menu-item-651613"><a href="https://academic.oup.com/journals/pages/access_purchase/rights_and_permissions/self_archiving_policy_f" class="nav-link">Self-Archiving Policy</a></li><li class="site-menu-item site-menu-lvl-1" id="site-menu-item-651614"><a href="http://www.oxfordjournals.org/en/access-purchase/dispatch-dates.html" class="nav-link">Dispatch Dates</a></li><li class="site-menu-item site-menu-lvl-1" id="site-menu-item-651615"><a href="//academic.oup.com/ajae/pages/Terms_and_Conditions" class="nav-link">Terms and Conditions</a></li></ul></li></ul>    </div><!-- /.dropdown-panel .dropdown-panel-nav -->
+
+</div><!-- /.dropdown-panel-wrap -->
+
+
+    <div class="journal-header journal-bg">
+        <div class="center-inner-row">
+            <a href="//academic.oup.com/ajae" class="journal-logo-container">
+                <img id="logo-AmericanJournalofAgriculturalEconomics" class="journal-logo" src="//oup.silverchair-cdn.com/data/SiteBuilderAssets/Live/Images/ajae/ajae_title1447137187.svg" alt="American Journal of Agricultural Economics" />
+            </a>
+            <div class="society-logo-block">
+                    <div class="society-block-inner-wrap">
+                            <a href="http://www.aaea.org/" target="" class="society-logo-container">
+                                <img id="logo-AgriculturalandAppliedEconomicsAssociation" class="society-logo" src="//oup.silverchair-cdn.com/data/SiteBuilderAssets/Live/Images/ajae/ajae_h1-522800677.svg" alt="Agricultural and Applied Economics Association" />
+                            </a>
+                                            </div><!-- /.society-block-inner-wrap - NOTE: used to vertically center one or more society logos -->
+            </div> <!-- /.society-logo-block - NOTE: We want this element on the page, even if there are no society logos -->
+        </div><!-- /.center-inner-row -->
+    </div><!-- /.journal-header -->
+
+<div class="navbar">
+    <div class="center-inner-row">
+        <nav class="navbar-menu">
+
+
+<i class="desktop-nav-arrow icon-general-arrow-filled-down arrow-icon"></i><i class="mobile-nav-arrow icon-general_arrow-down"></i><ul class="site-menu site-menu-lvl-0"><li class="site-menu-item site-menu-lvl-0" id="site-menu-item-651600"><a href="//academic.oup.com/ajae/issue" class="nav-link">Issues</a></li><li class="site-menu-item site-menu-lvl-0" id="site-menu-item-651601"><a href="//academic.oup.com/ajae/#" class="nav-link dummy-link">JEL</a><i class="desktop-nav-arrow icon-general-arrow-filled-down arrow-icon"></i><i class="mobile-nav-arrow icon-general_arrow-down"></i><ul class="site-menu site-menu-lvl-0"><li class="site-menu-item site-menu-lvl-0" id="site-menu-item-1"><a href="https://academic.oup.com/ajae/search-results?q=&tax=JEL/A" class="nav-link">A - General Economics and Teaching</a></li><li class="site-menu-item site-menu-lvl-0" id="site-menu-item-2"><a href="https://academic.oup.com/ajae/search-results?q=&tax=JEL/C" class="nav-link">C - Mathematical and Quantitative Methods</a></li><li class="site-menu-item site-menu-lvl-0" id="site-menu-item-3"><a href="https://academic.oup.com/ajae/search-results?q=&tax=JEL/D" class="nav-link">D - Microeconomics</a></li><li class="site-menu-item site-menu-lvl-0" id="site-menu-item-4"><a href="https://academic.oup.com/ajae/search-results?q=&tax=JEL/E" class="nav-link">E - Macroeconomics and Monetary Economics</a></li><li class="site-menu-item site-menu-lvl-0" id="site-menu-item-5"><a href="https://academic.oup.com/ajae/search-results?q=&tax=JEL/F" class="nav-link">F - International Economics</a></li><li class="site-menu-item site-menu-lvl-0" id="site-menu-item-6"><a href="https://academic.oup.com/ajae/search-results?q=&tax=JEL/G" class="nav-link">G - Financial Economics</a></li><li class="site-menu-item site-menu-lvl-0" id="site-menu-item-7"><a href="https://academic.oup.com/ajae/search-results?q=&tax=JEL/H" class="nav-link">H - Public Economics</a></li><li class="site-menu-item site-menu-lvl-0" id="site-menu-item-8"><a href="https://academic.oup.com/ajae/search-results?q=&tax=JEL/I" class="nav-link">I - Health, Education, and Welfare</a></li><li class="site-menu-item site-menu-lvl-0" id="site-menu-item-9"><a href="https://academic.oup.com/ajae/search-results?q=&tax=JEL/J" class="nav-link">J - Labor and Demographic Economics</a></li><li class="site-menu-item site-menu-lvl-0" id="site-menu-item-10"><a href="https://academic.oup.com/ajae/search-results?q=&tax=JEL/L" class="nav-link">L - Industrial Organization</a></li><li class="site-menu-item site-menu-lvl-0" id="site-menu-item-11"><a href="https://academic.oup.com/ajae/search-results?q=&tax=JEL/M" class="nav-link">M - Business Administration and Business Economics; Marketing; Accounting; Personnel Economics</a></li><li class="site-menu-item site-menu-lvl-0" id="site-menu-item-12"><a href="https://academic.oup.com/ajae/search-results?q=&tax=JEL/O" class="nav-link">O - Economic Development, Innovation, Technological Change, and Growth</a></li><li class="site-menu-item site-menu-lvl-0" id="site-menu-item-13"><a href="https://academic.oup.com/ajae/search-results?q=&tax=JEL/Q" class="nav-link">Q - Agricultural and Natural Resource Economics; Environmental and Ecological Economics</a></li><li class="site-menu-item site-menu-lvl-0" id="site-menu-item-14"><a href="https://academic.oup.com/ajae/search-results?q=&tax=JEL/R" class="nav-link">R - Urban, Rural, Regional, Real Estate, and Transportation Economics</a></li><li class="site-menu-item site-menu-lvl-0" id="site-menu-item-15"><a href="https://academic.oup.com/ajae/search-results?q=&tax=JEL/ConceptScheme" class="nav-link">Browse All</a></li></ul></li><li class="site-menu-item site-menu-lvl-0" id="site-menu-item-651602"><a href="//academic.oup.com/ajae/advance-access" class="nav-link">Advance Articles</a></li><li class="site-menu-item site-menu-lvl-0" id="site-menu-item-651598"><a href="//academic.oup.com/ajae/#" class="nav-link dummy-link">Publish</a><i class="desktop-nav-arrow icon-general-arrow-filled-down arrow-icon"></i><i class="mobile-nav-arrow icon-general_arrow-down"></i><ul class="site-menu site-menu-lvl-1"><li class="site-menu-item site-menu-lvl-1" id="site-menu-item-651603"><a href="//academic.oup.com/ajae/pages/Author_Guidelines" class="nav-link">Author Guidelines</a></li><li class="site-menu-item site-menu-lvl-1" id="site-menu-item-651604"><a href="https://editorialexpress.com/ajae" class="nav-link">Submit</a></li><li class="site-menu-item site-menu-lvl-1" id="site-menu-item-651605"><a href="http://www.oxfordjournals.org/en/authors/offprints.html" class="nav-link">Order Offprints</a></li><li class="site-menu-item site-menu-lvl-1" id="site-menu-item-651606"><a href="http://www.oxfordjournals.org/en/oxford-open/index.html" class="nav-link">Open Access Options</a></li></ul></li><li class="site-menu-item site-menu-lvl-0" id="site-menu-item-651607"><a href="//academic.oup.com/ajae/subscribe" class="nav-link">Purchase</a></li><li class="site-menu-item site-menu-lvl-0" id="site-menu-item-651599"><a href="//academic.oup.com/ajae/#" class="nav-link dummy-link">About</a><i class="desktop-nav-arrow icon-general-arrow-filled-down arrow-icon"></i><i class="mobile-nav-arrow icon-general_arrow-down"></i><ul class="site-menu site-menu-lvl-1"><li class="site-menu-item site-menu-lvl-1" id="site-menu-item-651608"><a href="//academic.oup.com/ajae/pages/About" class="nav-link">About American Journal of Agricultural Economics</a></li><li class="site-menu-item site-menu-lvl-1" id="site-menu-item-651609"><a href="http://www.aaea.org/" class="nav-link">About the Agricultural and Applied Economics Association</a></li><li class="site-menu-item site-menu-lvl-1" id="site-menu-item-651610"><a href="//academic.oup.com/ajae/pages/Editorial_Board" class="nav-link">Editorial Board</a></li><li class="site-menu-item site-menu-lvl-1" id="site-menu-item-651611"><a href="http://www.oupmediainfo.com/" class="nav-link">Advertising and Corporate Services</a></li><li class="site-menu-item site-menu-lvl-1" id="site-menu-item-651612"><a href="//academic.oup.com/my-account/email-alerts" class="nav-link">Alerts</a></li><li class="site-menu-item site-menu-lvl-1" id="site-menu-item-651613"><a href="https://academic.oup.com/journals/pages/access_purchase/rights_and_permissions/self_archiving_policy_f" class="nav-link">Self-Archiving Policy</a></li><li class="site-menu-item site-menu-lvl-1" id="site-menu-item-651614"><a href="http://www.oxfordjournals.org/en/access-purchase/dispatch-dates.html" class="nav-link">Dispatch Dates</a></li><li class="site-menu-item site-menu-lvl-1" id="site-menu-item-651615"><a href="//academic.oup.com/ajae/pages/Terms_and_Conditions" class="nav-link">Terms and Conditions</a></li></ul></li></ul>        </nav>
+            <div class="navbar-search-container">
+                <div class="navbar-search">
+                    <div id="MicrositeSearch" class="microsite-search">
+                        <label for="navbar-search-filter">
+                            <span class="screenreader-text">search filter</span>
+                        </label>
+                        <select class="navbar-search-filter" id="navbar-search-filter">
+                        </select>
+
+                        <label for="MicrositeSearchTerm"><span class="screenreader-text">search input</span></label>
+                        <input class="navbar-search-input microsite-search-term" type="text" maxlength="255" id="MicrositeSearchTerm" title="search input">
+
+                        <span id="MicrositeSearchIcon" class="microsite-search-icon navbar-search-submit icon-menu_search"></span>
+
+                    </div><!-- /#MicrositeSearch -->
+                </div><!-- /.navbar-search -->
+                <div class="navbar-search-advanced"><a href="/ajae/advanced-search" class="advanced-search">Advanced Search</a></div>
+            </div><!-- /.navbar-search-container -->
+    </div><!-- /.center-inner-row -->
+</div><!-- /.navbar -->
+
+    <input type="hidden" name="searchScope" id="hfSolrJournalID" value="" />
+    <input type="hidden" name="parentSiteName" id="hfParentSiteName" value="AAEA Journals" />
+            <input type="hidden" id="hfSolrJournalName" value="" />
+            <input type="hidden" id="hfSolrMaxAllowSearchChar" value="100" />
+            <input type="hidden" id="hfJournalShortName" value="" />
+            <input type="hidden" id="hfSearchPlaceholder" value="" />
+            <input type="hidden" name="hfGlobalSearchSiteURL" id="hfGlobalSearchSiteURL" value="" />
+            <input type="hidden" name="hfSearchSiteURL" id="hfSiteURL" value="academic.oup.com/ajae" />
+            <script type="text/javascript">
+                (function() {
+                    var hfSiteUrl = document.getElementById('hfSiteURL');
+                    var siteUrl = hfSiteUrl.value;
+                    var subdomainIndex = siteUrl.indexOf('/');
+
+                    hfSiteUrl.value = location.host + (subdomainIndex >= 0 ? siteUrl.substring(subdomainIndex) : '');
+                    })();
+            </script>
+<input id="routename" name="RouteName" type="hidden" value="ajae" />
+    </div>
+
+        </section>
+        <main id="main" tabindex="-1">
+            <section class="master-main row">
+                <div class="center-inner-row no-overflow">
+                    
+    <div class="page-column-wrap">
+        <div id="InfoColumn" class="page-column page-column--left">
+            <div class="mobile-content-topbar hide">
+                <button class="toggle-left-col toggle-left-col__article">Article Navigation</button>
+            </div>
+            <div class="info-inner-wrap">
+                
+                <button class="toggle-left-col__close btn-as-icon icon-general-close">
+                    <span class="screenreader-text">Close mobile search navigation</span>
+                </button>
+                <div class="responsive-nav-title">Article navigation</div>
+
+                    <div class="info-widget-wrap">
+                        <div class="widget widget-IssueInfo widget-instance-OUP_IssueInfo_Article">
+        
+
+<div id="issueInfo-OUP_IssueInfo_Article" class="article-info-wrap clearfix">
+    <i class="icon-general-close mobile-nav-btn nav-open"></i>
+    <div class="article-issue-img">
+            <a href="/ajae/issue/93/2"><img id="issueImage" class="fb-featured-image" src="https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/ajae/Issue/93/2/1/m_cover.gif?Expires=1490509575&amp;Signature=OCWyxVBT5uo01tyEyt24UK0VuIB8O0cEfMCqDanSpPGzI~HIShZ8FN~fR~qkJsLrDVLhygf8LkdHVAfErabeCNPb4MRSM729ULGHbXdAzwJJDtNcw3FKHjoj0ig1g9WlJRDFGk5iI9q8iSoaa3ZetBiGZACzR-fY4wQbv~rWemvG5nR1WyWTLEZvtRtYuBFa37Kpa5xUPLLua3LJCowKad3~ou9enAGC3lwp8yMpZTh0veCtDhVtzw5TRXDeK5VLRRhRcTi8b5Qt7~UEmiTvz-CWb07KwPovrBuSYChRcU8yqnUoykwdaa4PkjDpkG5HiTqFEijZeKtBbsSqT6YBOA__&amp;Key-Pair-Id=APKAIUCZBIA4LVPAVW3Q" alt="Issue Cover"/></a>
+    </div>
+    <div class="article-issue-info">
+        <div class="volume-issue__wrap">
+           
+            <a href="/ajae/issue/93/2">
+                <div class="volume">Volume 93</div>
+                
+                <div class="issue">Issue 2</div>
+            </a>
+
+        </div>
+        <div class="ii-pub-date">
+January 2011        </div>
+
+    </div>
+    
+</div>
+    </div>
+
+
+                    <div class="content-nav">
+                        <div class="contents-title">Article Contents</div>
+                        
+	                </div>
+            
+                        <div class="widget widget-ArticleNavLinks widget-instance-OUP_ArticleNavLinks_Article">
+        <ul class="inline-list">
+        <li class="empty arrow">&nbsp;</li>
+            <li class="next arrow">
+            <a href="/ajae/article/93/2/276/53947/Innovation-and-Productivity-Growth">Next &gt;</a>
+        </li>
+</ul>
+    </div>
+
+                </div>
+            </div>
+        </div> 
+    
+        <div id="ContentColumn" class="page-column page-column--center">
+            
+             <div class="article-browse-top article-browse-mobile-nav">
+                <div class="article-browse-mobile-nav-inner">
+                    <button class="toggle-left-col toggle-left-col__article btn-as-link">
+                        Article Navigation
+                    </button>
+                </div>
+            </div>
+
+            <div class="content-inner-wrap">
+                    <div class="widget widget-ArticleTopInfo widget-instance-OUP_Abstract_ArticleTop_Info_Widget">
+        <div class="module-widget article-top-widget">
+
+    
+
+    
+        <div class="access-state-logos all-viewports">
+    
+            </div>
+
+
+    <div class="widget-items">
+                <h1 class="wi-article-title article-title-main">The Global Supply and Demand for Agricultural Land in 2050: A Perfect Storm in the Making?1
+<i class=""></i>                </h1>
+                <div class="wi-authors">
+                    <div class="al-authors-list">
+                                <div class="al-author-name">
+
+                                    <a class="linked-name" href="javascript:;">Thomas W. Hertel</a>
+                                    <div class="al-author-info-wrap arrow-up">
+
+
+<div id="authorInfo_OUP_Abstract_ArticleTop_Info_Widget" class="info-card-author">
+    <div class="name-role-wrap">
+        <div class="info-card-name">Thomas W. Hertel</div>
+    </div>
+    
+        <div class="info-card-affilitation">
+            <div class="aff"><div class="addr-line">AAEA Presidential Address delivered by Thomas W. Hertel, Purdue University.</div></div>
+        </div>   
+
+
+
+    
+        <div class="info-card-search-label">
+            Search for other works by this author on:
+        </div>
+            <div class="info-card-search info-card-search-oxford">
+                <a href="/search-results?f_Authors=Thomas+W.+Hertel">Oxford Academic</a>
+            </div>
+            <div class="info-card-search info-card-search-pubmed">
+                <a href="http://www.ncbi.nlm.nih.gov/pubmed?cmd=search&amp;term=Hertel T">PubMed</a>
+            </div>
+            <div class="info-card-search info-card-search-google">
+                <a href="http://scholar.google.com/scholar?q=&quot;author:Hertel author:T.&quot;">Google Scholar</a>
+            </div>
+
+</div>
+                                    </div>
+                                </div>
+                    </div>
+                </div>
+                                    <div class="pub-history-wrap clearfix">
+
+                                            <div class="pub-history-row clearfix">
+                                                <div class="ww-citation-primary">Am J Agric Econ (2011) 93 (2): 259-275.</div>
+                                                <div class="ww-citation-wrap-doi">
+                                                    <div class="citation-label">DOI:</div>
+                                                    <div class="citation-doi">
+                                                        <a href="https://doi.org/10.1093/ajae/aaq189">https://doi.org/10.1093/ajae/aaq189</a>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <div class="pub-history-row clearfix">
+                                                <div class="ww-citation-date-wrap">
+                                                    <div class="citation-label">Published:</div>
+                                                    <div class="citation-date">01 January 2011</div>
+                                                </div>
+                                            </div>
+                                                                            </div><!-- /.pub-history-wrap -->
+
+    </div>
+</div>
+
+<script>
+    $(document).ready(function () {
+        $('.article-top-widget').on('click', '.ati-toggle-trigger', function () {
+            $(this).find('.icon-general-add, .icon-minus').toggleClass('icon-minus icon-general-add');
+            $(this).siblings('.ati-toggle-content').toggleClass('hide');
+        });
+
+        // In Chrome, an anchor tag with target="_blank" and a "mailto:" href opens a new tab/window as well as the email client
+        // I suspect this behavior will be corrected in the future
+        // Remove the target="_blank"
+        $('ul.wi-affiliationList').find('a[href^="mailto:"]').each(function () {
+            $(this).removeAttr('target');
+        });
+    });
+</script>
+
+
+    </div>
+    <div class="widget widget-ArticleLinks widget-instance-OUP_Article_Links_Widget">
+        
+
+
+    </div>
+
+        
+ 
+                <div class="toolbar-wrap">
+                    <div class="toolbar-inner-wrap"><!-- for mobile -->
+                        <ul id="Toolbar" role="navigation">
+                            <li class="toolbar-item item-with-dropdown item-views">
+                                <a class="drop-trigger" data-dropdown="FilterDrop">
+                                    <i class="icon-menu_views"></i>
+                                    <div class="toolbar-label">
+                                        <div class="toolbar-text">Views</div>
+                                        <i class="icon-general-arrow-filled-down arrow-icon"></i>
+                                    </div>
+                                </a>
+                                <ul id="ViewsDrop" class="f-dropdown" data-dropdown-content>
+                                    <div class="arrow-up"></div>
+                                    <li class="article-content-filter" data-content-filter="article-content"><a><span>Article contents</span></a></li>
+                                    <li class="article-content-filter" data-content-filter="figures-tables"><a><span>Figures &amp; tables</span></a></li>
+                                    <li class="article-content-filter" data-content-filter="video"><a><span>Video</span></a></li>
+                                    <li class="article-content-filter" data-content-filter="audio"><a><span>Audio</span></a></li>
+                                    <li class="article-content-filter" data-content-filter="supplementary-data"><a><span>Supplementary Data</span></a></li>
+                                </ul>
+                            </li>
+                            
+                            <li class="toolbar-item">
+                                    <div class="widget widget-ToolboxGetCitation widget-instance-OUP_Get_Citation">
+        <a href="#" data-reveal-id="getCitation" data-reveal><i class="icon-read-more"></i><span>Cite</span></a>
+
+<div id="getCitation" class="reveal-modal" data-reveal>
+    <div class="modal-title">Citation</div>
+    <p>Thomas W. Hertel; The Global Supply and Demand for Agricultural Land in 2050: A Perfect Storm in the Making?<sup />. <em>Am J Agric Econ</em> 2011; 93 (2): 259-275. doi: 10.1093/ajae/aaq189</p>
+    <p class="citation-label">Download citation file:</p>  
+    <ul>
+        <li><a href="/ajae/downloadcitation/53674?format=ris">RIS (Zotero)</a></li>
+        <li><a href="/ajae/downloadcitation/53674?format=ris">EndNote</a></li>
+        <li><a href="/ajae/downloadcitation/53674?format=bibtex">BibTex</a></li>
+        <li><a href="/ajae/downloadcitation/53674?format=txt">Medlars</a></li>
+        <li><a href="/ajae/downloadcitation/53674?format=ris">ProCite</a></li>
+        <li><a href="/ajae/downloadcitation/53674?format=">RefWorks</a></li>
+        <li><a href="/ajae/downloadcitation/53674?format=ris">Reference Manager</a></li>
+    </ul>
+    <hr/>
+    
+    <p>&#169; 2017 Oxford University Press</p>
+    <a class="close-reveal-modal">&#215;</a>
+</div>
+    </div>
+ 
+                            </li>
+                            <li class="toolbar-item item-with-dropdown item-share">
+                                <a class="drop-trigger" data-dropdown="ShareDrop">
+                                    <i class="icon-menu_share"></i>
+                                    <div class="toolbar-label">
+                                        <div class="toolbar-text">Share</div>
+                                        <i class="icon-general-arrow-filled-down arrow-icon"></i>
+                                    </div>
+                                </a>
+                                <ul id="ShareDrop" class="addthis_toolbox addthis_default_style addthis_20x20_style f-dropdown" data-dropdown-content>
+                                    <div class="arrow-up"></div>
+                                    <li><a class="addthis_button_email"><span>Email</span></a></li>
+                                    <li><a class="addthis_button_twitter"><span>Twitter</span></a></li>
+                                    <li><a class="addthis_button_facebook"><span>Facebook</span></a></li>
+                                </ul>
+                            </li>
+                            <li class="toolbar-item item-with-dropdown item-tools last">
+                                <a class="drop-trigger" data-dropdown="ToolsDrop">
+                                    <i class="icon-menu_tools"></i>
+                                    <div class="toolbar-label">
+                                        <div class="toolbar-text">Tools</div>
+                                        <i class="icon-general-arrow-filled-down arrow-icon"></i>
+                                    </div>
+                                </a>
+                                <ul id="ToolsDrop" class="f-dropdown" data-dropdown-content>
+                                    <div class="arrow-up"></div>
+                                    <li>    <div class="widget widget-ToolboxPermissions widget-instance-">
+            <div class="module-widget">
+            <a href="https://s100.copyright.com/AppDispatchServlet?publisherName=OUP&amp;publication=1467-8276&amp;title=The%20Global%20Supply%20and%20Demand%20for%20Agricultural%20Land%20in%202050%3A%20A%20Perfect%20Storm%20in%20the%20Making%3F%26lt%3Bsup%26gt%3B%26lt%3Bxref%20ref-type%3D%26quot%3Bfn%26quot%3B%20rid%3D%26quot%3BFN1%26quot%3B%26gt%3B1%26lt%3B%2Fxref%26gt%3B%26lt%3B%2Fsup%26gt%3B&amp;publicationDate=2011-01-01&amp;volumeNum=93&amp;issueNum=2&amp;author=Hertel%2C%20Thomas%20W.&amp;startPage=259&amp;endPage=275&amp;contentId=10.1093%2Fajae%2Faaq189&amp;oa=&amp;copyright=Oxford%20University%20Press&amp;orderBeanReset=True" id="PermissionsLink" class="" target="_blank">Get Permissions</a>
+    </div>
+
+    </div>
+</li>
+                                </ul>
+                            </li>
+                        </ul>
+                    
+                        <div class="toolbar-search">
+                                <div class="widget widget-SitePageHeader widget-instance-OUP_ArticleToolbarSearchBox">
+        
+
+
+<div class="dropdown-panel-wrap">
+
+    
+    <div class="dropdown-panel mobile-search-dropdown">
+        <div class="mobile-search-inner-wrap">
+            <div class="navbar-search">
+                <div id="MobileMicrositeSearch" class="mobile-microsite-search">
+                    <label>
+                        <span class="screenreader-text">Navbar Search Filter</span>
+                        <select class="navbar-search-filter" id="navbar-search-filter">
+                        </select>
+                    </label>
+                    <label for="MobileMicrositeSearchTerm"><span class="screenreader-text">Mobile Microsite Search Term</span></label>
+                    <input class="mobile-search-input mobile-microsite-search-term" type="text" maxlength="255" placeholder="Search" id="MobileMicrositeSearchTerm">
+
+                    <span id="MobileMicrositeSearchIcon" class="mobile-microsite-search-icon mobile-search-submit icon-menu_search"></span>
+
+                </div><!-- /#MobileMicrositeSearch -->
+            </div><!-- /.navbar-search -->
+        </div><!-- /.mobile-search-inner-wrap -->
+    </div><!-- /.dropdown-panel .dropdown-panel-search -->
+
+    
+    <div class="dropdown-panel mobile-account-dropdown">
+        <ul class="site-menu site-menu-lvl-0">
+            <li class="site-menu-item site-menu-lvl-0">
+                <a href="" class="nav-link mobile-account-signin dummy-link" id="header-account-info-user-fullname">
+                    
+Sign In                    <i class="mobile-nav-arrow icon-general_arrow-down"></i>
+                </a>
+                <ul class="site-menu site-menu-lvl-1">
+                    <li class="dropdown-signin-form">
+                        <div class="spinner"></div>
+                    </li>
+                </ul>
+            </li>
+                            <li class="site-menu-item">
+                    <a href="/my-account/register?siteId=0&amp;returnUrl=%2fajae%2farticle-abstract%2f93%2f2%2f259%2f53674%2fThe-Global-Supply-and-Demand-for-Agricultural-Land%3fredirectedFrom%3dPDF" class="register nav-link">Register</a>
+                </li>
+        </ul>
+    </div><!-- /.dropdown-panel .dropdown-panel-account -->
+
+    
+    <div class="dropdown-panel mobile-nav-dropdown">
+        
+    </div><!-- /.dropdown-panel .dropdown-panel-nav -->
+
+</div><!-- /.dropdown-panel-wrap -->
+
+
+
+<div class="navbar">
+    <div class="center-inner-row">
+        <nav class="navbar-menu">
+
+        </nav>
+            <div class="navbar-search-container">
+                <div class="navbar-search">
+                    <div id="MicrositeSearch" class="microsite-search">
+                        <label for="navbar-search-filter">
+                            <span class="screenreader-text">search filter</span>
+                        </label>
+                        <select class="navbar-search-filter" id="navbar-search-filter">
+                        </select>
+
+                        <label for="MicrositeSearchTerm"><span class="screenreader-text">search input</span></label>
+                        <input class="navbar-search-input microsite-search-term" type="text" maxlength="255" id="MicrositeSearchTerm" title="search input">
+
+                        <span id="MicrositeSearchIcon" class="microsite-search-icon navbar-search-submit icon-menu_search"></span>
+
+                    </div><!-- /#MicrositeSearch -->
+                </div><!-- /.navbar-search -->
+                <div class="navbar-search-advanced"><a class="advanced-search">Advanced Search</a></div>
+            </div><!-- /.navbar-search-container -->
+    </div><!-- /.center-inner-row -->
+</div><!-- /.navbar -->
+
+<input id="routename" name="RouteName" type="hidden" value="" />
+    </div>
+
+                        </div>
+                    </div><!-- /.toolbar-inner-wrap -->                    
+                </div>
+
+                <div class="article-body">
+                    <div id="ContentTab" class="content active">
+                            <div class="widget widget-ArticleFulltext widget-instance-OUP_Abstract_Article_FullText_Widget">
+        <div class="module-widget">
+    <div class="widget-items" data-widgetname="ArticleFulltext">
+
+        
+
+
+
+<p>Over the past three years, there has been a convergence of interest in the global farm and food system and its contributions to feeding the world’s population as well as to ensuring the environmental sustainability of the planet. The 2007/2008 commodity crisis underscored the vulnerability of the global food system to shocks from extreme weather events, energy and financial markets, as well as government interventions in the form of export bans and other measures designed to avoid domestic adjustment to global scarcity. We have learned that a “perfect storm” in which all these factors coincide can have a devastating impact on the world’s poor, as well as pressuring the world’s natural resource base. As we look ahead to the middle of this century, will...</p>        <!-- /foreach -->
+            <div class="article-metadata-standalone-panel clearfix"></div>
+
+
+
+        <div class="copyright copyright-statement">© The Author (2011). Published by Oxford University Press on behalf of the Agricultural and Applied Economics Association. All rights reserved. For permissions, please e-mail: journals.permissions@oup.com</div><!-- /foreach -->
+
+        <span id="UserHasAccess" data-userHasAccess="False"></span>
+
+    </div><!-- /.widget-items -->
+</div><!-- /.module-widget -->
+    </div>
+    <div class="widget widget-FirstPagePreview widget-instance-OUP_FirstPagePreview">
+        
+    <h3 class="widget-title">Article PDF first page preview</h3>
+    
+    <div id="divThumbnailPreview">
+      <img src="https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/ajae/93/2/10.1093/ajae/aaq189/2/aaq189.pdf.gif?Expires=1490509576&amp;Signature=OxiaMPbkrAMAV0iK~8aC6OQDjP2JCRmkoY~XrjwC~3w3vjHs163d0UDwi1wFkR4Y9AgycrC15b1Y3WLa3D5EdHlw7w8HlTyZYThBSmK5cGjgf23uyWg7j4EWf5AQj1G3c4GarUWjO1zPqadN2pLQzHNcpQCyAhl~lXZ~fhzZgeuezezExfSe1d4yEB7h70U93je9KbfEqKzKOIQZHTm-Qvm3wa0DjTg8gwvApA0UBKbtgDAMMubrnmGrH9C2m~PbiaQ1EwGeT3uLx7yjOpCkTIfYKUmdAg69SrwbXEiO-dUQlaYiz84~0UDTXM6pQUuVBYIPg7gYE9wVRP97TnxhZA__&amp;Key-Pair-Id=APKAIUCZBIA4LVPAVW3Q" alt="Article PDF first page preview" data-reveal-id="divFirstPagePreview" class="firstPagePreviewImage"/>
+    </div>
+    <div id="divFirstPagePreview" class="reveal-modal" data-reveal> 
+      <img src="https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/ajae/93/2/10.1093/ajae/aaq189/2/aaq189.pdf.gif?Expires=1490509576&amp;Signature=OxiaMPbkrAMAV0iK~8aC6OQDjP2JCRmkoY~XrjwC~3w3vjHs163d0UDwi1wFkR4Y9AgycrC15b1Y3WLa3D5EdHlw7w8HlTyZYThBSmK5cGjgf23uyWg7j4EWf5AQj1G3c4GarUWjO1zPqadN2pLQzHNcpQCyAhl~lXZ~fhzZgeuezezExfSe1d4yEB7h70U93je9KbfEqKzKOIQZHTm-Qvm3wa0DjTg8gwvApA0UBKbtgDAMMubrnmGrH9C2m~PbiaQ1EwGeT3uLx7yjOpCkTIfYKUmdAg69SrwbXEiO-dUQlaYiz84~0UDTXM6pQUuVBYIPg7gYE9wVRP97TnxhZA__&amp;Key-Pair-Id=APKAIUCZBIA4LVPAVW3Q" alt="Article PDF first page preview" />
+      <a class="close-reveal-modal"><i class="icon-general-close"></i></a> 
+    </div>
+    </div>
+    <div class="widget widget-RelatedTags widget-instance-OUP_Article_RelatedTags_Widget">
+        
+    </div>
+    <div class="widget widget-SolrResourceMetadata widget-instance-OUP_Article_ResourceMetadata_Widget">
+        
+        <div class="article-metadata-taxonomies">
+        </div>
+        <div class="article-metadata-tocSections">
+            <div class="article-metadata-tocSections-title">Issue Section:</div>
+                <a href="/ajae/search-results?f_TocHeadingTitle=Presidential Address">Presidential Address</a>
+        </div>
+
+
+    </div>
+
+                            <div class="article-top-info-user-restricted-options">
+                                You do not currently have access to this article. 
+                                
+                            </div>
+                        
+
+                        <div id="ContentTabFilteredView"></div>
+                        <div class="downloadImagesppt">
+                            <a href="//oup.silverchair-cdn.com/DownloadFile/DownloadImage.aspx?image=&PPTtype=SlideSet&ar=53674&xsltPath=~/UI/app/XSLT" id="BodyContent_PageContent_lnkDownloadAllImages">Download All Figures</a>
+                        </div>
+                        <div></div>
+                        
+                         <div class="comments">
+                                <div class="widget widget-UserCommentBody widget-instance-UserCommentBody_Article">
+        
+
+
+    </div>
+    <div class="widget widget-UserComment widget-instance-OUP_UserComment_Article">
+        
+    </div>
+
+                        </div>
+                    </div>
+                   
+                </div> 
+
+                  
+                        <div id="unauth" class="unauth-wrap">
+                            
+                                <div class="unauth-row clearfix">
+                                    <h2 class="unauth-signin-title">Sign in</h2>
+                                    
+                                    <div class="register-ribbon-wrap">
+                                        <div class="register-ribbon-text"></div>Don't already have an Oxford Academic account? <a class="register-ribbon-link" href="/my-account/register?siteId=5424&returnUrl=%2fajae%2farticle-abstract%2f93%2f2%2f259%2f53674%2fThe-Global-Supply-and-Demand-for-Agricultural-Land%3fredirectedFrom%3dPDF">Register</a>
+                                    </div>
+                                    <!-- /.register-ribbon-wrap -->
+                                    <div class="unauth-column-wrap">
+                                        
+                                        <div class="unauth-column">
+                                                <div class="widget widget-LoginForm widget-instance-OUP_ArticlePage_LoginForm">
+        
+    <div class="signin-form">
+
+        <div class="preloader-wrap hide">
+            <div class="preloader">
+                <div class="spinner"></div>
+            </div>
+        </div>
+
+        <!-- Errors -->
+        <div class="error">
+            You could not be signed in. Please check your email address / username and password and try again.
+        </div>
+        <div class="login-form__section">
+            <h3 class="login-form__heading">Oxford Academic account</h3>
+            <div class="login-form__row">
+                <label for="user_OUP_ArticlePage_LoginForm" class="login-form__label">
+                    <div class="login-form__label-text">Email address / Username</div>
+                    <a class="question-icon" href="#" data-reveal-id="modalSignInEmail"><span>?</span></a>
+                </label>
+                <input id="user_OUP_ArticlePage_LoginForm" type="text" class="username" autocomplete="off" />
+            </div>
+
+            <div class="login-form__row">
+                <label for="pass_OUP_ArticlePage_LoginForm" class="login-form__label-text">Password</label>
+                <input id="pass_OUP_ArticlePage_LoginForm" type="password" class="password" />
+            </div>
+
+            <div class="login-form__row">
+                <button class="signin-button button">Sign In</button>
+                <div class="login-form__link-wrap">
+                    <a class="logged-out-link" href="/my-account/forgot-password">Forgot password?</a>
+                </div>
+                <div class="login-form__link-wrap">
+                    <a class="logged-out-link" href="/my-account/register?siteId=5424&amp;returnUrl=%2fajae%2farticle-abstract%2f93%2f2%2f259%2f53674%2fThe-Global-Supply-and-Demand-for-Agricultural-Land%3fredirectedFrom%3dPDF" data-target="register">Don't have an account?</a>
+                </div>
+            </div>
+        </div><!-- /.login-form-section -->
+
+        <div class="bearpan-wrap">
+            <label for="hpcName"><span class="screenreader-text">HPC</span><input type="text" id="hpcName" name="hpcName" /></label>
+</div>
+    </div>
+        <div id="modalSignInEmail" class="reveal-modal medium" data-reveal>
+            <h4>Email address / username</h4><p>Most users should sign in with their email address. If you originally registered with a username please use that to sign in.</p>
+            <a class="close-reveal-modal"><i class="icon-general-close"></i></a>
+        </div>
+        <script type="text/javascript">
+            $(document).ready(function () {
+                SCM.SiteJS.initLoginFormDropdown();
+            });
+        </script>
+
+    </div>
+
+                                        </div><!-- /.unauth-column -->
+                                        
+                                        <div class="unauth-column entities">
+                                            
+                                            <div class="unauth-society-row">
+                                                    <div class="widget widget-SocietyLinks widget-instance-OUP_SocietyLinks">
+            <div class="login-form__section login-form__row--lower">
+        <ul class="society-links">
+
+                <li class="society-links-listing">
+                        <a href="https://aaea.execinc.com/edibo?origurl=%node:current_encoded_url" class="society-links-logo">
+                            <img src="//oup.silverchair-cdn.com/data/SiteBuilderAssetsOriginals/Live/Images/ajae/ajae_soc_auth1.svg" alt="Agricultural and Applied Economics Association" />
+                        </a>
+                        <div class="society-links-text">
+                            <h3 class="login-form__heading">Agricultural and Applied Economics Association members</h3>
+                            <a class="society-links-url" href="https://aaea.execinc.com/edibo?origurl=%node:current_encoded_url">Sign in via society site</a>
+                        </div>
+                </li>
+        </ul>
+    </div>
+    <script>
+        var placeholderReturnUrlValue = '%node:current_encoded_url';
+    </script>
+
+    </div>
+
+                                            </div>
+                                            
+                                            <div class="unauth-society-row">
+                                                <h3 class="login-form__heading">Sign in via your Institution</h3>
+                                                <div><a class="shibboleth-signin" data-target="https://shibboleth2sp.sams2.oup.com/shib?dest={0}">Sign in</a></div>
+                                            </div>
+                                            
+                                        </div><!-- /.unauth-column -->
+                                        
+                                    </div><!-- /.unauth-signin-col-wrap -->
+                                </div>
+                            
+
+                            <div id="article-purchase" class="unauth-row clearfix">
+                                    <div class="widget widget-PurchaseOptions widget-instance-OUP_ArticlePage_PurchaseOptions">
+            <div class="purchase-wrap">
+        <h2 class="purchase-title">Purchase</h2>
+        <a class="purchase-subscription-link" href="/ajae/Subscribe/CurrentYear">Subscription prices and ordering</a>
+
+            <div class="purchase-ppv-wrap-article clearfix">
+                <h3>Short-term Access</h3>
+
+                    <div class="register-ribbon-wrap">
+                        <p>
+                            To purchase short term access, please sign in to your Oxford Academic account above.
+                        </p>
+                        <p>
+                            Don&#39;t already have an Oxford Academic account? <a href="/my-account/register?siteId=5424&amp;returnUrl=%2fajae%2farticle-abstract%2f93%2f2%2f259%2f53674%2fThe-Global-Supply-and-Demand-for-Agricultural-Land%3fredirectedFrom%3dPDF">Register</a>
+                        </p>
+                    </div>
+
+                The Global Supply and Demand for Agricultural Land in 2050: A Perfect Storm in the Making?<sup><a reveal-id="FN1" data-open="FN1" class="link link-ref link-reveal xref-fn">1</a></sup> - <span class="purchase-text-access">24 Hours access</span>
+                <div class="purchase-currency-wrap">
+                        <div class="purchase-currency">
+                            EUR €33.00
+                        </div>
+                        <div class="purchase-currency">
+                            GBP &#163;26.00
+                        </div>
+                        <div class="purchase-currency">
+                            USD $42.00
+                        </div>
+                </div>
+                <a class="button btn-green btn-big" href="http://secureacademic.oup.com/basket.html?item_number=LK2PPV&amp;customer_type=PERSON&amp;rate_code=PPA&amp;year=2017&amp;journal=ajae&amp;identifier=10.1093/ajae/aaq189&amp;description=The Global Supply and Demand for Agricultural Land in 2050: A Perfect Storm in the Making?1">Buy</a>
+            </div><!-- /.purchase-ppv-wrap-article -->
+
+       
+    </div><!-- /.purchase-wrap -->
+
+    </div>
+
+                            </div>
+                        </div><!-- /.unauth-wrap -->
+                       
+
+
+            </div><!-- /.content-inner-wrap -->
+        </div> 
+
+        <div id="Sidebar" class="page-column page-column--right">
+                <div class="widget widget-AdBlock widget-instance-ArticlePageTopSidebar">
+        <div id="adBlockMainBodyTop" style=' '>
+    <script>
+        googletag.cmd.push(function () { googletag.display('adBlockMainBodyTop'); });
+    </script>
+</div>
+
+    </div>
+<div class="widget widget-dynamic " data-count="1"> 
+
+    <div class="widget-dynamic-inner-wrap">
+
+<div class="widget widget-dynamic " data-count="10"> 
+
+    <div class="widget-dynamic-inner-wrap">
+
+    <div class="widget widget-ArticleLevelMetrics widget-instance-Article_RightRailB0Article_RightRail_ArticleLevelMetrics">
+        
+
+
+
+
+
+    <div class="artmet-condensed-wrap clearfix">
+        <div class="artmet-condensed-stats clearfix">
+            <div class="artmet-item artmet-views">
+                <span class="artmet-number">44</span>
+                <span class="artmet-text">Views</span>
+            </div>
+
+            <div class="artmet-item artmet-citations">
+                <span class="artmet-number">
+                     <a href="http://gateway.webofknowledge.com/gateway/Gateway.cgi?GWVersion=2&amp;SrcApp=PARTNER_APP&amp;SrcAuth=LinksAMR&amp;KeyUT=WOS:000292552000001&amp;DestLinkType=CitingArticles&amp;DestApp=ALL_WOS&amp;UsrCustomerID=61f30d8ae69c46f86624c5f98a3bc13a" target="_blank">49</a>
+                </span>
+                <span class="artmet-text">Citations</span>
+            </div>
+    
+            <div class="artmet-item artmet-altmetric">
+    <div class="widget widget-AltmetricLink widget-instance-ArticleLevelMetrics_AltmetricLinkSummary">
+            <!-- Altmetrics -->
+    <div id="altmetricEmbedId" runat="server" class='altmetric-embed' data-link-target="_blank" data-badge-type="donut" data-hide-no-mentions="false" data-doi="10.1093/ajae/aaq189"
+     
+        
+        ></div>
+         <script type='text/javascript' src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script>
+
+    </div>
+
+            </div>
+        </div>
+
+            <div class="artmet-modal-trigger-wrap clearfix">
+                <a class="artmet-modal-trigger" data-article-id="53674"><i class="icon-metrics"></i><span>View Metrics</span></a>
+            </div>
+    </div>
+        <div class="artmet-modal" id="MetricsModal">
+            <div class="artmet-modal-contents">
+                <a class="artmet-close-modal">&#215;</a>
+            </div>
+        </div>
+
+
+    </div>
+    <div class="widget widget-Alerts widget-instance-Article_RightRailB0Article_RightRail_Alerts">
+            <div class="alertsWidget">
+        <h3>Email alerts</h3>
+                <div class="userAlert alertType-5">
+                    <a data-userLoggedIn="False" data-alertType="5">New issue alert</a>
+                </div>
+                <div class="userAlert alertType-3">
+                    <a data-userLoggedIn="False" data-alertType="3">New advance articles alert</a>
+                </div>
+                <div class="userAlert alertType-1">
+                    <a data-userLoggedIn="False" data-alertType="1">Article activity alert</a>
+                </div>
+                    <div class="userAlert alertType-MarketingLink">
+                <a data-userLoggedIn="False" data-additionalUrl="/my-account/communication-preferences">Receive exclusive offers and updates from Oxford Academic</a>
+            </div>
+        <div class="userAlertSignUpModal reveal-modal small" data-reveal>
+            <div class="userAlertSignUp"></div>
+            <a class="close-reveal-modal"><i class="icon-general-close"></i></a>
+        </div>
+    </div>
+
+    </div>
+    <div class="widget widget-ArticleLinks widget-instance-Article_RightRailB0Article_RightRail_ArticleLinks">
+        
+
+
+    </div>
+    <div class="widget widget-RelatedArticleIn widget-instance-Article_RightRailB0Article_RightRail_RelatedArticleIn">
+            <h3 class="relatedArticleIn-title">Related articles in</h3>
+    <div class="relatedArticleIn-content">
+        <ul>
+                <li>
+                    <a href="http://gateway.webofknowledge.com/gateway/Gateway.cgi?GWVersion=2&amp;SrcApp=PARTNER_APP&amp;SrcAuth=LinksAMR&amp;KeyUT=WOS:000292552000001&amp;DestLinkType=RelatedRecords&amp;DestApp=ALL_WOS&amp;UsrCustomerID=61f30d8ae69c46f86624c5f98a3bc13a">Web of Science</a>
+                </li>
+        </ul>
+    </div>
+
+    </div>
+    <div class="widget widget-ArticleCitedBy widget-instance-Article_RightRailB0Article_RightRail_ArticleCitedBy">
+        <h3 class="article-cited-title">Citing articles via</h3>
+    <div class="article-cited-link-wrap web-of-science">
+        <a href="http://gateway.webofknowledge.com/gateway/Gateway.cgi?GWVersion=2&SrcApp=PARTNER_APP&SrcAuth=LinksAMR&KeyUT=WOS:000292552000001&DestLinkType=CitingArticles&DestApp=ALL_WOS&UsrCustomerID=61f30d8ae69c46f86624c5f98a3bc13a" target="_blank">Web of Science (49)</a>
+    </div>    
+    <div class="article-cited-link-wrap google-scholar-url">
+        <a href="http://scholar.google.com/scholar?q=link:https%3A%2F%2Facademic.oup.com%2Fajae%2Farticle%2F93%2F2%2F259%2F53674%2FThe-Global-Supply-and-Demand-for-Agricultural-Land" target="_blank">Google Scholar</a>
+    </div>    
+    <div class="article-cited-link-wrap crossref-citedby">
+        <a href='https://academic.oup.com/ajae/CrossRef-CitedBy/53674'>CrossRef</a>
+    </div>
+
+    </div>
+    <div class="widget widget-ArticleListNewAndPopular widget-instance-Article_RightRailB0Article_RightRail_ArticleNewPopularCombined">
+            <ul class="articleListNewAndPopularCombinedView">
+            <li>
+                <a href="#" class="articleListNewAndPopular-mode active" data-mode="MostRecent">Latest</a>
+            </li>
+            <li>
+                <a href="#" class="articleListNewAndPopular-mode " data-mode="MostRead">Most Read</a>
+            </li>
+            <li>
+                <a href="#" class="articleListNewAndPopular-mode " data-mode="MostCited">Most Cited</a>
+            </li>
+    </ul>
+        <section class="articleListNewPopContent articleListNewAndPopular-ContentView-MostRecent hasContent">
+
+
+
+
+<div id="newPopularList-Article_RightRailB0Article_RightRail_ArticleNewPopularCombined" class="fb">
+
+    
+
+    <div class="widget-dynamic-entry-wrap">
+            <div class="widget-dynamic-entry">
+                <div class="fb-item-title">
+                    <a href="/ajae/article/doi/10.1093/ajae/aaw115/3089760/Retail-Intermediation-and-Local-Foods">Retail Intermediation and Local Foods</a>
+                </div> 
+            </div>
+            <div class="widget-dynamic-entry">
+                <div class="fb-item-title">
+                    <a href="/ajae/article/doi/10.1093/ajae/aaw101/3089717/Market-Institutionsand-Price-Relationships-The">M<span class="small-caps">arket</span> I<span class="small-caps">nstitutions</span><span class="small-caps">and</span> P<span class="small-caps">rice</span> R<span class="small-caps">elationships</span>: T<span class="small-caps">he</span> C<span class="small-caps">ase</span><span class="small-caps">of</span> C<span class="small-caps">offee</span><span class="small-caps">in</span><span class="small-caps">the</span> E<span class="small-caps">thiopian</span> C<span class="small-caps">ommodity</span> E<span class="small-caps">xchange</span></a>
+                </div> 
+            </div>
+            <div class="widget-dynamic-entry">
+                <div class="fb-item-title">
+                    <a href="/ajae/article/doi/10.1093/ajae/aax008/3079507/Contents-Page">Contents Page</a>
+                </div> 
+            </div>
+            <div class="widget-dynamic-entry">
+                <div class="fb-item-title">
+                    <a href="/ajae/article/doi/10.1093/ajae/aax007/3079506/Subscription-Page">Subscription Page</a>
+                </div> 
+            </div>
+            <div class="widget-dynamic-entry">
+                <div class="fb-item-title">
+                    <a href="/ajae/article/doi/10.1093/ajae/aax006/3079505/Editorial-Board">Editorial Board</a>
+                </div> 
+            </div>
+    </div>
+    
+    
+
+</div>
+        </section>
+        <section class="articleListNewPopContent articleListNewAndPopular-ContentView-MostRead hide">
+        </section>
+        <section class="articleListNewPopContent articleListNewAndPopular-ContentView-MostCited hide">
+        </section>
+
+    </div>
+
+    </div>
+
+</div>
+    </div>
+
+</div>    <div class="widget widget-AdBlock widget-instance-ArticlePageTopMainBodyBottom">
+        <div id="adBlockMainBodyBottom" style=' '>
+    <script>
+        googletag.cmd.push(function () { googletag.display('adBlockMainBodyBottom'); });
+    </script>
+</div>
+
+    </div>
+
+        </div> 
+    </div><!-- /.page-column-wrap -->
+
+                </div><!-- /.center-inner-row -->
+            </section>
+        </main>
+    </div>
+    
+
+        
+    
+    <script type="text/javascript">
+        $(document).ready(function () {
+            SCM.ScholarlyiQ.trackArticlePageEvents();
+        });
+    </script>
+
+        <div class="widget widget-SitePageFooter widget-instance-OUP_SitePageFooter">
+        <div class="ad-banner ad-banner-footer">
+    <div class="widget widget-AdBlock widget-instance-FooterAd">
+        <div id="adBlockFooter" style=' '>
+    <script>
+        googletag.cmd.push(function () { googletag.display('adBlockFooter'); });
+    </script>
+</div>
+
+    </div>
+
+</div>
+
+    <div class="journal-footer journal-bg">
+        <div class="center-inner-row">
+
+                <div class="journal-footer-menu">
+
+                    <ul>
+                                <li class="link-1">
+                                    <a href="//academic.oup.com/ajae/pages/About">About American Journal of Agricultural Economics</a>
+                                </li>
+                                <li class="link-2">
+                                    <a href="//academic.oup.com/ajae/pages/Editorial_Board">Editorial Board</a>
+                                </li>
+                                <li class="link-3">
+                                    <a href="//academic.oup.com/ajae/pages/Author_Guidelines">Author Guidelines</a>
+                                </li>
+                                <li class="link-4">
+                                    <a href="http://blog.aaea.org/">AAEA Blog</a>
+                                </li>
+                                <li class="link-5">
+                                    <a href="https://www.facebook.com/AAEAonFB">Facebook</a>
+                                </li>
+</ul><ul>                                <li class="link-0">
+                                    <a href="https://twitter.com/AAEA_Economics">Twitter</a>
+                                </li>
+                                <li class="link-1">
+                                    <a href="https://www.linkedin.com/company/agricultural-&amp;-applied-economics-association">LinkedIn</a>
+                                </li>
+                                <li class="link-2">
+                                    <a href="https://plus.google.com/109220299658744961813">Google+</a>
+                                </li>
+                                <li class="link-3">
+                                    <a href="//academic.oup.com/ajae/subscribe">Purchase</a>
+                                </li>
+                                <li class="link-4">
+                                    <a href="http://www.oxfordjournals.org/en/library-recommendation-form.html">Recommend to your Library</a>
+                                </li>
+                                <li class="link-5">
+                                    <a href="http://www.oupmediainfo.com/">Advertising and Corporate Services</a>
+                                </li>
+</ul><ul>                                <li class="link-0">
+                                    <a href="http://social-sciences-careernetwork.oxfordjournals.org">Journals Career Network</a>
+                                </li>
+
+                    </ul>
+
+
+                </div><!-- /.journal-footer-menu -->
+
+            <div class="journal-footer-affiliations">
+                <!-- <h3>Affiliations</h3> -->
+            <a href="https://academic.oup.com/ajae" target="">
+                <img id="footer-logo-AmericanJournalofAgriculturalEconomics" class="journal-footer-affiliations-logo" src="//oup.silverchair-cdn.com/data/SiteBuilderAssets/Live/Images/ajae/ajae_f158479589.svg" alt="American Journal of Agricultural Economics" />
+            </a>
+            </div><!-- /.journal-footer-affiliations -->
+
+            <div class="journal-footer-colophon">
+                <ul>
+                    <li>Online ISSN 1467-8276</li>
+                    <li>Print ISSN 0002-9092</li>
+                    <li>Copyright &#169; 2017 Agricultural and Applied Economics Association</li>
+                </ul>
+            </div><!-- /.journal-footer-colophon -->
+
+
+        </div><!-- /.center-inner-row -->
+    </div><!-- /.journal-footer -->
+
+    </div>
+
+    <div class="oup-footer">
+        <div class="center-inner-row">
+                <div class="widget widget-SelfServeContent widget-instance-OupUmbrellaFooterSelfServe">
+        
+<div class="oup-footer-row journal-links">
+<div class="global-footer selfservelinks">
+<ul>
+    <li>
+    <a href="/journals/pages/about_us">About Us</a>
+    </li>
+    <li>
+    <a href="/journals/pages/contact_us">Contact Us</a>
+    </li>
+    <li>
+    <a href="http://global.oup.com/jobs">Careers</a>
+    </li>
+    <li>
+    <a href="/journals/pages/help">Help</a>
+    </li>
+    <li>
+    <a href="/journals/pages/access_purchase">Access &amp; Purchase</a></li>
+    <li>
+    <a href="/journals/pages/access_purchase/rights_and_permissions">Rights &amp; Permissions</a>
+    </li>
+    <li>
+    <a href="/journals/pages/open_access">Open Access</a>
+    </li>
+</ul>
+</div>
+<div class="global-footer selfservelinks">
+<h4 id="global-footer-customer services" class="title footerheader">Connect</h4>
+<ul>
+    <li>
+    <a href="/my-account/communication-preferences">Join Our Mailing List</a>
+    </li>
+    <li>
+    <a href="http://blog.oup.com/">OUPblog</a>
+    </li>
+    <li>
+    <a href="http://twitter.com/oupacademic">Twitter</a>
+    </li>
+    <li>
+    <a href="https://www.facebook.com/OUPAcademic">Facebook</a>
+    </li>
+    <li>
+    <a href="http://www.youtube.com/playlist?list=PL3MAPgqN8JWioLLTkU4mlFM4-SNt-f1Xs">YouTube</a>
+    </li>
+    <li>
+    <a href="http://oupacademic.tumblr.com/">Tumblr</a>
+    </li>
+</ul>
+</div>
+<div class="global-footer selfservelinks">
+<h4>Resources</h4>
+<ul>
+    <li><a href="/journals/pages/authors">Authors</a></li>
+    <li><a href="/journals/pages/librarians">Librarians</a></li>
+    <li><a href="/journals/pages/societies">Societies</a></li>
+    <li><a href="https://academic.oup.com/journals/pages/sponsorship_and_advertising">Sponsors &amp; Advertisers</a></li>
+    <li><a href="/journals/pages/press">Press &amp; Media</a></li>
+    <li><a href="/journals/pages/agents">Agents</a></li>
+</ul>
+</div>
+<div class="global-footer selfservelinks">
+<h4>Explore</h4>
+<ul>
+    <li><a href="http://global.oup.com/academic">Shop OUP Academic</a></li>
+    <li><a href="http://www.oxforddictionaries.com/">Oxford Dictionaries</a></li>
+    <li><a href="http://oxfordindex.oup.com/">Oxford Index</a></li>
+    <li><a href="https://www.epigeum.com/">Epigeum</a></li>
+    <li><a href="http://global.oup.com/">OUP Worldwide</a></li>
+    <li><a href="http://www.ox.ac.uk/">University of Oxford</a></li>
+</ul>
+</div>
+<div class="OUP-mission">
+<p>Oxford University Press is a department of the University of Oxford. It furthers the University's objective of excellence in research, scholarship, and education by publishing worldwide</p>
+<img class="journal-footer-logo" src="//oup.silverchair-cdn.com/UI/app/svg/umbrella/oup-logo.svg" alt="Oxford University Press" width="150" height="42" />
+</div>
+</div>
+<div class="oup-footer-row">
+<div class="oup-footer-row-links">
+<ul>
+    <li>Copyright &copy; 2017 Oxford University Press</li>
+    <li><a href="/journals/pages/about_us/legal/privacy_policy">Privacy Policy</a></li>
+    <li><a href="http://global.oup.com/cookiepolicy/">Cookie Policy</a></li>
+    <li><a href="/journals/pages/about_us/legal/notices">Legal Notices</a></li>
+    <li><a href="/journals/pages/sitemap">Site Map</a></li>
+    <li><a href="/journals/pages/about_us/legal/accessibility">Accessibility</a></li>
+    <li><a href="https://get.adobe.com/reader/">Get Adobe Reader</a></li>
+</ul>
+</div>
+</div>
+    
+    
+    
+    </div>
+
+        </div><!-- /.center-inner-row -->
+    </div><!-- /.oup-footer -->
+    <div class="ss-ui-only">
+        
+    </div>
+
+
+        
+        <div id="revealModal" class="reveal-modal" data-reveal>
+            <div id="revealContent"></div>
+            <a class="close-reveal-modal"><i class="icon-general-close"></i></a>
+        </div>
+        <div id="NeedSubscription" class="reveal-modal small" data-reveal>
+            <div class="subscription-needed">
+                <h5>This Feature Is Available To Subscribers Only</h5>
+                <p><a href="/sign-in">Sign In</a> or <a href="/my-account/register?siteId=5424&returnUrl=%2fajae%2farticle-abstract%2f93%2f2%2f259%2f53674%2fThe-Global-Supply-and-Demand-for-Agricultural-Land%3fredirectedFrom%3dPDF">Create an Account</a></p>
+            </div>
+            <a class="close-reveal-modal"><i class="icon-general-close"></i></a>
+        </div>
+        
+
+        <div id="noAccessReveal" class="reveal-modal tiny" data-reveal>
+            <p>This PDF is available to Subscribers Only</p>
+            <a class="hide-for-article-page" id="articleLinkToPurchase" data-reveal><span>View Article Abstract & Purchase Options</span></a>
+            <div class="issue-purchase-modal">
+                <p>For full access to this pdf, sign in to an existing account, or purchase an annual subscription.</p>
+                <a href="/ss/subscribe.aspx" class="basic-button aIssuePurchaseLink" data-reveal>Subscribe Now</a>
+            </div>
+            <a class="close-reveal-modal"><i class="icon-general-close"></i></a>
+        </div>
+        
+        
+ 
+    
+<script src="//oup.silverchair-cdn.com/cassette.axd/script/524a02f2214ec0017372da25898f9d01b64d32f7/footerJS" type="text/javascript"></script>
+<script src="//oup.silverchair-cdn.com/cassette.axd/script/92f525bab295d0ffa6f942402d5f7034757b1440/OupCookiePolicyJS" type="text/javascript"></script>
+<script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML" type="text/javascript"></script>
+<script src="//cdn.jsdelivr.net/chartist.js/latest/chartist.min.js" type="text/javascript"></script>
+<script src="//oup.silverchair-cdn.com/cassette.axd/script/afa280d4c420ac1ed638ef50fce28d9e4c757118/ArticlePageJS" type="text/javascript"></script>
+<script src="https://s7.addthis.com/js/300/addthis_widget.js#pubid=xa-5265518246c10183&domready=1" type="text/javascript"></script>
+
+    
+    <!-- Enter Google Analytics or Tag Manager here -->
+    
+     
+ 
+
+    <!-- BEGIN: Scholarly iQ Page Tag -->
+    <!-- Copyright 2001-2010, IBM Corporation All rights reserved. -->
+    <script language="JavaScript" src="//ouptag.scholarlyiq.com/ntpagetag.js"></script>
+    <noscript>
+       <img src="//ouptag.scholarlyiq.com/ntpagetag.gif?js=0" height="1" width="1" border="0" hspace="0" vspace="0" alt="">
+    </noscript>
+    <!-- END: Scholarly iQ Page Tag -->
+</body>
+</html>
+

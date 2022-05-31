@@ -1,0 +1,407 @@
+<!doctype html>
+<html lang="en">
+<head>
+  
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Login | The National Academies Press</title>
+    
+                <meta name="robots" content="noindex, nofollow">
+              <link rel="canonical" href="https://www.nap.edu/login.php?">
+    
+    
+      <script src="/includes/js/jquery-latest.min.js"></script>
+           <!-- Data Layer -->
+<script> window.dataLayer = window.dataLayer || [];dataLayer.push({ 
+	'pageTitle'		: "Login",
+	'bookID' 		: "13389",
+	'bookTitle' 	: "Sea-Level Rise for the Coasts of California, Oregon, and Washington: ",
+	'bookTopic'		: "Environment and Environmental Studies",
+	
+	'bookDivision'	: "DELS",
+	'loginStatus' 	: "guest",  
+	'form' 		: "subscribe", 
+});
+</script>
+
+		      <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-N9MJ23');</script>
+                        <link rel="stylesheet" href="/stylesheets/vendor/bootstrap-3.0.3/bootstrap.min.css">
+  <link rel="stylesheet" href="/stylesheets/naphome.css" />
+  <style>
+    body {
+      background: #FAF5E8 url(images/home-stripe.png);
+    }
+    #logo {
+      background-color: white;
+      height: 50px;
+	  line-height: 50px;
+      vertical-align: middle;
+      padding-left: 12px;
+      margin-bottom: 20px;
+      -webkit-box-shadow: 0 1px 2px rgba(0, 0, 0, 0.5);
+      box-shadow: 0 1px 2px rgba(0, 0, 0, 0.5);
+    }
+    .help-link {
+      color: #666;
+      padding-right: 10px;
+	 
+    }
+	
+	.loginlogo {
+	
+	}
+    section {
+      max-width: 600px;
+      padding: 40px;
+      font-size: 16px;
+      background: #fff;
+      background: url(images/fff-bg.png) top left;
+      border: 1px solid #ccc;
+      margin-bottom: 25px;
+      margin: 10px auto;
+      border-radius: 5px;
+      -webkit-box-shadow: 0 5px 8px -6px rgba(0, 0, 0, 0,75);
+      box-shadow: 0 5px 8px -6px rgba(0, 0, 0, 0.75);
+    }
+    section.well {
+      background-color: #f0ede5;
+      color: #666;
+      font-size: 16px;
+    }
+    section.well img {
+      float: left;
+      margin-right: 15px;
+			max-height: 70px;
+    }
+    h1, h2, h3 {
+		  font-size: 20px;
+			color: #666;
+      margin-bottom: 20px;
+      border-bottom: 1px solid #efefef;
+			text-transform: uppercase;
+    }
+    input[type=text], input[type=password], input[type=email] {
+      font-size: 18px;
+      height: auto;
+      padding: 10px 14px;
+    }
+    label {
+      font-weight: normal;
+    }
+    #login input[name=email],
+    #register input[name=email],
+    #guest input[name=email] {
+      border-radius: 5px 5px 0 0;
+    }
+    input[name=password], textarea.form-control {
+      border-radius: 0 0 5px 5px;
+      border-top: none !important;
+    }
+    section .btn {
+      margin: 20px 0;
+    }
+		a.reset {
+			padding-top:10px;
+		}
+		
+		#login form {
+			padding-bottom: 20px;
+		}
+		
+		.btn-danger {
+			background-color: rgb(51, 51, 51);
+    	border-color: rgb(51, 51, 51);
+		}
+		
+		.btn-danger:hover {
+		  background-color: rgb(51, 51, 51);
+    	border-color: rgb(51, 51, 51);
+			opacity: .7;
+		}
+		
+		
+		
+		
+		@media (max-width:400px) {
+			#login-remember-me.pull-right {
+			float: left !important;
+			display: block;
+			width: 100%;
+			}
+			
+			section {
+			padding: 20px;
+			}
+			
+			
+		
+		}
+		
+		@media (max-width:670px) {
+		
+		#logo {
+				height: 70px;
+				line-height: 20px;
+			}
+			}
+  </style>
+
+    <style>pre { background-color: transparent !important; }</style>
+
+              
+  </head>
+<body>
+    <!-- Google Tag Manager (nos cript) -->
+  <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-N9MJ23"
+  height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+  <!-- End Google Tag Manager (noscript) -->
+  
+      <header id="logo">
+    <a href="http://www.nap.edu" class="pull-left loginlogo"><img src="/images/login-header.png" alt="The National Academies Press" class="img-responsive"></a>
+    <a href="//www.nap.edu/content/using-mynap#Login" target="_blank" class="help-link pull-right">Help</a>
+  </header>
+
+      <div class="container">
+          <section id="book" class="well">
+        <a href="https://www.nap.edu/catalog/13389/sea-level-rise-for-the-coasts-of-california-oregon-and-washington"><img src="/images/cover.php?record_id=13389" alt="Sea-Level Rise for the Coasts of California, Oregon, and Washington: Past, Present, and Future"></a>
+        <p class="clearfix">To download a free PDF of <a href="https://www.nap.edu/catalog/13389/sea-level-rise-for-the-coasts-of-california-oregon-and-washington"><em>Sea-Level Rise for the Coasts of California, Oregon, and Washington: Past, Present, and Future</em></a>, please log in with your existing MyNAP account, create a free MyNAP account, or download as a guest.</p>
+      </section>
+    
+    <div class="tab-content">
+      <section id="login" data-title="Login" class="tab-pane fade in active">
+        <header>
+          <h2>Returning Users&#8212;Log in to MyNAP</h2>
+                      <div class="alert alert-danger" style="display: none;">
+              <button class="close">&times;</button>
+              <span></span>
+            </div>
+                  </header>
+        <form id="myNAPLogin" method="POST">
+          <input type="hidden" name="action" value="login">
+                      <input type="hidden" name="page" value="">
+            <input type="hidden" name="cart" value="">
+            <input type="hidden" name="record_id" value="13389">
+                    <input type="text" class="form-control" name="email" placeholder="Email Address" value="">
+          <input type="password" class="form-control" name="password" placeholder="Password">
+					  <a href="#reset-request"class="pull-left reset" data-toggle="tab">Reset my password</a>
+          <label class="checkbox pull-right" id="login-remember-me">
+            <input type="checkbox" name="remember_me" id="login-remember-me" checked> Keep me logged in
+          </label>
+          <input type="submit" value="Log In" class="btn btn-lg btn-danger btn-block">
+        </form>
+      
+        
+      
+			 <header>
+          <h2>New Users</h2>
+				</header>
+				<a href="#register" class="btn btn-lg btn-primary btn-block"data-toggle="tab">Create a Free MyNAP Account &raquo;</a>
+				<a href="#guest" data-toggle="tab" class="btn btn-lg btn-primary btn-block">Download  as Guest &raquo;</a>
+				
+			</section>
+      <section id="register" data-title="Register" class="tab-pane fade ">
+        <header>
+          <h2>Sign up for MyNAP</h2>
+          <p>MyNAP members enjoy free access to thousands of National Academies reports, a 10% discount off every purchase at NAP.edu, and lots of great features. <a href="http://www.nap.edu/content/help/mynaphelp.html" target="_blank">Learn more.</a></p>
+                      <div class="alert alert-danger" style="display: none;">
+              <button class="close">&times;</button>
+              <span></span>
+            </div>
+          
+        </header>
+        <form id="myNAPNew" method="POST">
+          <input id="new" type="hidden" name="action" value="register">
+                      <input type="hidden" name="page" value="">
+            <input type="hidden" name="cart" value="">
+            <input type="hidden" name="record_id" value="13389">
+          
+          <input type="text" class="form-control" name="email" placeholder="Email Address" value="">
+          <input type="password" class="form-control" name="password" placeholder="Password">
+          <label class="checkbox">
+            <input id="newMailings" type="checkbox" name="mailings"> Yes, send me e-mail when similar titles are published.
+          </label>
+          <label class="checkbox">
+            <input type="checkbox" name="tou"> Yes, I accept the <a href="http://www.nationalacademies.org/legal/index.html" title="Click to read the terms of use." target="_blank">terms of use</a>.
+          </label>
+          <input type="submit" value="Create My Account" class="btn btn-lg btn-danger btn-block">
+        </form>
+        <a class="" href="#login" data-toggle="tab">&laquo; Login</a>
+        <a class="pull-right" href="#guest" data-toggle="tab">Download as guest &raquo;</a>
+      </section>
+
+      <section id="guest" data-title="Guest Login" class="tab-pane fade ">
+        <header>
+          <h2>Download as a guest</h2>
+          <p>While logged in as a guest, you can download any of the free PDFs on NAP.edu. You'll remain logged in until you close your browser.</p>
+                      <div class="alert alert-danger" style="display: none;">
+              <button class="close">&times;</button>
+              <span></span>
+            </div>
+          
+        </header>
+        <form id="myNAPGuest" method="POST">
+          <input type="hidden" name="action" value="guest">
+                      <input type="hidden" name="page" value="">
+            <input type="hidden" name="cart" value="">
+            <input type="hidden" name="record_id" value="13389">
+          
+          <input type="text" class="form-control" name="email" placeholder="Email Address" value="">
+                    <label class="checkbox">
+            <input id="guestMailings" type="checkbox" name="mailings"> Yes, send me e-mail when similar titles are published.
+          </label>
+          <label class="checkbox">
+            <input type="checkbox" name="tou"> Yes, I accept the <a href="http://www.nationalacademies.org/legal/index.html" title="Click to read the terms of use." target="_blank">terms of use</a>.
+          </label>
+                    <input type="submit" value="Continue &raquo;" class="btn btn-lg btn-danger btn-block" style="margin-top: 20px">
+        </form>
+        <a class="" href="#register" data-toggle="tab">&laquo; Sign up for MyNAP</a>
+      </section>
+
+      <section id="reset-request" data-title="Reset Password" class="tab-pane fade ">
+        <header>
+          <h2 class="heading">Reset my password</h2>
+          <p>Please enter the e-mail address you used when signing up for a MyNAP account. We will then e-mail you instructions for resetting your password.</p>
+                      <div class="alert alert-danger" style="display: none;">
+              <button class="close">&times;</button>
+              <span></span>
+            </div>
+          
+        </header>
+        <form id="myNAPreset" method="POST">
+          <input type="hidden" name="action" value="reset">
+                      <input type="hidden" name="page" value="">
+            <input type="hidden" name="cart" value="">
+            <input type="hidden" name="record_id" value="13389">
+          
+          <input class="form-control" type="text" name="email" placeholder="Email Address" value="">
+          <input type="submit" value="Continue &raquo;" class="btn btn-lg btn-danger btn-block" style="margin-top: 20px">
+        </form>
+        <a class="" href="#login" data-toggle="tab">&laquo; Back to login</a>
+      </section>
+
+      <section id="reset-thanks" data-title="Reset Password" class="tab-pane fade ">
+        <header>
+          <h2 class="heading">Reset requested</h2>
+          <p>We just sent a message to . Follow the instructions in that email to reset your password.</p>
+        </header>
+        <a class="" href="#login" data-toggle="tab">&laquo; Back to login</a>
+        <a class="pull-right" href="">Continue browsing &raquo;</a>
+      </section>
+    </div>    
+  </div>
+
+
+    
+      <script src="/vendor/bootstrap/3.1.1/bootstrap.min.js"></script>
+  <script src="/includes/js/jquery.placeholder.js"></script>
+
+  <script>
+    function validate(event) {
+      var $form = $(event.target);
+      var $email = $form.find("input[name=email]");
+      $email.val( $.trim($email.val()) );
+      $section = $form.closest('section');
+      if (!validEmail( $email.val() )) {
+        displayError('The email address you entered is not a valid email address.');
+        return false;
+      }
+      if ($section.is('#register, #guest') && !$section.find('input[name=tou]').is(':checked')) {
+        displayError('You must agree to the terms of use.');
+        return false;
+      }
+      return true;
+    }
+
+    function validEmail(email) {
+      emailRegex = /^[a-z0-9\.\_\%\+\-\']+@[a-z0-9\.-]+\.[a-z]{2,}$/i;
+      return emailRegex.test(email);
+    }
+
+    function displayError(message) {
+      $(".alert span").text(message);
+      $('.alert').show();
+      $(document).trigger('displayError');
+    }
+
+    $(function() { 
+      // Validate forms on submit.
+      $("form").on('submit', validate);
+
+      // Change page title on tab switch.
+      $("a[data-toggle='tab']").on('show.bs.tab', function() {
+        var section = $( $(this).attr('href') ).attr('data-title') || 'Login';
+        document.title = section + ' | National Academies Press';
+      });
+
+      // Apply placeholder text polyfill to older browsers.
+      $("input, textarea").placeholder(); 
+
+      // Keep email address form field value across sections.
+      $("input[name='email']").on('change', function(event) {
+        $("input[name='email']").val( $(event.target).val() );
+      });
+      $("input[name='mailings']").on('change', function(event) {
+        $("input[name='mailings']").val( $(event.target).val() );
+      });
+
+      // Dismiss the aler t if the user navigates to a different section or clicks the close button.
+      $("a, button, .close").on('click', function() {
+        $(".alert").hide();
+      });
+
+      /////////////////////////////////////
+      // Google Analytics Event Tracking //
+      /////////////////////////////////////
+
+      // NAP: login page errors
+      //   error > [active tab id] > [error message]
+      $(trackErrorEvent);
+      $(document).on('displayError', trackErrorEvent);
+      function trackErrorEvent(event) {
+        if ($(".alert:visible").length > 0) {
+          // trackEvent('error', $("section.active").attr('id'), $(".alert:visible span").text());
+        }
+      }
+
+      // NAP: login nav
+      //   login > nav > [current tab ID -> target tab ID]
+      $("a[data-toggle='tab']").on('click', function(e) {
+        // trackEvent('login', 'nav', $(this).closest('section').attr('id') + ' -> ' + $(this).attr('href').replace('#', ''));
+      });
+
+      // NAP: login submit
+      //   login > submit > [current tab ID]
+      // NAP: email signup
+      //   email > subscribe > [current tab ID]
+      $("form").on('submit', function(e) {
+        // trackEvent('login', $(this).closest('section').attr('id'), 'submit');
+        if ($("input[name='mailings']").is(":checked")) {
+          // trackEvent('email', 'subscribe', $(this).closest('section').attr('id'));
+          window.dataLayer = window.dataLayer || [];dataLayer.push({ 
+            'mailing': "yes",
+          });
+        }
+      });
+      $("form").on('submit', function(e) {
+        // trackEvent('login', $(this).closest('section').attr('id'), 'submit');
+        if ($("#guestMailings").is(":checked")) {
+          // trackEvent('email', 'subscribe', $(this).closest('section').attr('id'));
+          window.dataLayer = window.dataLayer || [];dataLayer.push({ 
+            'mailing': "yes",
+          });
+        }
+      });
+
+    });
+  </script>
+  
+
+          <!-- 144.171.20.54 -->
+    
+  </body>
+</html>

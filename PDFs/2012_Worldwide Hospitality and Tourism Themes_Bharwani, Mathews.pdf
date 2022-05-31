@@ -1,0 +1,5065 @@
+<!DOCTYPE html>
+<html lang="en" class="pb-page"  data-request-id="128dc84f-a237-491c-9329-6fe6a2a137a8"  
+><head data-pb-dropzone="head"><meta name="pbContext" content=";article:article:10.1108/17554211211277851;page:string:Article/Chapter View;subPage:string:Abstract;journal:journal:whatt;issue:issue:10.1108/whatt.2012.4.issue-5;website:website:insight;wgroup:string:Default Website Group;pageGroup:string:Publication Pages"/><meta data-pb-head="head-widgets-start"/>
+<link rel="schema.DC" href="http://purl.org/DC/elements/1.0/" /><meta name="dc.Title" content="Risk identification and analysis in the hospitality industry" /><meta name="citation_journal_title" content="Worldwide Hospitality and Tourism Themes" /><meta name="dc.Creator" content="Sonia Bharwani" /><meta name="dc.Creator" content="David Mathews" /><meta name="dc.Subject" content="Hospitality; Risk analysis; Risk identification; Uncertainty avoidance; Risk management; India; Hospitality services; Hotel and catering industry" /><meta name="dc.Description" content="Purpose – This paper aims to identify the key risks which are endemic to the hospitality industry and considered as important by hoteliers in today's growing global context, with particular reference to the Indian context. It also seeks to propose a generic model for risk management.Design/methodology/approach – Primary data collection using questionnaires and semi‐structured qualitative interviews with hospitality professionals was supplemented by secondary research in the field of risk and uncertainty management.Findings – To secure competitive advantage and develop business resilience, it is becoming increasingly important for hospitality organisations to shift their focus from merely responding and reacting to crises and emergency situations, to proactively identifying, analysing and assessing risks while formulating their business strategies. The paper identifies the most commonly addressed areas of risk in the Indian hospitality industry, which include competition, seasonality of business and change..." /><meta name="dc.Publisher" content="Emerald Group Publishing Limited" /><meta name="dc.Contributor" content="Gunjan M. Sanjeev" /><meta name="dc.Contributor" content="Vinnie Jauhari" /><meta name="dc.Date" scheme="WTN8601" content="2013-04-14" /><meta name="dc.Type" content="research-article" /><meta name="dc.Format" content="text/HTML" /><meta name="dc.Identifier" scheme="doi" content="10.1108/17554211211277851" /><meta name="dc.Identifier" scheme="original-pdf" content="4080040502.pdf" /><meta name="dc.Identifier" scheme="filename" content="4080040502" /><meta name="dc.Source" content="http://dx.doi.org/10.1108/17554211211277851" /><meta name="dc.Language" content="en" /><meta name="dc.Coverage" content="world" /><meta name="keywords" content="Hospitality, Risk analysis, Risk identification, Uncertainty avoidance, Risk management, India, Hospitality services, Hotel and catering industry" />
+        
+        
+
+        
+            <link rel="meta" type="application/atom+xml" href="http://dx.doi.org/10.1108%2F17554211211277851" />
+            <link rel="meta" type="application/rdf+json" href="http://dx.doi.org/10.1108%2F17554211211277851" />
+            <link rel="meta" type="application/unixref+xml" href="http://dx.doi.org/10.1108%2F17554211211277851" />
+        
+    
+
+
+
+
+
+
+<meta charset="UTF-8">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+
+    <meta name="Dcsuri" content="/doi/abs/10.1108/17554211211277851" />
+
+    
+
+    <meta name="Dcscip" content="168.105.98.113" />
+
+
+
+
+
+
+    
+
+
+
+
+    
+        <meta name="WT.cg_n" content="View Abstract" />
+    
+
+    
+
+    <meta name="DCSext.WT_issn" content="1755-4217" />
+    <meta name="DCSext.WT_name" content="Worldwide Hospitality and Tourism Themes" />
+    
+        <meta name="DCSext.WT_Subject" content="EcoTourism & sustainability" />
+    
+        <meta name="DCSext.WT_Subject" content="Hospitality industry" />
+    
+        <meta name="DCSext.WT_Subject" content="International tourism & hospitality" />
+    
+        <meta name="DCSext.WT_Subject" content="Sustainable tourism" />
+    
+        <meta name="DCSext.WT_Subject" content="Tourism industry" />
+    
+        <meta name="DCSext.WT_Subject" content="Trends in tourism & hospitality" />
+    
+        <meta name="DCSext.WT_Subject" content="Journals" />
+    
+        <meta name="DCSext.WT_Subject" content="EMF Sales & marketing" />
+    
+        <meta name="DCSext.WT_Subject" content="Journal With sample articles" />
+    
+        <meta name="DCSext.WT_Subject" content="Emerald Backfiles Additions" />
+    
+        <meta name="DCSext.WT_Subject" content="Emerald Management eJournal Database" />
+    
+        <meta name="DCSext.WT_Subject" content="Emerald Management First 200" />
+    
+        <meta name="DCSext.WT_Subject" content="Emerald Management First Failte Ireland" />
+    
+        <meta name="DCSext.WT_Subject" content="Emerald Management First Online Tourism and Hospitality Management Collection" />
+    
+        <meta name="DCSext.WT_Subject" content="Emerald Management First Tourism and Hospitality eJournal Collection" />
+    
+        <meta name="DCSext.WT_Subject" content="Emerald Tourism and Hospitality Management eJournal Collection" />
+    
+        <meta name="DCSext.WT_Subject" content="Emerald Management 200" />
+    
+        <meta name="DCSext.WT_Subject" content="Emerald Management Plus" />
+    
+        <meta name="DCSext.WT_Subject" content="Emerald Online Tourism and Hospitality Management Collection" />
+    
+        <meta name="DCSext.WT_Subject" content="Emerald eJournal Premier Collection" />
+    
+        <meta name="DCSext.WT_Subject" content="Emerald Collection" />
+    
+    <meta name="WT.si_n" content="DocAccess" />
+    <meta name="WT.si_x" content="3" />
+    
+        <meta name="DCSext.WT_volume" content="Volume 4" />
+    
+    
+        <meta name="DCSext.WT_issue" content="Issue 5" />
+    
+    
+    
+        <meta name="DCSext.WT_doi" content="10.1108/17554211211277851" />
+    
+    
+        <meta name="DCSext.WT_title" content="Risk identification and analysis in the hospitality industry" />
+    
+
+
+<title>Risk identification and analysis in the hospitality industry: Practitioners' perspectives from India: Worldwide Hospitality and Tourism Themes: Vol 4, No 5</title>
+
+
+
+
+<meta data-pb-head="head-widgets-end"/>
+<link rel="stylesheet" type="text/css" href="/wro/bulo~product.css"><link rel="stylesheet" type="text/css" href="/pb/css/t1489116776000-v1489116776000/head_14_18_329_339.css" id="pb-css" data-pb-css-id="t1489116776000-v1489116776000/head_14_18_329_339.css"/>
+
+
+<script src="/wro/bulo~product.js" type="text/javascript"></script>
+
+
+
+
+
+
+    
+        <script type="text/javascript">
+            function optimizelyTimeout() {
+                window.optimizely = window.optimizely || [];
+                if (!window.optimizely.data) {
+                    window.optimizely.push("timeout")
+                }
+            }
+            (function () {
+                var e = "https:" == document.location.protocol ? "https://" : "http://";
+                var t = document.createElement("script");
+                t.type = "text/javascript";
+                t.async = true;
+                t.src = e + "cdn.optimizely.com/js/4883820093.js";
+                var n = document.getElementsByTagName("script")[0];
+                n.parentNode.insertBefore(t, n)
+            })();
+            setTimeout(optimizelyTimeout, 1e3)
+        </script>
+    
+
+
+
+
+
+
+
+
+    
+        
+            <script type="text/javascript">
+                var _gaq = _gaq || [];
+                _gaq.push(['_setAccount', 'UA-25535238-1']);
+                _gaq.push(['_trackPageview']);
+
+                (function() {
+                    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+                    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+                    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+                })();
+            </script>
+        
+    
+
+
+        <script type="application/ld+json">
+            {
+              "@context" : "http://schema.org",
+              "@type" : "Organization",
+              "name" : "Emerald Group Publishing",
+              "url" : "http://www.emeraldinsight.com/",
+              "sameAs" : [
+                            "http://www.facebook.com/emeraldgrouppublishing","http://www.twitter.com/emeraldglobal","http://www.linkedin.com/company/emerald-group-publishing-limited","http://www.youtube.com/emeraldpublishing67","https://plus.google.com/107150264044740286789/posts","https://vine.co/u/1128365366498713600"
+                          ]
+            }
+        </script>
+    
+<script async src="//c.webtrends.com/acs/account/evbh9dx8ru/js/wt.js"></script></head>
+<body class="pb-ui">
+
+
+
+
+
+
+    
+        <!-- Google Tag Manager -->
+        
+        
+
+        <noscript>
+            <iframe src="//www.googletagmanager.com/ns.html?id=GTM-MCVP92"
+                    height="0" width="0" style="display:none;visibility:hidden"></iframe>
+        </noscript>
+        <script>(function (w, d, s, l, i) {
+            w[l] = w[l] || [];
+            w[l].push(
+                    {'gtm.start': new Date().getTime(), event: 'gtm.js'}
+            );
+            var f = d.getElementsByTagName(s)[0],
+                    j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : '';
+            j.async = true;
+            j.src =
+                    '//www.googletagmanager.com/gtm.js?id=' + i + dl;
+            f.parentNode.insertBefore(j, f);
+        })(window, document, 'script', 'dataLayer', 'GTM-MCVP92');</script>
+        <!-- End Google Tag Manager -->
+    
+
+    <div id="pb-page-content" data-ng-non-bindable>
+        <div data-pb-dropzone="main" data-pb-dropzone-name="Main">
+
+
+
+    
+    
+    
+    
+    
+    
+        
+    
+        
+            
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+    
+        
+    
+        
+            
+            
+            
+        
+    
+        
+    
+        
+    
+        
+    
+        
+            
+            
+                
+            
+            
+                
+                
+                
+            
+        
+    
+        
+    
+        
+    
+        
+    
+    
+    
+
+    
+    <div class="widget pageHeader none  widget-none  widget-compact-all" id="pageHeader"  >
+        
+        
+
+        <div class="wrapped " >
+            
+            <div class="widget-body body body-none  body-compact-all"><header class="page-header">
+    <div data-pb-dropzone="main">
+    
+
+
+    
+    
+    
+    
+    
+    
+        
+    
+        
+            
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+    
+        
+    
+        
+            
+            
+            
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+            
+            
+                
+            
+            
+                
+                
+                
+            
+        
+    
+        
+    
+        
+    
+        
+    
+    
+    
+
+    
+    <div class="widget layout-two-columns  siteHeader widget-none  widget-compact-all" id="aa2d59ba-7ee8-4506-a9a0-7e4321d4228e"  >
+        
+        
+
+        <div class="wrapped " >
+            
+            <div class="widget-body body body-none  body-compact-all"><div class="pb-columns row-fluid ">
+    <div class="width_3_8">
+        <div data-pb-dropzone="left" class="pb-autoheight">
+
+
+
+    
+    
+    
+    
+    
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+            
+        
+    
+        
+    
+        
+    
+        
+    
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+            
+            
+                
+            
+            
+                
+                
+                
+            
+        
+    
+        
+    
+        
+    
+        
+            
+            
+            
+        
+    
+        
+    
+        
+    
+        
+    
+    
+    
+
+    
+    <div class="widget general-image none emeraldLogo widget-none  widget-compact-all" id="23cf7676-e9c9-4ffa-8683-08fa78ccffe6"  >
+        
+        
+
+        <div class="wrapped " >
+            
+            <div class="widget-body body body-none  body-compact-all"><a href="/"
+title="Emeraldinsight"
+>
+<img src="/pb-assets/images/emerald-logo.png"
+alt="Emeraldinsight"
+/>
+</a></div>
+        </div>
+    </div>
+    
+        </div>
+    </div>
+    <div class="width_5_8">
+        <div data-pb-dropzone="right" class="pb-autoheight">
+
+
+
+    
+    
+    
+    
+    
+    
+        
+    
+        
+            
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+    
+        
+    
+        
+            
+            
+            
+        
+    
+        
+    
+        
+    
+        
+    
+        
+            
+            
+                
+            
+            
+                
+                
+                
+            
+        
+    
+        
+    
+        
+    
+        
+    
+    
+    
+
+    
+    <div class="widget layout-inline-content alignRight headerMenu widget-none  widget-compact-all" id="6fcdc0b1-4742-4f3a-9722-f40cf0650f01"  >
+        
+        
+
+        <div class="wrapped " >
+            
+            <div class="widget-body body body-none  body-compact-all"><div class="inline-dropzone" data-pb-dropzone="content">
+    
+
+
+    
+    
+    
+    
+    
+    
+        
+    
+        
+            
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+    
+        
+    
+        
+            
+            
+            
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+            
+            
+                
+            
+            
+                
+                
+                
+            
+        
+    
+        
+    
+        
+    
+        
+    
+    
+    
+
+    
+    <div class="widget general-html none  widget-none  widget-compact-all" id="e8cfffbb-58cc-47d5-827b-8ce2dfef07c5"  >
+        
+        
+
+        <div class="wrapped " >
+            
+            <div class="widget-body body body-none  body-compact-all"><script type="text/javascript">
+$('head').append('<meta />');
+var headHTML = document.getElementsByTagName('head') [0].innerHTML;
+headHTML += '<link href=\'/pb-assets/fonts/museosans.css\' rel=\'stylesheet\'>';
+document.getElementsByTagName('head') [0].innerHTML = headHTML;
+</script>
+<div id="skip"><a href="#content" title="Jump to content.">Jump to content</a></div></div>
+        </div>
+    </div>
+    
+
+
+
+
+
+    
+    
+    
+    
+    
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+            
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+    
+        
+    
+        
+    
+        
+    
+        
+            
+            
+                
+            
+            
+                
+                
+                
+            
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+            
+            
+            
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+    
+    
+
+    
+    <div class="widget literatumNavigationLoginBar none  widget-none  widget-compact-all" id="ed26a092-f507-4ff5-bab0-9f40cf759c58"  >
+        
+        
+
+        <div class="wrapped " >
+            
+            <div class="widget-body body body-none  body-compact-all"><div class="loginBar">
+
+    
+
+    
+            
+            
+
+
+
+
+
+
+    
+
+
+
+<a href="https://www.emeraldinsight.com/action/showLogin?uri=%2Fdoi%2Fabs%2F10.1108%2F17554211211277851">
+    Log in
+</a>
+
+
+            &nbsp;|&nbsp;
+            
+
+
+
+
+
+    
+
+
+
+        <a href="https://www.emeraldinsight.com/action/registration?redirectUri=%2Fdoi%2Fabs%2F10.1108%2F17554211211277851" class="register-link">
+            Register
+        </a>
+    
+        
+
+    
+
+</div></div>
+        </div>
+    </div>
+    
+
+
+
+    
+    
+    
+    
+    
+    
+        
+    
+        
+            
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+    
+        
+    
+        
+            
+            
+            
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+            
+            
+                
+            
+            
+                
+                
+                
+            
+        
+    
+        
+    
+        
+    
+        
+    
+    
+    
+
+    
+    <div class="widget general-html none moveDown widget-none  widget-compact-all" id="13a6ad75-5767-46a0-8c4c-695c02ee029b"  >
+        
+        
+
+        <div class="wrapped " >
+            
+            <div class="widget-body body body-none  body-compact-all"><span class="bypass">|</span>&nbsp;&nbsp;<a href="/page/help">Help</a>&nbsp;&nbsp;<span class="bypass">|</span>&nbsp;</div>
+        </div>
+    </div>
+    
+
+
+
+    
+    
+    
+    
+    
+    
+        
+    
+        
+            
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+    
+        
+    
+        
+            
+            
+            
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+            
+            
+                
+            
+            
+                
+                
+                
+            
+        
+    
+        
+    
+        
+    
+        
+    
+    
+    
+
+    
+    <div class="widget literatumCartLink none  widget-none  widget-compact-all" id="01f91911-a102-436c-a562-b4fc6f6e5c0b"  >
+        
+        
+
+        <div class="wrapped " >
+            
+            <div class="widget-body body body-none  body-compact-all"><a href="https://www.emeraldinsight.com/action/showCart">
+        Cart
+        
+    </a></div>
+        </div>
+    </div>
+    
+
+
+
+    
+    
+    
+    
+    
+    
+        
+    
+        
+            
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+    
+        
+    
+        
+            
+            
+            
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+            
+            
+                
+            
+            
+                
+                
+                
+            
+        
+    
+        
+    
+        
+    
+        
+    
+    
+    
+
+    
+    <div class="widget general-html none  widget-none  widget-compact-all" id="d82cabdf-40c8-45aa-bcdc-7a75d34c4b8b"  >
+        
+        
+
+        <div class="wrapped " >
+            
+            <div class="widget-body body body-none  body-compact-all">&nbsp;<span class="bypass">|&nbsp;&nbsp;<a href="/action/mobileDevicePairingRequest">Mobile Pairing</a>&nbsp;&nbsp;|</span>&nbsp;<a href="/action/showPreferences?show=institution">Admin</a>&nbsp;&nbsp;<span class="bypass">|</span>&nbsp;<a href="http://labs.emeraldinsight.com/" target="_blank">Blog</a>&nbsp;&nbsp;&nbsp;&nbsp;</div>
+        </div>
+    </div>
+    
+</div></div>
+        </div>
+    </div>
+    
+
+
+
+    
+    
+    
+    
+    
+    
+        
+    
+        
+            
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+    
+        
+    
+        
+            
+            
+            
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+            
+            
+                
+            
+            
+                
+                
+                
+            
+        
+    
+        
+    
+        
+    
+    
+    
+
+    
+    <div class="widget layout-one-column   widget-none  widget-compact-all" id="484c2a01-8431-4397-8f22-2884840b6706"  >
+        
+        
+
+        <div class="wrapped " >
+            
+            <div class="widget-body body body-none  body-compact-all"><div class="pb-columns row-fluid">
+    <div class="width_1_1">
+        <div data-pb-dropzone="center">
+
+
+
+    
+    
+    
+    
+    
+    
+        
+    
+        
+            
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+    
+        
+    
+        
+            
+            
+            
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+            
+            
+                
+            
+            
+                
+                
+                
+            
+        
+    
+        
+    
+        
+    
+        
+    
+    
+    
+
+    
+    <div class="widget literatumInstitutionBanner alignRight  widget-none  widget-compact-all" id="5f279a34-f503-477c-a5ac-2d10aa5dbcea"  >
+        
+        
+
+        <div class="wrapped " >
+            
+            <div class="widget-body body body-none  body-compact-all"><div class="welcome">
+    
+    
+    
+        
+    
+</div></div>
+        </div>
+    </div>
+    
+        </div>
+    </div>
+</div></div>
+        </div>
+    </div>
+    
+        </div>
+    </div>
+</div></div>
+        </div>
+    </div>
+    
+
+
+
+    
+    
+    
+    
+    
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+            
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+            
+            
+                
+            
+            
+                
+                
+                
+            
+        
+    
+        
+    
+        
+    
+        
+            
+            
+            
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+    
+    
+
+    
+    <div class="widget literatumNavigationMenu none  widget-none  widget-compact-all" id="e22a25db-a30f-4c53-a7f1-e8431758837d"  >
+        
+        
+
+        <div class="wrapped " >
+            
+            <div class="widget-body body body-none  body-compact-all"><!--
+Navigation menu. Supports two levels of nested menus.
+-->
+
+
+
+
+
+
+
+
+
+<div class="nav-bar">
+    
+            <div class="resource">
+                <form action="/action/redirect">
+                    <fieldset>
+                        <select id="s1" onchange="location=this.options[this.selectedIndex].value;" name="url">
+                            
+                                <option value="">Emerald Resources</option>
+                            
+                                <option value="http://www.emeraldgrouppublishing.com/authors/index.htm">For Authors</option>
+                            
+                                <option value="http://www.emeraldgrouppublishing.com/librarians/index.htm">For Librarians</option>
+                            
+                                <option value="http://www.emeraldgrouppublishing.com/engineers/index.htm">For Engineers</option>
+                            
+                                <option value="http://www.emeraldgrouppublishing.com/research/index.htm">Research Zone</option>
+                            
+                                <option value="http://www.emeraldgrouppublishing.com/learning/index.htm">Learning Zone</option>
+                            
+                                <option value="http://www.emeraldgrouppublishing.com/teaching/index.htm">Teaching Zone</option>
+                            
+                                <option value="http://www.emeraldgrouppublishing.com/multimedia/index.htm">Multimedia Zone</option>
+                            
+                                <option value="http://www.emeraldgrouppublishing.com/support/index.htm">Support Resources</option>
+                            
+                        </select>
+                        <label for="s1">Resource areas:</label>
+                    </fieldset>
+                    <noscript>
+                        <button type="submit">Submit</button>
+                    </noscript>
+                </form>
+                <noscript>
+
+                </noscript>
+            </div>
+            <div id="nav">
+                <ul>
+                    
+                        <li class="">
+                            
+                                    <a href="/">
+                                        Home
+                                    </a>
+                                
+                        </li>
+                    
+                        <li class="active">
+                            
+                                    <a href="/action/showPublications?">
+                                        Journals &amp; Books
+                                    </a>
+                                
+                        </li>
+                    
+                        <li class="">
+                            
+                                    <a href="/page/casestudies">
+                                        Case Studies
+                                    </a>
+                                
+                        </li>
+                    
+                </ul>
+            </div>
+        
+
+</div></div>
+        </div>
+    </div>
+    
+
+
+
+    
+    
+    
+    
+    
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+            
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+    
+        
+    
+        
+    
+        
+    
+        
+            
+            
+                
+            
+            
+                
+                
+                
+            
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+            
+            
+            
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+    
+    
+
+    
+    <div class="widget quickSearchWidget none  widget-none  widget-compact-all" id="b1bf2edc-0a51-4559-a0e3-993595ac0047"  >
+        
+        
+
+        <div class="wrapped " >
+            
+            <div class="widget-body body body-none  body-compact-all"><div class="search-bar">
+    <form action="/action/doSearch" id="quickSearchForm" name="simpleSearch" method="get"><fieldset>
+            <div class="search">
+                <input type="button" value="search" /><input title="Type search term here" type="text" name="AllField" value="" size="15" />
+            </div>
+
+            <label for="searchTarget">in:</label>
+            <select id="searchTarget" name="SeriesKey">
+<option value="articlesChapters">Articles and Chapters</option><option value="casestudies">Case studies</option><option id="thisJournal" value="whatt" selected="selected">This Journal</option></select>
+<input type="submit" value="Search" />
+
+            <a href="/search/advanced" class="advanced">Advanced Search</a>
+        </fieldset></form>
+</div></div>
+        </div>
+    </div>
+    
+    </div>
+</header></div>
+        </div>
+    </div>
+    
+
+
+
+    
+    
+    
+    
+    
+    
+        
+    
+        
+            
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+    
+        
+    
+        
+            
+            
+            
+        
+    
+        
+    
+        
+    
+        
+    
+        
+            
+            
+                
+            
+            
+                
+                
+                
+            
+        
+    
+        
+    
+        
+    
+        
+    
+    
+    
+
+    
+    <div class="widget pageBody none mainPage pagemargin widget-none  widget-compact-all" id="pageBody"  >
+        
+        
+            
+        
+
+        <div class="wrapped " id='content'>
+            
+            <div class="widget-body body body-none  body-compact-all"><!--begin pagefulltext-->
+<div class="page-body pagefulltext">
+    <div data-pb-dropzone="main">
+    
+
+
+    
+    
+    
+    
+    
+    
+        
+    
+        
+            
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+    
+        
+    
+        
+            
+            
+            
+        
+    
+        
+    
+        
+    
+        
+    
+        
+            
+            
+                
+            
+            
+                
+                
+                
+            
+        
+    
+        
+    
+        
+    
+        
+    
+    
+    
+
+    
+    <div class="widget literatumBreadcrumbs none  widget-none  widget-compact-all" id="d7db0b6b-80e9-468d-b258-47ecbedbab16"  >
+        
+        
+
+        <div class="wrapped " >
+            
+            <div class="widget-body body body-none  body-compact-all"><nav>
+    <ul class="breadcrumbs">
+        
+            <li class="">
+                <a href="/">Home</a>
+            </li>
+        
+            <li class="">
+                <a href="/action/showPublications">Browse Journals & Books</a>
+            </li>
+        
+            <li class="">
+                <a href="/loi/whatt">Worldwide Hospitality and Tourism Themes</a>
+            </li>
+        
+            <li class="">
+                <a href="/toc/whatt/4/5">Volume 4, Issue 5</a>
+            </li>
+        
+            <li class="">
+                Risk identification and analysis in the hospitality industry
+            </li>
+        
+    </ul>
+</nav></div>
+        </div>
+    </div>
+    
+
+
+
+    
+    
+    
+    
+    
+    
+        
+    
+        
+            
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+    
+        
+    
+        
+            
+            
+            
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+            
+            
+                
+            
+            
+                
+                
+                
+            
+        
+    
+        
+    
+        
+    
+        
+    
+    
+    
+
+    
+    <div class="widget layout-two-columns  paddingRight10 widget-none  widget-compact-all" id="1a623858-1282-4bd8-9f67-96760cd58e30"  >
+        
+        
+
+        <div class="wrapped " >
+            
+            <div class="widget-body body body-none  body-compact-all"><div class="pb-columns row-fluid ">
+    <div class="width_3_4">
+        <div data-pb-dropzone="left" class="pb-autoheight">
+
+
+
+    
+    
+    
+    
+    
+    
+        
+    
+        
+            
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+    
+        
+    
+        
+            
+            
+            
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+            
+            
+                
+            
+            
+                
+                
+                
+            
+        
+    
+        
+    
+        
+    
+        
+    
+    
+    
+
+    
+    <div class="widget layout-two-columns  jnl-head-container widget-none  widget-compact-all" id="a70055a2-bd93-4e31-9fce-472ce0f5cf44"  >
+        
+        
+
+        <div class="wrapped " >
+            
+            <div class="widget-body body body-none  body-compact-all"><div class="pb-columns row-fluid ">
+    <div class="width_5_6">
+        <div data-pb-dropzone="left" class="pb-autoheight">
+
+
+
+    
+    
+    
+    
+    
+    
+        
+    
+        
+            
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+    
+        
+    
+        
+            
+            
+            
+        
+    
+        
+    
+        
+    
+        
+    
+        
+            
+            
+                
+            
+            
+                
+                
+                
+            
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+    
+    
+
+    
+    <div class="widget literatumSeriesNavigation none line-height-fix-h1 widget-none  widget-compact-all" id="9177f3b1-d018-422b-9e07-4dffcd4de4a9"  >
+        
+        
+
+        <div class="wrapped " >
+            
+            <div class="widget-body body body-none  body-compact-all"><div class="issueSerialNavigation journal">
+    <a href="#" class="cover"><img src="/na101/home/literatum/publisher/emerald/journals/covergifs/whatt/largecover.gif" alt="Publication Cover" width="120" height="156" /></a>
+    <div class="info">
+        <h1>Worldwide Hospitality and Tourism Themes</h1>
+        
+            <span id="seriesIssn">ISSN: 1755-4217</span><br/>
+        
+
+        <!-- placeholder id=null, description=series_nav_ad -->
+
+        
+
+        
+
+        
+            <span id="journalStartDate">Online from: 2009</span><br/>
+        
+
+        
+        
+        
+        <br />
+        <ul>
+
+            
+
+            
+
+            <li id="currIssue">
+                <a href="http://www.emeraldinsight.com/toc/whatt/9/1">Current Issue</a>
+            </li>
+            <li id="allIssues">
+                <a href="/loi/whatt">Available Issues</a>
+            </li>
+            <li id="mostCited">
+                <a href="/action/showMostCitedArticles?journalCode=whatt">Most Cited</a>
+            </li>
+            <li id="mostRead">
+                <a href="/action/showMostReadArticles?journalCode=whatt">Most Read</a>
+            </li>
+            
+                <li id="eAlerts">
+                    <a href="/action/doUpdateAlertSettings?action=addJournal&amp;referrer=%2Fdoi%2Fabs%2F10.1108%2F17554211211277851&amp;journalCode=whatt">
+                        ToC Alert
+                    </a>
+                </li>
+            
+            <li id="rssLink">
+                <a href="/action/showFeed?type=etoc&amp;feed=rss&amp;jc=whatt">RSS</a>
+            </li>
+            
+                <li id="fav">
+                    <a href="/personalize/addFavoritePublication?seriesCode=whatt">
+                        Add to favorites
+                    </a>
+                </li>
+            
+        </ul>
+    </div>
+
+    <div class="icons">
+        
+        
+    </div>
+</div></div>
+        </div>
+    </div>
+    
+        </div>
+    </div>
+    <div class="width_1_6">
+        <div data-pb-dropzone="right" class="pb-autoheight">
+
+
+
+    
+    
+    
+    
+    
+    
+        
+    
+        
+            
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+    
+        
+    
+        
+            
+            
+            
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+            
+            
+                
+            
+            
+                
+                
+                
+            
+        
+    
+        
+    
+        
+    
+        
+    
+    
+    
+
+    
+    <div class="widget literatumAd none  widget-none  widget-compact-horizontal" id="286ceb2c-27f0-431d-bb5f-cfe6a3f2e1b3"  >
+        
+        
+
+        <div class="wrapped " >
+            
+            <div class="widget-body body body-none  body-compact-horizontal"><div class="pb-ad">
+            <img src="/sda/1299/thomson_reuters_esci.png" alt="This journal is indexed by Thomson Reuters." hspace="25"/>
+        </div></div>
+        </div>
+    </div>
+    
+
+
+
+    
+    
+    
+    
+    
+    
+        
+    
+        
+            
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+    
+        
+    
+        
+            
+            
+            
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+            
+            
+                
+            
+            
+                
+                
+                
+            
+        
+    
+        
+    
+        
+    
+        
+    
+    
+    
+
+    
+    <div class="widget literatumAd none  widget-none  widget-compact-horizontal" id="295e1290-4b92-4bef-babf-c1e197041a5e"  >
+        
+        
+
+        <div class="wrapped " >
+            
+            <div class="widget-body body body-none  body-compact-horizontal"><div class="pb-ad">
+            <img src="/sda/1300/indexed_in_scopus.png" alt="This journal is indexed by Scopus." hspace="25"/>
+        </div></div>
+        </div>
+    </div>
+    
+        </div>
+    </div>
+</div></div>
+        </div>
+    </div>
+    
+
+
+
+    
+    
+    
+    
+    
+    
+        
+    
+        
+    
+        
+            
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+    
+        
+    
+        
+    
+        
+            
+            
+            
+        
+    
+        
+    
+        
+    
+        
+    
+        
+            
+            
+                
+            
+            
+                
+                
+                
+            
+        
+    
+        
+    
+        
+    
+        
+    
+    
+    
+
+    
+    <div class="widget literatumBookIssueNavigation none  widget-none  widget-compact-all" id="9b38d2ae-00f1-4e5a-9ef5-04034405308e"  >
+        
+        
+
+        <div class="wrapped " >
+            
+            <div class="widget-body body body-none  body-compact-all"><div class="pager">
+    <div class="centered">
+        <div class="prev">
+            
+                    <a href="/doi/abs/10.1108/17554211211277842">Previous Article</a>
+                
+        </div>
+        <div class="journal-nav-container">
+            
+
+            
+
+            
+                <div>
+                        What are the emerging strategic and financial issues in the Indian hospitality industry?
+                </div>
+            
+            
+                <div>Editor(s):
+                    Sanjeev, Gunjan M., Jauhari, Vinnie
+                </div>
+            
+        </div>
+        <div class="next">
+            
+                    <a href="/doi/abs/10.1108/17554211211277860">Next Article</a>
+                
+        </div>
+    </div>
+</div></div>
+        </div>
+    </div>
+    
+
+
+
+    
+    
+    
+    
+    
+    
+        
+    
+        
+            
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+    
+        
+    
+        
+            
+            
+            
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+            
+            
+                
+            
+            
+                
+                
+                
+            
+        
+    
+        
+    
+        
+    
+        
+    
+    
+    
+
+    
+    <div class="widget layout-three-columns   widget-none  widget-compact-all" id="05d5b1cf-9e79-4389-ba68-0bfc977938d8"  >
+        
+        
+
+        <div class="wrapped " >
+            
+            <div class="widget-body body body-none  body-compact-all"><div class="pb-columns row-fluid ">
+    <div class="width_1_3">
+        <div data-pb-dropzone="left" class="pb-autoheight">
+
+
+
+    
+    
+    
+    
+    
+    
+        
+    
+        
+            
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+    
+        
+    
+        
+            
+            
+            
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+            
+            
+                
+            
+            
+                
+                
+                
+            
+        
+    
+        
+    
+        
+    
+        
+    
+    
+    
+
+    
+    <div class="widget general-html alignLeft  widget-none  widget-compact-all" id="f9c0504f-d4a3-4e81-96f6-0cbcfa91ad36"  >
+        
+        
+
+        <div class="wrapped " >
+            
+            <div class="widget-body body body-none  body-compact-all"><script>
+$(document).ready(function(){
+  $("#mandeley").hide();
+  var url = $("meta[name='DCSext.WT_doi']").attr("content");
+  var booktest = $("meta[name='Dcsref']").attr("content").toLowerCase(); 
+  if(booktest.indexOf("book") == -1) {
+     $("#mandeley").fadeIn("slow");
+  }
+  $("#mandeley").click(function(e){
+      var er = '#Error Value is Undefined';       
+      var link = "https://www.mendeley.com/import/?url="; 
+      var ttext = '&title=';
+      var title = document.title;
+      var doi = "https://doi.org/"+url; 
+      var full = link+doi+ttext+title;
+
+      full = full.replace(/([\"])/g,'\\"');
+      full = full.replace(/([\'])/g,"\\'");
+
+      var dt = url = $("meta[name='dc.Date']").attr("content");
+        if(!dt){ dt = er;}  
+      var jname = $("meta[name='DCSext.WT_name']").attr("content"); 
+        if(!jname) {   
+            jname = $('h1').text();
+            if(!jname){ jname = er;}
+        } 
+      var jtitle = $("meta[name='DCSext.WT_title']").attr("content"); 
+        if(!jtitle) {   
+        jtitle = $('.hlFld-Title').text();
+        if(!jtitle){ jtitle = er;}
+        } 
+        jtitle = jtitle.replace(/([\'])/g,"\\'"); 
+
+      var eveLabel = jname+';;'+jtitle+';;'+dt;
+      var eveCategory = 'Share on Mendeley';
+      var eveAction = $("meta[name='Dcsuri']").attr("content"); 
+
+      window.ga ('send', 'event', eveCategory, eveAction, eveLabel);
+      if (typeof window.dataLayer !== "undefined" && typeof window.dataLayer.push === "function") try {
+      window.dataLayer.push({ 'event' : 'ShareOnMendeley', 'eventCategory' : eveCategory, 'eventAction' : eveAction, 'eventLabel' : eveLabel});
+      } catch (d) {}
+     window.open(full);
+     e.preventDefault();          
+  });
+});
+</script>
+<div style="margin-top:14px;display:none;" id="mandeley"><a href="#" title="Save to Mendeley - new window."><img width="100" height="27" alt="Save to Mendeley " src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAF0AAAAbCAYAAAAecIOyAAAABHNCSVQICAgIfAhkiAAAAAlwSFlzAAAK8AAACvABQqw0mAAAACB0RVh0U29mdHdhcmUATWFjcm9tZWRpYSBGaXJld29ya3MgTVi7kSokAAAIOUlEQVR4nO2af1RUZRrHPzMwjDPECIxDCiPo6pgbkZq6xVjt+gN01cxY46hrdWqztbPZSkdr+2V10s6xTKo9nsXV9XTCWiNFVHALhEp01FQgaEq8GaJgpQ4/BpyRmbn33T+AKZbRHNH1ZHz+mTNzv/d5nvt93/s8954zqvz8/DDgNWAeEE0vV4pGIBtYEgq8Onjw4MctFgsajeYq13Xt4vV6oyRJerympsatBu7rNfzKo9FosFgsAPPVQHSv4f8fOnyOVl/tQn6JhF6OIMcqq6jPWo/7yNdo9XqunzwJy4KHUIWEBNTXfLyLM//Kxll/Em0/Iwlz7mVg2l2Xo5SfBT023Vawg5C/PotQBC7ZhxNB0+dfUF/8KeNzN3TTF63OInxVFs2yzDmhwDfHcB4o54RtH9aVy3tazs+CHrWX1pYWfEtX0CbLnPSewytkhFDwCAXnwXL2Zfyti3731u1ErVpDo89Lq+JFEQqKUDin+Gj6YCtHCz7s0cX8XOjRTrfv3oOusZkarwcVoAjhP+ZB5ttNW7GddhD7wBxOHCjDveZtGhUFl5BRo0LhB72sUqjL/5Ah06YEVUNecRnv/KeM8loHAOlWC2kTRnDriCE9ubQrSo9Mb3U00EeWEUL8yL4fkIH6T0o581U1Ya1nCRUCtyIjoIvhAD4UztV/F1T+7G02lmaXYo7Uk2610NDiJscmkWOTyH/ljyRazJd8bVeSHpned8AAnIqCSgiU/zmmBiLGjCJl0wbUmvY0ezL/juH1f9Co+AJEU6H9VUJQ+f+5/RAAH731CHqdFmjf+RlZRWz9pPLaND3+xl/zMTIaVO1DsQMV4AN+89oyv+EA4zIWkvPZIaJK99MgdzVeRsGUPDao/HVNLgAKbXZSrYnodVpSrYnkx8cQrtf6dcV77azevNffgiYlmXn2T6kMijORV1zG3spjPJp+B4PiTP5znsrMBWBFRhrQvpivb9xDXZOLSUlmHr77tktuYT0apDED+hOaMBA1wj8U1QhCAc2A/kRZuhelvnEYelSIDn1Ih96jKESY44LKvzitfZEysopIvP8NnsrMpdBmZ7DZ5DfQLtXx8Kp8ADIXpDA/NYmdVXU8kbkVgAi9lhybRMGuKn/c4r12cmwS8f0jgfY2lpFVxPCB0WQuSMHhdDN72SbsUl2wlgGX4ZFR8flQCYXYlAlEDE6gzePh+09K0dbW01AtET18WBd966EK9IqP+Fkz0fUz4mxo5MzHu4g404hAFVTuB2eOA2Bl7gEAfz83b9zDiw9NYGJyIjFGA5kLUhg5fCCD4kykWttYW1jl3/UTkxMxR5awscTOgzPHoddpKdxXDcDvxrTX3jk33lwyC71OiyU+hunPvHvJLaxHpts+KkRuaWHKvhIiEuK7HNv2wjJ2P/E0M3Zs9v+246XlxLa6ST15pFusLdNnceT9zSSMu+2i8+t1Wv4yZwLpk8dQWX2C/V/UsrawiromFy+uLyF55FBM0QYs8TEU7KqiQvqWnVXdd+cjd41maXYpeyu+5uYbBpJjkxiVYCTRYvbvZlNfHYU2e5fz1hZW8cz8qRddbydBm37q6DeczFpPQ0sL9Zu3MXbVK90MB5jx0nOsGT+Z7dcPpW/6TBq+PIxc9RXJOz4IGHd67nu8a51AUcoM+gwdQv/U8VjumXHeOk43OKmsPkH/fn1JtJiZmJzIxOREFs2byLznsymvdVBTd5pWVxuzl23CHKln9oREZqeM9LebTqbcfhNLs0vZWFTBydPNANz/+1u65mt2s7fymP97utVysZZ1IyjT7YfKqJz8B+SOB74QVITodOfV9/EpeBQZ6b0cwlQqFMB71hVQqwkLA59MU0UVzrIKjn+whe8PH+H2pxcH1FdWn+DhVfmMSjCy4eX7/E8vnZ8A4Xot7+R/BsDKx6Zy64ghuNxt3WKZog2kWy3k2CQcTjcAqdZEAGKMhnZNX51/qLrcbZxqcHYZvMEQ1CA9vO5tTOoQWhQZt6LgUmSO7ywJqN29JY/ow0dxyD5kIXArCooQHHl/c2B9ziai6r+joUPvURSO5+Set5bkkUMZlWCkvNbBvOezySsuI6+4jLTF6yivdTApycygOBN9r+sDwMEva7FLdbyxoThgvNTbbgCgvNbB4rSx/sXrXJDyWger/12CXarjpawCxi9aT15x2UV792OCMt3n8eJWZFSC9hciITj73fcBte6mZkIFyB06IQRCEXicLQH1njMONKL9rVYIgU8oeF3u89ai12lZlXG335CMrCIysooor3WQbrXw5pJZAMydOhZzpJ6VuQeY/sy7NLee87eG/Z8f9cdrH6h64IcB2skLC6aRbrX4Y+TYJOanJvnvhmAJqr1E/XYcIu9D1AJ8HW+UptG3BNSOnDKZj55bToTLS7NQCAEUIHb8HQH1sWNHU6nIaACPEISp1ETcfNMF6xkUZ2JFRhqLH3ByyuEEYLDZ1KXFDIozUbp2IXapjnC91t8SVmR0j1e6dmHAPHqdlhUZaTyafpqzrjZijAZM0YYL1nYhQubOnfvisGHDfloJDBlxMydkL437DyJ8Pobcew93vvoyKnX3GyY84jpCxozEebAMT3MLIeF6kp5cxJjH/hwwdr+4WJr6x+D+1Ia3zUO/O61MWvMW2vDwn6wrXKclxmggxmhAowm8j2KMBiINPx3rQkQawokxGgj/0aIGiyRJqPLz88W0adN6VEwvF09BQUHP3kh7uTR6Tb8KqIEGr9d7tev4RdDhc4MayJYkiV7jryxerxdJkgDWhQJP1tTUqGpqau4Doq5uadc0nf/wev6/PA5rz5e9SQ0AAAAASUVORK5CYII=" /></a></div></div>
+        </div>
+    </div>
+    
+
+
+
+    
+    
+    
+    
+    
+    
+        
+    
+        
+            
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+    
+        
+    
+        
+            
+            
+            
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+            
+            
+                
+            
+            
+                
+                
+                
+            
+        
+    
+        
+    
+        
+    
+        
+    
+    
+    
+
+    
+    <div class="widget general-html none  widget-none  widget-compact-all" id="bac93759-11fe-46d6-8cf4-a89fa9959b22"  >
+        
+        
+
+        <div class="wrapped " >
+            
+            <div class="widget-body body body-none  body-compact-all"><br></div>
+        </div>
+    </div>
+    
+        </div>
+    </div>
+    <div class="width_1_6">
+        <div data-pb-dropzone="center" class="pb-autoheight">
+
+
+
+    
+    
+    
+    
+    
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+            
+            
+            
+        
+    
+        
+    
+        
+    
+        
+    
+    
+    
+
+    
+    <div class="widget general-html none  widget-none" id="38322f0b-46db-4a28-ba32-2d4d6fa80cef"  >
+        
+        
+
+        <div class="wrapped " >
+            
+            <div class="widget-body body body-none "><!-- <div id="refme-auto-cite"></div>
+<script async src="http://widget.refme.com/scripts/refme-cite.js"></script> --></div>
+        </div>
+    </div>
+    
+        </div>
+    </div>
+    <div class="width_1_2">
+        <div data-pb-dropzone="right" class="pb-autoheight">
+
+
+        </div>
+    </div>
+</div></div>
+        </div>
+    </div>
+    
+
+
+
+    
+    
+    
+    
+    
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+            
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+            
+            
+                
+            
+            
+                
+                
+                
+            
+        
+    
+        
+    
+        
+    
+        
+            
+            
+            
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+    
+    
+
+    
+    <div class="widget literatumPublicationContentWidget none paddingLeft5 paddingRight5 widget-none  widget-compact-all" id="d9c1cb30-3459-4246-919d-41c5fe23de2f"  >
+        
+        
+
+        <div class="wrapped " >
+            
+            <div class="widget-body body body-none  body-compact-all"><script type="text/javascript">
+<!-- // hide it from old browsers
+
+var anyDbId = -1;
+var sideParts = {
+    citation: "<tr><td class=\"black9pt\" width=\"15\" valign=\"top\">&nbsp;&bull;&nbsp;<\/td><td class=\"black9pt\" valign=\"top\"><a href=\"javascript:newWindow('{$linkoutUrl}')\">{$display}<\/a><\/td><\/tr>",
+    citingIsi: "<tr><td class=\"black9pt\" width=\"15\" valign=\"top\">&nbsp;&bull;&nbsp;<\/td><td class=\"black9pt\" valign=\"top\">Search for citing articles in:<br/>&nbsp;<a href=\"javascript:newWindow('/servlet/linkout?suffix=s0&dbid=128&doi={$doi}&url={$urlEnc}')\">ISI Web of Science<\/a> ({$citNum} or more)<\/a><\/td><\/tr>",
+    citingCrossref: "<tr><td class=\"black9pt\" width=\"15\" valign=\"top\">&nbsp;&bull;&nbsp;<\/td><td class=\"black9pt\" valign=\"top\"><a href=\"{$url}\">Citing articles in CrossRef<\/a><\/td><\/tr>",
+    quicksearch: "<option value=\"{$value}\">{$display}<\/option>",
+    related: ", <a href=\"javascript:newWindow('{$linkoutUrl}')\">{$display}<\/a>"
+};
+
+function genSide(part, dbid, linkoutUrl, display, doi, url, citNum, value) {
+    if (dbid != anyDbId && (140737488355327 & dbid) == 0) return;
+    var content = sideParts[part];
+    if (linkoutUrl) { content = content.replace(/{\$linkoutUrl}/g, linkoutUrl); }
+    if (display) { content = content.replace(/{\$display}/g, display); }
+    if (doi) { content = content.replace(/{\$doi}/g, doi); }
+    if (url) {
+        content = content.replace(/{\$url}/g, url);
+        content = content.replace(/{\$urlEnc}/g, encodeURIComponent(encodeURIComponent(url)));
+    }
+    if (citNum) { content = content.replace(/{\$citNum}/g, citNum); }
+    if (value) { content = content.replace(/{\$value}/g, value); }
+    document.write(content);
+}
+
+function hasSfxLinks() {
+	return false;
+}
+
+
+function genSfxLinks(id, url, doi) {
+    if (! doi) { doi = ""; }
+
+}
+function popSfxLink(prefix, id, url, doi) {
+    if (doi) {
+        url += "&id=doi:"+doi;
+    } else {
+        doi = "10.1108%2F17554211211277851";
+    }
+    var redirect = prefix + encodeURIComponent("?sid=emerald&genre=article"+url);
+    var href = "/servlet/linkout?suffix="+id+"&dbid=16384&doi="+doi+"&url=" + encodeURIComponent(redirect);
+    return newWindow(href);
+}
+
+var sfxRefDisplay = {
+64:"[ADS]",
+32:"CAS",
+8192:"CIS",
+256:"CSA",
+16:"[CrossRef]",
+128:"[ISI]",
+4096:"JSTOR",
+8:"[Medline]",
+1099511627776: "Ichushi",
+17592186044416: "Medical Online",
+8796093022208: "J-Stage",
+2199023255552: "Medical Finder",
+4398046511104: "Pier Online"
+};
+
+window.onload=disableRefLinkWrite ;
+
+function genRefLink(dbid, id, key, textOfLink) {
+    if (140737488355327 & dbid != 0) {
+        if (typeof textOfLink === "undefined") {
+            if (sfxRefDisplay[dbid].substring(0,1) == "[") {
+                textOfLink = sfxRefDisplay[dbid];
+            } else {
+                textOfLink = "["+sfxRefDisplay[dbid]+"]";
+            }
+            // ToDo: move '[' and ']' to sfxRefDisplay (UPDATE: finish changing sfxRefDisplays and remove this branch)
+        }
+        else{ textOfLink = unescape(textOfLink)};
+
+        if(document.disableRefLinkWrite == null){
+            document.write("<a class='ref' href=\"javascript:popRefLink("+dbid+",'"+id+"','"+key+"')\">"+textOfLink+"<\/a>");
+        }
+    }
+}
+
+function disableRefLinkWrite () {
+    document.disableRefLinkWrite = true;
+}
+
+function popRefLink(dbid, id, key) {
+    var redirect = "/servlet/linkout?suffix=" + id + "&dbid=" + dbid + "&doi=10.1108%2F17554211211277851&key=" + key;
+    return newWindow(redirect);
+}
+function popRefFull(rid, citart, ptype, area) {
+    return popRefImplFull(rid, citart, ptype, area, 600, 500);
+}
+function popRefImplFull(rid, citart, ptype, area, width, height) {
+    var doi = "10.1108%2F17554211211277851";
+    if (! ptype) { ptype = ""; }
+    var pt = rid.charAt(0) + "17554211211277851" + ptype;
+    return popupFull(rid, doi, pt, area, width, height);
+}
+function popRef(rid, citart, ptype, area) {
+    return popRefImpl(rid, citart, ptype, area, 600, 500);
+}
+function popRef2(rid, citart, ptype, area) {
+    return popRefImpl(rid, citart, ptype, area, 400, 100);
+}
+function popRefImpl(rid, citart, ptype, area, width, height) {
+    var doi = "10.1108%2F17554211211277851";
+    if (! citart) { citart = "citart1"; }
+    if (! ptype) { ptype = ""; }
+    var pt = rid.charAt(0) + "17554211211277851" + ptype;
+    return popupRef(citart, rid, doi, pt, area, width, height);
+}
+
+
+
+function genCitingCrossref() {
+}
+
+var citLinkDisplay = {
+    
+    0:"SYSTEM",
+4:"SYSTEM",
+20:"SYSTEM",
+64:"ADS",
+32:"CAS",
+8192:"CIS",
+256:"CSA",
+16:"CrossRef",
+128:"ISI",
+4096:"JSTOR",
+8:"MEDLINE"
+};
+var feeBasedMask = 4480;
+
+function genCitLink(dbid, suffix, key) {
+    if (dbid != anyDbId && (feeBasedMask & dbid) != 0 && (140737488355327 & dbid) == 0) return;
+
+    var param = "/servlet/linkout?suffix=" + suffix + "&dbid=" + dbid + "&doi=10.1108%2F17554211211277851&key=" + key;
+    var display = citLinkDisplay[dbid];
+    var img = "/templates/jsp/_style2/_emerald/images/" + display + "_btn.gif";
+
+
+
+    document.write("<a class='ref' href='javascript:newWindow(\"" + param + "\")'>");
+    document.write("<" + "img src='"+img+"' width='85' height='20' align='BOTTOM' alt='"+display+" Abstract' border='0'/>");
+    document.write("<\/a>");
+}
+// stop hiding -->
+</script>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        
+    
+
+
+<article class="article">
+    <h1 class="titleGroup"><span class="hlFld-Title">Risk identification and analysis in the hospitality industry: Practitioners' perspectives from India</span></h1><div class="options"><div class="subtitle">Article Options and Tools</div><h4 class="option-title">View: </h4><ul class="tools1"><li><a class="ref nowrap" href="/doi/full/10.1108/17554211211277851"><span class="icon icon-doc">HTML</span></a></li><li><a class="ref nowrap" href="/doi/pdfplus/10.1108/17554211211277851"><span class="icon icon-pdf">PDF</span></a></li></ul><ul class="tools2"><li class="ref"><a class="ref nowrap" href="/doi/ref/10.1108/17554211211277851">
+                                References (27)
+                            </a></li><li class="crossref"><a href="/doi/citedby/10.1108/17554211211277851">Cited by (Crossref, 4)</a></li><li class="scopus"><a href="http://www.scopus.com/inward/citedby.url?partnerID=HzOxMe3b&amp;scp=84898484207" target="_blank">Cited by (Scopus, 4)</a></li></ul><ul class="tools3"><li class="addToFav"><a class="ref nowrap" href="/personalize/addFavoriteArticle?doi=10.1108%2F17554211211277851" data-doi="10.1108/17554211211277851">Add to Marked List</a></li><li class="citations"><a class="ref nowrap" href="/action/showCitFormats?doi=10.1108%2F17554211211277851" target="_blank">Download Citation</a></li><li class="citationAlert"><a class="ref nowrap" href="/action/addCitationAlert?doi=10.1108%2F17554211211277851" target="_blank">Track Citations</a></li><li class="permissions"><a href="/servlet/linkout?type=rightslink&amp;url=startPage%3D410%26pageCount%3D18%26color%3Dfalse%26author%3D%26orderBeanReset%3Dtrue%26imprint%3DEmerald%26volumeNum%3D4%26issueNum%3D5%26contentID%3D10.1108%252F17554211211277851%26title%3DRisk%2Bidentification%2Band%2Banalysis%2Bin%2Bthe%2Bhospitality%2Bindustry%26issn%3D1755-4217%26publisherName%3DEmerald%26publication%3Dwhatt%26rpt%3Dn%26endPage%3D427%26publicationDate%3D11%252F09%252F2012" class="rightslink"><img src="/templates/jsp/_style2/_emerald/images/rightsLink.png" alt="Reprints &amp; Permissions" /></a></li></ul></div><span class="Z3988" title="ctx_ver%3DZ39.88-2004%26rft_val_fmt%3Dinfo%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal%26rft_id%3Dinfo%3Adoi%2F10.1108%2F17554211211277851%26rft.jtitle%3DWorldwide+Hospitality+and+Tourism+Themes%26rft.atitle%3DRisk+identification+and+analysis+in+the+hospitality+industry%26rft.spage%3D410%26rft.epage%3D427%26rft.volume%3D4%26rft.issue%3D5%26rft.issn%3D1755-4217%26rft.date%3D2012%26rft.au%3DGunjan+M.+Sanjeev+Vinnie+Jauhari+Sonia+Bharwani+David+Mathews"></span><dl><dt>Author(s):</dt><dd><div class="contentContribs"><a href="/author/Bharwani%2C+Sonia"><span class="hlFld-ContribAuthor">Sonia Bharwani</span></a>  (Institute for International Management and Technology, Gurgaon, India)</div><span class="NLM_x"><x xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:space="preserve">
+</x></span><div class="contentContribs"><a href="/author/Mathews%2C+David"><span class="hlFld-ContribAuthor">David Mathews</span></a>  (Trident Gurgaon, Gurgaon, India)</div></dd><dt>Citation: </dt><dd><a href="/author/Bharwani%2C+Sonia">Sonia Bharwani</a>, <a href="/author/Mathews%2C+David">David Mathews</a>,  (2012)  "Risk identification and analysis in the hospitality industry: Practitioners' perspectives from India", <journal-title xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">Worldwide Hospitality and Tourism Themes</journal-title>, Vol. 4 Iss: 5, pp.410 - 427</dd><dt>DOI</dt><dd><a href="http://dx.doi.org/10.1108/17554211211277851">http://dx.doi.org/10.1108/17554211211277851</a></dd><div class="downloadsCount"><dt>Downloads: </dt><dd>The fulltext of this document has been downloaded 6014 times since 2012</dd></div><p class="fulltext"></p><dt class="abstract">Abstract:</dt><dd class="abstract"><span class="hlFld-Abstract"><div class="NLM_sec NLM_sec_level1"><a name="_i1"><!-- title --></a><div class="sectionInfo"><div class="sectionHeading"><h5>Purpose</h5></div><div class="sectionJumpTo"></div></div><span class="NLM_x"><x xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:space="preserve"> – </x></span>This paper aims to identify the key risks which are endemic to the hospitality industry and considered as important by hoteliers in today's growing global context, with particular reference to the Indian context. It also seeks to propose a generic model for risk management.</div><br /><div class="NLM_sec NLM_sec_level1"><a name="_i2"><!-- title --></a><div class="sectionInfo"><div class="sectionHeading"><h5>Design/methodology/approach</h5></div><div class="sectionJumpTo"></div></div><span class="NLM_x"><x xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:space="preserve"> – </x></span>Primary data collection using questionnaires and semi‐structured qualitative interviews with hospitality professionals was supplemented by secondary research in the field of risk and uncertainty management.</div><br /><div class="NLM_sec NLM_sec_level1"><a name="_i3"><!-- title --></a><div class="sectionInfo"><div class="sectionHeading"><h5>Findings</h5></div><div class="sectionJumpTo"></div></div><span class="NLM_x"><x xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:space="preserve"> – </x></span>To secure competitive advantage and develop business resilience, it is becoming increasingly important for hospitality organisations to shift their focus from merely responding and reacting to crises and emergency situations, to proactively identifying, analysing and assessing risks while formulating their business strategies. The paper identifies the most commonly addressed areas of risk in the Indian hospitality industry, which include competition, seasonality of business and changes in customer preferences and demand.</div><br /><div class="NLM_sec NLM_sec_level1"><a name="_i4"><!-- title --></a><div class="sectionInfo"><div class="sectionHeading"><h5>Practical implications</h5></div><div class="sectionJumpTo"></div></div><span class="NLM_x"><x xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:space="preserve"> – </x></span>Practitioners, researchers and educationists in the hospitality industry will find the implications of this study useful in the context of the present complex business environment which is fraught with risks.</div><br /><div class="NLM_sec NLM_sec_level1"><a name="_i5"><!-- title --></a><div class="sectionInfo"><div class="sectionHeading"><h5>Originality/value</h5></div><div class="sectionJumpTo"></div></div><span class="NLM_x"><x xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:space="preserve"> – </x></span>Given the dearth of research in the field of risk and uncertainty management in the hospitality industry, especially in the Indian context, the paper explores various aspects of hospitality operations prone to risk and proposes a framework for identifying the key risks in hospitality organisations. It also puts forward a generic model of the process of risk management.</div><br /></span></dd><dt>Keywords: </dt><dd><span class="hlFld-KeywordText"><a href="/keyword/Hospitality">Hospitality</a></span>, <span class="hlFld-KeywordText"><a href="/keyword/Risk+Analysis">Risk analysis</a></span>, <span class="hlFld-KeywordText"><a href="/keyword/Risk+Identification">Risk identification</a></span>, <span class="hlFld-KeywordText"><a href="/keyword/Uncertainty+Avoidance">Uncertainty avoidance</a></span>, <span class="hlFld-KeywordText"><a href="/keyword/Risk+Management">Risk management</a></span>, <span class="hlFld-KeywordText"><a href="/keyword/India">India</a></span>, <span class="hlFld-KeywordText"><a href="/keyword/Hospitality+Services">Hospitality services</a></span>, <span class="hlFld-KeywordText"><a href="/keyword/Hotel+And+Catering+Industry">Hotel and catering industry</a></span></dd><dt>Type: </dt><dd><compound-subject-part xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" content-type="label">Research paper</compound-subject-part></dd><dt>Publisher: </dt><dd><span class="NLM_publisher-name">Emerald Group Publishing Limited</span></dd><span class="copyRight"><dt>Copyright:</dt><dd>© Emerald Group Publishing Limited 2012<br />Published by <span class="NLM_publisher-name">Emerald Group Publishing Limited</span><br /><license-p xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"></license-p></dd></span><script type="text/javascript">
+                        window.figureViewer={doi:'10.1108/17554211211277851',path:'/na101/home/literatum/publisher/emerald/journals/content/whatt/2012/whatt.2012.4.issue-5/17554211211277851/production',figures:[{i:'F_4080040502001',type:'fig',g:[{m:'4080040502001.gif',l:'4080040502001.jpeg',size:'41 KB'}]}
+                        ,{i:'F_4080040502002',type:'fig',g:[{m:'4080040502002.gif',l:'4080040502002.jpeg',size:'69 KB'}]}
+                        ,{i:'F_4080040502003',type:'fig',g:[{m:'4080040502003.gif',l:'4080040502003.jpeg',size:'19 KB'}]}
+                        ]}</script></dl>
+</article>
+
+
+
+
+    <style type="text/css">
+        .suppl{
+            display: none !important;
+        }
+    </style>
+
+
+<input id="viewLargeImageCaption" type="hidden" value="View Large Image" /></div>
+        </div>
+    </div>
+    
+
+
+
+    
+    
+    
+    
+    
+    
+        
+    
+        
+            
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+    
+        
+    
+        
+            
+            
+            
+        
+    
+        
+    
+        
+    
+        
+    
+        
+            
+            
+                
+            
+            
+                
+                
+                
+            
+        
+    
+        
+    
+        
+    
+        
+    
+    
+    
+
+    
+    <div class="widget layout-inline-content none  widget-none  widget-compact-all" id="e9c839c0-aa2f-4496-85c8-5333852dbfb3"  >
+        
+        
+
+        <div class="wrapped " >
+            
+            <div class="widget-body body body-none  body-compact-all"><div class="inline-dropzone" data-pb-dropzone="content">
+    </div></div>
+        </div>
+    </div>
+    
+        </div>
+    </div>
+    <div class="width_1_4">
+        <div data-pb-dropzone="right" class="pb-autoheight">
+
+
+
+    
+    
+    
+    
+    
+    
+        
+    
+        
+            
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+    
+        
+    
+        
+            
+            
+            
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+            
+            
+                
+            
+            
+                
+                
+                
+            
+        
+    
+        
+    
+        
+    
+        
+    
+    
+    
+
+    
+    <div class="widget literatumAd none  widget-none  widget-compact-all" id="4560d13e-c295-4b8b-9311-6e0cb6b592a2"  >
+        
+        
+
+        <div class="wrapped " >
+            
+            <div class="widget-body body body-none  body-compact-all"><div class="pb-ad">
+            <div id="google_translate_element"></div><script>function googleTranslateElementInit(){new google.translate.TranslateElement({pageLanguage:'en',layout:google.translate.TranslateElement.InlineLayout.SIMPLE,gaTrack:true,gaId:'UA-78371333-1'},'google_translate_element');}</script><script async defer src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
+        </div></div>
+        </div>
+    </div>
+    
+
+
+
+    
+    
+    
+    
+    
+    
+        
+    
+        
+            
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+    
+        
+    
+        
+            
+            
+            
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+            
+            
+                
+            
+            
+                
+                
+                
+            
+        
+    
+        
+    
+        
+    
+        
+    
+    
+    
+
+    
+    <div class="widget literatumAd none  widget-none  widget-compact-all" id="d4a77d86-3762-4658-9596-c64eac717874"  >
+        
+        
+
+        <div class="wrapped " >
+            
+            <div class="widget-body body body-none  body-compact-all"><div class="pb-ad">
+            <a href="/action/clickThrough?id=1303&url=http%3A%2F%2Fwww.emeraldgrouppublishing.com%2Fon%2Fnewcontentalerts&loc=%2Fdoi%2Fabs%2F10.1108%2F17554211211277851&pubId=40485424&placeholderId=1022&productId=1011" title="Sign up to Emerald's free email alerts." target="_blank"><img src="/sda/1303/235x217-Email-alert.jpg" alt="Banner ad: Sign up to Emerald's free email alerts."/></a>
+        </div></div>
+        </div>
+    </div>
+    
+
+
+
+
+
+    
+    
+    
+    
+    
+    
+        
+    
+        
+            
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+    
+        
+    
+        
+            
+            
+            
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+            
+            
+                
+            
+            
+                
+                
+                
+            
+        
+    
+        
+    
+        
+    
+        
+    
+    
+    
+
+    
+    <div class="widget general-html none  widget-none  widget-compact-horizontal" id="28839310-7894-47df-b016-71bd6c7d339f"  >
+        
+        
+
+        <div class="wrapped " >
+            
+            <div class="widget-body body body-none  body-compact-horizontal"><script src="//api.growkudos.com/widgets/article/10.1108/17554211211277851?omit_icons=true"></script></div>
+        </div>
+    </div>
+    
+
+
+
+    
+    
+    
+    
+    
+    
+        
+    
+        
+            
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+    
+        
+    
+        
+            
+            
+            
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+            
+            
+                
+            
+            
+                
+                
+                
+            
+        
+    
+        
+    
+        
+    
+        
+    
+    
+    
+
+    
+    <div class="widget layout-tabs none  widget-none  widget-compact-all" id="bb071eda-bb81-4628-adac-4838f5f2c558"  >
+        
+        
+
+        <div class="wrapped " >
+            
+            <div class="widget-body body body-none  body-compact-all"><div class="tabs tabs-widget " aria-live="polite" aria-atomic="true" aria-relevant="additions">
+    <ul class="tab-nav">
+        
+            
+            
+            <li class="active">
+                
+                        <a href="#bb071eda-bb81-4628-adac-4838f5f2c558-58132d06-cf2f-4e31-a696-f4f2aa0cdd9a" title="show Most read">Most read</a>
+                    
+            </li>
+            
+        
+            
+            
+            <li class="">
+                
+                        <a href="#bb071eda-bb81-4628-adac-4838f5f2c558-b6de7b7c-de82-45a5-9538-313dd15c6659" title="show Most cited">Most cited</a>
+                    
+            </li>
+            
+        
+            
+            
+            <li class="">
+                
+                        <a href="#bb071eda-bb81-4628-adac-4838f5f2c558-b5d51dec-5776-4a1b-becf-e9a5b1cfc21c" title="show Related">Related</a>
+                    
+            </li>
+            
+        
+    </ul>
+    <div class="tab-content">
+        
+            
+            
+                    <div class="tab-pane active" id="bb071eda-bb81-4628-adac-4838f5f2c558-58132d06-cf2f-4e31-a696-f4f2aa0cdd9a">
+                        
+                        <div class="tab-pane-content" data-pb-dropzone="tab-58132d06-cf2f-4e31-a696-f4f2aa0cdd9a" data-pb-dropzone-name="Most read">
+                            
+                                    
+                                        
+
+
+    
+    
+    
+    
+    
+    
+        
+    
+        
+            
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+    
+        
+    
+        
+            
+            
+            
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+            
+            
+                
+            
+            
+                
+                
+                
+            
+        
+    
+        
+    
+        
+    
+        
+    
+    
+    
+
+    
+    <div class="widget general-html none  widget-none  widget-compact-all" id="024e63bf-5dbc-4a3e-ac89-e2eb20bb23d2"  >
+        
+        
+
+        <div class="wrapped " >
+            
+            <div class="widget-body body body-none  body-compact-all">The most popular papers from this title in the past 7 days:</div>
+        </div>
+    </div>
+    
+
+
+
+    
+    
+    
+    
+    
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+            
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+            
+            
+                
+            
+            
+                
+                
+                
+            
+        
+    
+        
+    
+        
+    
+        
+    
+        
+            
+            
+            
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+    
+    
+
+    
+    <div class="widget literatumMostReadWidget none  widget-none  widget-compact-all" id="b29c3dfc-7513-4493-8894-ddd113c6b82a"  >
+        
+        
+
+        <div class="wrapped " >
+            
+            <div class="widget-body body body-none  body-compact-all"><section class="popular">
+        <div class="mostRead  ">
+            
+            <ul>
+            
+                    <li>
+                        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="title">
+    
+            <a href="/doi/full/10.1108/WHATT-09-2016-0048">Tourism services: facing the challenge of new tourist profiles
+
+                
+
+            </a>
+        
+</div>
+<div class="authors"> </div>
+<div class="date"> </div>
+<div class="series"></div>
+<div class="volumeIssue"></div>
+<div class="contentFormats"> </div>
+
+
+                    </li>
+               
+                    <li>
+                        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="title">
+    
+            <a href="/doi/full/10.1108/17554211111162435">Understanding and managing generational differences in the workplace
+
+                
+
+            </a>
+        
+</div>
+<div class="authors"> </div>
+<div class="date"> </div>
+<div class="series"></div>
+<div class="volumeIssue"></div>
+<div class="contentFormats"> </div>
+
+
+                    </li>
+               
+                    <li>
+                        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="title">
+    
+            <a href="/doi/full/10.1108/WHATT-06-2015-0026">Destination quality and tourists&#x2019; behavioural intentions: rural tourist destinations in Malaysia
+
+                
+
+            </a>
+        
+</div>
+<div class="authors"> </div>
+<div class="date"> </div>
+<div class="series"></div>
+<div class="volumeIssue"></div>
+<div class="contentFormats"> </div>
+
+
+                    </li>
+               
+                    <li>
+                        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="title">
+    
+            <a href="/doi/full/10.1108/17554211311314100">Trends in the international hotel industry
+
+                
+
+            </a>
+        
+</div>
+<div class="authors"> </div>
+<div class="date"> </div>
+<div class="series"></div>
+<div class="volumeIssue"></div>
+<div class="contentFormats"> </div>
+
+
+                    </li>
+               
+                    <li>
+                        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="title">
+    
+            <a href="/doi/full/10.1108/17554211211277851">Risk identification and analysis in the hospitality industry
+
+                
+                    : Practitioners' perspectives from India
+                
+
+            </a>
+        
+</div>
+<div class="authors"> </div>
+<div class="date"> </div>
+<div class="series"></div>
+<div class="volumeIssue"></div>
+<div class="contentFormats"> </div>
+
+
+                    </li>
+               
+            </ul>
+            <a href="/action/showMostReadArticles?journalCode=whatt" class="more"><strong>See more ></strong></a>
+        </div>
+    </section></div>
+        </div>
+    </div>
+    
+
+                                    
+                                
+                        </div>
+                    </div>
+                
+        
+            
+            
+                    <div class="tab-pane " id="bb071eda-bb81-4628-adac-4838f5f2c558-b6de7b7c-de82-45a5-9538-313dd15c6659">
+                        
+                        <div class="tab-pane-content" data-pb-dropzone="tab-b6de7b7c-de82-45a5-9538-313dd15c6659" data-pb-dropzone-name="Most cited">
+                            
+                                    
+                                        
+
+
+    
+    
+    
+    
+    
+    
+        
+    
+        
+            
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+    
+        
+    
+        
+            
+            
+            
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+            
+            
+                
+            
+            
+                
+                
+                
+            
+        
+    
+        
+    
+        
+    
+        
+    
+    
+    
+
+    
+    <div class="widget general-html none  widget-none  widget-compact-all" id="910e86b8-c542-43e7-99ba-eb37e4a4c364"  >
+        
+        
+
+        <div class="wrapped " >
+            
+            <div class="widget-body body body-none  body-compact-all">The most cited papers from this title published in the last 3 years. Statistics are updated weekly using participating publisher data sourced exclusively from Crossref.</div>
+        </div>
+    </div>
+    
+
+
+
+    
+    
+    
+    
+    
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+            
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+            
+            
+                
+            
+            
+                
+                
+                
+            
+        
+    
+        
+    
+        
+    
+        
+    
+        
+            
+            
+            
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+    
+    
+
+    
+    <div class="widget literatumMostCitedWidget none  widget-none  widget-compact-all" id="2bbfedfb-0848-41ff-8e83-ed5115573d03"  >
+        
+        
+
+        <div class="wrapped " >
+            
+            <div class="widget-body body body-none  body-compact-all"><section class="popular">
+        <div class="mostRead  ">
+            
+            <ul>
+            
+                    <li>
+                        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="title">
+    
+            <a href="/doi/full/10.1108/17554211211217307">Strategic growth challenges for the Indian hotel industry
+
+                
+
+            </a>
+        
+</div>
+<div class="authors"> </div>
+<div class="date"> </div>
+<div class="series"></div>
+<div class="volumeIssue"></div>
+<div class="contentFormats"> </div>
+
+
+                    </li>
+               
+                    <li>
+                        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="title">
+    
+            <a href="/doi/full/10.1108/17554211011012595">Key issues for ICT applications: impacts and implications for hospitality operations
+
+                
+
+            </a>
+        
+</div>
+<div class="authors"> </div>
+<div class="date"> </div>
+<div class="series"></div>
+<div class="volumeIssue"></div>
+<div class="contentFormats"> </div>
+
+
+                    </li>
+               
+                    <li>
+                        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="title">
+    
+            <a href="/doi/full/10.1108/17554211211217316">Emerging sales and marketing challenges in the global hospitality industry
+
+                
+                    : A thematic analysis of customer reviews from the world's top two tourist destinations
+                
+
+            </a>
+        
+</div>
+<div class="authors"> </div>
+<div class="date"> </div>
+<div class="series"></div>
+<div class="volumeIssue"></div>
+<div class="contentFormats"> </div>
+
+
+                    </li>
+               
+                    <li>
+                        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="title">
+    
+            <a href="/doi/full/10.1108/17554211111162435">Understanding and managing generational differences in the workplace
+
+                
+
+            </a>
+        
+</div>
+<div class="authors"> </div>
+<div class="date"> </div>
+<div class="series"></div>
+<div class="volumeIssue"></div>
+<div class="contentFormats"> </div>
+
+
+                    </li>
+               
+                    <li>
+                        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="title">
+    
+            <a href="/doi/full/10.1108/17554210910962549">A good night out: alcohol&#x2010;related behaviours in young adults
+
+                
+
+            </a>
+        
+</div>
+<div class="authors"> </div>
+<div class="date"> </div>
+<div class="series"></div>
+<div class="volumeIssue"></div>
+<div class="contentFormats"> </div>
+
+
+                    </li>
+               
+            </ul>
+            <a href="/action/showMostCitedArticles?journalCode=whatt" class="more"><strong>See more></strong></a>
+        </div>
+    </section></div>
+        </div>
+    </div>
+    
+
+                                    
+                                
+                        </div>
+                    </div>
+                
+        
+            
+            
+                    <div class="tab-pane " id="bb071eda-bb81-4628-adac-4838f5f2c558-b5d51dec-5776-4a1b-becf-e9a5b1cfc21c">
+                        
+                        <div class="tab-pane-content" data-pb-dropzone="tab-b5d51dec-5776-4a1b-becf-e9a5b1cfc21c" data-pb-dropzone-name="Related">
+                            
+                                    
+                                        
+
+
+    
+    
+    
+    
+    
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+            
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+    
+        
+    
+        
+    
+        
+    
+        
+            
+            
+                
+            
+            
+                
+                
+                
+            
+        
+    
+        
+    
+        
+    
+        
+            
+            
+            
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+    
+    
+
+    
+    <div class="widget literatumRelatedContentSearch none  widget-none  widget-compact-all" id="82cc85de-aec9-425f-a79f-a91e04eab632"  >
+        
+        
+
+        <div class="wrapped " >
+            
+            <div class="widget-body body body-none  body-compact-all"><div class="relatedContentForm">
+    <form action="/action/doSearch" name="relatedSearchForm" method="get"><h3><span>Find related content</span></h3>
+
+        
+
+        
+            
+                
+                
+            <div class="relatedKeywords relatedTerms"><span>By Keyword</span><ul><li><input name="KeywordStored" value="Hospitality" type="checkbox" /><label>Hospitality</label></li><li><input name="KeywordStored" value="Risk Analysis" type="checkbox" /><label>Risk analysis</label></li><li><input name="KeywordStored" value="Risk Identification" type="checkbox" /><label>Risk identification</label></li><li><input name="KeywordStored" value="Uncertainty Avoidance" type="checkbox" /><label>Uncertainty avoidance</label></li><li><input name="KeywordStored" value="Risk Management" type="checkbox" /><label>Risk management</label></li><li><input name="KeywordStored" value="India" type="checkbox" /><label>India</label></li><li><input name="KeywordStored" value="Hospitality Services" type="checkbox" /><label>Hospitality services</label></li><li><input name="KeywordStored" value="Hotel And Catering Industry" type="checkbox" /><label>Hotel and catering industry</label></li></ul></div><div class="relatedAuthors relatedTerms"><span>By Author</span><ul><li><input name="ContribStored" value="Bharwani, Sonia" type="checkbox" /><label>Sonia Bharwani</label></li><li><input name="ContribStored" value="Mathews, David" type="checkbox" /><label>David Mathews</label></li></ul></div>
+        
+
+
+        
+
+        
+            
+
+        <input class="searchButtons" type="submit" value="Search" /></form>
+</div></div>
+        </div>
+    </div>
+    
+
+                                    
+                                
+                        </div>
+                    </div>
+                
+        
+    </div>
+
+    
+
+</div></div>
+        </div>
+    </div>
+    
+
+
+
+    
+    
+    
+    
+    
+    
+        
+    
+        
+            
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+    
+        
+    
+        
+            
+            
+            
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+            
+            
+                
+            
+            
+                
+                
+                
+            
+        
+    
+        
+    
+        
+    
+        
+    
+    
+    
+
+    
+    <div class="widget literatumAd none  widget-none  widget-compact-all" id="d86b336e-7f93-45da-aa93-eb3fe0c85636"  >
+        
+        
+
+        <div class="wrapped " >
+            
+            <div class="widget-body body body-none  body-compact-all"><div class="pb-ad">
+            <div class="information">
+							<h3>Further Information</h3>
+							<ul>
+								<li><a href="/action/clickThrough?id=1010&url=http%3A%2F%2Femeraldgrouppublishing.com%2Fproducts%2Fjournals%2Fjournals.htm%3Fid%3Dwhatt&loc=%2Fdoi%2Fabs%2F10.1108%2F17554211211277851&pubId=40485424&placeholderId=1008&productId=1011">About the Journal</a></li>
+								<li><a href="/action/clickThrough?id=1010&url=%2Fpage%2Fsamples%2Fwhatt&loc=%2Fdoi%2Fabs%2F10.1108%2F17554211211277851&pubId=40485424&placeholderId=1008&productId=1011">Sample Articles</a></li>
+								<!-- <li><a href="http://www.emeraldinsight.com/rss_feeds.htm">See all available RSS feeds</a></li> -->
+								<li><a href="/action/clickThrough?id=1010&url=http%3A%2F%2Femeraldgrouppublishing.com%2Fproducts%2Fsubs%2Findex.htm&loc=%2Fdoi%2Fabs%2F10.1108%2F17554211211277851&pubId=40485424&placeholderId=1008&productId=1011">Purchase Information</a></li>
+								<li><a href="/action/clickThrough?id=1010&url=http%3A%2F%2Femeraldgrouppublishing.com%2Fproducts%2Fjournals%2Feditorial_team.htm%3Fid%3Dwhatt&loc=%2Fdoi%2Fabs%2F10.1108%2F17554211211277851&pubId=40485424&placeholderId=1008&productId=1011">Editorial Team</a></li>
+								<li><a href="/action/clickThrough?id=1010&url=http%3A%2F%2Femeraldgrouppublishing.com%2Fproducts%2Fjournals%2Fauthor_guidelines.htm%3Fid%3Dwhatt&loc=%2Fdoi%2Fabs%2F10.1108%2F17554211211277851&pubId=40485424&placeholderId=1008&productId=1011">Write for this journal</a></li>
+							</ul>
+						</div>
+        </div></div>
+        </div>
+    </div>
+    
+
+
+
+    
+    
+    
+    
+    
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+    
+        
+    
+        
+    
+        
+    
+        
+            
+            
+            
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+    
+    
+
+    
+    <div class="widget general-bookmark-share none  widget-none" id="5c4710a8-8fe3-421d-a089-1fd8a9a91036"  >
+        
+        
+
+        <div class="wrapped " >
+            <h3 class="widget-header header-none "><h3>Share</h3></h3>
+            <div class="widget-body body body-none "><!-- AddThis Button BEGIN -->
+<div class="addthis_toolbox addthis_default_style addthis_20x20_style">
+        <a class="addthis_button_mendeley"></a>
+        <a class="addthis_button_twitter"></a>
+        <a class="addthis_button_facebook"></a>
+        <a class="addthis_button_linkedin"></a>
+        <a class="addthis_button_evernote"></a>
+        <a class="addthis_button_sinaweibo"></a>
+    <a class="addthis_button_compact"></a>
+</div>
+<script type="text/javascript">
+    var script = document.createElement('script');
+    script.type='text/javascript';
+    script.src='//s7.addthis.com/js/250/addthis_widget.js#pubid=xa-4faab26f2cff13a7';
+    script.async = true;
+    $('head').append(script)
+</script>
+<!-- AddThis Button END --></div>
+        </div>
+    </div>
+    
+
+
+
+    
+    
+    
+    
+    
+    
+        
+    
+        
+            
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+    
+        
+    
+        
+            
+            
+            
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+            
+            
+                
+            
+            
+                
+                
+                
+            
+        
+    
+        
+    
+        
+    
+        
+    
+    
+    
+
+    
+    <div class="widget literatumAd none  widget-none  widget-compact-horizontal" id="b9f0e7ce-dd67-4283-a4ad-6596bd6db9ec"  >
+        
+        
+
+        <div class="wrapped " >
+            
+            <div class="widget-body body body-none  body-compact-horizontal"><div class="pb-ad">
+            <a href="/action/clickThrough?id=1296&url=http%3A%2F%2Fwww.emeraldgrouppublishing.com%2Fauthors%2Fwriting%2Fkudos.htm&loc=%2Fdoi%2Fabs%2F10.1108%2F17554211211277851&pubId=40485424&placeholderId=1030&productId=1011" target="_blank"/><img src="/sda/1296/11137-Kudos-ad.gif" title="Kudos service for authors" alt="Kudos service for authors"/></a>
+        </div></div>
+        </div>
+    </div>
+    
+
+
+
+
+        </div>
+    </div>
+</div></div>
+        </div>
+    </div>
+    
+    </div>
+</div><!--end pagefulltext--></div>
+        </div>
+    </div>
+    
+
+
+
+    
+    
+    
+    
+    
+    
+        
+    
+        
+            
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+    
+        
+    
+        
+            
+            
+            
+        
+    
+        
+    
+        
+    
+        
+    
+        
+            
+            
+                
+            
+            
+                
+                
+                
+            
+        
+    
+        
+    
+        
+    
+        
+    
+    
+    
+
+    
+    <div class="widget pageFooter none  widget-none  widget-compact-all" id="pageFooter"  >
+        
+        
+
+        <div class="wrapped " >
+            
+            <div class="widget-body body body-none  body-compact-all"><footer class="page-footer">
+    <div data-pb-dropzone="main">
+    
+
+
+    
+    
+    
+    
+    
+    
+        
+    
+        
+            
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+    
+        
+    
+        
+            
+            
+            
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+            
+            
+                
+            
+            
+                
+                
+                
+            
+        
+    
+        
+    
+        
+    
+        
+    
+    
+    
+
+    
+    <div class="widget general-html none  widget-none  widget-compact-all" id="d2dbedc8-c470-40f0-9718-5b70373441a7"  >
+        
+        
+
+        <div class="wrapped " >
+            
+            <div class="widget-body body body-none  body-compact-all"><footer id="footer">
+	<div class="columns-holder three-columns">
+		<div class="holder">
+			<div class="column">
+				<div class="title">
+					<h2>About Emerald</h2>
+				</div>
+				<div class="box">			
+					<!-- <p>Emerald Group Publishing has become the world's leading scholarly publisher of journals and books in business and management</p>-->				
+					<ul>			
+						<li><a href="http://www.emeraldgrouppublishing.com/about/index.htm" target="_blank" title="About Us - opens new window.">About Us</a></li>
+						<li><a href="http://www.emeraldgrouppublishing.com/about/media.htm" target="_blank" title="Company Information- opens new window.">Company Information</a></li>
+						<li><a href="http://careers.emeraldinsight.com/workinghere.htm" target="_blank" title="Working for Emerald - opens new window.">Working for Emerald</a></li>
+						<li><a href="http://www.emeraldgrouppublishing.com/about/contact.htm" target="_blank" title="Contact Us - opens new window.">Contact Us</a></li>			
+						<li><a href="http://www.emeraldgrouppublishing.com/about/directions.htm" target="_blank" title="How to Find Us - opens new window.">How to Find Us</a></li>
+					</ul>
+				</div>
+			</div>
+			<div class="column">			
+				<div class="title">
+					<h2>Policies &amp; Information</h2>				
+				</div>
+				<div class="box">
+					<ul>
+						<li><a href="/page/cookie_policy" title="Cookie Policy.">Cookie Policy</a></li>
+						<li><a href="http://www.emeraldgrouppublishing.com/about/policies/privacy.htm" target="_blank" title="Privacy Policy - opens new window.">Privacy Policy</a></li>
+						<li><a href="http://www.emeraldgrouppublishing.com/about/policies/copyright.htm" target="_blank" title="Copyright Policy - opens new window.">Copyright Policy</a></li>
+						<li><a href="http://www.emeraldgrouppublishing.com/about/policies/standards.htm" target="_blank" title="Industry Standards - opens new window.">Industry Standards</a></li>
+		                <li><a href="http://www.emeraldgrouppublishing.com/about/policies/end_user_terms.pdf" target="_blank" title="End User Terms - opens new window.">End User Terms</a></li>
+			            <li><a href="http://www.emeraldgrouppublishing.com/about/policies/digital_preservation.htm" target="_blank" title="Digital Preservation - opens new window.">Digital Preservation</a></li>
+						<li><a href="/page/accessibility" title="Accessibility.">Accessibility</a></li>
+						<li><a href="/page/tdm" title="Text and Data Mining Licence">Text and Data Mining Licence</a></li>
+					</ul>				
+				</div>				
+			</div>					
+			<div class="column">
+				<div class="title">
+					<h2>Emerald Websites</h2>			
+				</div>
+			<div class="box">					
+				<ul>
+					<li><a href="http://www.emeraldgrouppublishing.com" target="_blank" title="Emerald Publishing - opens new window.">Emerald Publishing</a></li>
+					<li><a href="http://www.emeraldgroup.com" title="Emerald Group - opens new window." target="_blank">Emerald Group</a></li>
+					<li><a href="http://www.emeraldat50.com" title="50th Anniversary - opens new window." target="_blank">50th Anniversary</a></li>		
+					<li><a href="http://first.emeraldinsight.com" target="_blank" title="Emerald Management First - opens new window.">Emerald Management First</a></li>
+					<li><a href="http://books.emeraldinsight.com" target="_blank" title="Emerald Bookstore - opens new window.">Emerald Bookstore</a></li>
+					<li><a href="http://careers.emeraldinsight.com" target="_blank" title="Emerald Careers - opens new window.">Emerald Careers</a></li>
+					<li><a href="http://www.emeraldfoundation.org.uk" target="_blank" title="The Emerald Foundation- opens new window.">The Emerald Foundation</a></li>
+				</ul>
+			</div>
+		</div>
+	</div>
+</div>
+<div class="bottom-bar">
+	<!--<a href="#" target="_blank"><img src="/pb/assets/raw/images/img-03.gif" alt="" width="270" height="37" /></a> -->
+	<a href="http://www.emeraldgrouppublishing.com/licensing/reprints.htm" target="_blank"><img src="/pb/assets/raw/images%2Frightslink.gif" alt="Rights Link Logo" hspace="0" /></a>
+	<a href="http://www.projectcounter.org/" target="_blank"><img src="/pb/assets/raw/images%2Fcounter_compliant.jpg" alt="Project COUNTER Logo" hspace="7" /></a>
+	<a href="http://www.crossref.org/" target="_blank"><img src="/pb/assets/raw/images%2Fcrossref_sm.gif" alt="CrossRef Logo"  hspace="0" /></a>
+	<p>&copy; Copyright <script type="text/javascript">document.write(new Date().getFullYear());</script> Emerald Publishing Limited</p>
+</div>
+</footer></div>
+        </div>
+    </div>
+    
+    </div>
+</footer></div>
+        </div>
+    </div>
+    
+
+
+
+    
+    
+    
+    
+    
+    
+        
+    
+        
+            
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+    
+        
+    
+        
+            
+            
+            
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+            
+            
+                
+            
+            
+                
+                
+                
+            
+        
+    
+        
+    
+        
+    
+        
+    
+    
+    
+
+    
+    <div class="widget general-html none  widget-none  widget-compact-all" id="d18b56b2-0c4c-4703-b855-dc4e85e290e0"  >
+        
+        
+
+        <div class="wrapped " >
+            
+            <div class="widget-body body body-none  body-compact-all"><script>var _prum=[["id","528c2081abe53d6368000000"],["mark","firstbyte",(new Date).getTime()]];!function(){var e=document.getElementsByTagName("script")[0],t=document.createElement("script");t.async="async",t.src="//rum-static.pingdom.net/prum.min.js",e.parentNode.insertBefore(t,e)}();</script></div>
+        </div>
+    </div>
+    
+        </div>
+    </div>
+</body>
+</html>
