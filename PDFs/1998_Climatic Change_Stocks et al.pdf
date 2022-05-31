@@ -1,0 +1,1055 @@
+<!DOCTYPE HTML>
+<html lang="en-gb" class="no-js">
+    <head>
+        <meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=Edge,chrome=1"/>
+<meta name="viewport" content="width=device-width,initial-scale=1.0,maximum-scale=2.5,user-scalable=yes">
+    <meta name="citation_publisher" content="Kluwer Academic Publishers"/>
+    <meta name="citation_title" content="Climate Change and Forest Fire Potential in Russian and Canadian Boreal Forests"/>
+    <meta name="citation_doi" content="10.1023/A:1005306001055"/>
+    <meta name="citation_language" content="en"/>
+    <meta name="citation_abstract_html_url" content="https://link.springer.com/article/10.1023/A:1005306001055"/>
+    <meta name="citation_fulltext_html_url" content="https://link.springer.com/article/10.1023/A:1005306001055"/>
+    <meta name="citation_pdf_url" content="https://link.springer.com/content/pdf/10.1023%2FA%3A1005306001055.pdf"/>
+    <meta name="citation_springer_api_url" content="http://api.springer.com/metadata/pam?q&#x3D;doi:10.1023/A:1005306001055&amp;api_key&#x3D;"/>
+    <meta name="citation_firstpage" content="1"/>
+    <meta name="citation_lastpage" content="13"/>
+    <meta name="citation_author" content="B. J. Stocks"/>
+    <meta name="citation_author_institution" content="Canadian Forest Service"/>
+    <meta name="citation_author" content="M. A. Fosberg"/>
+    <meta name="citation_author_institution" content="Potsdam Institute for Climate Impact Research"/>
+    <meta name="citation_author" content="T. J. Lynham"/>
+    <meta name="citation_author_institution" content="Canadian Forest Service"/>
+    <meta name="citation_author" content="L. Mearns"/>
+    <meta name="citation_author_institution" content="National Center for Atmospheric Research"/>
+    <meta name="citation_author" content="B. M. Wotton"/>
+    <meta name="citation_author_institution" content="Canadian Forest Service"/>
+    <meta name="citation_author" content="Q. Yang"/>
+    <meta name="citation_author_institution" content="Canadian Forest Service"/>
+    <meta name="citation_author" content="J-Z. Jin"/>
+    <meta name="citation_author_institution" content="Canadian Forest Service"/>
+    <meta name="citation_author" content="K. Lawrence"/>
+    <meta name="citation_author_institution" content="Canadian Forest Service"/>
+    <meta name="citation_author" content="G. R. Hartley"/>
+    <meta name="citation_author_institution" content="Canadian Forest Service"/>
+    <meta name="citation_author" content="J. A. Mason"/>
+    <meta name="citation_author_institution" content="Canadian Forest Service"/>
+    <meta name="citation_author" content="D. W. McKENNEY"/>
+    <meta name="citation_author_institution" content="Canadian Forest Service"/>
+    <meta name="dc.identifier" content="10.1023/A:1005306001055"/>
+    <meta name="format-detection" content="telephone&#x3D;no"/>
+    <meta name="meta:description" content="In this study outputs from four current General Circulation Models (GCMs) were used to project forest fire danger levels in Canada and Russia under a warmer climate. Temperature and precipitation anom"/>
+    <meta name="twitter:card" content="summary"/>
+    <meta name="twitter:title" content="Climate Change and Forest Fire Potential in Russian and Canadian Borea"/>
+    <meta name="twitter:description" content="In this study outputs from four current General Circulation Models (GCMs) were used to project forest fire danger levels in Canada and Russia under a warmer climate. Temperature and precipitation anom"/>
+    <meta name="twitter:image" content="https://static-content.springer.com/cover/journal/10584/38/1.jpg"/>
+    <meta name="twitter:image:alt" content="Content cover image"/>
+    <meta name="twitter:site" content="SpringerLink"/>
+    <meta name="citation_journal_title" content="Climatic Change"/>
+    <meta name="citation_journal_abbrev" content="Climatic Change"/>
+    <meta name="citation_volume" content="38"/>
+    <meta name="citation_issue" content="1"/>
+    <meta name="citation_issn" content="0165-0009"/>
+    <meta name="citation_issn" content="1573-1480"/>
+    <meta name="citation_cover_date" content="1998/01/01"/>
+    <meta name="citation_article_type" content="Article"/>
+    <meta property="og:title" content="Climate Change and Forest Fire Potential in Russian and Canadian Boreal Forests"/>
+    <meta property="og:description" content="In this study outputs from four current General Circulation Models (GCMs) were used to project forest fire danger levels in Canada and Russia under a warmer climate. Temperature and precipitation anom"/>
+    <meta property="og:type" content="Article"/>
+    <meta property="og:url" content="https://link.springer.com/article/10.1023/A:1005306001055"/>
+    <meta property="og:image" content="https://link.springer.com/springerlink-static/968739903/images/png/SL-Square.png"/>
+    <meta property="og:site_name" content="SpringerLink"/>
+
+        <title>Climate Change and Forest Fire Potential in Russian and Canadian Boreal Forests         | SpringerLink
+</title>
+        <link rel="canonical" href="https://link.springer.com/article/10.1023/A:1005306001055"/>
+        <link rel="shortcut icon" href="/springerlink-static/968739903/images/favicon/favicon.ico" />
+<link rel="icon" sizes="16x16 32x32 48x48" href="/springerlink-static/968739903/images/favicon/favicon.ico">
+<link rel="icon" sizes="16x16" type="image/png" href="/springerlink-static/968739903/images/favicon/favicon-16x16.png">
+<link rel="icon" sizes="32x32" type="image/png" href="/springerlink-static/968739903/images/favicon/favicon-32x32.png">
+<link rel="icon" sizes="48x48" type="image/png" href="/springerlink-static/968739903/images/favicon/favicon-48x48.png">
+<link rel="apple-touch-icon-precomposed" href="/springerlink-static/968739903/images/favicon/app-icon-iphone@3x.png">
+<link rel="apple-touch-icon-precomposed" sizes="72x72" href="/springerlink-static/968739903/images/favicon/ic_launcher_hdpi.png" />
+<link rel="apple-touch-icon-precomposed" sizes="76x76" href="/springerlink-static/968739903/images/favicon/app-icon-ipad.png" />
+<link rel="apple-touch-icon-precomposed" sizes="114x114" href="/springerlink-static/968739903/images/favicon/app-icon-114x114.png" />
+<link rel="apple-touch-icon-precomposed" sizes="120x120" href="/springerlink-static/968739903/images/favicon/app-icon-iphone@2x.png" />
+<link rel="apple-touch-icon-precomposed" sizes="144x144" href="/springerlink-static/968739903/images/favicon/ic_launcher_xxhdpi.png" />
+<link rel="apple-touch-icon-precomposed" sizes="152x152" href="/springerlink-static/968739903/images/favicon/app-icon-ipad@2x.png" />
+<link rel="apple-touch-icon-precomposed" sizes="180x180" href="/springerlink-static/968739903/images/favicon/app-icon-iphone@3x.png" />
+<meta name="msapplication-TileColor" content="#ffffff">
+<meta name="msapplication-TileImage" content="/springerlink-static/968739903/images/favicon/ic_launcher_xxhdpi.png">
+        <link rel="dns-prefetch" href="//fonts.gstatic.com" />
+<link rel="dns-prefetch" href="//fonts.googleapis.com" />
+<link rel="dns-prefetch" href="//google-analytics.com" />
+<link rel="dns-prefetch" href="//www.google-analytics.com" />
+<link rel="dns-prefetch" href="//www.googletagservices.com" />
+<link rel="dns-prefetch" href="//www.googletagmanager.com" />
+<link rel="dns-prefetch" href="//static-content.springer.com" />
+
+
+        <link rel="stylesheet" href="/springerlink-static/968739903/css/basic.css" media="screen">
+<link rel="stylesheet" href="/springerlink-static/968739903/css/styles.css" class="js-ctm" media="only screen and (-webkit-min-device-pixel-ratio:0) and (min-color-index:0), (-ms-high-contrast: none), only all and (min--moz-device-pixel-ratio:0) and (min-resolution: 3e1dpcm)">
+<link rel="stylesheet" href="/springerlink-static/968739903/css/print.css" media="print">
+
+
+            <script id="webtrekk-properties">
+    var webtrekkProperties = {
+          trackDomain : "springergmbh01.webtrekk.net",
+          trackId : "935649882378213",
+      };
+    </script>
+    <script type="text/javascript" async src="/springerlink-static/968739903/js/webtrekk_v4.min.js"></script>
+
+            <script>
+        var dataLayer = [{
+'GA Key':'UA-26408784-1',
+'Event Category':'Article',
+'Open Access':'N',
+'Labs':'Y',
+'DOI':'10.1023\/A:1005306001055',
+'VG Wort Identifier':'pw-vgzm.415900-10.1023-A:1005306001055',
+'HasAccess':'N',
+'Full HTML':'N',
+'Has Body':'N',
+'Static Hash':'968739903',
+'Has Preview':'N',
+'user':{'license': {'businessPartnerID': [], 'businessPartnerIDString': ''}},
+'content':{'category': {'pmc': {'primarySubject': 'Geosciences', 'primarySubjectCode': '', 'secondarySubjects': {'1': 'Meteorology\/Climatology'},'secondarySubjectCodes': {'1': ''}}}},
+'Access Type':'noaccess',
+'Page':'article',
+'Bpids':'',
+'Bpnames':'',
+'SubjectCodes':'',
+'Country':'US',
+'Journal Id':'10584',
+'Journal Title':'Climatic Change',
+        }];
+
+    </script>
+
+    <!-- Google Tag Manager -->
+    <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+            new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+            j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+            'https://www.googletagmanager.com/gtm.js?cache-busting=' + new Date().getTime() + '&id='+i+dl;f.parentNode.insertBefore(j,f);
+    })(window,document,'script','dataLayer','GTM-WCF9Z9');</script>
+    <!-- End Google Tag Manager -->
+
+    </head>
+    <body>
+        <noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-WCF9Z9"
+                      height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+
+    <nav class="skip-to">
+    <a class="skip-to__link skip-to__link--article" href="#main-content" title="Skip directly to the main content">Skip to main content</a>
+</nav>
+        <div class="page-wrapper">
+            <noscript>
+    <div class="nojs-banner u-interface">
+        <p>This service is more advanced with JavaScript available, learn more at <a
+                href="http://activatejavascript.org" target="_blank" rel="noopener noreferrer">http://activatejavascript.org</a>
+        </p>
+    </div>
+</noscript>
+                    <div id="leaderboard" class="leaderboard u-hide" data-component="SpringerLink.GoogleAdsLeaderboard"></div>
+
+                <header id="header" class="header u-interface" role="banner">
+        <div class="header__content">
+            <div class="header__menu-container">
+                    <a id="logo" class="site-logo" href="/" title="Go to homepage">
+            <span class="u-screenreader-only">SpringerLink</span>
+            <svg class="site-logo__springer" width="148" height="30" role="img" aria-label="SpringerLink Logo">
+                <image width="148" height="30" alt="SpringerLink Logo" src="/springerlink-static/968739903/images/png/springerlink.png" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="/springerlink-static/968739903/images/svg/springerlink.svg"></image>
+            </svg>
+    </a>
+
+                    <div class="nav-container u-interface">
+    <div class="global-nav__wrapper">
+        <div class="search-button">
+            <a class="search-button__label" href="#search-container">
+                <span class="search-button__title">Search</span><svg width="12" height="12" viewBox="222 151 12 12" version="1.1" xmlns="http://www.w3.org/2000/svg">
+                    <path d="M227 159C228.7 159 230 157.7 230 156 230 154.3 228.7 153 227 153 225.3 153 224 154.3 224 156 224 157.7 225.3 159 227 159L227 159 227 159 227 159ZM230 160.1L231.1 159 233.9 161.7C234.2 162.1 234.2 162.6 233.9 162.9 233.6 163.2 233.1 163.2 232.7 162.9L230 160.1 230 160.1 230 160.1 230 160.1ZM227 161L227 161C224.2 161 222 158.8 222 156 222 153.2 224.2 151 227 151 229.8 151 232 153.2 232 156 232 158.8 229.8 161 227 161L227 161 227 161 227 161 227 161Z" stroke="none" fill-rule="evenodd"></path>
+                </svg>
+            </a>
+        </div>
+
+        <ul class="global-nav" data-component="SpringerLink.Menu" data-title="Navigation menu" data-text="Menu" role="navigation">
+            <li>
+                <a href="/">
+                    <span class="u-overflow-ellipsis">Home</span>
+                </a>
+            </li>
+            <li>
+                <a href="/contactus">
+                    <span class="u-overflow-ellipsis">Contact Us</span>
+                </a>
+            </li>
+
+                <li class="global-nav__logged-out">
+                    <a class="test-login-link" href="//link.springer.com/signup-login?previousUrl=https%3A%2F%2Flink.springer.com%2Farticle%2F10.1023%2FA%253A1005306001055%3Fno-access%3Dtrue">
+                        <span class="u-overflow-ellipsis">Log in</span>
+                    </a>
+                </li>
+
+        </ul>
+    </div> 
+</div> 
+            </div>
+
+        </div>
+
+            <div id="search-container">
+    <div class="search">
+        <div class="search__content">
+            <form class="search__form" action="/search" method="get" role="search">
+                <div class="search__wrapper">
+                    <label for="springerlink-search" class="u-screenreader-only">Search</label>
+                    <input id="springerlink-search" class="search__input" name="query" type="text" autocomplete="off" value="" placeholder="Search">
+                    <input class="search__submit u-hide-text" type="submit" value="Submit" title="Submit">
+                    <svg class="search__icon u-vertical-align-absolute" width="13" height="13" viewBox="222 151 13 13" version="1.1" xmlns="http://www.w3.org/2000/svg">
+                        <path d="M227 159C228.7 159 230 157.7 230 156 230 154.3 228.7 153 227 153 225.3 153 224 154.3 224 156 224 157.7 225.3 159 227 159L227 159 227 159 227 159ZM230 160.1L231.1 159 233.9 161.7C234.2 162.1 234.2 162.6 233.9 162.9 233.6 163.2 233.1 163.2 232.7 162.9L230 160.1 230 160.1 230 160.1 230 160.1ZM227 161L227 161C224.2 161 222 158.8 222 156 222 153.2 224.2 151 227 151 229.8 151 232 153.2 232 156 232 158.8 229.8 161 227 161L227 161 227 161 227 161 227 161Z" stroke="none" fill-rule="evenodd"/>
+                    </svg>
+                </div>
+            </form>
+        </div>
+    </div>
+</div>
+    </header>
+
+            
+            
+
+            <main role="main" id="main-content">
+                <article class="main-wrapper">
+                    <div class="main-container">
+                        <aside class="main-sidebar-left">
+                            <div class="main-sidebar-left__content">
+                                <div class="test-cover cover-image">
+        <a class="test-cover-link" href="/journal/10584" title="Climatic Change">
+            <img class="test-cover-image" src="https://static-content.springer.com/cover/journal/10584/38/1.jpg" alt="Climatic Change" itemprop="image"/>
+        </a>
+
+</div>
+                            </div>
+                        </aside>
+
+                        <div class="main-body" data-role="NavigationContainer">
+                            <div class="main-body__content">
+                                
+                                
+                                    <div class="sticky-banner sticky-banner--narrow u-interface u-hide" data-component="SpringerLink.StickyBanner" data-namespace="initiallyNotVisible">
+        <div class="sticky-banner__container">
+            <a href="#buy" class="sticky-banner__buybox-link sticky-banner__buybox-link--sticky gtm-buybox-anchor">
+                Buy article
+            </a>
+        </div>
+    </div>
+
+
+                                <!DOCTYPE html
+  SYSTEM "about:legacy-compat">
+<div xmlns="http://www.w3.org/1999/xhtml" class="FulltextWrapper"><div class="ArticleHeader main-context"><div id="enumeration" class="enumeration"><p><a href="/journal/10584" title="Climatic Change"><span class="JournalTitle">Climatic Change</span></a></p><p class="icon--meta-keyline-before"><span class="ArticleCitation_Year"><time datetime="1998-01">January 1998</time>, </span><span class="ArticleCitation_Volume">Volume 38, </span><a class="ArticleCitation_Issue" href="/journal/10584/38/1/page/1" title="Issue 1">Issue 1</a>,
+                       <span class="ArticleCitation_Pages"> pp 1–13</span></p></div><div xmlns="" class="MainTitleSection"><h1 xmlns="http://www.w3.org/1999/xhtml" class="ArticleTitle" lang="en">Climate Change and Forest Fire Potential in Russian and Canadian Boreal Forests</h1></div><div class="authors u-clearfix" data-component="SpringerLink.Authors"><ul class="u-interface u-inline-list authors__title" data-role="AuthorsNavigation"><li><span>Authors</span></li><li><a href="#authorsandaffiliations" class="gtm-tab-authorsandaffiliations">Authors and affiliations</a></li></ul><div class="authors__list" data-role="AuthorsList"><ul class="test-contributor-names"><li><span itemprop="name" class="authors__name">B. J. Stocks</span></li><li><span itemprop="name" class="authors__name">M. A. Fosberg</span></li><li><span itemprop="name" class="authors__name">T. J. Lynham</span></li><li><span itemprop="name" class="authors__name">L. Mearns</span></li><li><span itemprop="name" class="authors__name">B. M. Wotton</span></li><li><span itemprop="name" class="authors__name">Q. Yang</span></li><li><span itemprop="name" class="authors__name">J-Z. Jin</span></li><li><span itemprop="name" class="authors__name">K. Lawrence</span></li><li><span itemprop="name" class="authors__name">G. R. Hartley</span></li><li><span itemprop="name" class="authors__name">J. A. Mason</span></li><li><span itemprop="name" class="authors__name">D. W. McKENNEY</span></li></ul></div></div><div class="main-context__container" data-component="SpringerLink.ArticleMetrics"><div class="main-context__column"><span><span>Article</span></span><div class="article-dates" data-component="SpringerLink.ArticleDates"><dl></dl><dl class="article-dates__history"></dl></div><p class="article-doi"><abbr title="Digital Object Identifier">DOI</abbr>:
+            10.1023/A:1005306001055</p></div><div class="main-context__column"><dl class="article-cite"><dt>Cite this article as: </dt><dd id="citethis-text">Stocks, B.J., Fosberg, M.A., Lynham, T.J. et al. Climatic Change (1998) 38: 1. doi:10.1023/A:1005306001055</dd></dl></div>    <div class="main-context__column">
+        <ul id="book-metrics" class="article-metrics">
+                <li class="article-metrics__item">
+                        <a class="article-metrics__link gtm-citations-count" href="http://citations.springer.com/item?doi&#x3D;10.1023/A:1005306001055" target="_blank" rel="noopener noreferrer"
+                           title="Visit Springer Citations for full citation details" id="citations-link">
+                           <span id="citations-count-number" class="test-metric-count c-button-circle gtm-citations-count">269</span>
+                           <span class="test-metric-name article-metrics__label gtm-citations-count">Citations</span>
+                        </a>
+                </li>
+                <li class="article-metrics__item">
+                        <a class="article-metrics__link gtm-socialmediamentions-count" href="http://www.altmetric.com/details.php?citation_id&#x3D;4155224&amp;domain&#x3D;link.springer.com" target="_blank" rel="noopener noreferrer"
+                           title="Visit Altmetric for full social mention details" id="socialmediamentions-link">
+                           <span id="socialmediamentions-count-number" class="test-metric-count c-button-circle gtm-socialmediamentions-count">2</span>
+                           <span class="test-metric-name article-metrics__label gtm-socialmediamentions-count">Shares</span>
+                        </a>
+                </li>
+                <li class="article-metrics__item">
+                         <span class="article-metrics__views">3k</span>
+                         <span class="article-metrics__label">Downloads</span>
+                </li>
+        </ul>
+    </div>
+</div></div><section class="Abstract" id="Abs1" tabindex="-1" lang="en"><h2 class="Heading">Abstract</h2><p class="Para">In this study outputs from four current General Circulation Models (GCMs) were used to project forest fire danger levels in Canada and Russia under a warmer climate. Temperature and precipitation anomalies between 1 × CO<sub>2</sub> and 2 × CO<sub>2</sub> runs were combined with baseline observed weather data for both countries for the 1980–1989 period. Forecast seasonal fire weather severity was similar for the four GCMs, indicating large increases in the areal extent of extreme fire danger in both countries under a 2 × CO<sub>2</sub> climate scenario. A monthly analysis, using the Canadian GCM, showed an earlier start to the fire season, and significant increases in the area experiencing high to extreme fire danger in both Canada and Russia, particularly during June and July. Climate change as forecast has serious implications for forest fire management in both countries. More severe fire weather, coupled with continued economic constraints and downsizing, mean more fire activity in the future is a virtual certainty. The likely response will be a restructuring of protection priorities to support more intensive protection of smaller, high-value areas, and a return to natural fire regimes over larger areas of both Canada and Russia, with resultant significant impacts on the carbon budget.</p></section><div class="article-actions--inline" id="article-actions--inline" data-component="article-actions--inline"></div><aside class="Bibliography" id="Bib1" tabindex="-1"><h3 class="Heading">References</h3><div class="content"><ol class="BibliographyWrapper"><li class="Citation"><div class="CitationContent" id="CR1">Andreae, M. O., Fishman, J., Garstang, M., Goldammer, J. G., Justice, C. O., Levine, J. S., Scholes, R. J., Stocks, B. J., Thompson, A. M., and van Wilgen, B. V.: 1994, ‘Biomass Burning in the Global Environment: First Results from the IGAC/BIBEX Field Campaign STARE/TRACEA/ SAFARI-92’, in Prinn, R. (ed.), <em class="EmphasisTypeItalic ">Global Atmospheric-Biospheric Chemistry: The First IGAC Scientific Conference</em>, Plenum Press, New York, pp. 83-101.<span class="Occurrences"><span class="Occurrence OccurrenceGS"><a target="_blank" rel="noopener noreferrer" class="google-scholar-link gtm-reference" data-reference-type="Google Scholar" href="http://scholar.google.com/scholar_lookup?title=Biomass%20Burning%20in%20the%20Global%20Environment%3A%20First%20Results%20from%20the%20IGAC%2FBIBEX%20Field%20Campaign%20STARE%2FTRACEA%2F%20SAFARI-92&amp;author=M.%20O..%20Andreae&amp;author=J..%20Fishman&amp;author=M..%20Garstang&amp;author=J.%20G..%20Goldammer&amp;author=C.%20O..%20Justice&amp;author=J.%20S..%20Levine&amp;author=R.%20J..%20Scholes&amp;author=B.%20J..%20Stocks&amp;author=A.%20M..%20Thompson&amp;author=B.%20V..%20van%20Wilgen&amp;pages=83-101&amp;publication_year=1994"><span><span>Google Scholar</span></span></a></span></span></div></li><li class="Citation"><div class="CitationContent" id="CR2">Boer, G. J., McFarlane, N. A., and Lazare, M.: 1992, ‘Greenhouse Gas Induced Climate Change Simulations with the CCC Second Generation GCM’, <em class="EmphasisTypeItalic ">J. Clim.</em>
+<strong class="EmphasisTypeBold ">5</strong>(10), 1045-1077.<span class="Occurrences"><span class="Occurrence OccurrenceGS"><a target="_blank" rel="noopener noreferrer" class="google-scholar-link gtm-reference" data-reference-type="Google Scholar" href="http://scholar.google.com/scholar_lookup?title=Greenhouse%20Gas%20Induced%20Climate%20Change%20Simulations%20with%20the%20CCC%20Second%20Generation%20GCM&amp;author=G.%20J..%20Boer&amp;author=N.%20A..%20McFarlane&amp;author=M..%20Lazare&amp;journal=J.%20Clim.&amp;volume=5&amp;issue=10&amp;pages=1045-1077&amp;publication_year=1992"><span><span>Google Scholar</span></span></a></span></span></div></li><li class="Citation"><div class="CitationContent" id="CR3">Cahoon, D. R., Stocks, B. J., Levine, J. S., Cofer, W. R., and Pierson, J. M.: 1994, ‘Satellite Analysis of the Severe 1987 Forest Fires in Northern China and Southeastern Siberia’, <em class="EmphasisTypeItalic ">J. Geophys. Res.</em>
+<strong class="EmphasisTypeBold ">99</strong>(D9), 18627-18638.<span class="Occurrences"><span class="Occurrence OccurrenceGS"><a target="_blank" rel="noopener noreferrer" class="google-scholar-link gtm-reference" data-reference-type="Google Scholar" href="http://scholar.google.com/scholar_lookup?title=Satellite%20Analysis%20of%20the%20Severe%201987%20Forest%20Fires%20in%20Northern%20China%20and%20Southeastern%20Siberia&amp;author=D.%20R..%20Cahoon&amp;author=B.%20J..%20Stocks&amp;author=J.%20S..%20Levine&amp;author=W.%20R..%20Cofer&amp;author=J.%20M..%20Pierson&amp;journal=J.%20Geophys.%20Res.&amp;volume=99&amp;issue=D9&amp;pages=18627-18638&amp;publication_year=1994"><span><span>Google Scholar</span></span></a></span></span></div></li><li class="Citation"><div class="CitationContent" id="CR4">Caya, D., Laprise, R., Giguere, M., Bergeron, G., Blanchet, J. P., Stocks, B. J., Boer, G. J., and McFarlane, N. A.: 1995, ‘Description of the Canadian Regional Climate Model’, in Apps, M. J., Price, D. T., and Wisniewski, J. (eds.), <em class="EmphasisTypeItalic ">Boreal Forests and Global Change</em>, Kluwer Academic Publishers, Dordrecht, pp. 477-482.<span class="Occurrences"><span class="Occurrence OccurrenceGS"><a target="_blank" rel="noopener noreferrer" class="google-scholar-link gtm-reference" data-reference-type="Google Scholar" href="http://scholar.google.com/scholar_lookup?title=Description%20of%20the%20Canadian%20Regional%20Climate%20Model&amp;author=D..%20Caya&amp;author=R..%20Laprise&amp;author=M..%20Giguere&amp;author=G..%20Bergeron&amp;author=J.%20P..%20Blanchet&amp;author=B.%20J..%20Stocks&amp;author=G.%20J..%20Boer&amp;author=N.%20A..%20McFarlane&amp;pages=477-482&amp;publication_year=1995"><span><span>Google Scholar</span></span></a></span></span></div></li><li class="Citation"><div class="CitationContent" id="CR5">Cofer, W. R., Winstead, E. L., Stocks, B. J., Overbay, L. W., Goldammer, J. G., Cahoon, D. R., and Levine, J. S.: 1996, ‘Emissions from Boreal Forest Fires: Are the Atmospheric Impacts Underestimated?’, in Levine, J. S. (ed.), <em class="EmphasisTypeItalic ">Biomass Burning and Global Change</em>, MIT Press, Cambridge, MA, pp. 834-839.<span class="Occurrences"><span class="Occurrence OccurrenceGS"><a target="_blank" rel="noopener noreferrer" class="google-scholar-link gtm-reference" data-reference-type="Google Scholar" href="http://scholar.google.com/scholar_lookup?title=Emissions%20from%20Boreal%20Forest%20Fires%3A%20Are%20the%20Atmospheric%20Impacts%20Underestimated%3F&amp;author=W.%20R..%20Cofer&amp;author=E.%20L..%20Winstead&amp;author=B.%20J..%20Stocks&amp;author=L.%20W..%20Overbay&amp;author=J.%20G..%20Goldammer&amp;author=D.%20R..%20Cahoon&amp;author=J.%20S..%20Levine&amp;pages=834-839&amp;publication_year=1996"><span><span>Google Scholar</span></span></a></span></span></div></li><li class="Citation"><div class="CitationContent" id="CR6">Crutzen, P. J. and Andreae, M. O.: 1990, ‘Biomass Burning in the Tropics: Impact on Atmospheric Chemistry and Biogeochemical Cycles’, <em class="EmphasisTypeItalic ">Science</em>
+<strong class="EmphasisTypeBold ">250</strong>, 1669-1678.<span class="Occurrences"><span class="Occurrence OccurrenceGS"><a target="_blank" rel="noopener noreferrer" class="google-scholar-link gtm-reference" data-reference-type="Google Scholar" href="http://scholar.google.com/scholar_lookup?title=Biomass%20Burning%20in%20the%20Tropics%3A%20Impact%20on%20Atmospheric%20Chemistry%20and%20Biogeochemical%20Cycles&amp;author=P.%20J..%20Crutzen&amp;author=M.%20O..%20Andreae&amp;journal=Science&amp;volume=250&amp;pages=1669-1678&amp;publication_year=1990"><span><span>Google Scholar</span></span></a></span></span></div></li><li class="Citation"><div class="CitationContent" id="CR7">Cubasch, U.,Maier Reimer, E., Santer, B., Mikolajewicz, U., Roeckner, E., and Boettinger, M.: 1990, <em class="EmphasisTypeItalic ">The Response of a Global Coupled Ocean-Atmosphere Model to CO</em>
+<sub><em class="EmphasisTypeItalic ">2</em></sub>
+<em class="EmphasisTypeItalic ">Doubling</em>, MPI Report, MPI Fuer Meteorologie, Hamburg, FRG, p. 25.<span class="Occurrences"><span class="Occurrence OccurrenceGS"><a target="_blank" rel="noopener noreferrer" class="google-scholar-link gtm-reference" data-reference-type="Google Scholar" href="http://scholar.google.com/scholar_lookup?title=The%20Response%20of%20a%20Global%20Coupled%20Ocean-Atmosphere%20Model%20to%20CO2%20Doubling&amp;author=U..%20Cubasch&amp;author=E..%20Reimer&amp;author=B..%20Santer&amp;author=U..%20Mikolajewicz&amp;author=E..%20Roeckner&amp;author=M..%20Boettinger&amp;publication_year=1990"><span><span>Google Scholar</span></span></a></span></span></div></li><li class="Citation"><div class="CitationContent" id="CR8">Environment Canada: 1995, <em class="EmphasisTypeItalic ">The State of Canada’s Climate: Monitoring Change and Variability</em>, SOE Report No. 95-1, Ottawa, Canada, p. 52.<span class="Occurrences"></span></div></li><li class="Citation"><div class="CitationContent" id="CR9">FIRESCAN Science Team: 1994, ‘Fire in Boreal Ecosystems of Eurasia: First Results of the Bor Forest Island Fire Experiment, Fire Research Campaign Asia-North (FIRESCAN)’, <em class="EmphasisTypeItalic ">J. World Resourc. Rev.</em>
+<strong class="EmphasisTypeBold ">6</strong>(4), 499-523.<span class="Occurrences"><span class="Occurrence OccurrenceGS"><a target="_blank" rel="noopener noreferrer" class="google-scholar-link gtm-reference" data-reference-type="Google Scholar" href="http://scholar.google.com/scholar_lookup?title=Fire%20in%20Boreal%20Ecosystems%20of%20Eurasia%3A%20First%20Results%20of%20the%20Bor%20Forest%20Island%20Fire%20Experiment%2C%20Fire%20Research%20Campaign%20Asia-North%20%28FIRESCAN%29&amp;journal=J.%20World%20Resourc.%20Rev.&amp;volume=6&amp;issue=4&amp;pages=499-523&amp;publication_year=1994"><span><span>Google Scholar</span></span></a></span></span></div></li><li class="Citation"><div class="CitationContent" id="CR10">Flannigan, M. D. and Van Wagner, C. E.: 1991, ‘Climate Change and Wildfire in Canada’, <em class="EmphasisTypeItalic ">Can. J. For. Res.</em>
+<strong class="EmphasisTypeBold ">21</strong>, 66-72.<span class="Occurrences"><span class="Occurrence OccurrenceGS"><a target="_blank" rel="noopener noreferrer" class="google-scholar-link gtm-reference" data-reference-type="Google Scholar" href="http://scholar.google.com/scholar_lookup?title=Climate%20Change%20and%20Wildfire%20in%20Canada&amp;author=M.%20D..%20Flannigan&amp;author=W.%20C.%20E..%20Van&amp;journal=Can.%20J.%20For.%20Res.&amp;volume=21&amp;pages=66-72&amp;publication_year=1991"><span><span>Google Scholar</span></span></a></span></span></div></li><li class="Citation"><div class="CitationContent" id="CR11">Fosberg, M. A., Goldammer, J. G., Rind, D., and Price, C.: 1990, ‘Global Change: Effects on Forest Ecosystems and Wildfire Severity’, in Goldammer, J. G. (ed.), <em class="EmphasisTypeItalic ">Fire in the Tropical Biota: Ecosystem Processes and Global Challenges</em>, <em class="EmphasisTypeItalic ">Ecological Studies 84</em>, Springer-Verlag, Berlin, pp. 483-486.<span class="Occurrences"><span class="Occurrence OccurrenceGS"><a target="_blank" rel="noopener noreferrer" class="google-scholar-link gtm-reference" data-reference-type="Google Scholar" href="http://scholar.google.com/scholar_lookup?title=Global%20Change%3A%20Effects%20on%20Forest%20Ecosystems%20and%20Wildfire%20Severity&amp;author=M.%20A..%20Fosberg&amp;author=J.%20G..%20Goldammer&amp;author=D..%20Rind&amp;author=C..%20Price&amp;pages=483-486&amp;publication_year=1990"><span><span>Google Scholar</span></span></a></span></span></div></li><li class="Citation"><div class="CitationContent" id="CR12">Fosberg, M. A., Stocks, B. J., and Lynham, T. J.: 1996, ‘Risk Analysis in Strategic Planning: Fire and Climate Change in the Boreal Forest’, in Goldammer, J. G. and Furyaev, V. V. (eds.), <em class="EmphasisTypeItalic ">Fire in Ecosystems of Boreal Eurasia</em>, Kluwer Academic Publishers, Dordrecht, pp. 495-505.<span class="Occurrences"><span class="Occurrence OccurrenceGS"><a target="_blank" rel="noopener noreferrer" class="google-scholar-link gtm-reference" data-reference-type="Google Scholar" href="http://scholar.google.com/scholar_lookup?title=Risk%20Analysis%20in%20Strategic%20Planning%3A%20Fire%20and%20Climate%20Change%20in%20the%20Boreal%20Forest&amp;author=M.%20A..%20Fosberg&amp;author=B.%20J..%20Stocks&amp;author=T.%20J..%20Lynham&amp;pages=495-505&amp;publication_year=1996"><span><span>Google Scholar</span></span></a></span></span></div></li><li class="Citation"><div class="CitationContent" id="CR13">Gullett, D. W. and Skinner, W. R.: 1992, <em class="EmphasisTypeItalic ">The State of Canada’s Climate: Temperature Change in Canada 1895-1991</em>, Environment Canada SOE Report No. 92-2, Ottawa, Canada, p. 36.<span class="Occurrences"></span></div></li><li class="Citation"><div class="CitationContent" id="CR14">IPCC: 1995, <em class="EmphasisTypeItalic ">Climate Change 1995: Impacts, Adaptations and Mitigation of Climate Change: Scientific-Technical Analysis</em>, Watson, R. T., Zinyowera, M. C., and Moss, R. H. (eds.), Cambridge University Press, Cambridge, p. 879.<span class="Occurrences"><span class="Occurrence OccurrenceGS"><a target="_blank" rel="noopener noreferrer" class="google-scholar-link gtm-reference" data-reference-type="Google Scholar" href="http://scholar.google.com/scholar_lookup?&amp;pages=879&amp;publication_year=1995"><span><span>Google Scholar</span></span></a></span></span></div></li><li class="Citation"><div class="CitationContent" id="CR15">Kasischke, E. S., Christensen, N. L., and Stocks, B. J.: 1995, ‘Fire, Global Warming, and the Carbon Balance of Boreal Forests, <em class="EmphasisTypeItalic ">Ecol. Appl.</em>
+<strong class="EmphasisTypeBold ">5</strong>(2), 437-451.<span class="Occurrences"><span class="Occurrence OccurrenceGS"><a target="_blank" rel="noopener noreferrer" class="google-scholar-link gtm-reference" data-reference-type="Google Scholar" href="http://scholar.google.com/scholar_lookup?title=Fire%2C%20Global%20Warming%2C%20and%20the%20Carbon%20Balance%20of%20Boreal%20Forests&amp;author=E.%20S..%20Kasischke&amp;author=N.%20L..%20Christensen&amp;author=B.%20J..%20Stocks&amp;journal=Ecol.%20Appl&amp;volume=5&amp;issue=2&amp;pages=437-451&amp;publication_year=1995"><span><span>Google Scholar</span></span></a></span></span></div></li><li class="Citation"><div class="CitationContent" id="CR16">Kurz, W. A. and Apps, M. J.: 1995, ‘An Analysis of Future Carbon Budgets of Canadian Boreal Forests’, <em class="EmphasisTypeItalic ">Water Air Soil Pollut.</em>
+<strong class="EmphasisTypeBold ">82</strong>, 321-332.<span class="Occurrences"><span class="Occurrence OccurrenceGS"><a target="_blank" rel="noopener noreferrer" class="google-scholar-link gtm-reference" data-reference-type="Google Scholar" href="http://scholar.google.com/scholar_lookup?title=An%20Analysis%20of%20Future%20Carbon%20Budgets%20of%20Canadian%20Boreal%20Forests&amp;author=W.%20A..%20Kurz&amp;author=M.%20J..%20Apps&amp;journal=Water%20Air%20Soil%20Pollut.&amp;volume=82&amp;pages=321-332&amp;publication_year=1995"><span><span>Google Scholar</span></span></a></span></span></div></li><li class="Citation"><div class="CitationContent" id="CR17">Kurz,W. A., Apps, M. J., Stocks, B. J., and Volney,W. J. A.: 1995a, ‘Global Climate Change: Disturbance Regimes and Biospheric Feedbacks of Temperate and Boreal Forests, in Woodwell, G. M. (ed.), <em class="EmphasisTypeItalic ">Biotic Feedbacks in the Global Climate System: Will the Warming Speed the Warming?</em>, Oxford University Press, Oxford, pp. 119-133.<span class="Occurrences"><span class="Occurrence OccurrenceGS"><a target="_blank" rel="noopener noreferrer" class="google-scholar-link gtm-reference" data-reference-type="Google Scholar" href="http://scholar.google.com/scholar_lookup?title=Global%20Climate%20Change%3A%20Disturbance%20Regimes%20and%20Biospheric%20Feedbacks%20of%20Temperate%20and%20Boreal%20Forests&amp;author=W.%20A..%20Kurz&amp;author=M.%20J..%20Apps&amp;author=B.%20J..%20Stocks&amp;author=W.%20J.%20A..%20Volney&amp;pages=119-133&amp;publication_year=1995"><span><span>Google Scholar</span></span></a></span></span></div></li><li class="Citation"><div class="CitationContent" id="CR18">Kurz,W. A., Apps, M. J., Beukema, S. J., and Lekstrum, T.: 1995b, ‘20th Century Carbon Budget of Canadian Forests’, <em class="EmphasisTypeItalic ">Tellus</em>
+<strong class="EmphasisTypeBold ">47B</strong>, 170-177.<span class="Occurrences"><span class="Occurrence OccurrenceGS"><a target="_blank" rel="noopener noreferrer" class="google-scholar-link gtm-reference" data-reference-type="Google Scholar" href="http://scholar.google.com/scholar_lookup?title=20th%20Century%20Carbon%20Budget%20of%20Canadian%20Forests&amp;author=W.%20A..%20Kurz&amp;author=M.%20J..%20Apps&amp;author=S.%20J..%20Beukema&amp;author=T..%20Lekstrum&amp;journal=Tellus&amp;volume=47B&amp;pages=170-177&amp;publication_year=1995"><span><span>Google Scholar</span></span></a></span></span></div></li><li class="Citation"><div class="CitationContent" id="CR19">Levine, J. S., Cofer, W. R., Cahoon, D. R., and Winstead, E. L.: 1995, ‘Biomass Burning: A Driver for Global Change’, <em class="EmphasisTypeItalic ">Env. Sci. Tech.</em>
+<strong class="EmphasisTypeBold ">29</strong>(3), 120-125.<span class="Occurrences"><span class="Occurrence OccurrenceGS"><a target="_blank" rel="noopener noreferrer" class="google-scholar-link gtm-reference" data-reference-type="Google Scholar" href="http://scholar.google.com/scholar_lookup?title=Biomass%20Burning%3A%20A%20Driver%20for%20Global%20Change&amp;author=J.%20S..%20Levine&amp;author=W.%20R..%20Cofer&amp;author=D.%20R..%20Cahoon&amp;author=E.%20L..%20Winstead&amp;journal=Env.%20Sci.%20Tech.&amp;volume=29&amp;issue=3&amp;pages=120-125&amp;publication_year=1995"><span><span>Google Scholar</span></span></a></span></span></div></li><li class="Citation"><div class="CitationContent" id="CR20">McFarlane, N. A., Boer, G. J., Blanchet, J. P., and Lazare, M.: 1992, ‘The CCC Second Generation GCM and Its Equilibrium Climate’, <em class="EmphasisTypeItalic ">J. Clim.</em>
+<strong class="EmphasisTypeBold ">5</strong>(10), 1013-1044.<span class="Occurrences"><span class="Occurrence OccurrenceGS"><a target="_blank" rel="noopener noreferrer" class="google-scholar-link gtm-reference" data-reference-type="Google Scholar" href="http://scholar.google.com/scholar_lookup?title=The%20CCC%20Second%20Generation%20GCM%20and%20Its%20Equilibrium%20Climate&amp;author=N.%20A..%20McFarlane&amp;author=G.%20J..%20Boer&amp;author=J.%20P..%20Blanchet&amp;author=M..%20Lazare&amp;journal=J.%20Clim.&amp;volume=5&amp;issue=10&amp;pages=1013-1044&amp;publication_year=1992"><span><span>Google Scholar</span></span></a></span></span></div></li><li class="Citation"><div class="CitationContent" id="CR21">Meehl, Washington, and Karl: 1993, ‘Low-Frequency Variability and CO<sub>2</sub> Transient Climate Change: Part 1. Time-Averaged Differences’, <em class="EmphasisTypeItalic ">Clim. Dynam.</em>
+<strong class="EmphasisTypeBold ">8</strong>, 117-133.<span class="Occurrences"><span class="Occurrence OccurrenceGS"><a target="_blank" rel="noopener noreferrer" class="google-scholar-link gtm-reference" data-reference-type="Google Scholar" href="http://scholar.google.com/scholar_lookup?title=Low-Frequency%20Variability%20and%20CO2%20Transient%20Climate%20Change%3A%20Part%201.%20Time-Averaged%20Differences&amp;author=.%20Meehl&amp;author=.%20Washington&amp;author=.%20Karl&amp;journal=Clim.%20Dynam.&amp;volume=8&amp;pages=117-133&amp;publication_year=1993"><span><span>Google Scholar</span></span></a></span></span></div></li><li class="Citation"><div class="CitationContent" id="CR22">Price, C. and Rind, D.: 1994, ‘Possible Implications of Global Climate Change on Global Lightning Distributions and Frequencies’, <em class="EmphasisTypeItalic ">J. Geophys. Res.</em>
+<strong class="EmphasisTypeBold ">99</strong>, 10823.<span class="Occurrences"><span class="Occurrence OccurrenceGS"><a target="_blank" rel="noopener noreferrer" class="google-scholar-link gtm-reference" data-reference-type="Google Scholar" href="http://scholar.google.com/scholar_lookup?title=Possible%20Implications%20of%20Global%20Climate%20Change%20on%20Global%20Lightning%20Distributions%20and%20Frequencies&amp;author=C..%20Price&amp;author=D..%20Rind&amp;journal=J.%20Geophys.%20Res&amp;volume=99&amp;pages=10823&amp;publication_year=1994"><span><span>Google Scholar</span></span></a></span></span></div></li><li class="Citation"><div class="CitationContent" id="CR23">Rizzo, B. and Wilken, E.: 1992, ‘Assessing the Sensitivity of Canada’s Forests to Climatic Change’, <em class="EmphasisTypeItalic ">Clim. Change</em>
+<strong class="EmphasisTypeBold ">21</strong>, 37-55.<span class="Occurrences"><span class="Occurrence OccurrenceGS"><a target="_blank" rel="noopener noreferrer" class="google-scholar-link gtm-reference" data-reference-type="Google Scholar" href="http://scholar.google.com/scholar_lookup?title=Assessing%20the%20Sensitivity%20of%20Canada%E2%80%99s%20Forests%20to%20Climatic%20Change&amp;author=B..%20Rizzo&amp;author=E..%20Wilken&amp;journal=Clim.%20Change&amp;volume=21&amp;pages=37-55&amp;publication_year=1992"><span><span>Google Scholar</span></span></a></span></span></div></li><li class="Citation"><div class="CitationContent" id="CR24">Shvidenko, A. S., Nilsson, S., Rojkov, V. A., and Strakov, V.: 1996, ‘Carbon Budget of Russian Boreal Forests: A Systems Analysis Approach to Uncertainty’, in Apps, M. J. and Price, D. T. (eds.), <em class="EmphasisTypeItalic ">Forest Ecosystems, Forest Management and the Global Carbon Cycle, Global Environmental Change</em>, NATO ASI Series, Subseries 1, Vol. 40, Springer-Verlag, Berlin, pp. 145-162.<span class="Occurrences"><span class="Occurrence OccurrenceGS"><a target="_blank" rel="noopener noreferrer" class="google-scholar-link gtm-reference" data-reference-type="Google Scholar" href="http://scholar.google.com/scholar_lookup?title=Carbon%20Budget%20of%20Russian%20Boreal%20Forests%3A%20A%20Systems%20Analysis%20Approach%20to%20Uncertainty&amp;author=A.%20S..%20Shvidenko&amp;author=S..%20Nilsson&amp;author=V.%20A..%20Rojkov&amp;author=V..%20Strakov&amp;pages=145-162&amp;publication_year=1996"><span><span>Google Scholar</span></span></a></span></span></div></li><li class="Citation"><div class="CitationContent" id="CR25">Smith, T. M. and Shugart, H. H.: 1993, ‘The Transient Response of Carbon Storage to a Perturbed Climate’, <em class="EmphasisTypeItalic ">Nature</em>
+<strong class="EmphasisTypeBold ">361</strong>, 523-526.<span class="Occurrences"><span class="Occurrence OccurrenceGS"><a target="_blank" rel="noopener noreferrer" class="google-scholar-link gtm-reference" data-reference-type="Google Scholar" href="http://scholar.google.com/scholar_lookup?title=The%20Transient%20Response%20of%20Carbon%20Storage%20to%20a%20Perturbed%20Climate&amp;author=T.%20M..%20Smith&amp;author=H.%20H..%20Shugart&amp;journal=Nature&amp;volume=361&amp;pages=523-526&amp;publication_year=1993"><span><span>Google Scholar</span></span></a></span></span></div></li><li class="Citation"><div class="CitationContent" id="CR26">Solomon, A. M. and Leemans, R.: 1989, <em class="EmphasisTypeItalic ">Forest Dieback Inevitable if Climate Changes</em>, Int. Inst. Appl. Syst. Anal., Luxemburg, Austria. IIASA Options Sept. 1989, p. 42.<span class="Occurrences"></span></div></li><li class="Citation"><div class="CitationContent" id="CR27">Stocks, B. J.: 1991, ‘The Extent and Impact of Forest Fires in Northern Circumpolar Countries’, in Levine, J. S. (ed.), <em class="EmphasisTypeItalic ">Global Biomass Burning: Atmospheric, Climatic, and Biospheric Implications</em>, MIT Press, Cambridge, MA, pp. 197-202.<span class="Occurrences"><span class="Occurrence OccurrenceGS"><a target="_blank" rel="noopener noreferrer" class="google-scholar-link gtm-reference" data-reference-type="Google Scholar" href="http://scholar.google.com/scholar_lookup?title=The%20Extent%20and%20Impact%20of%20Forest%20Fires%20in%20Northern%20Circumpolar%20Countries&amp;author=B.%20J..%20Stocks&amp;pages=197-202&amp;publication_year=1991"><span><span>Google Scholar</span></span></a></span></span></div></li><li class="Citation"><div class="CitationContent" id="CR28">Stocks, B. J.: 1993, ‘Global Warming and Forest Fires in Canada’, <em class="EmphasisTypeItalic ">For. Chron.</em>
+<strong class="EmphasisTypeBold ">69</strong>, 290-293.<span class="Occurrences"><span class="Occurrence OccurrenceGS"><a target="_blank" rel="noopener noreferrer" class="google-scholar-link gtm-reference" data-reference-type="Google Scholar" href="http://scholar.google.com/scholar_lookup?title=Global%20Warming%20and%20Forest%20Fires%20in%20Canada&amp;author=B.%20J..%20Stocks&amp;journal=For.%20Chron.&amp;volume=69&amp;pages=290-293&amp;publication_year=1993"><span><span>Google Scholar</span></span></a></span></span></div></li><li class="Citation"><div class="CitationContent" id="CR29">Stocks, B. J., Lee, B. S., and Martell, D. L.: 1996, ‘Some Potential Carbon Budget Implications of Fire Management in the Boreal Forest’, in Apps, M. J. and Price, D. T. (eds.), <em class="EmphasisTypeItalic ">Forest Ecosystems, Forest Management and the Global Carbon Cycle, Global Environmental Change</em>, NATO ASI Series, Subseries 1, Vol. 40, Springer-Verlag, Berlin, pp. 89-96.<span class="Occurrences"><span class="Occurrence OccurrenceGS"><a target="_blank" rel="noopener noreferrer" class="google-scholar-link gtm-reference" data-reference-type="Google Scholar" href="http://scholar.google.com/scholar_lookup?title=Some%20Potential%20Carbon%20Budget%20Implications%20of%20Fire%20Management%20in%20the%20Boreal%20Forest&amp;author=B.%20J..%20Stocks&amp;author=B.%20S..%20Lee&amp;author=D.%20L..%20Martell&amp;pages=89-96&amp;publication_year=1996"><span><span>Google Scholar</span></span></a></span></span></div></li><li class="Citation"><div class="CitationContent" id="CR30">Stocks, B. J. and Lynham, T. J.: 1996, ‘Fire Weather Climatology in Canada and Russia’, in Goldammer, J. G. and Furyaev, V. V. (eds.), <em class="EmphasisTypeItalic ">Fire in Ecosystems of Boreal Eurasia</em>, Kluwer Academic Publishers, Dordrecht, pp. 481-487.<span class="Occurrences"><span class="Occurrence OccurrenceGS"><a target="_blank" rel="noopener noreferrer" class="google-scholar-link gtm-reference" data-reference-type="Google Scholar" href="http://scholar.google.com/scholar_lookup?title=Fire%20Weather%20Climatology%20in%20Canada%20and%20Russia&amp;author=B.%20J..%20Stocks&amp;author=T.%20J..%20Lynham&amp;pages=481-487&amp;publication_year=1996"><span><span>Google Scholar</span></span></a></span></span></div></li><li class="Citation"><div class="CitationContent" id="CR31">Van Wagner, C. E.: 1970, <em class="EmphasisTypeItalic ">Conversion of William’s Severity Rating for Use with the Fire Weather Index</em>, Can. For. Serv., Petawawa For. Exp. Sta. Inf. Rep. PS-X-21, p. 3.<span class="Occurrences"></span></div></li><li class="Citation"><div class="CitationContent" id="CR32">Van Wagner, C. E.: 1987, <em class="EmphasisTypeItalic ">Development and Structure of the Canadian Forest Fire Weather Index System</em>, Can. For. Serv., Ottawa, For. Tech. Rep. 35, p. 37.<span class="Occurrences"></span></div></li><li class="Citation"><div class="CitationContent" id="CR33">Williams, D. E.: 1959, <em class="EmphasisTypeItalic ">Fire Season Severity Rating</em>, Can. Dep. Nor. Aff. Nat. Res., For. Res. Div. Tech. Note No. 73, p. 13.<span class="Occurrences"></span></div></li><li class="Citation"><div class="CitationContent" id="CR34">Wilson, C. A. and Mitchell, J. F. B.: 1987, ‘A Doubled CO<sub>2</sub> Climate Sensitivity Experiment with a Global Circulation Model Including a Simple Ocean’, <em class="EmphasisTypeItalic ">J. Geophys. Res.</em>
+<strong class="EmphasisTypeBold ">92</strong>(D11), 13315-13343.<span class="Occurrences"><span class="Occurrence OccurrenceGS"><a target="_blank" rel="noopener noreferrer" class="google-scholar-link gtm-reference" data-reference-type="Google Scholar" href="http://scholar.google.com/scholar_lookup?title=A%20Doubled%20CO2%20Climate%20Sensitivity%20Experiment%20with%20a%20Global%20Circulation%20Model%20Including%20a%20Simple%20Ocean&amp;author=C.%20A..%20Wilson&amp;author=J.%20F.%20B..%20Mitchell&amp;journal=J.%20Geophys.%20Res.&amp;volume=92&amp;issue=D11&amp;pages=13315-13343&amp;publication_year=1987"><span><span>Google Scholar</span></span></a></span></span></div></li><li class="Citation"><div class="CitationContent" id="CR35">Wotton, B. M. and Flannigan, M. D.: 1993, ‘Length of the Fire Season in a Changing Climate’, <em class="EmphasisTypeItalic ">For. Chron</em>. <strong class="EmphasisTypeBold ">69</strong>, 187-192.<span class="Occurrences"><span class="Occurrence OccurrenceGS"><a target="_blank" rel="noopener noreferrer" class="google-scholar-link gtm-reference" data-reference-type="Google Scholar" href="http://scholar.google.com/scholar_lookup?title=Length%20of%20the%20Fire%20Season%20in%20a%20Changing%20Climate&amp;author=B.%20M..%20Wotton&amp;author=M.%20D..%20Flannigan&amp;journal=For.%20Chron.&amp;volume=69&amp;pages=187-192&amp;publication_year=1993"><span><span>Google Scholar</span></span></a></span></span></div></li></ol></div></aside><section class="Section1 RenderAsSection1"><h2 class="Heading" id="copyrightInformation">Copyright information</h2><div class="ArticleCopyright content"><div class="ArticleCopyright">© Kluwer Academic Publishers 1998</div></div></section><section id="authorsandaffiliations" class="Section1 RenderAsSection1"><h2 class="Heading">Authors and Affiliations</h2><div class="content authors-affiliations u-interface"><ul class="test-contributor-names"><li><span itemprop="name" class="authors-affiliations__name">B. J. Stocks</span><ul class="authors-affiliations__indexes u-inline-list" data-role="AuthorsIndexes"><li data-affiliation="#affiliation-1">1</li></ul></li><li><span itemprop="name" class="authors-affiliations__name">M. A. Fosberg</span><ul class="authors-affiliations__indexes u-inline-list" data-role="AuthorsIndexes"><li data-affiliation="#affiliation-2">2</li></ul></li><li><span itemprop="name" class="authors-affiliations__name">T. J. Lynham</span><ul class="authors-affiliations__indexes u-inline-list" data-role="AuthorsIndexes"><li data-affiliation="#affiliation-1">1</li></ul></li><li><span itemprop="name" class="authors-affiliations__name">L. Mearns</span><ul class="authors-affiliations__indexes u-inline-list" data-role="AuthorsIndexes"><li data-affiliation="#affiliation-3">3</li></ul></li><li><span itemprop="name" class="authors-affiliations__name">B. M. Wotton</span><ul class="authors-affiliations__indexes u-inline-list" data-role="AuthorsIndexes"><li data-affiliation="#affiliation-1">1</li></ul></li><li><span itemprop="name" class="authors-affiliations__name">Q. Yang</span><ul class="authors-affiliations__indexes u-inline-list" data-role="AuthorsIndexes"><li data-affiliation="#affiliation-1">1</li></ul></li><li><span itemprop="name" class="authors-affiliations__name">J-Z. Jin</span><ul class="authors-affiliations__indexes u-inline-list" data-role="AuthorsIndexes"><li data-affiliation="#affiliation-1">1</li></ul></li><li><span itemprop="name" class="authors-affiliations__name">K. Lawrence</span><ul class="authors-affiliations__indexes u-inline-list" data-role="AuthorsIndexes"><li data-affiliation="#affiliation-1">1</li></ul></li><li><span itemprop="name" class="authors-affiliations__name">G. R. Hartley</span><ul class="authors-affiliations__indexes u-inline-list" data-role="AuthorsIndexes"><li data-affiliation="#affiliation-1">1</li></ul></li><li><span itemprop="name" class="authors-affiliations__name">J. A. Mason</span><ul class="authors-affiliations__indexes u-inline-list" data-role="AuthorsIndexes"><li data-affiliation="#affiliation-1">1</li></ul></li><li><span itemprop="name" class="authors-affiliations__name">D. W. McKENNEY</span><ul class="authors-affiliations__indexes u-inline-list" data-role="AuthorsIndexes"><li data-affiliation="#affiliation-1">1</li></ul></li></ul><ol class="test-affiliations"><li id="affiliation-1" class="affiliation" itemprop="affiliation" itemscope="" itemtype="http://schema.org/Organization"><span class="affiliation__count">1.</span><span class="affiliation__item"><span itemprop="name" class="affiliation__name">Canadian Forest Service</span><span itemprop="city" class="affiliation__city">Sault Ste. Marie</span><span itemprop="country" class="affiliation__country">Canada</span></span></li><li id="affiliation-2" class="affiliation" itemprop="affiliation" itemscope="" itemtype="http://schema.org/Organization"><span class="affiliation__count">2.</span><span class="affiliation__item"><span itemprop="department" class="affiliation__department">IGBP-BAHC Core Project Office</span><span itemprop="name" class="affiliation__name">Potsdam Institute for Climate Impact Research</span><span itemprop="city" class="affiliation__city">Potsdam</span><span itemprop="country" class="affiliation__country">Germany</span></span></li><li id="affiliation-3" class="affiliation" itemprop="affiliation" itemscope="" itemtype="http://schema.org/Organization"><span class="affiliation__count">3.</span><span class="affiliation__item"><span itemprop="name" class="affiliation__name">National Center for Atmospheric Research</span><span itemprop="city" class="affiliation__city">Boulder</span><span itemprop="country" class="affiliation__country">U.S.A</span></span></li></ol></div></section></div>
+
+                                <aside class="bibliographic-information">
+    <h2 class="Heading" id="aboutcontent">About this article</h2>
+    <div class="content bibliographic-information__container u-interface">
+        
+            <div class="crossmark__adjacent">
+                    <ul class="bibliographic-information__list bibliographic-information__list--inline">
+            <li class="bibliographic-information__item">
+                <span class="bibliographic-information__title">Publisher Name</span>
+                <span class="bibliographic-information__value" id="publisher-name">Kluwer Academic Publishers</span>
+            </li>
+            <li class="bibliographic-information__item">
+                <span class="bibliographic-information__title">Print ISSN</span>
+                <span class="bibliographic-information__value" id="print-issn">0165-0009</span>
+            </li>
+            <li class="bibliographic-information__item ">
+                <span class="bibliographic-information__title">Online ISSN</span>
+                <span class="bibliographic-information__value" id="electronic-issn">1573-1480</span>
+            </li>
+
+        
+    </ul>
+
+                <ul class="bibliographic-information__list">
+    <li class="bibliographic-information__item">
+        <a id="about-journal" class="bibliographic-information__misc-links" title="Visit Springer.com for information about this article&#39;s journal"
+           href="//www.springer.com/journal/10584/about">About this journal</a>
+    </li>
+    <li class="bibliographic-information__item">
+        <a id="reprintsandpermissions-link" class="u-external" target="_blank" rel="noopener noreferrer" href="https://s100.copyright.com/AppDispatchServlet?publisherName&#x3D;Springer&amp;orderBeanReset&#x3D;true&amp;orderSource&#x3D;SpringerLink&amp;author&#x3D;B.+J.+Stocks&amp;issueNum&#x3D;1&amp;contentID&#x3D;10.1023%2FA%3A1005306001055&amp;openAccess&#x3D;false&amp;endPage&#x3D;13&amp;publicationDate&#x3D;1998&amp;startPage&#x3D;1&amp;volumeNum&#x3D;38&amp;title&#x3D;Climate+Change+and+Forest+Fire+Potential+in+Russian+and+Canadian+Boreal+Forests&amp;imprint&#x3D;Kluwer+Academic+Publishers&amp;publication&#x3D;0165-0009&amp;authorAddress&#x3D;Sault+Ste.+Marie%2C+Ontario%2C+Canada" title="Visit RightsLink for information about reusing this article">Reprints and Permissions</a>
+    </li>
+</ul>
+            </div>
+
+        
+
+            
+    </div>
+</aside>
+
+                            </div>
+                        </div>
+
+                        <aside class="main-sidebar-right u-interface">
+                            <div data-role="sticky-wrapper">
+                                <div class="main-sidebar-right__content u-composite-layer" data-component="SpringerLink.StickySidebar">
+                                    <div class="article-actions" id="article-actions">
+                                        <h2 class="u-screenreader-only">Article actions</h2>
+                                        
+                                        <div id="download-content-placeholder" class="u-showTwoCol"></div>
+                                            <div id="buy">
+                                                
+
+<style type="text/css">
+    .buybox {
+        margin: 16px 0 0;
+        position: relative;
+    }
+    .buybox {
+        font-family: Source Sans Pro, Helvetica, Arial, sans-serif;
+        font-size: 14px;
+        font-size: .875rem;
+    }
+    .buybox {
+        zoom: 1;
+    }
+    .buybox:after,
+    .buybox:before {
+        content: '';
+        display: table;
+    }
+    .buybox:after {
+        clear: both;
+    }
+    /*---------------------------------*/
+    .buybox .buybox__header {
+        border: 1px solid #b3b3b3;
+        border-bottom: 0;
+        padding: 8px;
+        position: relative;
+        background-color: #f2f2f2;
+    }
+    .buybox__header .buybox__login {
+        font-family: Source Sans Pro, Helvetica, Arial, sans-serif;
+        font-size: 14px;
+        font-size: .875rem;
+        letter-spacing: .017em;
+        display: inline-block;
+        line-height: 1.2;
+        padding: 0;
+    }
+    .buybox__header .buybox__login:before {
+        position: absolute;
+        top: 50%;
+        -webkit-transform: perspective(1px) translateY(-50%);
+        transform: perspective(1px) translateY(-50%);
+        content: '\A';
+        width: 34px;
+        height: 34px;
+        left: 10px;
+    }
+    /*---------------------------------*/
+    .buybox .buybox__body {
+        padding: 0;
+        padding-bottom: 16px;
+        position: relative;
+        text-align: center;
+        background-color: #fcfcfc;
+        border: 1px solid #b3b3b3;
+    }
+    .buybox__body .buybox__section {
+        padding: 16px 12px 0 12px;
+        text-align: left;
+    }
+    .buybox__section .buybox__buttons {
+        text-align: center;
+        width: 100%;
+    }
+    /********** mycopy buybox specific **********/
+    .buybox.mycopy__buybox .buybox__section .buybox__buttons {
+        border-top: 0;
+        padding-top: 0;
+    }
+    /******/
+    .buybox__section:nth-child(2) .buybox__buttons {
+        border-top: 1px solid #b3b3b3;
+        padding-top: 20px;
+    }
+    .buybox__buttons .buybox__buy-button {
+        display: inline-block;
+        text-align: center;
+        margin-bottom: 5px;
+        padding: 6px 12px;
+    }
+    .buybox__buttons .buybox__price {
+        white-space: nowrap;
+        text-align: center;
+        font-size: larger;
+        padding-top: 6px;
+    }
+    .buybox__section .buybox__meta {
+        letter-spacing: 0;
+        padding-top: 12px;
+    }
+    .buybox__section .buybox__meta:only-of-type {
+        padding-top: 0;
+        position: relative;
+        bottom: 6px;
+    }
+    /********** mycopy buybox specific **********/
+    .buybox.mycopy__buybox .buybox__section .buybox__meta {
+        margin-top: 0;
+        margin-bottom: 0;
+    }
+    /******/
+    .buybox__meta .buybox__product-title {
+        display: inline;
+        font-weight: bold;
+    }
+    .buybox__meta .buybox__list {
+        line-height: 1.3;
+    }
+    .buybox__meta .buybox__list li {
+        position: relative;
+        padding-left: 1em;
+        list-style: none;
+        margin-bottom: 5px;
+    }
+    .buybox__meta .buybox__list li:before {
+        font-size: 1em;
+        content: '\2022';
+        float: left;
+        position: relative;
+        top: .1em;
+        font-family: serif;
+        font-weight: 600;
+        text-align: center;
+        line-height: inherit;
+        color: #666;
+        width: auto;
+        margin-left: -1em;
+    }
+    .buybox__meta .buybox__list li:last-child {
+        margin-bottom: 0;
+    }
+    /*---------------------------------*/
+    .buybox .buybox__footer {
+        border: 1px solid #b3b3b3;
+        border-top: 0;
+        padding: 8px;
+        position: relative;
+        border-style: dashed;
+        line-height: 1.3;
+    }
+    /*-----------------------------------------------------------------*/
+    @media screen and (min-width: 460px) and (max-width: 1074px) {
+        .buybox__body .buybox__section {
+            display: inline-block;
+            vertical-align: top;
+            padding: 12px 12px;
+            padding-bottom: 0;
+            text-align: left;
+            width: 48%;
+        }
+        .buybox__body .buybox__section {
+            padding-top: 16px;
+            padding-left: 0;
+        }
+        .buybox__section:nth-of-type(2) .buybox__meta {
+            border-left: 1px solid #d3d3d3;
+            padding-left: 28px;
+        }
+        .buybox__section:nth-of-type(2) .buybox__buttons {
+            border-top: 0;
+            padding-top: 0;
+            padding-left: 16px ;
+        }
+        .buybox__buttons .buybox__buy-button {
+        }
+        /********** article buybox specific **********/
+        .buybox.article__buybox .buybox__section:nth-of-type(2) {
+            margin-top: 16px;
+            padding-top: 0;
+        }
+        .buybox.article__buybox .buybox__section:nth-of-type(2) .buybox__meta {
+            margin-top: 40px;
+            padding-top: 0;
+            padding-bottom: 45px;
+        }
+        .buybox.article__buybox .buybox__section:nth-of-type(2) .buybox__meta:only-of-type {
+            margin-top: 8px;
+            padding-top: 12px;
+            padding-bottom: 12px;
+        }
+        /********** mycopy buybox specific **********/
+        .buybox.mycopy__buybox .buybox__section:first-child {
+            width: 69%;
+        }
+        .buybox.mycopy__buybox .buybox__section:last-child {
+            width: 29%;
+        }
+        /******/
+    }
+    /*-----------------------------------------------------------------*/
+    @media screen and (max-width: 459px) {
+        /********** mycopy buybox specific **********/
+        .buybox.mycopy__buybox .buybox__body {
+            padding-bottom: 5px;
+        }
+        .buybox.mycopy__buybox .buybox__section:last-child {
+            text-align: center;
+            width: 100%;
+        }
+        .buybox.mycopy__buybox .buybox__buttons {
+            display: inline-block;
+            width: 150px ;
+        }
+        /******/
+    }
+    /*-----------------------------------------------------------------*/
+</style>
+
+<div class="buybox article__buybox" data-webtrekkTrackId="196033507532344">
+    <div class="buybox__header">
+        <span class="buybox__login">Log in to check access</span>
+    </div>
+    <div class="buybox__body">
+        <div class="buybox__section">
+            <div class="buybox__buttons">
+                <form class="buybox__form" action="https://checkout.springer.com/checkout/add?wt_mc=ThirdParty.SpringerLink.3.EPR653.AbstractPage_Article-new" method="POST">
+                    
+                        <input type="hidden" name="type" value="article"/>
+                    
+                        <input type="hidden" name="doi" value="10.1023/A:1005306001055"/>
+                    
+                        <input type="hidden" name="isxn" value="1573-1480"/>
+                    
+                        <input type="hidden" name="contenttitle" value="Climate Change and Forest Fire Potential in Russian and Canadian Boreal Forests"/>
+                    
+                        <input type="hidden" name="copyrightyear" value="1998"/>
+                    
+                        <input type="hidden" name="year" value=""/>
+                    
+                        <input type="hidden" name="authors" value="B. J. Stocks, et al."/>
+                    
+                        <input type="hidden" name="title" value="Climatic Change"/>
+                    
+                        <input type="hidden" name="mac" value="1952c263b4040dfae5eebd8641e0c79b"/>
+                    
+                        <input type="hidden" name="returnurl" value="http://link.springer.com/article/10.1023/A:1005306001055"/>
+                    
+                    <button
+                        class="buybox__buy-button button button--blue"
+                        data-product-id="10.1023/A:1005306001055_Climate Change and Forest Fire Pot"
+                        data-tracking-category="ppv"
+                        data-eCommerceParam_11="article-page"
+                        data-gtm="buybox__buy-button">
+                        <span class="buybox__buy" data-gtm="buybox__buy-button">Buy (PDF)</span>
+                    </button>
+                    <div class="buybox__price" data-gtm="buybox__buy-button">
+                        USD&nbsp;39.95
+                    </div>
+                </form>
+            </div>
+        
+            <div class="buybox__meta">
+                <ul class="buybox__list">
+                    <li>Unlimited access to the full article</li>
+                    <li>Instant download</li>
+                    <li>Include local sales tax if applicable</li>
+                </ul>
+            </div>
+        </div>
+        
+            <div class="buybox__section">
+                <div class="buybox__buttons">
+                    <a
+                    href="http://www.springer.com/10584?wt_mc=ThirdParty.SpringerLink.3.EPR653.ArticlePage_journal"
+                    class="buybox__buy-button button button--blue"
+                    data-gtm="buybox__buy-button-subscription">
+                        <span class="buybox__buy" data-gtm="buybox__buy-button">Subscribe to Journal</span>
+                    </a>
+                </div>
+                <div class="buybox__meta">
+                    Get Access to
+                    <div class="buybox__product-title">Climatic Change</div>
+                    for the whole of 2017
+                </div>
+            </div>
+        
+    </div>
+    <div class="buybox__footer">
+        <a class="js-buybox__inst-sub-link" data-gtm="buybox__inst-sub-link" href="http://www.springer.com/gp/shop/subscriptions?wt_mc=ThirdParty.SpringerLink.3.EPR653.ArticlePage_Institutional-customers">
+            Learn about institutional subscriptions</a>
+    </div>
+</div>
+
+
+
+<script>
+(function () {
+    var forEach = function (array, callback, scope) {
+        for (var i = 0; i < array.length; i++) {
+            callback.call(scope, i, array[i]);
+        }
+    };
+
+    var trackDomain = 'springergmbh01.webtrekk.net';
+    var domain = 'link.springer.com';
+    var loadEventSent = false;
+
+    var buyboxRoot = document.getElementsByClassName('buybox')[0];
+    var webtrekkTrackId = buyboxRoot.getAttribute('data-webtrekkTrackId');
+
+    function SubscriptionTrack(webtrekkTrackId) {
+        if (!webtrekkTrackId) return;
+
+        var data = {
+            trackDomain: trackDomain,
+            trackId: webtrekkTrackId,
+            domain: domain,
+            contentId: 'springer_com.buybox',
+            customSessionParameter: {
+                2: getBusinessPartnerIds()
+            }
+        };
+
+        if (!window.webtrekkV3 && console) {
+            console.log('No webtrekk found.', data);
+            return;
+        }
+
+        return new webtrekkV3(data);
+    }
+
+    function Track(product, webtrekkTrackId, eCommerceParam_11, action) {
+        if (!product) return;
+
+        var data = {
+            trackDomain: trackDomain,
+            trackId: webtrekkTrackId,
+            domain: domain,
+            contentId: 'SL-article',
+            product: product.id,
+            productStatus: action,
+            productCategory: {
+                1: product.trackingCategory
+            },
+            customEcommerceParameter: {
+                9: domain,
+                11: eCommerceParam_11
+            },
+            customSessionParameter: {
+                2: getBusinessPartnerIds()
+            }
+        };
+
+        if (!window.webtrekkV3 && console) {
+            console.log('No webtrekk found.', data);
+            return;
+        }
+
+        return new webtrekkV3(data);
+    }
+
+    function trackAddToCart(trackingConfig) {
+        if (!trackingConfig) return;
+        trackingConfig.sendinfo();
+    }
+
+    function trackOnLoad(trackingConfig) {
+        if (loadEventSent) return;
+        loadEventSent = true;
+        if (!trackingConfig) return;
+        trackingConfig.sendinfo();
+    }
+
+    function trackSubscription(trackingConfig) {
+        if (!trackingConfig) return;
+        trackingConfig.sendinfo({linkId: 'inst. subscription info'});
+    }
+
+    function getBusinessPartnerIds() {
+        var businessPartnerIDs = [];
+        try {
+            var ids = window.dataLayer[0]["user"]["license"]["businessPartnerID"];
+            if(ids && ids.length) businessPartnerIDs = ids;
+        } catch(e) {}
+        return businessPartnerIDs.join(";");
+    }
+
+    var bindClickLinkHandle = function (link) {
+        if (!link) return;
+
+        link.addEventListener('click', function (event) {
+            trackSubscription(SubscriptionTrack(webtrekkTrackId));
+        });
+    };
+
+    var bindLoadButtonHandle = function (button) {
+        if (!button) return;
+
+        var productId = button.getAttribute('data-product-id');
+        var trackingCategory = button.getAttribute('data-tracking-category');
+        var eCommerceParam_11 = button.getAttribute('data-eCommerceParam_11');
+
+        window.addEventListener('load', function (event) {
+            trackOnLoad(Track({
+                id: productId,
+                trackingCategory: trackingCategory
+            }, webtrekkTrackId, eCommerceParam_11, 'view'));
+        });
+    };
+
+    var bindClickButtonHandle = function (button) {
+        if (!button) return;
+
+        var productId = button.getAttribute('data-product-id');
+        var trackingCategory = button.getAttribute('data-tracking-category');
+        var eCommerceParam_11 = button.getAttribute('data-eCommerceParam_11');
+
+        button.addEventListener('click', function (event) {
+            trackAddToCart(Track({
+                id: productId,
+                trackingCategory: trackingCategory
+            }, webtrekkTrackId, eCommerceParam_11, 'add'));
+        });
+    };
+
+    var buyButtons = document.getElementsByClassName('buybox__buy-button');
+    forEach(buyButtons, function (index, button) {
+        bindLoadButtonHandle(button);
+        bindClickButtonHandle(button);
+    });
+
+    var sublinks = document.getElementsByClassName('js-buybox__inst-sub-link');
+    forEach(sublinks, function (index, link) {
+        bindClickLinkHandle(link);
+    });
+})();
+</script>
+
+                                            </div>
+                                        
+<div class="citations u-showTwoCol" data-component="SV.Dropdown" data-namespace="citations">
+    <h3 class="u-h4" data-role="button-dropdown__title">
+        Export citation
+    </h3>
+    <ul class="citations__content" data-role="button-dropdown__content">
+            <li>
+                <a href="//citation-needed.springer.com/v2/references/10.1023/A:1005306001055?format&#x3D;refman&amp;flavour&#x3D;citation"
+                   title="Download this article&#39;s citation as a .RIS file" class="gtm-export-citation" data-gtmlabel="RIS">
+                    <span class="citations__extension gtm-export-citation" data-gtmlabel="RIS">
+                        <svg class="u-vertical-align-absolute" width="12" height="14" viewBox="0 0 12 14" xmlns="http://www.w3.org/2000/svg"><path d="M7 7.269v-6.271c0-.551-.448-.998-1-.998-.556 0-1 .447-1 .998v6.271l-1.5-1.547c-.375-.387-1.01-.397-1.401-.006l.016-.016c-.397.397-.391 1.025-.001 1.416l3.178 3.178c.392.392 1.024.391 1.415 0l3.178-3.178c.392-.392.391-1.025-.001-1.416l.016.016c-.397-.397-1.018-.388-1.401.006l-1.5 1.547zm-7 5.731c0-.552.456-1 1.002-1h9.995c.554 0 1.002.444 1.002 1 0 .552-.456 1-1.002 1h-9.995c-.554 0-1.002-.444-1.002-1z" fill="#0176C3"/></svg>
+                        .RIS
+                    </span>
+                    <span class="citations__types">
+                            <span>
+                                Papers
+                            </span>
+                            <span>
+                                Reference Manager
+                            </span>
+                            <span>
+                                RefWorks
+                            </span>
+                            <span>
+                                Zotero
+                            </span>
+                    </span>
+                </a>
+            </li>
+            <li>
+                <a href="//citation-needed.springer.com/v2/references/10.1023/A:1005306001055?format&#x3D;endnote&amp;flavour&#x3D;citation"
+                   title="Download this article&#39;s citation as a .ENW file" class="gtm-export-citation" data-gtmlabel="ENW">
+                    <span class="citations__extension gtm-export-citation" data-gtmlabel="ENW">
+                        <svg class="u-vertical-align-absolute" width="12" height="14" viewBox="0 0 12 14" xmlns="http://www.w3.org/2000/svg"><path d="M7 7.269v-6.271c0-.551-.448-.998-1-.998-.556 0-1 .447-1 .998v6.271l-1.5-1.547c-.375-.387-1.01-.397-1.401-.006l.016-.016c-.397.397-.391 1.025-.001 1.416l3.178 3.178c.392.392 1.024.391 1.415 0l3.178-3.178c.392-.392.391-1.025-.001-1.416l.016.016c-.397-.397-1.018-.388-1.401.006l-1.5 1.547zm-7 5.731c0-.552.456-1 1.002-1h9.995c.554 0 1.002.444 1.002 1 0 .552-.456 1-1.002 1h-9.995c-.554 0-1.002-.444-1.002-1z" fill="#0176C3"/></svg>
+                        .ENW
+                    </span>
+                    <span class="citations__types">
+                            <span>
+                                EndNote
+                            </span>
+                    </span>
+                </a>
+            </li>
+            <li>
+                <a href="//citation-needed.springer.com/v2/references/10.1023/A:1005306001055?format&#x3D;bibtex&amp;flavour&#x3D;citation"
+                   title="Download this article&#39;s citation as a .BIB file" class="gtm-export-citation" data-gtmlabel="BIB">
+                    <span class="citations__extension gtm-export-citation" data-gtmlabel="BIB">
+                        <svg class="u-vertical-align-absolute" width="12" height="14" viewBox="0 0 12 14" xmlns="http://www.w3.org/2000/svg"><path d="M7 7.269v-6.271c0-.551-.448-.998-1-.998-.556 0-1 .447-1 .998v6.271l-1.5-1.547c-.375-.387-1.01-.397-1.401-.006l.016-.016c-.397.397-.391 1.025-.001 1.416l3.178 3.178c.392.392 1.024.391 1.415 0l3.178-3.178c.392-.392.391-1.025-.001-1.416l.016.016c-.397-.397-1.018-.388-1.401.006l-1.5 1.547zm-7 5.731c0-.552.456-1 1.002-1h9.995c.554 0 1.002.444 1.002 1 0 .552-.456 1-1.002 1h-9.995c-.554 0-1.002-.444-1.002-1z" fill="#0176C3"/></svg>
+                        .BIB
+                    </span>
+                    <span class="citations__types">
+                            <span>
+                                BibTeX
+                            </span>
+                            <span>
+                                JabRef
+                            </span>
+                            <span>
+                                Mendeley
+                            </span>
+                    </span>
+                </a>
+            </li>
+    </ul>
+</div>
+                                        <div class="share-this u-showTwoCol" data-component="SV.Dropdown" data-namespace="shareThis">
+    <h3 class="u-h4" data-role="button-dropdown__title">
+        Share article
+    </h3>
+    <ul class="share-this__content" data-role="button-dropdown__content">
+        <li>
+            <a class="test-shareby-email-link gtm-shareby-email-link" href="mailto:?to&#x3D;&amp;subject&#x3D;Read%20this%20article%20on%20SpringerLink&amp;body&#x3D;Climate%20Change%20and%20Forest%20Fire%20Potential%20in%20Russian%20and%20Canadian%20Boreal%20Forests%0A%0Ahttps%3A%2F%2Flink.springer.com%2Farticle%2F10.1023%2FA%3A1005306001055" title="Share this article via email">
+                <span class="share-this__types">
+                    <svg width="24" height="24" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><g fill="none"><path fill-opacity="0" fill="#fff" d="M0 0h24v24h-24z"/><g transform="translate(3 5)"><rect fill="#F9F9F9" width="18" height="14" rx="2"/><path d="M1 2.006v9.988c0 .557.446 1.006.995 1.006h14.01c.549 0 .995-.449.995-1.006v-9.988c0-.557-.446-1.006-.995-1.006h-14.01c-.549 0-.995.449-.995 1.006zm-1 0c0-1.108.893-2.006 1.995-2.006h14.01c1.102 0 1.995.897 1.995 2.006v9.988c0 1.108-.893 2.006-1.995 2.006h-14.01c-1.102 0-1.995-.897-1.995-2.006v-9.988zM9 9l7-4v-1.443l-7 4-7-4v1.443z" fill="#666"/></g></g></svg>
+                    <span>Email</span>
+                </span>
+            </a>
+        </li>
+        <li>
+            <a class="test-shareby-facebook-link gtm-shareby-facebook-link" href="https://www.facebook.com/sharer/sharer.php?u&#x3D;https%3A%2F%2Flink.springer.com%2Farticle%2F10.1023%2FA%3A1005306001055" target="_blank" rel="noopener noreferrer" title="Share this article via Facebook">
+                <span class="share-this__types">
+                    <svg width="24" height="24" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><g fill="none"><path fill-opacity="0" fill="#fff" d="M0 0h24v24h-24z"/><path d="M12.717 19.091h-2.66v-6.274h-1.329v-2.162h1.329v-1.298c0-1.763.75-2.813 2.883-2.813h1.775v2.162h-1.11c-.83 0-.885.302-.885.866l-.004 1.082h2.011l-.235 2.162h-1.775v6.274z" fill="#666"/></g></svg>
+                    <span>Facebook</span>
+                </span>
+            </a>
+        </li>
+        <li>
+            <a class="test-shareby-twitter-link gtm-shareby-twitter-link" href="https://twitter.com/intent/tweet?text&#x3D;I%27m%20reading%20this%20on%20%23springerlink&amp;url&#x3D;https%3A%2F%2Flink.springer.com%2Farticle%2F10.1023%2FA%3A1005306001055" target="_blank" rel="noopener noreferrer" title="Share this article via Twitter">
+                <span class="share-this__types">
+                    <svg width="24" height="24" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><g fill="none"><path fill-opacity="0" fill="#fff" d="M0 0h24v24h-24z"/><path d="M16.651 9.189c.485-.306.858-.792 1.033-1.371-.454.284-.957.49-1.493.601-.428-.482-1.039-.783-1.715-.783-1.298 0-2.349 1.11-2.349 2.478 0 .194.019.384.06.564-1.952-.104-3.684-1.089-4.843-2.59-.202.367-.318.793-.318 1.247 0 .859.415 1.618 1.045 2.063-.385-.013-.748-.126-1.065-.31v.03c0 1.201.809 2.203 1.886 2.43-.198.058-.405.087-.62.087-.151 0-.299-.015-.442-.044.299.984 1.166 1.702 2.195 1.721-.805.665-1.818 1.061-2.919 1.061-.19 0-.377-.011-.561-.034 1.04.703 2.275 1.113 3.602 1.113 4.323 0 6.686-3.777 6.686-7.052l-.006-.321c.459-.35.859-.786 1.173-1.283-.422.197-.875.33-1.349.39z" fill="#666"/></g></svg>
+                    <span>Twitter</span>
+                </span>
+            </a>
+        </li>
+        <li>
+            <a class="test-shareby-linkedin-link gtm-shareby-linkedin-link" href="https://www.linkedin.com/shareArticle?mini&#x3D;true&amp;url&#x3D;https%3A%2F%2Flink.springer.com%2Farticle%2F10.1023%2FA%3A1005306001055&amp;title&#x3D;Climate Change and Forest Fire Potential in Russian and Canadian Boreal Forests&amp;summary&#x3D;In this study outputs from four current General Circulation Models (GCMs) were used to project forest fire danger levels in Canada and Russia under a warmer climate. Temperature and precipitation anomalies between 1 × CO2 and 2 × CO2 runs were combi…" target="_blank" rel="noopener noreferrer" title="Share this article via LinkedIn">
+                <span class="share-this__types">
+                    <svg width="24" height="24" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><g fill="none"><path fill-opacity="0" fill="#fff" d="M0 0h24v24h-24z"/><path d="M6.821 10.044h2.126v7.41h-2.126v-7.41zm1.009-.927h-.015c-.77 0-1.269-.566-1.269-1.284 0-.732.514-1.287 1.299-1.287.784 0 1.267.554 1.282 1.285 0 .717-.498 1.286-1.297 1.286zm9.625 8.338h-2.411v-3.835c0-1.004-.377-1.688-1.206-1.688-.634 0-.987.462-1.151.908-.062.159-.052.382-.052.606v4.01h-2.389s.031-6.794 0-7.411h2.389v1.163c.141-.509.904-1.234 2.122-1.234 1.511 0 2.698 1.067 2.698 3.361v4.121z" fill="#666"/></g></svg>
+                    <span>LinkedIn</span>
+                </span>
+            </a>
+        </li>
+    </ul>
+</div>
+
+                                    </div>
+                                    
+
+                                </div>
+                                        <div class="skyscraper-ad u-hide" data-component="SpringerLink.GoogleAds"></div>
+
+                            </div>
+                        </aside>
+                    </div>
+                </article>
+            </main>
+
+            
+                <footer class="footer u-interface">
+        <div class="footer__aside-wrapper">
+            <div class="footer__content">
+                <div class="footer__aside">
+    <p class="footer__strapline">Over 10 million scientific documents at your fingertips</p>
+                <div class="footer__edition" data-component="SpringerLink.EditionSwitcher">
+                    <h3 class="u-hide" data-role="button-dropdown__title" data-btn-text="Switch between Academic &#38; Corporate Edition">Switch Edition</h3>
+                    <ul data-role="button-dropdown__content">
+                        <li class="selected"><a href="/siteEdition/link" id="siteedition-academic-link">Academic Edition</a></li>
+                        <li><a href="/siteEdition/rd" id="siteedition-corporate-link">Corporate Edition</a></li>
+                    </ul>
+                </div>
+</div>
+            </div>
+        </div>
+        <div class="footer__content">
+            <ul class="footer__nav">
+    <li>
+        <a href="/">Home</a>
+    </li>
+    <li>
+        <a href="/impressum">Impressum</a>
+    </li>
+    <li>
+        <a href="/termsandconditions">Legal Information</a>
+    </li>
+    <li>
+        <a id="contactus-footer-link" href="/contactus">Contact Us</a>
+    </li>
+</ul>
+            <a class="parent-logo"
+   target="_blank" rel="noreferrer noopener"
+   href="//www.springernature.com"
+   title="Go to Springer Nature">
+    <span class="u-screenreader-only">Springer Nature</span>
+    <svg width="125" height="12">
+        <image width="125" height="12" alt="Springer Nature logo"
+               src="/springerlink-static/968739903/images/png/springernature.png"
+               xmlns:xlink="http://www.w3.org/1999/xlink"
+               xlink:href="/springerlink-static/968739903/images/svg/springernature.svg">
+        </image>
+    </svg>
+</a>
+
+<p class="footer__copyright">&copy; 2017 Springer International Publishing AG. Part of <a target="_blank" rel="noreferrer noopener" href="//www.springernature.com">Springer Nature</a>.</p>
+
+    <p class="footer__user-access-info">
+        <span>Not logged in</span>
+        <span>Not affiliated</span>
+        <span>98.147.125.116</span>
+    </p>
+
+        </div>
+    </footer>
+
+        </div>
+        
+<script type="text/javascript">
+    (function() {
+        var linkEl = document.querySelector('.js-ctm');
+        if (window.matchMedia && window.matchMedia(linkEl.media)) {
+            // Add JS class
+            (function(h){h.className = h.className.replace('no-js', 'js')})(document.documentElement);
+            // Create global SpringerLink namespace
+            window.SpringerLink = window.SpringerLink || {};
+            window.SpringerLink.staticLocation = '/springerlink-static/968739903';
+            // Create and append scripts
+            var scriptJquery = document.createElement('script');
+            var scriptMain = document.createElement('script');
+            scriptJquery.async = false;
+            scriptJquery.src = '/springerlink-static/968739903/js/jquery-3.1.1.min.js';
+            scriptMain.async = false;
+            scriptMain.src = '/springerlink-static/968739903/js/main.js';
+            document.body.appendChild(scriptJquery);
+            document.body.appendChild(scriptMain);
+        }
+    })();
+</script>
+
+
+    <script class="kxct" data-id="KDqyaFZ_" data-timing="async" data-version="3.0" type="text/javascript">
+ window.Krux||((Krux=function(){Krux.q.push(arguments)}).q=[]);
+ (function(){
+   var k=document.createElement('script');k.type='text/javascript';k.async=true;
+   k.src=(location.protocol==='https:'?'https:':'http:')+'//cdn.krxd.net/controltag/KDqyaFZ_.js';
+   var s=document.getElementsByTagName('script')[0];s.parentNode.insertBefore(k,s);
+ }());
+</script>
+
+<script>
+    window.Krux||((Krux=function(){Krux.q.push(arguments);}).q=[]);
+    (function(){
+        function retrieve(n){
+            var m, k='kx'+n;
+            if (window.localStorage) {
+                return window.localStorage[k] || "";
+            } else if (navigator.cookieEnabled) {
+                m = document.cookie.match(k+'=([^;]*)');
+                return (m && unescape(m[1])) || "";
+            } else {
+                return '';
+            }
+        }
+        Krux.user = retrieve('user');
+        Krux.segments = retrieve('segs') && retrieve('segs').split(',') || [];
+    })();
+</script>
+    <script type="text/javascript">
+        var googletag = googletag || {};
+        googletag.cmd = googletag.cmd || [];
+        (function() {
+            var gads = document.createElement('script');
+            gads.async = true;
+            gads.type = 'text/javascript';
+            var useSSL = 'https:' == document.location.protocol;
+            gads.src = (useSSL ? 'https:' : 'http:') +
+                    '//www.googletagservices.com/tag/js/gpt.js';
+            var node = document.getElementsByTagName('script')[0];
+            node.parentNode.insertBefore(gads, node);
+        })();
+    </script>
+    <script type="text/javascript" id="googletag-push">
+        googletag.cmd.push(function() {
+                googletag.defineSlot('6313/casper/journal/article', [728, 90], 'doubleclick-leaderboard-ad').addService(googletag.pubads());
+                googletag.defineSlot('6313/casper/journal/article', [160, 600], 'doubleclick-ad').addService(googletag.pubads());
+                googletag.pubads().setTargeting("doi","10.1023-A:1005306001055");
+                googletag.pubads().setTargeting("eissn","1573-1480");
+                googletag.pubads().setTargeting("pissn","0165-0009");
+                googletag.pubads().setTargeting("ksg",Krux.segments);
+                googletag.pubads().setTargeting("kuid",Krux.uid);
+            googletag.pubads().enableSingleRequest();
+            googletag.pubads().enableAsyncRendering();
+            googletag.enableServices();
+        });
+    </script>
+
+<script src="//s3.amazonaws.com/assets.freshdesk.com/widget/freshwidget.js"></script>
+
+<script type="text/javascript">
+    var linkEl = document.querySelector('.js-ctm');
+    if (window.matchMedia && window.matchMedia(linkEl.media)) {
+        FreshWidget.init("", {
+            "queryString": "&widgetType=popup",
+            "utf8": "✓",
+            "widgetType": "popup",
+            "buttonType": "text",
+            "buttonText": "Support",
+            "buttonColor": "white",
+            "buttonBg": "#087be7",
+            "alignment": "4",
+            "offset": "-1500px",
+            "formHeight": "500px",
+            "url": "https://springeronlineservice.freshdesk.com"
+        });
+    }
+</script>
+
+
+        <span id="chat-widget" class="u-hide"></span>
+    </body>
+</html>

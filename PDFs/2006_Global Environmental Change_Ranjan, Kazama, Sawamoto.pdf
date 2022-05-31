@@ -1,0 +1,457 @@
+<!DOCTYPE html>
+            <!--[if lt IE 7]> <html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="en"> <![endif]-->
+            <!--[if IE 7]>    <html class="no-js lt-ie9 lt-ie8" lang="en"> <![endif]-->
+            <!--[if IE 8]>    <html class="no-js lt-ie9" lang="en"> <![endif]-->
+            <!--[if gt IE 8]><!--> <html class="no-js" lang="en"> <!--<![endif]-->
+            <head><META http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<meta content="text/html; charset=UTF-8" http-equiv="Content-Type">
+<meta content="IE=edge,chrome=1" http-equiv="X-UA-Compatible">
+<meta content="width=device-width,initial-scale=1" name="viewport">
+<link rel="shortcut icon" href="/themes/Mirage2/images/favicon.ico">
+<link rel="apple-touch-icon" href="/themes/Mirage2/images/apple-touch-icon.png">
+<meta name="Generator" content="DSpace 5.5">
+<link type="text/css" rel="stylesheet" media="screen" href="/themes/Mirage2/../../themes/ReportingSuite/lib/statistics-style.css">
+<link href="/themes/Mirage2/styles/main.css" rel="stylesheet">
+<link type="application/opensearchdescription+xml" rel="search" href="http://espace.curtin.edu.au:80/open-search/description.xml" title="DSpace">
+<script>
+                //Clear default text of emty text areas on focus
+                function tFocus(element)
+                {
+                if (element.value == ' '){element.value='';}
+                }
+                //Clear default text of emty text areas on submit
+                function tSubmit(form)
+                {
+                var defaultedElements = document.getElementsByTagName("textarea");
+                for (var i=0; i != defaultedElements.length; i++){
+                if (defaultedElements[i].value == ' '){
+                defaultedElements[i].value='';}}
+                }
+                //Disable pressing 'enter' key to submit a form (otherwise pressing 'enter' causes a submission to start over)
+                function disableEnterKey(e)
+                {
+                var key;
+
+                if(window.event)
+                key = window.event.keyCode; //Internet Explorer
+                else
+                key = e.which; //Firefox and Netscape
+
+                if(key == 13) //if "Enter" pressed, then disable!
+                return false;
+                else
+                return true;
+                }
+            </script><!--[if lt IE 9]>
+                <script src="/themes/Mirage2/vendor/html5shiv/dist/html5shiv.js"> </script>
+                <script src="/themes/Mirage2/vendor/respond/dest/respond.min.js"> </script>
+                <![endif]--><script src="/themes/Mirage2/vendor/modernizr/modernizr.js"> </script>
+<title>Effects of climate change on coastal fresh groundwater resources</title>
+<link rel="schema.DCTERMS" href="http://purl.org/dc/terms/" />
+<link rel="schema.DC" href="http://purl.org/dc/elements/1.1/" />
+<meta name="DC.creator" content="Sarukkalige, Priyantha Ranjan" />
+<meta name="DC.creator" content="Kazama, S." />
+<meta name="DC.creator" content="Sawamoto, M." />
+<meta name="DCTERMS.dateAccepted" content="2017-01-30T10:37:12Z" scheme="DCTERMS.W3CDTF" />
+<meta name="DCTERMS.available" content="2017-01-30T10:37:12Z" scheme="DCTERMS.W3CDTF" />
+<meta name="DCTERMS.created" content="2010-03-31T20:02:44Z" scheme="DCTERMS.W3CDTF" />
+<meta name="DCTERMS.issued" content="2006" scheme="DCTERMS.W3CDTF" />
+<meta name="DC.date" content="2010-12-01" scheme="DCTERMS.W3CDTF" />
+<meta name="DCTERMS.bibliographicCitation" content="Ranjan, Priyantha and Kazama, So and Sawamoto, Masaki. 2006. Effects of climate change on coastal fresh groundwater resources. Global Environmental Change. 16 (4): pp. 388-399." />
+<meta name="DC.identifier" content="http://hdl.handle.net/20.500.11937/4189" scheme="DCTERMS.URI" />
+<meta name="DC.identifier" content="http://dx.doi.org/10.1016/j.gloenvcha.2006.03.006" />
+<meta name="DCTERMS.abstract" content="This study evaluates the impacts of climate change on fresh groundwater resources specifically salinity intrusion in water resources stressed coastal aquifers. Our assessment used the Hadley Centre climate model, HadCM3 with high and low emission scenarios (SRES A2 and B2) for years 2000-2099. In both scenarios, the annual fresh groundwater resources losses indicate an increasing long-term trend in all stressed areas, except in the northern Africa/Sahara region. We also found that precipitation and temperature individually did not show good correlations with fresh groundwater loss. However, the relationship between the aridity index and fresh groundwater loss exhibited a strong negative correlation. We also discuss the impacts of loss of fresh groundwater resources on socio-economic activities, mainly population growth and per capita fresh groundwater resources." />
+<meta name="DC.publisher" content="Elsevier" />
+<meta name="DC.subject" content="salinity intrusion" />
+<meta name="DC.subject" content="freshwater loss" />
+<meta name="DC.subject" content="coastal aquifers" />
+<meta name="DC.subject" content="ground water resources" />
+<meta name="DC.subject" content="climate change" />
+<meta name="DC.title" content="Effects of climate change on coastal fresh groundwater resources" />
+<meta name="DC.type" content="Journal Article" />
+<meta content="16" name="citation_volume">
+<meta content="399" name="citation_lastpage">
+<meta content="https://espace.curtin.edu.au/handle/20.500.11937/4189" name="citation_abstract_html_url">
+<meta content="salinity intrusion; freshwater loss; coastal aquifers; ground water resources; climate change; Journal Article" name="citation_keywords">
+<meta content="Effects of climate change on coastal fresh groundwater resources" name="citation_title">
+<meta content="http://dx.doi.org/10.1016/j.gloenvcha.2006.03.006" name="citation_doi">
+<meta content="388" name="citation_firstpage">
+<meta content="Sarukkalige, Priyantha Ranjan" name="citation_author">
+<meta content="Kazama, S." name="citation_author">
+<meta content="Sawamoto, M." name="citation_author">
+<meta content="Global Environmental Change" name="citation_journal_title">
+<meta content="4" name="citation_issue">
+<meta content="2006" name="citation_date">
+<meta content="https://espace.curtin.edu.au/bitstream/20.500.11937/4189/2/135411_135411.pdf" name="citation_pdf_url">
+<meta content="Elsevier" name="citation_publisher">
+<meta content="https://espace.curtin.edu.au/bitstream/20.500.11937/4189/2/135411_135411.pdf" name="citation_fulltext_html_url">
+</head><body>
+<header>
+<div role="navigation" class="navbar navbar-default navbar-static-top">
+<div class="container">
+<div class="navbar-header">
+<a class="navbar-brand" href="http://www.curtin.edu.au/"><img title="Curtin University Homepage" alt="Curtin University Homepage" src="/themes/Mirage2//images/logo-curtin-university.png"></a><button data-toggle="offcanvas" class="navbar-toggle" type="button"><span class="sr-only">Toggle navigation</span><span class="icon-bar"></span><span class="icon-bar"></span><span class="icon-bar"></span></button>
+<div class="navbar-header user pull-right visible-xs hidden-sm hidden-md hidden-lg">
+<ul class="nav nav-pills pull-left ">
+<li>
+<form method="get" action="/login" style="display: inline">
+<button class="navbar-toggle navbar-link"><b aria-hidden="true" class="visible-xs glyphicon glyphicon-user"></b></button>
+</form>
+</li>
+</ul>
+</div>
+</div>
+<div class="navbar-header pull-right hidden-xs">
+<ul class="nav navbar-nav pull-left static-links-header">
+<li class="ds-static-header-links">
+<a href="http://library.curtin.edu.au/"><span>Library</span></a>
+</li>
+<li class="ds-static-header-links">
+<a href="http://library.curtin.edu.au/help/faqs/espacecurtin/"><span>FAQ</span></a>
+</li>
+</ul>
+<ul class="nav navbar-nav pull-left"></ul>
+<ul class="nav navbar-nav pull-left">
+<li>
+<a href="/login"><span class="hidden-xs">Login</span></a>
+</li>
+</ul>
+<button type="button" class="navbar-toggle visible-sm" data-toggle="offcanvas"><span class="sr-only">Toggle navigation</span><span class="icon-bar"></span><span class="icon-bar"></span><span class="icon-bar"></span></button>
+</div>
+</div>
+</div>
+<div class="sub-header">
+<div class="container">
+<a class="library-link" href="/">
+<h2>espace - Curtin&rsquo;s institutional repository</h2>
+</a>
+</div>
+</div>
+</header>
+<div class="hidden" id="no-js-warning-wrapper">
+<div id="no-js-warning">
+<div class="notice failure">JavaScript is disabled for your browser. Some features of this site may not work without it.</div>
+</div>
+</div>
+<div class="container" id="main-container">
+<div class="row row-offcanvas row-offcanvas-left">
+<div class="horizontal-slider clearfix">
+<div class="col-xs-12 col-sm-12 col-md-8-4 main-content">
+<div class="trail-wrapper hidden-print">
+<div class="row">
+<div class="col-xs-12">
+<div class="breadcrumb dropdown visible-xs">
+<a data-toggle="dropdown" class="dropdown-toggle" role="button" href="#" id="trail-dropdown-toggle">View Item&nbsp;<b class="caret"></b></a>
+<ul aria-labelledby="trail-dropdown-toggle" role="menu" class="dropdown-menu">
+<li role="presentation">
+<a role="menuitem" href="/">espace Home</a>
+</li>
+<li role="presentation">
+<a role="menuitem" href="/handle/20.500.11937/1">espace</a>
+</li>
+<li role="presentation">
+<a role="menuitem" href="/handle/20.500.11937/3">Research Papers</a>
+</li>
+<li role="presentation" class="disabled">
+<a href="#" role="menuitem">View Item</a>
+</li>
+</ul>
+</div>
+<ul class="breadcrumb hidden-xs">
+<li>
+<a href="/">espace Home</a>
+</li>
+<li>
+<a href="/handle/20.500.11937/1">espace</a>
+</li>
+<li>
+<a href="/handle/20.500.11937/3">Research Papers</a>
+</li>
+<li class="active">View Item</li>
+</ul>
+</div>
+</div>
+</div>
+<div>
+<div id="aspect_artifactbrowser_ItemViewer_div_item-view" class="ds-static-div primary">
+<!-- External Metadata URL: cocoon://metadata/handle/20.500.11937/4189/mets.xml?rightsMDTypes=METSRIGHTS-->
+<div class="item-summary-view-metadata">
+<h2 class="page-header first-page-header">Effects of climate change on coastal fresh groundwater resources</h2>
+<div class="row">
+<div class="col-sm-4">
+<div class="row">
+<div class="col-xs-12 col-sm-12">
+<div class="item-page-field-wrapper table word-break">
+<h5>View/<wbr></wbr>Open</h5>
+<div>
+<a href="/bitstream/handle/20.500.11937/4189/135411_135411.pdf?sequence=2&isAllowed=y"><i aria-hidden="true" class="glyphicon  glyphicon-file"></i> 135411_135411.pdf (387.8Kb)</a>
+</div>
+</div>
+</div>
+</div>
+<div class="simple-item-view-authors item-page-field-wrapper table">
+<h5>Authors</h5>
+<div>Sarukkalige, Priyantha Ranjan</div>
+<div>Kazama, S.</div>
+<div>Sawamoto, M.</div>
+</div>
+<div class="simple-item-view-date word-break item-page-field-wrapper table">
+<h5>Date</h5>2006</div>
+<div class="simple-item-view-other item-page-field-wrapper table">
+<h5>Type</h5>
+<div>Journal Article</div>
+</div>
+<div class="simple-item-view-other item-page-field-wrapper table">
+<h5>Access Status</h5>
+<div>Open access</div>
+</div>
+<div class="simple-item-view-other item-page-field-wrapper table">
+<h5>Publishing Status</h5>
+<div>Published</div>
+</div>
+<div class="simple-item-view-show-full item-page-field-wrapper table">
+<h5>Metadata</h5>
+<a href="/handle/20.500.11937/4189?show=full">Show full item record</a>
+</div>
+</div>
+<div class="col-sm-8">
+<div class="simple-item-view-description item-page-field-wrapper table">
+<h5>Abstract</h5>
+<div>
+
+<p class="ds-paragraph">This study evaluates the impacts of climate change on fresh groundwater resources specifically salinity intrusion in water resources stressed coastal aquifers. Our assessment used the Hadley Centre climate model, HadCM3 with high and low emission scenarios (SRES A2 and B2) for years 2000-2099. In both scenarios, the annual fresh groundwater resources losses indicate an increasing long-term trend in all stressed areas, except in the northern Africa/Sahara region. We also found that precipitation and temperature individually did not show good correlations with fresh groundwater loss. However, the relationship between the aridity index and fresh groundwater loss exhibited a strong negative correlation. We also discuss the impacts of loss of fresh groundwater resources on socio-economic activities, mainly population growth and per capita fresh groundwater resources.</p>
+
+</div>
+</div>
+<div class="simple-item-view-other item-page-field-wrapper table">
+<h5>Citation</h5>
+<div>Ranjan, Priyantha and Kazama, So and Sawamoto, Masaki. 2006. Effects of climate change on coastal fresh groundwater resources. Global Environmental Change. 16 (4): pp. 388-399.</div>
+</div>
+<div class="simple-item-view-other item-page-field-wrapper table">
+<h5>Source Title</h5>
+<div>Global Environmental Change</div>
+</div>
+<div class="simple-item-view-other item-page-field-wrapper table">
+<h5>URI</h5>
+<div>
+<a target="_blank" href="http://hdl.handle.net/20.500.11937/4189">http://hdl.handle.net/20.500.11937/4189</a>
+</div>
+</div>
+<div class="simple-item-view-other item-page-field-wrapper table">
+<h5>DOI</h5>
+<div>
+<a target="_blank" href="http://dx.doi.org/10.1016/j.gloenvcha.2006.03.006">http://dx.doi.org/10.1016/j.gloenvcha.2006.03.006</a>
+</div>
+</div>
+<div class="simple-item-view-other item-page-field-wrapper table">
+<h5>Faculty</h5>
+<div>School of Engineering</div>
+<div>Department of Civil Engineering</div>
+<div>Faculty of Science and Engineering</div>
+</div>
+<div class="simple-item-view-description item-page-field-wrapper table">
+<h5>Remarks</h5>
+<div>
+
+<p class="ds-paragraph">The link to the journal&rsquo;s home page is:  <a href="http://www.elsevier.com/wps/find/journaldescription.cws_home/30425/description#description">http://www.elsevier.com/wps/find/journaldescription.cws_home/30425/description#description</a>. Copyright &copy; 2006 Elsevier B.V. All rights reserved</p>
+
+</div>
+</div>
+<div class="simple-item-view-collections item-page-field-wrapper table">
+<h5>Collections</h5>
+<ul class="ds-referenceSet-list">
+<!-- External Metadata URL: cocoon://metadata/handle/20.500.11937/3/mets.xml-->
+<li>
+<a href="/handle/20.500.11937/3">Research Papers</a>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div id="aspect_discovery_RelatedItems_div_item-related-container" class="ds-static-div">
+<h2 class="ds-div-head page-header">Related items</h2>
+<div id="aspect_discovery_RelatedItems_div_item-related" class="ds-static-div secondary related">
+<p class="ds-paragraph">Showing items related by title, author, creator and subject.</p>
+<ul class="ds-artifact-list list-unstyled">
+<!-- External Metadata URL: cocoon://metadata/handle/20.500.11937/42433/mets.xml?sections=dmdSec,fileSec&fileGrpTypes=THUMBNAIL-->
+<li class="ds-artifact-item odd">
+<div class="artifact-description">
+<div class="artifact-title">
+<a href="/handle/20.500.11937/42433"><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Adc&amp;rft_id=Ranjan%2C+S.+Priyantha+and+Kazama%2C+So+and+Sawamoto%2C+Masaki.+2006.+Effects+of+climate+and+land+use+changes+on+groundwater+resources+in+coastal+aquifers.+Journal+of+Environmental+Management.+80+%281%29%3A+pp.+25-35.&amp;rft_id=http%3A%2F%2Fhdl.handle.net%2F20.500.11937%2F42433&amp;rft_id=http%3A%2F%2Fdx.doi.org%2F10.1016%2Fj.jenvman.2005.08.008&amp;rft_id=PUB-SE-DCE-TMC-55158&amp;rfr_id=info%3Asid%2Fdspace.org%3Arepository&amp;rft.source=80&amp;rft.source=1&amp;rft.source=25&amp;rft.source=35&amp;rft.source=03014797&amp;rft.source=Journal+of+Environmental+Management&amp;rft.digitool=135412&amp;rft.identifier=PUB-SE-DCE-TMC-55158">Effects of climate and land use changes on groundwater resources in coastal aquifers</span></a>
+</div>
+<div class="artifact-info">
+<span class="author"><span>Sarukkalige, Priyantha Ranjan</span>; <span>Kazama, S.</span>; <span>Sawamoto, M.</span></span> <span class="publisher-date">(<span class="date">2006</span>)</span>
+</div>
+<div class="artifact-abstract">
+To estimate the freshwater loss in coastal aquifers due to salinisation, a numerical model based on the sharp interface assumption has been introduced. The developed methodology will be useful in areas where limited ...</div>
+</div>
+</li>
+<!-- External Metadata URL: cocoon://metadata/handle/20.500.11937/2066/mets.xml?sections=dmdSec,fileSec&fileGrpTypes=THUMBNAIL-->
+<li class="ds-artifact-item even">
+<div class="artifact-description">
+<div class="artifact-title">
+<a href="/handle/20.500.11937/2066"><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Adc&amp;rft_id=http%3A%2F%2Fhdl.handle.net%2F20.500.11937%2F2066&amp;rfr_id=info%3Asid%2Fdspace.org%3Arepository&amp;rft.digitool=119756">Scenario modeling for prediction of contaminant transport in Perth unconfined aquifer</span></a>
+</div>
+<div class="artifact-info">
+<span class="author"><span>Shukla, Chirayu S.</span></span> <span class="publisher-date">(<span class="date">2008</span>)</span>
+</div>
+<div class="artifact-abstract">
+Rapid development and growth of industrialization has brought immense enrichments in living standards of humans, however, improper planned development also brings along several environmental problems such as pollution of ...</div>
+</div>
+</li>
+<!-- External Metadata URL: cocoon://metadata/handle/20.500.11937/29519/mets.xml?sections=dmdSec,fileSec&fileGrpTypes=THUMBNAIL-->
+<li class="ds-artifact-item odd">
+<div class="artifact-description">
+<div class="artifact-title">
+<a href="/handle/20.500.11937/29519"><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Adc&amp;rft_id=Ranjan%2C+Priyantha+and+Kazama%2C+So+and+Sawamoto%2C+Masaki.+2005.+Effect+of+sea+level+rise+on+the+loss+of+fresh+groundwater+resources%3A+case+studies+of+Western+American+coast+and+Bay+of+Bengal.+Annual+Journal+of+Hydraulic+Engineering%2C+Japanese+Society+of+Civil+Engineers+%28JSCE%29.+49%3A+pp.+97-102.&amp;rft_id=http%3A%2F%2Fhdl.handle.net%2F20.500.11937%2F29519&amp;rft_id=PUB-SE-DCE-TMC-55160&amp;rfr_id=info%3Asid%2Fdspace.org%3Arepository&amp;rft.source=49&amp;rft.source=97&amp;rft.source=102&amp;rft.source=0916-7374&amp;rft.source=Journal+of+Hydraulic+Engineering%2C+American+Society+of+Civil+Engineering&amp;rft.digitool=135059&amp;rft.identifier=PUB-SE-DCE-TMC-55160">Effect of sea level rise on the loss of fresh groundwater resources: case studies of Western American coast and Bay of Bengal</span></a>
+</div>
+<div class="artifact-info">
+<span class="author"><span>Sarukkalige, Priyantha Ranjan</span>; <span>Kazama, S.</span>; <span>Sawamoto, M.</span></span> <span class="publisher-date">(<span class="date">2005</span>)</span>
+</div>
+<div class="artifact-abstract">
+Effect of sea level fluctuations on the movement of the freshwater saltwater interface was analyzed bymeans of a sharp interface model. The simulation was carried out over 100 years period for two casestudies based on ...</div>
+</div>
+</li>
+</ul>
+</div>
+</div>
+<div id="aspect_statistics_StatletTransformer_div_showStats" class="ds-static-div">
+<p class="ds-paragraph">
+<a href="#" class="btn btn-default">Show Statistical Information</a>
+</p>
+<p class="ds-paragraph">
+<input id="aspect_statistics_StatletTransformer_field_contextpath" class="ds-hidden-field form-control" name="contextpath" type="hidden" value="">
+</p>
+<p class="ds-paragraph">
+<input id="aspect_statistics_StatletTransformer_field_statlet-ms-hide" class="ds-hidden-field form-control" name="statlet-ms-hide" type="hidden" value="Hide Statistical Information">
+</p>
+<p class="ds-paragraph">
+<input id="aspect_statistics_StatletTransformer_field_statlet-ms-ajax-timeout" class="ds-hidden-field form-control" name="statlet-ms-ajax-timeout" type="hidden" value="The server did not respond in time. Please try again.">
+</p>
+<p class="ds-paragraph">
+<input id="aspect_statistics_StatletTransformer_field_statlet-ms-ajax-timeout-retry" class="ds-hidden-field form-control" name="statlet-ms-ajax-timeout-retry" type="hidden" value="Retry">
+</p>
+<p class="ds-paragraph">
+<input id="aspect_statistics_StatletTransformer_field_statlet-ms-ajax-error" class="ds-hidden-field form-control" name="statlet-ms-ajax-error" type="hidden" value="No statistical information could be retrieved. Please try again later.">
+</p>
+<p class="ds-paragraph">
+<input id="aspect_statistics_StatletTransformer_field_statlet-ajax-call" class="ds-hidden-field form-control" name="statlet-ajax-call" type="hidden" value="/statlet/em/handle/20.500.11937/4189">
+</p>
+<p class="ds-paragraph">
+<input id="aspect_statistics_StatletTransformer_field_statlet-ajax-handle" class="ds-hidden-field form-control" name="statlet-ajax-handle" type="hidden" value="20.500.11937/4189">
+</p>
+</div>
+</div>
+</div>
+<div role="navigation" id="sidebar" class="col-xs-6 col-sm-3-6 sidebar-offcanvas">
+<div class="word-break hidden-print" id="ds-options">
+<div class="ds-option-set" id="ds-search-option">
+<form method="post" class="" id="ds-search-form" action="/discover">
+<fieldset>
+<div class="input-group">
+<input placeholder="Search" type="text" class="ds-text-field form-control" name="query"><span class="input-group-btn"><button title="Go" class="ds-button-field btn btn-primary"><span aria-hidden="true" class="glyphicon glyphicon-search"></span></button></span>
+</div>
+<div class="radio">
+<label><input checked value="" name="scope" type="radio" id="ds-search-form-scope-all">Search espace</label>
+</div>
+<div class="radio">
+<label><input name="scope" type="radio" id="ds-search-form-scope-container" value="20.500.11937/3">This Collection</label>
+</div>
+</fieldset>
+</form>
+<div class="advanced-search-link">
+<a href="/discover?advanced=true">Advanced search</a>
+</div>
+</div>
+<h2 class="ds-option-set-head  h6">Browse</h2>
+<div id="aspect_viewArtifacts_Navigation_list_browse" class="list-group">
+<a href="/community-list" class="list-group-item ds-option">Communities &amp; Collections</a><a href="/browse?type=dateissued" class="list-group-item ds-option">Issue Date</a><a href="/browse?type=author" class="list-group-item ds-option">Authors</a><a href="/browse?type=title" class="list-group-item ds-option">Titles</a><a href="/browse?type=subject" class="list-group-item ds-option">Subjects</a><a href="/browse?type=type" class="list-group-item ds-option">Document Types</a><a class="list-group-item active"><span class="h5 list-group-item-heading  h5">This Collection</span></a><a href="/handle/20.500.11937/3/browse?type=dateissued" class="list-group-item ds-option">Issue Date</a><a href="/handle/20.500.11937/3/browse?type=author" class="list-group-item ds-option">Authors</a><a href="/handle/20.500.11937/3/browse?type=title" class="list-group-item ds-option">Titles</a><a href="/handle/20.500.11937/3/browse?type=subject" class="list-group-item ds-option">Subjects</a><a href="/handle/20.500.11937/3/browse?type=type" class="list-group-item ds-option">Document Types</a>
+</div>
+<h2 class="ds-option-set-head  h6">My Account</h2>
+<div id="aspect_viewArtifacts_Navigation_list_account" class="list-group">
+<a href="/login" class="list-group-item ds-option">Login</a><a href="/register" class="list-group-item ds-option">Register</a>
+</div>
+<div id="aspect_viewArtifacts_Navigation_list_context" class="list-group"></div>
+<div id="aspect_viewArtifacts_Navigation_list_administrative" class="list-group"></div>
+<div id="aspect_discovery_Navigation_list_discovery" class="list-group"></div>
+<h2 class="ds-option-set-head  h6">Statistics</h2>
+<div id="aspect_statistics_Navigation_list_reportingSuite" class="list-group atmire-module">
+<a href="/most-popular/item" class="list-group-item ds-option">Most Popular Items</a><a href="/most-popular/country" class="list-group-item ds-option">Statistics by Country</a><a href="/most-popular/author" class="list-group-item ds-option">Most Popular Authors</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div>
+<footer>
+<div class="social-media">
+<div class="container">
+<h3>
+<a href="http://www.curtin.edu.au/socialmedia/">Connect with Curtin</a>
+</h3>
+<ul>
+<li>
+<a title="Follow Curtin University on Twitter" class="ss-icon" href="http://twitter.com/curtinuni">
+                            </a>
+</li>
+<li>
+<a title="Like Curtin University on Facebook" class="ss-icon" href="http://facebook.com/curtinuniversity">
+                            </a>
+</li>
+<li>
+<a title="Follow Curtin University on Instagram" class="ss-icon" href="http://instagram.com/curtinuniversity">
+                            </a>
+</li>
+<li>
+<a title="Follow Curtin University on YouTube" class="ss-icon" href="http://www.youtube.com/user/CurtinUniversity">
+                            </a>
+</li>
+<li>
+<a title="Follow Curtin University on Google+" class="ss-icon" href="https://plus.google.com/+curtinuniversity/">
+                            </a>
+</li>
+<li>
+<a title="Follow Curtin University on LinkedIn" class="ss-icon" href="http://www.linkedin.com/company/curtinuniversity">
+                            </a>
+</li>
+<li>
+<a title="Follow Curtin University on Tumblr" class="ss-icon" href="http://curtinuniversity.tumblr.com/">
+                            </a>
+</li>
+</ul>
+</div>
+</div>
+<div class="lower-footer">
+<div class="container">
+<div class="col-xs-12 col-sm-6">
+<div class="cricos">
+<p>
+<strong>CRICOS Provider Code: 00301J</strong><small>ABN: 99 143 842 569</small><small>TEQSA:
+                                    <a href="http://www.teqsa.gov.au/national-register/provider/prv12158">PRV12158</a></small><small>Curtin University is a trademark of Curtin University of Technology</small>
+</p>
+</div>
+</div>
+<div class="col-xs-12 col-sm-6 contact">
+<a href="/feedback">Send Feedback</a><a href="/contact">Contact Us</a>
+<div>
+<a target="_blank" href="http://www.dspace.org/">DSpace software</a> copyright&nbsp;&copy;&nbsp;2002-2015&nbsp; <a target="_blank" href="http://www.duraspace.org/">DuraSpace</a>
+</div>
+</div>
+</div>
+</div>
+<a class="hidden" href="/htmlmap">&nbsp;</a>
+</footer>
+</div>
+<script>if(!window.DSpace){window.DSpace={};}window.DSpace.context_path='';window.DSpace.theme_path='/themes/Mirage2/';</script><script src="/themes/Mirage2/scripts/theme.js"> </script><script src="/aspects/ReportingSuite/scripts/statlet_main.js"> </script><script>
+                  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+                  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+                  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+                  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+                  ga('create', 'UA-87488809-1', 'espace.curtin.edu.au');
+                  ga('send', 'pageview');
+           </script>
+</body></html>

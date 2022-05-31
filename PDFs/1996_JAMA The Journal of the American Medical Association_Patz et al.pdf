@@ -1,0 +1,1163 @@
+
+
+<!DOCTYPE html>
+
+<html id="doc" lang="en" class="page-abstract">
+<head id="Head1"><meta name="viewport" content="width=device-width, initial-scale=1" />
+
+    
+    
+    <link rel="shortcut icon" href="//amaprod.silverchaircdn.com/UI/app/img/favicons/jama/favicon.ico">
+    <link rel="icon" type="image/png" href="//amaprod.silverchaircdn.com/UI/app/img/favicons/jama/favicon-192x192.png" sizes="192x192">
+    <link rel="apple-touch-icon" sizes="180x180" href="//amaprod.silverchaircdn.com/UI/app/img/favicons/jama/apple-touch-icon-180x180.png">
+
+    
+    <meta charset="utf-8" /><meta http-equiv="X-UA-Compatible" content="IE=Edge" />
+
+
+    
+    <link rel="stylesheet" href="//amaprod.silverchaircdn.com/UI/app/dist/v-636227540043648478/app.min.css">
+
+    
+    
+    
+    
+    <link href="//cdn.jsdelivr.net/chartist.js/latest/chartist.min.css" type="text/css" rel="stylesheet"/>
+
+    
+
+    <meta property="og:title" content="Global Climate Change and Emerging Infectious Diseases"/>
+    <meta property="og:type" content="Article"/>
+    <meta property="og:url" content="http://jamanetwork.com.eres.library.manoa.hawaii.edu/journals/jama/fullarticle/394508" />
+    <meta property="og:image" content="http://amaprod.silverchaircdn.com/images/logos/JAMA.png" />
+    <meta property="og:description" content="Climatic factors influence the emergence and reemergence of infectious diseases, in addition to multiple human, biological, and ecological determinants. Climatologists have identified upward trends in global temperatures and now estimate an unprecedented rise of 2.0&#176;C by the year 2100. Of major..."/>
+
+    <meta name="twitter:card" content="summary"/>
+    <meta name="twitter:site" content="@JAMA_current"/>
+
+
+
+
+
+<meta name="citation_author" content="Jonathan A. Patz" /><meta name="citation_author" content="Paul R. Epstein" /><meta name="citation_author" content="Thomas A. Burke" /><meta name="citation_author" content="John M. Balbus" /><meta name="citation_title" content="Global Climate Change and Emerging Infectious Diseases" /><meta name="citation_firstpage" content="217" /><meta name="citation_lastpage" content="223" /><meta name="citation_doi" content="10.1001/jama.1996.03530270057032" /><meta name="citation_abstract" content="&lt;p&gt;Climatic factors influence the emergence and reemergence of infectious diseases, in addition to multiple human, biological, and ecological determinants. Climatologists have identified upward trends in global temperatures and now estimate an unprecedented rise of 2.0&#176;C by the year 2100. Of major concern is that these changes can affect the introduction and dissemination of many serious infectious diseases.&lt;/p&gt;&lt;p&gt;The incidence of mosquito-borne diseases, including malaria, dengue, and viral encephalitides, are among those diseases most sensitive to climate. Climate change would directly affect disease transmission by shifting the vector&#39;s geographic range and increasing reproductive and biting rates and by shortening the pathogen incubation period. Climate-related increases in sea surface temperature and sea level can lead to higher incidence of water-borne infectious and toxin-related illnesses, such as cholera and shellfish poisoning. Human migration and damage to health infrastructures from the projected increase in climate variability could indirectly contribute to disease transmission. Human susceptibility to infections might be further compounded by malnutrition due to climate stress on agriculture and potential alterations in the human immune system caused by increased flux of ultraviolet radiation.&lt;/p&gt;&lt;p&gt;Analyzing the role of climate in the emergence of human infectious diseases will require interdisciplinary cooperation among physicians, climatologists, biologists, and social scientists. Increased disease surveillance, integrated modeling, and use of geographically based data systems will afford more anticipatory measures by the medical community. Understanding the linkages between climatological and ecological change as determinants of disease emergence and redistribution will ultimately help optimize preventive strategies.&lt;/p&gt;&lt;p&gt;(&lt;i&gt;JAMA&lt;/i&gt;. 1995;275:217-223)&lt;/p&gt;" /><meta name="citation_journal_title" content="JAMA" /><meta name="citation_journal_abbrev" content="JAMA" /><meta name="citation_volume" content="275" /><meta name="citation_issue" content="3" /><meta name="citation_publication_date" content="1996/01/17" /><meta name="citation_issn" content="0098-7484" /><meta name="citation_publisher" content="American Medical Association" /><meta name="citation_reference" content="citation_author=Centers for Disease Control and Prevention  ; citation_book=Addressing emerging infectious disease threats: a prevention strategy for the United States. Atlanta, Ga: US Dept Health and Human Services, Public Health Service; citation_year=1994; " /><meta name="citation_reference" content="citation_author=Lederberg  J, Shope RE, Oaks SC Jr, eds; citation_book=Emerging Infections: Microbial Threats to Health in the United States. Washington, DC: Institute of Medicine, National Academy Press; citation_year=1992; " /><meta name="citation_reference" content="citation_title=Factors in the emergence of infectious diseases.; citation_author=Morse  S;Emerging Infect Dis;  citation_year=1995;  citation_volume=1;  citation_pages=7-15; " /><meta name="citation_reference" content="citation_author=Houghton  JT, Jenkins GJ, Ephraums JJ, eds; citation_book=Climate Change: The IPCC Scientific Assessment. Cambridge, England: Cambridge University Press; citation_year=1990; " /><meta name="citation_reference" content="citation_author=Houghton  JT, Callander BA, Varney SK, eds; citation_book=Climate Change 1992: The Supplementary Report to the IPCC Scientific Assessment. Cambridge, England: Cambridge University Press; citation_year=1992; " /><meta name="citation_reference" content="citation_author=Intergovernmental Panel on Climate Change  ;Climate Change: The Second IPCC Scientific Assessment; " /><meta name="citation_reference" content="citation_title=Trends in U.S. climate during the 20th century.; citation_author=Karl  TR, Knight RW, Easterling DR, Quayle RG;Consequences;  citation_year=1995;  citation_volume=1;  citation_pages=3-12; " /><meta name="citation_reference" content="citation_title=Trends in high-frequency climate variability in the twentieth century.; citation_author=Karl  TR, Knight RW, Plummer N;Nature;  citation_year=1995;  citation_volume=377;  citation_pages=217-220; " /><meta name="citation_reference" content="citation_title=Climate response to increasing levels of greenhouse gases and sulphate aerosols.; citation_author=Mitchell  JFB, Johns TC, Gregory JM, Tett SFB;Nature;  citation_year=1995;  citation_volume=376;  citation_pages=501-504; " /><meta name="citation_reference" content="citation_title=Implications for climate and sea level of revised IPCC emissions scenarios.; citation_author=Wigley  TML, Raper SCB;Nature;  citation_year=1992;  citation_volume=357;  citation_pages=293-300; " /><meta name="citation_reference" content="citation_title=A new Hantavirus infection in North America.; citation_author=Wenzel  RP;N Engl J Med;  citation_year=1994;  citation_volume=330;  citation_pages=1004-1005; " /><meta name="citation_reference" content="citation_title=The emergence of new diseases.; citation_author=Levins  R, Awerbuch T, Brinkmann U, et al;Am Sci;  citation_year=1994;  citation_volume=82;  citation_pages=52-60; " /><meta name="citation_reference" content="citation_title=The mouse-pinon nut connection.; citation_author=Stone  R;Science;  citation_year=1993;  citation_volume=262;  citation_pages=833; " /><meta name="citation_reference" content="citation_title=Meningococcal meningitis in sub-Saharan Africa: a model for the epidemic process.; citation_author=Moore  PS;Clin Infect Dis;  citation_year=1992;  citation_volume=14;  citation_pages=515-525; " /><meta name="citation_reference" content="citation_title=Meningococcal disease and season in sub-Saharan Africa.; citation_author=Greenwood  BM, Blakebrough IS, Bradley AK, Wali S, Whittle HC;Lancet;  citation_year=1984;  citation_volume=1;  citation_pages=1339-1342; " /><meta name="citation_reference" content="citation_author=Dobson  A, Carper R; citation_book=Global Warming and Biological Diversity. New Haven, Conn: Yale University Press; citation_year=1992; " /><meta name="citation_reference" content="citation_title=Biodiversity.; citation_author=Dobson  A, Carper R;Lancet;  citation_year=1993;  citation_volume=342;  citation_pages=1096-1099; " /><meta name="citation_reference" content="citation_title=The potential impact of climate change on patterns of infectious disease in the United States.; citation_author=Longstreth  J, Wiseman J; citation_book=The Potential Effects of Global Climate Change in the United States. Washington, DC: US Environmental Protection Agency; citation_year=1989; " /><meta name="citation_reference" content="citation_title=Infectious diseases and atmospheric change.; citation_author=Shope  RE; citation_book=Global Atmospheric Change and Public Health: Proceedings of the Center for Environmental Information. New York, NY: Elsevier; citation_year=1990; " /><meta name="citation_reference" content="citation_title=The influence of temperature on early Plasmodium falciparum development in Anopheles stephensi.; citation_author=Noden  BH, Kent MD, Beier JC;Parisitology; " /><meta name="citation_reference" content="citation_title=Factors influencing the uneven distribution of Aedes aegypti in Texas cities.; citation_author=Chandler  AC;Am J Trop Med Hyg;  citation_year=1945;  citation_volume=25;  citation_pages=145-149; " /><meta name="citation_reference" content="citation_title=Global climate change and infectious diseases.; citation_author=Shope  RE;Environ Health Perspect;  citation_year=1991;  citation_volume=96;  citation_pages=171-174; " /><meta name="citation_reference" content="citation_title=A new perspective on global warming: asymmetric trends of daily maximum and mininum temperatures.; citation_author=Karl  TR, Jones PD, Knight RW, et al;Bull Am Meteorol Soc;  citation_year=1993;  citation_volume=74;  citation_pages=1007-1023; " /><meta name="citation_reference" content="citation_title=Introduction.; citation_author=Barnola  JM, Raynaud D, Lorius C, Korotkevich YS; citation_book=Trends '93: A Compendium of Data on Global Change. Oak Ridge, Tenn: Carbon Dioxide Information Analysis Center, Oak Ridge National Laboratory; citation_year=1994; " /><meta name="citation_reference" content="citation_author=Intergovernmental Panel on Climate Change  ; citation_book=Radiative Forcing of Climate Change, the 1994 Report of the Scientific Assessment Working Group of IPCC: Summary for Policy Makers. Oxford, England: Oxford University Press; citation_year=1994; " /><meta name="citation_reference" content="citation_title=Storm warnings: climate change hits the insurance industry.; citation_author=Flavin  C;World Watch;  citation_year=1994;  citation_volume=7;  citation_pages=10-20; " /><meta name="citation_reference" content="citation_title=Global sea level rise: past and future.; citation_author=Raper  SCB, Wigley TML, Warrick RA; citation_book=Rising Sea Level and Subsiding Coastal Areas. Dordrecht, The Netherlands: Kluwer Academic Publisher; citation_year=1995; " /><meta name="citation_reference" content="citation_title=Rising temperatures in the subtropical North Atlantic Ocean over the past 35 years.; citation_author=Parrilla  G, Lavin A, Boyden H, Garcia M, Millard R;Nature;  citation_year=1994;  citation_volume=369;  citation_pages=204-207; " /><meta name="citation_reference" content="citation_author=Titus  JG, Naraynan VK, eds; citation_book=The Probability of Sea Level Rise. Washington, DC: US Environmental Protection Agency; October citation_year=1995; " /><meta name="citation_reference" content="citation_title=A large Northern Hemisphere terrestrial CO2 sink indicated by the 13C/12C ratio of atmospheric CO2.; citation_author=Ciais  P, Tans PP, Trolier M, White JWC, Francey RJ;Science;  citation_year=1995;  citation_volume=269;  citation_pages=1098-1102; " /><meta name="citation_reference" content="citation_author=World Health Organization  ; citation_book=Potential Health Effects of Climatic Change. Geneva, Switzerland: World Health Organization; citation_year=1990; " /><meta name="citation_reference" content="citation_author=World Health Organization  ; citation_book=Climate Change and Human Health. Geneva, Switzerland: World Health Organization. In press." /><meta name="citation_reference" content="citation_author=Oaks  SC Jr, Mitchell VS, Pearson GW, Carpenter CC, eds; citation_book=Malaria: Obstacles and Opportunities. Washington, DC: Institute of Medicine, National Academy Press; citation_year=1991; " /><meta name="citation_reference" content="citation_title=Epidemiology of malaria.; citation_author=Gilles  HM; citation_book=Bruce-Chwatt's Essential Malariology. London, England: Edward Arnold; citation_year=1993; " /><meta name="citation_reference" content="citation_title=Insecticide resistance as a factor in the integrated control of Culicidae.; citation_author=Brown  AWA; citation_book=Integrated Mosquito Control Methodologies. New York, NY: Academic Press; citation_year=1983;  citation_pages=161-235; " /><meta name="citation_reference" content="citation_title=Randomised trial of efficacy of SPf66 vaccine against Plasmodium falciparum malaria in children in southern Tanzania.; citation_author=Alonso  PL, Smith T, Armstrong Schellenberg JRM, et al;Lancet;  citation_year=1994;  citation_volume=344;  citation_pages=1175-1181; " /><meta name="citation_reference" content="citation_title=Vaccination with SPf66, a chemically synthesized vaccine, against Plasmodium falciparum malaria in Columbia.; citation_author=Valero  MV, Amador LR, Galindo C, et al;Lancet;  citation_year=1993;  citation_volume=341;  citation_pages=705-710; " /><meta name="citation_reference" content="citation_title=Basic science of climate change.; citation_author=Maskell  K, Mintzer IM, Callander B;Lancet;  citation_year=1993;  citation_volume=342;  citation_pages=1027-1031; " /><meta name="citation_reference" content="citation_title=Climatic warming and increased malaria incidence in Rwanda.; citation_author=Loevinsohn  M;Lancet;  citation_year=1994;  citation_volume=343;  citation_pages=714-718; " /><meta name="citation_reference" content="citation_title=A review of the malaria situation in Zimbabwe with special reference to the period 1972-1981.; citation_author=Taylor  P, Mutambu SL;Trans R Soc Trop Med Hyg;  citation_year=1986;  citation_volume=80;  citation_pages=12-19; " /><meta name="citation_reference" content="citation_title=Potential impact of global climate change on malaria risk.; citation_author=Martens  WJM, Niessen LW, Rotmans J, Jetten TH, McMichael TJ;Environ Health Perspect;  citation_year=1995;  citation_volume=103;  citation_pages=458-464; " /><meta name="citation_reference" content="citation_title=An estimation of climatic change effects on malaria.; citation_author=Matsuoka  Y, Kai K;J Global Environ Eng;  citation_year=1995;  citation_volume=1;  citation_pages=43-57; " /><meta name="citation_reference" content="citation_author=Martens  WJM, Rotmans J, Niessen LW; citation_book=Climate change and malaria risk: an integrated modelling approach. Bilthoven, the Netherlands: RIVM; citation_year=1994; " /><meta name="citation_reference" content="citation_author=Benenson  AS, ed; citation_book=Control of Communicable Diseases in Man. Washington, DC: American Public Health Association; citation_year=1990; " /><meta name="citation_reference" content="citation_title=Dengue/dengue hemorrhagic fever: the emergence of a global health problem.; citation_author=Gubler  DJ, Clark GC;Emerging Infect Dis;  citation_year=1995;  citation_volume=1;  citation_pages=55-57; " /><meta name="citation_reference" content="citation_author=Pan American Health Organization  ; citation_book=Dengue and Dengue Hemorrhagic Fever in the Americas: Guidelines for Prevention and Control. Washington, DC: Pan American Health Organization; citation_year=1994;  citation_pages=98; " /><meta name="citation_reference" content="citation_title=Aedes aegypti in Malaysia, II: larval and adult biology.; citation_author=MacDonald  WW;Ann Trop Med Parasitol;  citation_year=1956;  citation_volume=50;  citation_pages=399-414; " /><meta name="citation_reference" content="citation_title=Weather, vector biology, and arboviral recrudescence.; citation_author=Reiter  P; citation_book=The Arboviruses: Epidemiology and Ecology, I. Boca Raton, Fla: CRC Press; citation_year=1988;  citation_pages=245-255; " /><meta name="citation_reference" content="citation_title=Update: Aedes albopictus infestation—United States, Mexico.; citation_author=Centers for Disease Control and Prevention  ;MMWR Morb Mortal Wkly Rep;  citation_year=1989;  citation_volume=38;  citation_pages=440-446; " /><meta name="citation_reference" content="citation_title=Emergence of epidemic dengue/dengue hemorrhagic fever as a public health problem in the Americas.; citation_author=Gubler  DJ, Trent DW;Infect Agents Dis;  citation_year=1994;  citation_volume=2;  citation_pages=383-393; " /><meta name="citation_reference" content="citation_title=Dengue hemorrhagic fever.; citation_author=Halstead  SB; citation_book=Handbook of Viral and Rickettsial Hemorrhagic Fevers. Boca Raton, Fla: CRC Press; citation_year=1988;  citation_pages=85-94; " /><meta name="citation_reference" content="citation_title=Global epidemiology of dengue: health systems in disarray.; citation_author=Halstead  SB;Trop Med;  citation_year=1993;  citation_volume=35;  citation_pages=137-146; " /><meta name="citation_reference" content="citation_title=Genetic variation among dengue 2 viruses of different geographic origin.; citation_author=Trent  DW, Grant JA, Rosen L, Monath TP;Virology;  citation_year=1983;  citation_volume=128;  citation_pages=271-284; " /><meta name="citation_reference" content="citation_title=Factors influencing the uneven distribution of Aedes aegypti in Texas cities.; citation_author=Chandler  AC;Am J Trop Med Hyg;  citation_year=1945;  citation_volume=25;  citation_pages=145-149; " /><meta name="citation_reference" content="citation_title=First reported outbreak of classical dengue fever at 1700 meters above sea level in Guerrero State, Mexico, June 1988.; citation_author=Herrera-Basto  E, Prevots DR, Luisa Zarate MA, Luis Silva J, Sepulveda-Armor J;Am J Trop Med Hyg;  citation_year=1992;  citation_volume=46;  citation_pages=649-653; " /><meta name="citation_reference" content="citation_title=Dengue epidemic in Honduras, 1978-1980.; citation_author=Figueroa  M, Pereira R, Gutierrez H, Demejia C, Padilla N;Bull Pan Am Health Organ;  citation_year=1982;  citation_volume=16;  citation_pages=130-137; " /><meta name="citation_reference" content="citation_title=Determinants and predictors of dengue infection in Mexico.; citation_author=Koopman  JS, Prevots DR, Marin MAV, et al;Am J Epidemiol;  citation_year=1991;  citation_volume=133;  citation_pages=1168-1178; " /><meta name="citation_reference" content="citation_title=Temperature-dependent development and survival rates of Culex quinquefasciatus and Aedes aegypti (Diptera: Culicidae).; citation_author=Rueda  LM, Patel KJ, Axtell RC, Stinner RE;J Med Entomol;  citation_year=1990;  citation_volume=27;  citation_pages=892-898; " /><meta name="citation_reference" content="citation_title=Blood-feeding patterns of Aedes aegypti (Diptera: Culicidae) collected in a rural Thai village.; citation_author=Scott  TW, Chow E, Strickman D, et al;J Med Entomol;  citation_year=1993;  citation_volume=30;  citation_pages=922-927; " /><meta name="citation_reference" content="citation_title=Field studies on the gonotrophic cycle of Aedes aegypti in Bangkok, Thailand.; citation_author=Pant  CP, Yasuno M;J Med Entomol;  citation_year=1973;  citation_volume=10;  citation_pages=219-223; " /><meta name="citation_reference" content="citation_title=Effect of temperature on the vector efficiency of Aedes aegypti for dengue 2 virus.; citation_author=Watts  DM, Burke DS, Harrison BA, et al;Am J Trop Med Hyg;  citation_year=1987;  citation_volume=36;  citation_pages=143-152; " /><meta name="citation_reference" content="citation_title=A simulation model of the epidemiology of urban dengue fever: literature analysis, model development, preliminary validation, and samples of simulation results.; citation_author=Focks  DA, Daniels E, Haile DG, Keesling JE;Am J Trop Med Hyg;  citation_year=1995;  citation_volume=53;  citation_pages=489-506; " /><meta name="citation_reference" content="citation_title=Arbovirus-related encephalitis.; citation_author=Shope  RE;Yale J Biol Med;  citation_year=1980;  citation_volume=53;  citation_pages=93-99; " /><meta name="citation_reference" content="citation_title=St Louis encephalitis: lessons from the last decade.; citation_author=Monath  TP, Tsai TF;Am J Trop Med Hyg;  citation_year=1987;  citation_volume=37;  citation_issue=suppl;  citation_pages=40S-59S; " /><meta name="citation_reference" content="citation_title=Flaviridae: Flavivirus (yellow fever, dengue, and St Louis encephalitis).; citation_author=Monath  TP; citation_book=Principles and Practice of Infectious Diseases. 3rd ed. New York, NY: Churchill Livingston; citation_year=1990; " /><meta name="citation_reference" content="citation_title=Surveillance.; citation_author=Bowen  SG, Francy DB; citation_book=St Louis Encephalitis. Washington, DC: American Public Health Association; citation_year=1980; " /><meta name="citation_reference" content="citation_author=Schneider  SH; citation_book=Global Warming: Are We Entering the Greenhouse Century?New York, NY: Vintage Books; citation_year=1990; " /><meta name="citation_reference" content="citation_title=The potential effect of global warming on mosquitoborne arboviruses.; citation_author=Reeves  WC, Hardy JL, Reisen WK, Milby MM;J Med Entomol;  citation_year=1994;  citation_volume=31;  citation_pages=323-332; " /><meta name="citation_reference" content="citation_title=Susceptibility and resistance of vector mosquitoes.; citation_author=Hardy  JL; citation_book=The Arboviruses: Epidemiology and Ecology, I. Boca Raton, Fla: CRC Press; citation_year=1988; " /><meta name="citation_reference" content="citation_title=Effects of temperature on the transmission of Western Equine encephalomyelitis and St Louis encephalitis viruses by Culex tarsalis (Diptera: Culicidae).; citation_author=Reisin  WK, Meyer RP, Presser SB, Hardy JL;J Med Entomol;  citation_year=1993;  citation_volume=30;  citation_pages=151-160; " /><meta name="citation_reference" content="citation_title=Seasonal influence on the production of Schistosoma haematobium and S mansoni cercariae in Rhodesia.; citation_author=Shiff  CJ, Evans A, Yiannakis C, Eardley M;Int J Parisitol;  citation_year=1975;  citation_volume=5;  citation_pages=119-123; " /><meta name="citation_reference" content="citation_title=Seasonal patterns in the transmission of Schistosoma haematobium in Rhodesia, and its control by winter application of molluscicide.; citation_author=Shiff  CJ, Coutts WCC, Yiannakis C, Holmes RW;Trans R Soc Trop Med Hyg;  citation_year=1979;  citation_volume=73;  citation_pages=375-380; " /><meta name="citation_reference" content="citation_title=Direct and indirect influences of temperature on the transmission of parasites from insects to man.; citation_author=Gillet  JD; citation_book=The Effects of Meteorological Factors Upon Parasites. Oxford, England: Blackwell Scientific Publications; citation_year=1974;  citation_pages=79-95; " /><meta name="citation_reference" content="citation_author=Martens  WJM; citation_book=Modelling the effect of global warming on the prevalence of schistosomiasis. Bilthoven, the Netherlands: RIVM; citation_year=1995; " /><meta name="citation_reference" content="citation_author=World Health Organization  ; citation_book=Ten Years of Onchocerciasis Control in West Africa: Review of Work of the OCP in the Volta River Basin Area From 1974 to 1984. Geneva, Switzerland: World Health Organization; citation_year=1985; " /><meta name="citation_reference" content="citation_title=A climatic water budget approach to black fly population dynamics.; citation_author=Mills  DM;Publications in Climatology;  citation_year=1995;  citation_volume=48;  citation_pages=1-84; " /><meta name="citation_reference" content="citation_title=Mortality rates and population density of tsetse flies correlated with satellite imagery.; citation_author=Rogers  DJ, Randolph SE;Nature;  citation_year=1991;  citation_volume=351;  citation_pages=739-741; " /><meta name="citation_reference" content="citation_title=Vector-borne diseases, models, and global change.; citation_author=Rogers  DL, Packer MJ;Lancet;  citation_year=1993;  citation_volume=342;  citation_pages=1282-1284; " /><meta name="citation_reference" content="citation_title=Distribution of tsetse and ticks in Africa: past, present and future.; citation_author=Rogers  DJ, Randolph SE;Parasitol Today;  citation_year=1993;  citation_volume=9;  citation_pages=266-271; " /><meta name="citation_reference" content="citation_title=Computer simulation of the effects of changes in weather patterns on vector-borne disease transmission.; citation_author=Haile  DG; citation_book=The Potential Effects of Global Climate Change in the United States. Washington, DC: US Environmental Protection Agency; citation_year=1989; " /><meta name="citation_reference" content="citation_title=WESTPAC symposium and harmful blooms workshop, International Oceanographic Commission, UNESCO.; citation_author=Anderson  DM;Harmful Algae News;  citation_year=1992;  citation_volume=2;  citation_pages=4; " /><meta name="citation_reference" content="citation_title=Red tide: effects on health and economics.; citation_author=Tester  P;Health Environ Digest;  citation_year=1991;  citation_volume=5;  citation_pages=4-5; " /><meta name="citation_reference" content="citation_author=Valiela  I; citation_book=Marine Ecological Processes. New York, NY: Springer-Verlag; citation_year=1984; " /><meta name="citation_reference" content="citation_title=Emerging diseases and ecosystem instability: new threats to public health.; citation_author=Epstein  PR;Am J Public Health;  citation_year=1995;  citation_volume=85;  citation_pages=168-172; " /><meta name="citation_reference" content="citation_title=Detection of Vibrio cholerae 01 in the aquatic environment by fluorescent-monoclonal antibody and culture methods.; citation_author=Huq  A, Colwell RR, Rahman R, et al;Appl Environ Microbiol;  citation_year=1990;  citation_volume=56;  citation_pages=2370-2373; " /><meta name="citation_reference" content="citation_title=Major PSP outbreak in Chile, 1991-1992.; citation_author=Lembeye  G;Harmful Algae News;  citation_year=1992;  citation_volume=2;  citation_pages=1-2; " /><meta name="citation_reference" content="citation_title=Natural disaster reduction and global change.; citation_author=Bruce  JP;Bull Am Meteorol Soc;  citation_year=1994;  citation_volume=75;  citation_pages=1831-1835; " /><meta name="citation_reference" content="citation_title=Implications of climate change due to the enhanced greenhouse effect on floods and droughts in Australia.; citation_author=Whetton  PH, Fowler AM, Haylock MR, Pittock AB;Climatic Change;  citation_year=1993;  citation_volume=25;  citation_pages=289-317; " /><meta name="citation_reference" content="citation_title=Methods for assessing public health vulnerability to global climate change.; citation_author=Patz  JA, Balbus JM;Climate Research; " /><meta name="citation_reference" content="citation_title=Potential impacts on health of atmospheric change.; citation_author=Haines  A, Fuchs C;J Pub Health Med;  citation_year=1991;  citation_volume=13;  citation_pages=69-80; " /><meta name="citation_reference" content="citation_title=Potential health effects of global climatic and environmental changes.; citation_author=Leaf  A;N Engl J Med;  citation_year=1989;  citation_volume=321;  citation_pages=1577-1583; " /><meta name="citation_reference" content="citation_title=El Niño-southern oscillation and vector-borne disease.; citation_author=Nicholls  N;Lancet;  citation_year=1993;  citation_volume=342;  citation_pages=1284-1285; " /><meta name="citation_reference" content="citation_title=Global climatic anomalies associated with extremes in the Southern Oscillation.; citation_author=Kiladis  GN, Dias HF;J Climate;  citation_year=1989;  citation_volume=2;  citation_pages=1069; " /><meta name="citation_reference" content="citation_author=Glantz  MH, Katz RW, Nicholls N; citation_book=Teleconnections Linking Worldwide Climate Anomalies. Cambridge, England: Cambridge University Press; citation_year=1991; " /><meta name="citation_reference" content="citation_title=The analysis of malaria epidemics.; citation_author=MacDonald  G;Trop Dis Bull;  citation_year=1954;  citation_volume=50;  citation_pages=871-892; " /><meta name="citation_reference" content="citation_title=Malaria control and long-term periodicity of the disease in Pakistan.; citation_author=Zulueta  J;Trans R Soc Trop Med Hyg;  citation_year=1980;  citation_volume=74;  citation_pages=624-632; " /><meta name="citation_reference" content="citation_title=Climate change and periodic epidemic malaria.; citation_author=Bouma  MJ, Sondorp HE, van der Kaay HJ;Lancet;  citation_year=1994;  citation_volume=343;  citation_pages=1440; " /><meta name="citation_reference" content="citation_title=Teleconnections and health.; citation_author=Nicholls  N; citation_book=Teleconnections Linking Worldwide Climate Anomalies. Cambridge, England: Cambridge University Press; citation_year=1991;  citation_pages=493-510; " /><meta name="citation_reference" content="citation_author=Scripps Institute of Oceanography  ; citation_book=Simulated Global Warming and Model ENSO Cycles. La Jolla, Calif: Scripps Institute of Oceanography; citation_year=1992; " /><meta name="citation_reference" content="citation_author=United Nations Environment Program and the National Center for Atmospheric Research  ; citation_book=ENSO and Climate Change: UNEP Conference Proceedings: Bangkok, 1991. Boulder, Colo: National Center for Atmospheric Research; citation_year=1991; " /><meta name="citation_reference" content="citation_title=Implications of global warming for climate variability and the occurrence of extreme climate events.; citation_author=Mearns  LO; citation_book=Drought Assessment, Management and Planning: Theory and Case Studies. Boston, Mass: Kluwer; citation_year=1993;  citation_pages=109-130; " /><meta name="citation_reference" content="citation_author=Tegart  WJM, Sheldon GW, Griffiths DC, eds; citation_book=Climate Change: The IPCC Impacts Assessment. Canberra: Australian Government Publishing Service; citation_year=1990; " /><meta name="citation_reference" content="citation_title=Food supply and the risk of hunger.; citation_author=Parry  ML, Rosenzweig C;Lancet;  citation_year=1993;  citation_volume=342;  citation_pages=1345-1347; " /><meta name="citation_reference" content="citation_title=Evidence for large upward trends of ultraviolet-B radiation linked to ozone depletion.; citation_author=Kerr  JB, McElroy CT;Science;  citation_year=1993;  citation_volume=262;  citation_pages=1032-1034; " /><meta name="citation_reference" content="citation_title=Stratospheric sink for chloro-fluoro-methanes: chlorine atom-catalyzed destruction of ozone.; citation_author=Molina  MJ, Rowland FS;Nature;  citation_year=1974;  citation_volume=249;  citation_pages=810-814; " /><meta name="citation_reference" content="citation_author=International Agency for Research on Cancer  ; citation_book=IARC Monographs on the Evaluation of Carcinogenic Risks to Humans: Solar and Ultraviolet Radiation, 55.Lyon, France: International Agency for Research on Cancer; citation_year=1992; " /><meta name="citation_reference" content="citation_title=Effects of ultraviolet radiation on cataract formation.; citation_author=Taylor  HR, West SK, Rosenthal FS, et al;N Engl J Med;  citation_year=1988;  citation_volume=319;  citation_pages=1429-1433; " /><meta name="citation_reference" content="citation_title=In vivo ultraviolet irradiation of human skin results in profound perturbation of the immune system.; citation_author=Baadsgaard  O;Arch Dermatol;  citation_year=1991;  citation_volume=127;  citation_pages=99-109; " /><meta name="citation_reference" content="citation_title=Ultraviolet radiation decreases the granulomatous response to lepromin in humans.; citation_author=Cestari  TF, Kripke ML, Baptista PL, Bakos L, Bucana CD;J Invest Dermatol;  citation_year=1995;  citation_volume=105;  citation_pages=8-13; " /><meta name="citation_reference" content="citation_title=UV exposure reduces immunization rates and promotes tolerance to epicutaneous antigens in humans.; citation_author=Cooper  KD, Oberhelman L, Hamilton TA, et al;Proc Natl Acad Sci US A;  citation_year=1992;  citation_volume=89;  citation_pages=8497-8501; " /><meta name="citation_reference" content="citation_title=Alteration of the immune response to Mycobacterium bovis BCG in mice exposed chronically to low doses of UV radiation.; citation_author=Jeevan  A, Kripke ML;Cell Immunol;  citation_year=1990;  citation_volume=130;  citation_pages=32-41; " /><meta name="citation_reference" content="citation_author=Kripke  ML; citation_book=Effects on Human Health: UV-B Monitoring Workshop. Washington, DC: Science and Policy Associates; citation_year=1992; " /><meta name="citation_reference" content="citation_title=Suppression of immunocompetence and DNA repair capacity by exposure in commercial tanning salons.; citation_author=Larcom  LL, Morris TE, Smith ME;J Natl Cancer Inst;  citation_year=1990;  citation_volume=82;  citation_pages=1361; " /><meta name="citation_reference" content="citation_author=van der Leun  JC, Tevini M, Worrest RC, eds; citation_book=Environmental Effects of Ozone Depletion: 1991 Update. Nairobi, Kenya: United Nations Environment Programme; citation_year=1991; " /><meta name="citation_reference" content="citation_title=The low-dose model of UVB-induced immunosuppression.; citation_author=Cruz  PD, Bergstresser PR;Photodermatology;  citation_year=1988;  citation_volume=5;  citation_pages=151-161; " /><meta name="citation_reference" content="citation_title=Effects of ultraviolet radiation on the immune system in humans.; citation_author=Morison  W;Photochem Photobiol;  citation_year=1989;  citation_volume=50;  citation_pages=515-524; " /><meta name="citation_reference" content="citation_title=The Langerhan cell.; citation_author=Wolff  K, Stingl G;J Invest Dermatol;  citation_year=1983;  citation_volume=80;  citation_issue=suppl;  citation_pages=17S-21S; " /><meta name="citation_reference" content="citation_title=Immune system and ultraviolet light.; citation_author=Daynes  RA; citation_book=Global Atmospheric Change and Public Health: Proceedings of the Center for Environmental Information. New York, NY: Elsevier; citation_year=1990; " /><meta name="citation_reference" content="citation_title=Mechanism of immune suppression by ultraviolet irradiation in vivo.; citation_author=DeFabo  EC, Noonan FP;J Exp Med;  citation_year=1983;  citation_volume=158;  citation_pages=84-98; " /><meta name="citation_reference" content="citation_title=Alteration of T cell subsets and induction of suppressor T cell activity in normal subjects after exposure to sunlight.; citation_author=Hersey  P, Haren G, Hasic E, Edwards A;J Immunol;  citation_year=1983;  citation_volume=31;  citation_pages=171-174; " /><meta name="citation_reference" content="citation_title=Studies on the mechanism of systemic suppression of contact hypersensitivity by UVB radiation, II: differences in the suppression of delayed and contact hypersensitivity in mice.; citation_author=Kripke  ML, Morison WL;J Invest Dermatol;  citation_year=1986;  citation_volume=86;  citation_pages=543-549; " /><meta name="citation_reference" content="citation_title=Suppression of contact hypersensitivity by UV radiation and its relationship to UV-induced suppression of tumor immunity.; citation_author=Noonan  FP, DeFabo EC, Kripke ML;Photochem Photobiol;  citation_year=1981;  citation_volume=34;  citation_pages=683-689; " /><meta name="citation_reference" content="citation_title=Effects of UVB on infectious disease.; citation_author=Giannini  MS; citation_book=Global Atmospheric Change and Public Health: Proceedings of the Center for Environmental Information. New York, NY: Elsevier; citation_year=1990; " /><meta name="citation_reference" content="citation_title=Framework for an integrated assessment of climatic change and ecosystem vulnerability.; citation_author=Epstein  PR; citation_book=Diseases in Evolution: Global Change and Emergence of Infectious Diseases. New York, NY: New York Academy of Science; citation_year=1994;  citation_pages=423-435; " /><meta name="citation_reference" content="citation_title=Global environmental change and human population health: conceptual and scientific challenge for epidemiology.; citation_author=McMichael  AJ;Int J Epidemiol;  citation_year=1993;  citation_volume=22;  citation_pages=1-8; " /><meta name="citation_reference" content="citation_title=The health impacts of global climate change: grappling with scenarios, predictive models, and multiple uncertainties.; citation_author=McMichael  AJ, Martens WJM;Ecosystem Health;  citation_year=1995;  citation_volume=1;  citation_pages=23-33; " /><meta name="citation_reference" content="citation_title=Impact of climate change on malaria vectors.; citation_author=Jetten  TH, Takken W;Change;  citation_year=1994;  citation_volume=18;  citation_pages=10-12; " /><meta name="citation_reference" content="citation_title=Assessing the public health effects of global warming: new and ongoing international efforts.; citation_author=Patz  JA;World Resource Rev;  citation_year=1995;  citation_volume=7;  citation_pages=104-112; " /><meta name="citation_reference" content="citation_author=Glass  GE, Aron JL, Ellis JH, Yoon SS; citation_book=Applications of GIS Technology to Disease Control. Baltimore, Md: The Johns Hopkins University; citation_year=1993; " /><meta name="citation_reference" content="citation_title=Application of remote sensing to arthropod vector surveillance and control.; citation_author=Washino  RK, Wood BL;Am J Trop Med Hyg;  citation_year=1994;  citation_volume=50;  citation_issue=suppl;  citation_pages=134-144; " /><meta name="citation_pdf_url" content="http://jama.jamanetwork.com.eres.library.manoa.hawaii.edu/data/journals/jama/9514/jama_275_3_032.pdf" />
+
+    
+                <title>Global Climate Change and Emerging Infectious Diseases | JAMA | The JAMA Network</title>
+
+    <meta name="description" content="Climatic factors influence the emergence and reemergence of infectious diseases, in addition to multiple human, biological, and ecological determinants. Climato">
+
+
+    <link rel="canonical" href="http://jamanetwork.com.eres.library.manoa.hawaii.edu/journals/jama/fullarticle/394508" />
+
+
+
+    
+    <script src="//ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js"></script>
+    <script>window.jQuery || document.write('<script src="UI/app/vendor/jquery-1.8.3.min.js">\x3C/script>')</script>
+    <script src="//amaprod.silverchaircdn.com/UI/app/dist/v-636227540043804911/head.min.js"></script>
+    <!-- Optimizely script --> <script src="https://cdn.optimizely.com/js/2785501806.js"></script> <!-- End Optimizely script -->    <div class="widget-WidgetLoader widget-instance-AMA_AdTag_HeaderScript">
+        
+    <meta class="SCM-SharedWidgets-AsyncHeaderAdLoader" data-url="/AMA/AdTag/AMA_AdTag_HeaderScript" data-params="{&quot;parameters&quot;:{&quot;siteName&quot;:&quot;jama&quot;,&quot;adDisplay&quot;:0,&quot;adSection&quot;:&quot;abstract&quot;,&quot;adPosition&quot;:&quot;&quot;},&quot;dynamicParameters&quot;:{&quot;localParams&quot;:&quot;[REPLACE_WITH_LOCAL]&quot;}}">
+ 
+    </div>
+</head>
+
+<body data-sitename="jama" class="pg_abstract" data-thm="jama">
+    
+    <a class="accessible" href="#skip-to-content">[Skip to Content]</a>
+
+    <!-- Google Tag Manager --><noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-WNKSNP" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript><script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start': new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0], j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src='//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f); })(window,document,'script','dataLayer','GTM-WNKSNP');</script><!-- End Google Tag Manager -->
+
+    
+    
+    <span class="hide tagmanagervalue" data-attribute="institutionId" data-value="000000695803" data-type="string"></span>
+    
+    <span class="hide tagmanagervalue" data-attribute="journalName" data-value="JAMA" data-type="string"></span>
+    <form method="post" action="./394508" id="webform" class="m0">
+<div class="aspNetHidden">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJODk2NDA3NzQ5D2QWAmYPZBYCZg9kFgZmD2QWBAIED2QWAgIBD2QWAmYPFgIeBFRleHQF3aICPG1ldGEgbmFtZT0iY2l0YXRpb25fYXV0aG9yIiBjb250ZW50PSJKb25hdGhhbiBBLiBQYXR6IiAvPjxtZXRhIG5hbWU9ImNpdGF0aW9uX2F1dGhvciIgY29udGVudD0iUGF1bCBSLiBFcHN0ZWluIiAvPjxtZXRhIG5hbWU9ImNpdGF0aW9uX2F1dGhvciIgY29udGVudD0iVGhvbWFzIEEuIEJ1cmtlIiAvPjxtZXRhIG5hbWU9ImNpdGF0aW9uX2F1dGhvciIgY29udGVudD0iSm9obiBNLiBCYWxidXMiIC8+PG1ldGEgbmFtZT0iY2l0YXRpb25fdGl0bGUiIGNvbnRlbnQ9Ikdsb2JhbCBDbGltYXRlIENoYW5nZSBhbmQgRW1lcmdpbmcgSW5mZWN0aW91cyBEaXNlYXNlcyIgLz48bWV0YSBuYW1lPSJjaXRhdGlvbl9maXJzdHBhZ2UiIGNvbnRlbnQ9IjIxNyIgLz48bWV0YSBuYW1lPSJjaXRhdGlvbl9sYXN0cGFnZSIgY29udGVudD0iMjIzIiAvPjxtZXRhIG5hbWU9ImNpdGF0aW9uX2RvaSIgY29udGVudD0iMTAuMTAwMS9qYW1hLjE5OTYuMDM1MzAyNzAwNTcwMzIiIC8+PG1ldGEgbmFtZT0iY2l0YXRpb25fYWJzdHJhY3QiIGNvbnRlbnQ9IiZsdDtwJmd0O0NsaW1hdGljIGZhY3RvcnMgaW5mbHVlbmNlIHRoZSBlbWVyZ2VuY2UgYW5kIHJlZW1lcmdlbmNlIG9mIGluZmVjdGlvdXMgZGlzZWFzZXMsIGluIGFkZGl0aW9uIHRvIG11bHRpcGxlIGh1bWFuLCBiaW9sb2dpY2FsLCBhbmQgZWNvbG9naWNhbCBkZXRlcm1pbmFudHMuIENsaW1hdG9sb2dpc3RzIGhhdmUgaWRlbnRpZmllZCB1cHdhcmQgdHJlbmRzIGluIGdsb2JhbCB0ZW1wZXJhdHVyZXMgYW5kIG5vdyBlc3RpbWF0ZSBhbiB1bnByZWNlZGVudGVkIHJpc2Ugb2YgMi4wJiMxNzY7QyBieSB0aGUgeWVhciAyMTAwLiBPZiBtYWpvciBjb25jZXJuIGlzIHRoYXQgdGhlc2UgY2hhbmdlcyBjYW4gYWZmZWN0IHRoZSBpbnRyb2R1Y3Rpb24gYW5kIGRpc3NlbWluYXRpb24gb2YgbWFueSBzZXJpb3VzIGluZmVjdGlvdXMgZGlzZWFzZXMuJmx0Oy9wJmd0OyZsdDtwJmd0O1RoZSBpbmNpZGVuY2Ugb2YgbW9zcXVpdG8tYm9ybmUgZGlzZWFzZXMsIGluY2x1ZGluZyBtYWxhcmlhLCBkZW5ndWUsIGFuZCB2aXJhbCBlbmNlcGhhbGl0aWRlcywgYXJlIGFtb25nIHRob3NlIGRpc2Vhc2VzIG1vc3Qgc2Vuc2l0aXZlIHRvIGNsaW1hdGUuIENsaW1hdGUgY2hhbmdlIHdvdWxkIGRpcmVjdGx5IGFmZmVjdCBkaXNlYXNlIHRyYW5zbWlzc2lvbiBieSBzaGlmdGluZyB0aGUgdmVjdG9yJiMzOTtzIGdlb2dyYXBoaWMgcmFuZ2UgYW5kIGluY3JlYXNpbmcgcmVwcm9kdWN0aXZlIGFuZCBiaXRpbmcgcmF0ZXMgYW5kIGJ5IHNob3J0ZW5pbmcgdGhlIHBhdGhvZ2VuIGluY3ViYXRpb24gcGVyaW9kLiBDbGltYXRlLXJlbGF0ZWQgaW5jcmVhc2VzIGluIHNlYSBzdXJmYWNlIHRlbXBlcmF0dXJlIGFuZCBzZWEgbGV2ZWwgY2FuIGxlYWQgdG8gaGlnaGVyIGluY2lkZW5jZSBvZiB3YXRlci1ib3JuZSBpbmZlY3Rpb3VzIGFuZCB0b3hpbi1yZWxhdGVkIGlsbG5lc3Nlcywgc3VjaCBhcyBjaG9sZXJhIGFuZCBzaGVsbGZpc2ggcG9pc29uaW5nLiBIdW1hbiBtaWdyYXRpb24gYW5kIGRhbWFnZSB0byBoZWFsdGggaW5mcmFzdHJ1Y3R1cmVzIGZyb20gdGhlIHByb2plY3RlZCBpbmNyZWFzZSBpbiBjbGltYXRlIHZhcmlhYmlsaXR5IGNvdWxkIGluZGlyZWN0bHkgY29udHJpYnV0ZSB0byBkaXNlYXNlIHRyYW5zbWlzc2lvbi4gSHVtYW4gc3VzY2VwdGliaWxpdHkgdG8gaW5mZWN0aW9ucyBtaWdodCBiZSBmdXJ0aGVyIGNvbXBvdW5kZWQgYnkgbWFsbnV0cml0aW9uIGR1ZSB0byBjbGltYXRlIHN0cmVzcyBvbiBhZ3JpY3VsdHVyZSBhbmQgcG90ZW50aWFsIGFsdGVyYXRpb25zIGluIHRoZSBodW1hbiBpbW11bmUgc3lzdGVtIGNhdXNlZCBieSBpbmNyZWFzZWQgZmx1eCBvZiB1bHRyYXZpb2xldCByYWRpYXRpb24uJmx0Oy9wJmd0OyZsdDtwJmd0O0FuYWx5emluZyB0aGUgcm9sZSBvZiBjbGltYXRlIGluIHRoZSBlbWVyZ2VuY2Ugb2YgaHVtYW4gaW5mZWN0aW91cyBkaXNlYXNlcyB3aWxsIHJlcXVpcmUgaW50ZXJkaXNjaXBsaW5hcnkgY29vcGVyYXRpb24gYW1vbmcgcGh5c2ljaWFucywgY2xpbWF0b2xvZ2lzdHMsIGJpb2xvZ2lzdHMsIGFuZCBzb2NpYWwgc2NpZW50aXN0cy4gSW5jcmVhc2VkIGRpc2Vhc2Ugc3VydmVpbGxhbmNlLCBpbnRlZ3JhdGVkIG1vZGVsaW5nLCBhbmQgdXNlIG9mIGdlb2dyYXBoaWNhbGx5IGJhc2VkIGRhdGEgc3lzdGVtcyB3aWxsIGFmZm9yZCBtb3JlIGFudGljaXBhdG9yeSBtZWFzdXJlcyBieSB0aGUgbWVkaWNhbCBjb21tdW5pdHkuIFVuZGVyc3RhbmRpbmcgdGhlIGxpbmthZ2VzIGJldHdlZW4gY2xpbWF0b2xvZ2ljYWwgYW5kIGVjb2xvZ2ljYWwgY2hhbmdlIGFzIGRldGVybWluYW50cyBvZiBkaXNlYXNlIGVtZXJnZW5jZSBhbmQgcmVkaXN0cmlidXRpb24gd2lsbCB1bHRpbWF0ZWx5IGhlbHAgb3B0aW1pemUgcHJldmVudGl2ZSBzdHJhdGVnaWVzLiZsdDsvcCZndDsmbHQ7cCZndDsoJmx0O2kmZ3Q7SkFNQSZsdDsvaSZndDsuIDE5OTU7Mjc1OjIxNy0yMjMpJmx0Oy9wJmd0OyIgLz48bWV0YSBuYW1lPSJjaXRhdGlvbl9qb3VybmFsX3RpdGxlIiBjb250ZW50PSJKQU1BIiAvPjxtZXRhIG5hbWU9ImNpdGF0aW9uX2pvdXJuYWxfYWJicmV2IiBjb250ZW50PSJKQU1BIiAvPjxtZXRhIG5hbWU9ImNpdGF0aW9uX3ZvbHVtZSIgY29udGVudD0iMjc1IiAvPjxtZXRhIG5hbWU9ImNpdGF0aW9uX2lzc3VlIiBjb250ZW50PSIzIiAvPjxtZXRhIG5hbWU9ImNpdGF0aW9uX3B1YmxpY2F0aW9uX2RhdGUiIGNvbnRlbnQ9IjE5OTYvMDEvMTciIC8+PG1ldGEgbmFtZT0iY2l0YXRpb25faXNzbiIgY29udGVudD0iMDA5OC03NDg0IiAvPjxtZXRhIG5hbWU9ImNpdGF0aW9uX3B1Ymxpc2hlciIgY29udGVudD0iQW1lcmljYW4gTWVkaWNhbCBBc3NvY2lhdGlvbiIgLz48bWV0YSBuYW1lPSJjaXRhdGlvbl9yZWZlcmVuY2UiIGNvbnRlbnQ9ImNpdGF0aW9uX2F1dGhvcj1DZW50ZXJzIGZvciBEaXNlYXNlIENvbnRyb2wgYW5kIFByZXZlbnRpb24gIDsgY2l0YXRpb25fYm9vaz1BZGRyZXNzaW5nIGVtZXJnaW5nIGluZmVjdGlvdXMgZGlzZWFzZSB0aHJlYXRzOiBhIHByZXZlbnRpb24gc3RyYXRlZ3kgZm9yIHRoZSBVbml0ZWQgU3RhdGVzLiBBdGxhbnRhLCBHYTogVVMgRGVwdCBIZWFsdGggYW5kIEh1bWFuIFNlcnZpY2VzLCBQdWJsaWMgSGVhbHRoIFNlcnZpY2U7IGNpdGF0aW9uX3llYXI9MTk5NDsgIiAvPjxtZXRhIG5hbWU9ImNpdGF0aW9uX3JlZmVyZW5jZSIgY29udGVudD0iY2l0YXRpb25fYXV0aG9yPUxlZGVyYmVyZyAgSiwgU2hvcGUgUkUsIE9ha3MgU0MgSnIsIGVkczsgY2l0YXRpb25fYm9vaz1FbWVyZ2luZyBJbmZlY3Rpb25zOiBNaWNyb2JpYWwgVGhyZWF0cyB0byBIZWFsdGggaW4gdGhlIFVuaXRlZCBTdGF0ZXMuIFdhc2hpbmd0b24sIERDOiBJbnN0aXR1dGUgb2YgTWVkaWNpbmUsIE5hdGlvbmFsIEFjYWRlbXkgUHJlc3M7IGNpdGF0aW9uX3llYXI9MTk5MjsgIiAvPjxtZXRhIG5hbWU9ImNpdGF0aW9uX3JlZmVyZW5jZSIgY29udGVudD0iY2l0YXRpb25fdGl0bGU9RmFjdG9ycyBpbiB0aGUgZW1lcmdlbmNlIG9mIGluZmVjdGlvdXMgZGlzZWFzZXMuOyBjaXRhdGlvbl9hdXRob3I9TW9yc2UgIFM7RW1lcmdpbmcgSW5mZWN0IERpczsgIGNpdGF0aW9uX3llYXI9MTk5NTsgIGNpdGF0aW9uX3ZvbHVtZT0xOyAgY2l0YXRpb25fcGFnZXM9Ny0xNTsgIiAvPjxtZXRhIG5hbWU9ImNpdGF0aW9uX3JlZmVyZW5jZSIgY29udGVudD0iY2l0YXRpb25fYXV0aG9yPUhvdWdodG9uICBKVCwgSmVua2lucyBHSiwgRXBocmF1bXMgSkosIGVkczsgY2l0YXRpb25fYm9vaz1DbGltYXRlIENoYW5nZTogVGhlIElQQ0MgU2NpZW50aWZpYyBBc3Nlc3NtZW50LiBDYW1icmlkZ2UsIEVuZ2xhbmQ6IENhbWJyaWRnZSBVbml2ZXJzaXR5IFByZXNzOyBjaXRhdGlvbl95ZWFyPTE5OTA7ICIgLz48bWV0YSBuYW1lPSJjaXRhdGlvbl9yZWZlcmVuY2UiIGNvbnRlbnQ9ImNpdGF0aW9uX2F1dGhvcj1Ib3VnaHRvbiAgSlQsIENhbGxhbmRlciBCQSwgVmFybmV5IFNLLCBlZHM7IGNpdGF0aW9uX2Jvb2s9Q2xpbWF0ZSBDaGFuZ2UgMTk5MjogVGhlIFN1cHBsZW1lbnRhcnkgUmVwb3J0IHRvIHRoZSBJUENDIFNjaWVudGlmaWMgQXNzZXNzbWVudC4gQ2FtYnJpZGdlLCBFbmdsYW5kOiBDYW1icmlkZ2UgVW5pdmVyc2l0eSBQcmVzczsgY2l0YXRpb25feWVhcj0xOTkyOyAiIC8+PG1ldGEgbmFtZT0iY2l0YXRpb25fcmVmZXJlbmNlIiBjb250ZW50PSJjaXRhdGlvbl9hdXRob3I9SW50ZXJnb3Zlcm5tZW50YWwgUGFuZWwgb24gQ2xpbWF0ZSBDaGFuZ2UgIDtDbGltYXRlIENoYW5nZTogVGhlIFNlY29uZCBJUENDIFNjaWVudGlmaWMgQXNzZXNzbWVudDsgIiAvPjxtZXRhIG5hbWU9ImNpdGF0aW9uX3JlZmVyZW5jZSIgY29udGVudD0iY2l0YXRpb25fdGl0bGU9VHJlbmRzIGluIFUuUy4gY2xpbWF0ZSBkdXJpbmcgdGhlIDIwdGggY2VudHVyeS47IGNpdGF0aW9uX2F1dGhvcj1LYXJsICBUUiwgS25pZ2h0IFJXLCBFYXN0ZXJsaW5nIERSLCBRdWF5bGUgUkc7Q29uc2VxdWVuY2VzOyAgY2l0YXRpb25feWVhcj0xOTk1OyAgY2l0YXRpb25fdm9sdW1lPTE7ICBjaXRhdGlvbl9wYWdlcz0zLTEyOyAiIC8+PG1ldGEgbmFtZT0iY2l0YXRpb25fcmVmZXJlbmNlIiBjb250ZW50PSJjaXRhdGlvbl90aXRsZT1UcmVuZHMgaW4gaGlnaC1mcmVxdWVuY3kgY2xpbWF0ZSB2YXJpYWJpbGl0eSBpbiB0aGUgdHdlbnRpZXRoIGNlbnR1cnkuOyBjaXRhdGlvbl9hdXRob3I9S2FybCAgVFIsIEtuaWdodCBSVywgUGx1bW1lciBOO05hdHVyZTsgIGNpdGF0aW9uX3llYXI9MTk5NTsgIGNpdGF0aW9uX3ZvbHVtZT0zNzc7ICBjaXRhdGlvbl9wYWdlcz0yMTctMjIwOyAiIC8+PG1ldGEgbmFtZT0iY2l0YXRpb25fcmVmZXJlbmNlIiBjb250ZW50PSJjaXRhdGlvbl90aXRsZT1DbGltYXRlIHJlc3BvbnNlIHRvIGluY3JlYXNpbmcgbGV2ZWxzIG9mIGdyZWVuaG91c2UgZ2FzZXMgYW5kIHN1bHBoYXRlIGFlcm9zb2xzLjsgY2l0YXRpb25fYXV0aG9yPU1pdGNoZWxsICBKRkIsIEpvaG5zIFRDLCBHcmVnb3J5IEpNLCBUZXR0IFNGQjtOYXR1cmU7ICBjaXRhdGlvbl95ZWFyPTE5OTU7ICBjaXRhdGlvbl92b2x1bWU9Mzc2OyAgY2l0YXRpb25fcGFnZXM9NTAxLTUwNDsgIiAvPjxtZXRhIG5hbWU9ImNpdGF0aW9uX3JlZmVyZW5jZSIgY29udGVudD0iY2l0YXRpb25fdGl0bGU9SW1wbGljYXRpb25zIGZvciBjbGltYXRlIGFuZCBzZWEgbGV2ZWwgb2YgcmV2aXNlZCBJUENDIGVtaXNzaW9ucyBzY2VuYXJpb3MuOyBjaXRhdGlvbl9hdXRob3I9V2lnbGV5ICBUTUwsIFJhcGVyIFNDQjtOYXR1cmU7ICBjaXRhdGlvbl95ZWFyPTE5OTI7ICBjaXRhdGlvbl92b2x1bWU9MzU3OyAgY2l0YXRpb25fcGFnZXM9MjkzLTMwMDsgIiAvPjxtZXRhIG5hbWU9ImNpdGF0aW9uX3JlZmVyZW5jZSIgY29udGVudD0iY2l0YXRpb25fdGl0bGU9QSBuZXcgSGFudGF2aXJ1cyBpbmZlY3Rpb24gaW4gTm9ydGggQW1lcmljYS47IGNpdGF0aW9uX2F1dGhvcj1XZW56ZWwgIFJQO04gRW5nbCBKIE1lZDsgIGNpdGF0aW9uX3llYXI9MTk5NDsgIGNpdGF0aW9uX3ZvbHVtZT0zMzA7ICBjaXRhdGlvbl9wYWdlcz0xMDA0LTEwMDU7ICIgLz48bWV0YSBuYW1lPSJjaXRhdGlvbl9yZWZlcmVuY2UiIGNvbnRlbnQ9ImNpdGF0aW9uX3RpdGxlPVRoZSBlbWVyZ2VuY2Ugb2YgbmV3IGRpc2Vhc2VzLjsgY2l0YXRpb25fYXV0aG9yPUxldmlucyAgUiwgQXdlcmJ1Y2ggVCwgQnJpbmttYW5uIFUsIGV0IGFsO0FtIFNjaTsgIGNpdGF0aW9uX3llYXI9MTk5NDsgIGNpdGF0aW9uX3ZvbHVtZT04MjsgIGNpdGF0aW9uX3BhZ2VzPTUyLTYwOyAiIC8+PG1ldGEgbmFtZT0iY2l0YXRpb25fcmVmZXJlbmNlIiBjb250ZW50PSJjaXRhdGlvbl90aXRsZT1UaGUgbW91c2UtcGlub24gbnV0IGNvbm5lY3Rpb24uOyBjaXRhdGlvbl9hdXRob3I9U3RvbmUgIFI7U2NpZW5jZTsgIGNpdGF0aW9uX3llYXI9MTk5MzsgIGNpdGF0aW9uX3ZvbHVtZT0yNjI7ICBjaXRhdGlvbl9wYWdlcz04MzM7ICIgLz48bWV0YSBuYW1lPSJjaXRhdGlvbl9yZWZlcmVuY2UiIGNvbnRlbnQ9ImNpdGF0aW9uX3RpdGxlPU1lbmluZ29jb2NjYWwgbWVuaW5naXRpcyBpbiBzdWItU2FoYXJhbiBBZnJpY2E6IGEgbW9kZWwgZm9yIHRoZSBlcGlkZW1pYyBwcm9jZXNzLjsgY2l0YXRpb25fYXV0aG9yPU1vb3JlICBQUztDbGluIEluZmVjdCBEaXM7ICBjaXRhdGlvbl95ZWFyPTE5OTI7ICBjaXRhdGlvbl92b2x1bWU9MTQ7ICBjaXRhdGlvbl9wYWdlcz01MTUtNTI1OyAiIC8+PG1ldGEgbmFtZT0iY2l0YXRpb25fcmVmZXJlbmNlIiBjb250ZW50PSJjaXRhdGlvbl90aXRsZT1NZW5pbmdvY29jY2FsIGRpc2Vhc2UgYW5kIHNlYXNvbiBpbiBzdWItU2FoYXJhbiBBZnJpY2EuOyBjaXRhdGlvbl9hdXRob3I9R3JlZW53b29kICBCTSwgQmxha2Vicm91Z2ggSVMsIEJyYWRsZXkgQUssIFdhbGkgUywgV2hpdHRsZSBIQztMYW5jZXQ7ICBjaXRhdGlvbl95ZWFyPTE5ODQ7ICBjaXRhdGlvbl92b2x1bWU9MTsgIGNpdGF0aW9uX3BhZ2VzPTEzMzktMTM0MjsgIiAvPjxtZXRhIG5hbWU9ImNpdGF0aW9uX3JlZmVyZW5jZSIgY29udGVudD0iY2l0YXRpb25fYXV0aG9yPURvYnNvbiAgQSwgQ2FycGVyIFI7IGNpdGF0aW9uX2Jvb2s9R2xvYmFsIFdhcm1pbmcgYW5kIEJpb2xvZ2ljYWwgRGl2ZXJzaXR5LiBOZXcgSGF2ZW4sIENvbm46IFlhbGUgVW5pdmVyc2l0eSBQcmVzczsgY2l0YXRpb25feWVhcj0xOTkyOyAiIC8+PG1ldGEgbmFtZT0iY2l0YXRpb25fcmVmZXJlbmNlIiBjb250ZW50PSJjaXRhdGlvbl90aXRsZT1CaW9kaXZlcnNpdHkuOyBjaXRhdGlvbl9hdXRob3I9RG9ic29uICBBLCBDYXJwZXIgUjtMYW5jZXQ7ICBjaXRhdGlvbl95ZWFyPTE5OTM7ICBjaXRhdGlvbl92b2x1bWU9MzQyOyAgY2l0YXRpb25fcGFnZXM9MTA5Ni0xMDk5OyAiIC8+PG1ldGEgbmFtZT0iY2l0YXRpb25fcmVmZXJlbmNlIiBjb250ZW50PSJjaXRhdGlvbl90aXRsZT1UaGUgcG90ZW50aWFsIGltcGFjdCBvZiBjbGltYXRlIGNoYW5nZSBvbiBwYXR0ZXJucyBvZiBpbmZlY3Rpb3VzIGRpc2Vhc2UgaW4gdGhlIFVuaXRlZCBTdGF0ZXMuOyBjaXRhdGlvbl9hdXRob3I9TG9uZ3N0cmV0aCAgSiwgV2lzZW1hbiBKOyBjaXRhdGlvbl9ib29rPVRoZSBQb3RlbnRpYWwgRWZmZWN0cyBvZiBHbG9iYWwgQ2xpbWF0ZSBDaGFuZ2UgaW4gdGhlIFVuaXRlZCBTdGF0ZXMuIFdhc2hpbmd0b24sIERDOiBVUyBFbnZpcm9ubWVudGFsIFByb3RlY3Rpb24gQWdlbmN5OyBjaXRhdGlvbl95ZWFyPTE5ODk7ICIgLz48bWV0YSBuYW1lPSJjaXRhdGlvbl9yZWZlcmVuY2UiIGNvbnRlbnQ9ImNpdGF0aW9uX3RpdGxlPUluZmVjdGlvdXMgZGlzZWFzZXMgYW5kIGF0bW9zcGhlcmljIGNoYW5nZS47IGNpdGF0aW9uX2F1dGhvcj1TaG9wZSAgUkU7IGNpdGF0aW9uX2Jvb2s9R2xvYmFsIEF0bW9zcGhlcmljIENoYW5nZSBhbmQgUHVibGljIEhlYWx0aDogUHJvY2VlZGluZ3Mgb2YgdGhlIENlbnRlciBmb3IgRW52aXJvbm1lbnRhbCBJbmZvcm1hdGlvbi4gTmV3IFlvcmssIE5ZOiBFbHNldmllcjsgY2l0YXRpb25feWVhcj0xOTkwOyAiIC8+PG1ldGEgbmFtZT0iY2l0YXRpb25fcmVmZXJlbmNlIiBjb250ZW50PSJjaXRhdGlvbl90aXRsZT1UaGUgaW5mbHVlbmNlIG9mIHRlbXBlcmF0dXJlIG9uIGVhcmx5IFBsYXNtb2RpdW0gZmFsY2lwYXJ1bSBkZXZlbG9wbWVudCBpbiBBbm9waGVsZXMgc3RlcGhlbnNpLjsgY2l0YXRpb25fYXV0aG9yPU5vZGVuICBCSCwgS2VudCBNRCwgQmVpZXIgSkM7UGFyaXNpdG9sb2d5OyAiIC8+PG1ldGEgbmFtZT0iY2l0YXRpb25fcmVmZXJlbmNlIiBjb250ZW50PSJjaXRhdGlvbl90aXRsZT1GYWN0b3JzIGluZmx1ZW5jaW5nIHRoZSB1bmV2ZW4gZGlzdHJpYnV0aW9uIG9mIEFlZGVzIGFlZ3lwdGkgaW4gVGV4YXMgY2l0aWVzLjsgY2l0YXRpb25fYXV0aG9yPUNoYW5kbGVyICBBQztBbSBKIFRyb3AgTWVkIEh5ZzsgIGNpdGF0aW9uX3llYXI9MTk0NTsgIGNpdGF0aW9uX3ZvbHVtZT0yNTsgIGNpdGF0aW9uX3BhZ2VzPTE0NS0xNDk7ICIgLz48bWV0YSBuYW1lPSJjaXRhdGlvbl9yZWZlcmVuY2UiIGNvbnRlbnQ9ImNpdGF0aW9uX3RpdGxlPUdsb2JhbCBjbGltYXRlIGNoYW5nZSBhbmQgaW5mZWN0aW91cyBkaXNlYXNlcy47IGNpdGF0aW9uX2F1dGhvcj1TaG9wZSAgUkU7RW52aXJvbiBIZWFsdGggUGVyc3BlY3Q7ICBjaXRhdGlvbl95ZWFyPTE5OTE7ICBjaXRhdGlvbl92b2x1bWU9OTY7ICBjaXRhdGlvbl9wYWdlcz0xNzEtMTc0OyAiIC8+PG1ldGEgbmFtZT0iY2l0YXRpb25fcmVmZXJlbmNlIiBjb250ZW50PSJjaXRhdGlvbl90aXRsZT1BIG5ldyBwZXJzcGVjdGl2ZSBvbiBnbG9iYWwgd2FybWluZzogYXN5bW1ldHJpYyB0cmVuZHMgb2YgZGFpbHkgbWF4aW11bSBhbmQgbWluaW51bSB0ZW1wZXJhdHVyZXMuOyBjaXRhdGlvbl9hdXRob3I9S2FybCAgVFIsIEpvbmVzIFBELCBLbmlnaHQgUlcsIGV0IGFsO0J1bGwgQW0gTWV0ZW9yb2wgU29jOyAgY2l0YXRpb25feWVhcj0xOTkzOyAgY2l0YXRpb25fdm9sdW1lPTc0OyAgY2l0YXRpb25fcGFnZXM9MTAwNy0xMDIzOyAiIC8+PG1ldGEgbmFtZT0iY2l0YXRpb25fcmVmZXJlbmNlIiBjb250ZW50PSJjaXRhdGlvbl90aXRsZT1JbnRyb2R1Y3Rpb24uOyBjaXRhdGlvbl9hdXRob3I9QmFybm9sYSAgSk0sIFJheW5hdWQgRCwgTG9yaXVzIEMsIEtvcm90a2V2aWNoIFlTOyBjaXRhdGlvbl9ib29rPVRyZW5kcyAnOTM6IEEgQ29tcGVuZGl1bSBvZiBEYXRhIG9uIEdsb2JhbCBDaGFuZ2UuIE9hayBSaWRnZSwgVGVubjogQ2FyYm9uIERpb3hpZGUgSW5mb3JtYXRpb24gQW5hbHlzaXMgQ2VudGVyLCBPYWsgUmlkZ2UgTmF0aW9uYWwgTGFib3JhdG9yeTsgY2l0YXRpb25feWVhcj0xOTk0OyAiIC8+PG1ldGEgbmFtZT0iY2l0YXRpb25fcmVmZXJlbmNlIiBjb250ZW50PSJjaXRhdGlvbl9hdXRob3I9SW50ZXJnb3Zlcm5tZW50YWwgUGFuZWwgb24gQ2xpbWF0ZSBDaGFuZ2UgIDsgY2l0YXRpb25fYm9vaz1SYWRpYXRpdmUgRm9yY2luZyBvZiBDbGltYXRlIENoYW5nZSwgdGhlIDE5OTQgUmVwb3J0IG9mIHRoZSBTY2llbnRpZmljIEFzc2Vzc21lbnQgV29ya2luZyBHcm91cCBvZiBJUENDOiBTdW1tYXJ5IGZvciBQb2xpY3kgTWFrZXJzLiBPeGZvcmQsIEVuZ2xhbmQ6IE94Zm9yZCBVbml2ZXJzaXR5IFByZXNzOyBjaXRhdGlvbl95ZWFyPTE5OTQ7ICIgLz48bWV0YSBuYW1lPSJjaXRhdGlvbl9yZWZlcmVuY2UiIGNvbnRlbnQ9ImNpdGF0aW9uX3RpdGxlPVN0b3JtIHdhcm5pbmdzOiBjbGltYXRlIGNoYW5nZSBoaXRzIHRoZSBpbnN1cmFuY2UgaW5kdXN0cnkuOyBjaXRhdGlvbl9hdXRob3I9RmxhdmluICBDO1dvcmxkIFdhdGNoOyAgY2l0YXRpb25feWVhcj0xOTk0OyAgY2l0YXRpb25fdm9sdW1lPTc7ICBjaXRhdGlvbl9wYWdlcz0xMC0yMDsgIiAvPjxtZXRhIG5hbWU9ImNpdGF0aW9uX3JlZmVyZW5jZSIgY29udGVudD0iY2l0YXRpb25fdGl0bGU9R2xvYmFsIHNlYSBsZXZlbCByaXNlOiBwYXN0IGFuZCBmdXR1cmUuOyBjaXRhdGlvbl9hdXRob3I9UmFwZXIgIFNDQiwgV2lnbGV5IFRNTCwgV2FycmljayBSQTsgY2l0YXRpb25fYm9vaz1SaXNpbmcgU2VhIExldmVsIGFuZCBTdWJzaWRpbmcgQ29hc3RhbCBBcmVhcy4gRG9yZHJlY2h0LCBUaGUgTmV0aGVybGFuZHM6IEtsdXdlciBBY2FkZW1pYyBQdWJsaXNoZXI7IGNpdGF0aW9uX3llYXI9MTk5NTsgIiAvPjxtZXRhIG5hbWU9ImNpdGF0aW9uX3JlZmVyZW5jZSIgY29udGVudD0iY2l0YXRpb25fdGl0bGU9UmlzaW5nIHRlbXBlcmF0dXJlcyBpbiB0aGUgc3VidHJvcGljYWwgTm9ydGggQXRsYW50aWMgT2NlYW4gb3ZlciB0aGUgcGFzdCAzNSB5ZWFycy47IGNpdGF0aW9uX2F1dGhvcj1QYXJyaWxsYSAgRywgTGF2aW4gQSwgQm95ZGVuIEgsIEdhcmNpYSBNLCBNaWxsYXJkIFI7TmF0dXJlOyAgY2l0YXRpb25feWVhcj0xOTk0OyAgY2l0YXRpb25fdm9sdW1lPTM2OTsgIGNpdGF0aW9uX3BhZ2VzPTIwNC0yMDc7ICIgLz48bWV0YSBuYW1lPSJjaXRhdGlvbl9yZWZlcmVuY2UiIGNvbnRlbnQ9ImNpdGF0aW9uX2F1dGhvcj1UaXR1cyAgSkcsIE5hcmF5bmFuIFZLLCBlZHM7IGNpdGF0aW9uX2Jvb2s9VGhlIFByb2JhYmlsaXR5IG9mIFNlYSBMZXZlbCBSaXNlLiBXYXNoaW5ndG9uLCBEQzogVVMgRW52aXJvbm1lbnRhbCBQcm90ZWN0aW9uIEFnZW5jeTsgT2N0b2JlciBjaXRhdGlvbl95ZWFyPTE5OTU7ICIgLz48bWV0YSBuYW1lPSJjaXRhdGlvbl9yZWZlcmVuY2UiIGNvbnRlbnQ9ImNpdGF0aW9uX3RpdGxlPUEgbGFyZ2UgTm9ydGhlcm4gSGVtaXNwaGVyZSB0ZXJyZXN0cmlhbCBDTzIgc2luayBpbmRpY2F0ZWQgYnkgdGhlIDEzQy8xMkMgcmF0aW8gb2YgYXRtb3NwaGVyaWMgQ08yLjsgY2l0YXRpb25fYXV0aG9yPUNpYWlzICBQLCBUYW5zIFBQLCBUcm9saWVyIE0sIFdoaXRlIEpXQywgRnJhbmNleSBSSjtTY2llbmNlOyAgY2l0YXRpb25feWVhcj0xOTk1OyAgY2l0YXRpb25fdm9sdW1lPTI2OTsgIGNpdGF0aW9uX3BhZ2VzPTEwOTgtMTEwMjsgIiAvPjxtZXRhIG5hbWU9ImNpdGF0aW9uX3JlZmVyZW5jZSIgY29udGVudD0iY2l0YXRpb25fYXV0aG9yPVdvcmxkIEhlYWx0aCBPcmdhbml6YXRpb24gIDsgY2l0YXRpb25fYm9vaz1Qb3RlbnRpYWwgSGVhbHRoIEVmZmVjdHMgb2YgQ2xpbWF0aWMgQ2hhbmdlLiBHZW5ldmEsIFN3aXR6ZXJsYW5kOiBXb3JsZCBIZWFsdGggT3JnYW5pemF0aW9uOyBjaXRhdGlvbl95ZWFyPTE5OTA7ICIgLz48bWV0YSBuYW1lPSJjaXRhdGlvbl9yZWZlcmVuY2UiIGNvbnRlbnQ9ImNpdGF0aW9uX2F1dGhvcj1Xb3JsZCBIZWFsdGggT3JnYW5pemF0aW9uICA7IGNpdGF0aW9uX2Jvb2s9Q2xpbWF0ZSBDaGFuZ2UgYW5kIEh1bWFuIEhlYWx0aC4gR2VuZXZhLCBTd2l0emVybGFuZDogV29ybGQgSGVhbHRoIE9yZ2FuaXphdGlvbi4gSW4gcHJlc3MuIiAvPjxtZXRhIG5hbWU9ImNpdGF0aW9uX3JlZmVyZW5jZSIgY29udGVudD0iY2l0YXRpb25fYXV0aG9yPU9ha3MgIFNDIEpyLCBNaXRjaGVsbCBWUywgUGVhcnNvbiBHVywgQ2FycGVudGVyIENDLCBlZHM7IGNpdGF0aW9uX2Jvb2s9TWFsYXJpYTogT2JzdGFjbGVzIGFuZCBPcHBvcnR1bml0aWVzLiBXYXNoaW5ndG9uLCBEQzogSW5zdGl0dXRlIG9mIE1lZGljaW5lLCBOYXRpb25hbCBBY2FkZW15IFByZXNzOyBjaXRhdGlvbl95ZWFyPTE5OTE7ICIgLz48bWV0YSBuYW1lPSJjaXRhdGlvbl9yZWZlcmVuY2UiIGNvbnRlbnQ9ImNpdGF0aW9uX3RpdGxlPUVwaWRlbWlvbG9neSBvZiBtYWxhcmlhLjsgY2l0YXRpb25fYXV0aG9yPUdpbGxlcyAgSE07IGNpdGF0aW9uX2Jvb2s9QnJ1Y2UtQ2h3YXR0J3MgRXNzZW50aWFsIE1hbGFyaW9sb2d5LiBMb25kb24sIEVuZ2xhbmQ6IEVkd2FyZCBBcm5vbGQ7IGNpdGF0aW9uX3llYXI9MTk5MzsgIiAvPjxtZXRhIG5hbWU9ImNpdGF0aW9uX3JlZmVyZW5jZSIgY29udGVudD0iY2l0YXRpb25fdGl0bGU9SW5zZWN0aWNpZGUgcmVzaXN0YW5jZSBhcyBhIGZhY3RvciBpbiB0aGUgaW50ZWdyYXRlZCBjb250cm9sIG9mIEN1bGljaWRhZS47IGNpdGF0aW9uX2F1dGhvcj1Ccm93biAgQVdBOyBjaXRhdGlvbl9ib29rPUludGVncmF0ZWQgTW9zcXVpdG8gQ29udHJvbCBNZXRob2RvbG9naWVzLiBOZXcgWW9yaywgTlk6IEFjYWRlbWljIFByZXNzOyBjaXRhdGlvbl95ZWFyPTE5ODM7ICBjaXRhdGlvbl9wYWdlcz0xNjEtMjM1OyAiIC8+PG1ldGEgbmFtZT0iY2l0YXRpb25fcmVmZXJlbmNlIiBjb250ZW50PSJjaXRhdGlvbl90aXRsZT1SYW5kb21pc2VkIHRyaWFsIG9mIGVmZmljYWN5IG9mIFNQZjY2IHZhY2NpbmUgYWdhaW5zdCBQbGFzbW9kaXVtIGZhbGNpcGFydW0gbWFsYXJpYSBpbiBjaGlsZHJlbiBpbiBzb3V0aGVybiBUYW56YW5pYS47IGNpdGF0aW9uX2F1dGhvcj1BbG9uc28gIFBMLCBTbWl0aCBULCBBcm1zdHJvbmcgU2NoZWxsZW5iZXJnIEpSTSwgZXQgYWw7TGFuY2V0OyAgY2l0YXRpb25feWVhcj0xOTk0OyAgY2l0YXRpb25fdm9sdW1lPTM0NDsgIGNpdGF0aW9uX3BhZ2VzPTExNzUtMTE4MTsgIiAvPjxtZXRhIG5hbWU9ImNpdGF0aW9uX3JlZmVyZW5jZSIgY29udGVudD0iY2l0YXRpb25fdGl0bGU9VmFjY2luYXRpb24gd2l0aCBTUGY2NiwgYSBjaGVtaWNhbGx5IHN5bnRoZXNpemVkIHZhY2NpbmUsIGFnYWluc3QgUGxhc21vZGl1bSBmYWxjaXBhcnVtIG1hbGFyaWEgaW4gQ29sdW1iaWEuOyBjaXRhdGlvbl9hdXRob3I9VmFsZXJvICBNViwgQW1hZG9yIExSLCBHYWxpbmRvIEMsIGV0IGFsO0xhbmNldDsgIGNpdGF0aW9uX3llYXI9MTk5MzsgIGNpdGF0aW9uX3ZvbHVtZT0zNDE7ICBjaXRhdGlvbl9wYWdlcz03MDUtNzEwOyAiIC8+PG1ldGEgbmFtZT0iY2l0YXRpb25fcmVmZXJlbmNlIiBjb250ZW50PSJjaXRhdGlvbl90aXRsZT1CYXNpYyBzY2llbmNlIG9mIGNsaW1hdGUgY2hhbmdlLjsgY2l0YXRpb25fYXV0aG9yPU1hc2tlbGwgIEssIE1pbnR6ZXIgSU0sIENhbGxhbmRlciBCO0xhbmNldDsgIGNpdGF0aW9uX3llYXI9MTk5MzsgIGNpdGF0aW9uX3ZvbHVtZT0zNDI7ICBjaXRhdGlvbl9wYWdlcz0xMDI3LTEwMzE7ICIgLz48bWV0YSBuYW1lPSJjaXRhdGlvbl9yZWZlcmVuY2UiIGNvbnRlbnQ9ImNpdGF0aW9uX3RpdGxlPUNsaW1hdGljIHdhcm1pbmcgYW5kIGluY3JlYXNlZCBtYWxhcmlhIGluY2lkZW5jZSBpbiBSd2FuZGEuOyBjaXRhdGlvbl9hdXRob3I9TG9ldmluc29obiAgTTtMYW5jZXQ7ICBjaXRhdGlvbl95ZWFyPTE5OTQ7ICBjaXRhdGlvbl92b2x1bWU9MzQzOyAgY2l0YXRpb25fcGFnZXM9NzE0LTcxODsgIiAvPjxtZXRhIG5hbWU9ImNpdGF0aW9uX3JlZmVyZW5jZSIgY29udGVudD0iY2l0YXRpb25fdGl0bGU9QSByZXZpZXcgb2YgdGhlIG1hbGFyaWEgc2l0dWF0aW9uIGluIFppbWJhYndlIHdpdGggc3BlY2lhbCByZWZlcmVuY2UgdG8gdGhlIHBlcmlvZCAxOTcyLTE5ODEuOyBjaXRhdGlvbl9hdXRob3I9VGF5bG9yICBQLCBNdXRhbWJ1IFNMO1RyYW5zIFIgU29jIFRyb3AgTWVkIEh5ZzsgIGNpdGF0aW9uX3llYXI9MTk4NjsgIGNpdGF0aW9uX3ZvbHVtZT04MDsgIGNpdGF0aW9uX3BhZ2VzPTEyLTE5OyAiIC8+PG1ldGEgbmFtZT0iY2l0YXRpb25fcmVmZXJlbmNlIiBjb250ZW50PSJjaXRhdGlvbl90aXRsZT1Qb3RlbnRpYWwgaW1wYWN0IG9mIGdsb2JhbCBjbGltYXRlIGNoYW5nZSBvbiBtYWxhcmlhIHJpc2suOyBjaXRhdGlvbl9hdXRob3I9TWFydGVucyAgV0pNLCBOaWVzc2VuIExXLCBSb3RtYW5zIEosIEpldHRlbiBUSCwgTWNNaWNoYWVsIFRKO0Vudmlyb24gSGVhbHRoIFBlcnNwZWN0OyAgY2l0YXRpb25feWVhcj0xOTk1OyAgY2l0YXRpb25fdm9sdW1lPTEwMzsgIGNpdGF0aW9uX3BhZ2VzPTQ1OC00NjQ7ICIgLz48bWV0YSBuYW1lPSJjaXRhdGlvbl9yZWZlcmVuY2UiIGNvbnRlbnQ9ImNpdGF0aW9uX3RpdGxlPUFuIGVzdGltYXRpb24gb2YgY2xpbWF0aWMgY2hhbmdlIGVmZmVjdHMgb24gbWFsYXJpYS47IGNpdGF0aW9uX2F1dGhvcj1NYXRzdW9rYSAgWSwgS2FpIEs7SiBHbG9iYWwgRW52aXJvbiBFbmc7ICBjaXRhdGlvbl95ZWFyPTE5OTU7ICBjaXRhdGlvbl92b2x1bWU9MTsgIGNpdGF0aW9uX3BhZ2VzPTQzLTU3OyAiIC8+PG1ldGEgbmFtZT0iY2l0YXRpb25fcmVmZXJlbmNlIiBjb250ZW50PSJjaXRhdGlvbl9hdXRob3I9TWFydGVucyAgV0pNLCBSb3RtYW5zIEosIE5pZXNzZW4gTFc7IGNpdGF0aW9uX2Jvb2s9Q2xpbWF0ZSBjaGFuZ2UgYW5kIG1hbGFyaWEgcmlzazogYW4gaW50ZWdyYXRlZCBtb2RlbGxpbmcgYXBwcm9hY2guIEJpbHRob3ZlbiwgdGhlIE5ldGhlcmxhbmRzOiBSSVZNOyBjaXRhdGlvbl95ZWFyPTE5OTQ7ICIgLz48bWV0YSBuYW1lPSJjaXRhdGlvbl9yZWZlcmVuY2UiIGNvbnRlbnQ9ImNpdGF0aW9uX2F1dGhvcj1CZW5lbnNvbiAgQVMsIGVkOyBjaXRhdGlvbl9ib29rPUNvbnRyb2wgb2YgQ29tbXVuaWNhYmxlIERpc2Vhc2VzIGluIE1hbi4gV2FzaGluZ3RvbiwgREM6IEFtZXJpY2FuIFB1YmxpYyBIZWFsdGggQXNzb2NpYXRpb247IGNpdGF0aW9uX3llYXI9MTk5MDsgIiAvPjxtZXRhIG5hbWU9ImNpdGF0aW9uX3JlZmVyZW5jZSIgY29udGVudD0iY2l0YXRpb25fdGl0bGU9RGVuZ3VlL2Rlbmd1ZSBoZW1vcnJoYWdpYyBmZXZlcjogdGhlIGVtZXJnZW5jZSBvZiBhIGdsb2JhbCBoZWFsdGggcHJvYmxlbS47IGNpdGF0aW9uX2F1dGhvcj1HdWJsZXIgIERKLCBDbGFyayBHQztFbWVyZ2luZyBJbmZlY3QgRGlzOyAgY2l0YXRpb25feWVhcj0xOTk1OyAgY2l0YXRpb25fdm9sdW1lPTE7ICBjaXRhdGlvbl9wYWdlcz01NS01NzsgIiAvPjxtZXRhIG5hbWU9ImNpdGF0aW9uX3JlZmVyZW5jZSIgY29udGVudD0iY2l0YXRpb25fYXV0aG9yPVBhbiBBbWVyaWNhbiBIZWFsdGggT3JnYW5pemF0aW9uICA7IGNpdGF0aW9uX2Jvb2s9RGVuZ3VlIGFuZCBEZW5ndWUgSGVtb3JyaGFnaWMgRmV2ZXIgaW4gdGhlIEFtZXJpY2FzOiBHdWlkZWxpbmVzIGZvciBQcmV2ZW50aW9uIGFuZCBDb250cm9sLiBXYXNoaW5ndG9uLCBEQzogUGFuIEFtZXJpY2FuIEhlYWx0aCBPcmdhbml6YXRpb247IGNpdGF0aW9uX3llYXI9MTk5NDsgIGNpdGF0aW9uX3BhZ2VzPTk4OyAiIC8+PG1ldGEgbmFtZT0iY2l0YXRpb25fcmVmZXJlbmNlIiBjb250ZW50PSJjaXRhdGlvbl90aXRsZT1BZWRlcyBhZWd5cHRpIGluIE1hbGF5c2lhLCBJSTogbGFydmFsIGFuZCBhZHVsdCBiaW9sb2d5LjsgY2l0YXRpb25fYXV0aG9yPU1hY0RvbmFsZCAgV1c7QW5uIFRyb3AgTWVkIFBhcmFzaXRvbDsgIGNpdGF0aW9uX3llYXI9MTk1NjsgIGNpdGF0aW9uX3ZvbHVtZT01MDsgIGNpdGF0aW9uX3BhZ2VzPTM5OS00MTQ7ICIgLz48bWV0YSBuYW1lPSJjaXRhdGlvbl9yZWZlcmVuY2UiIGNvbnRlbnQ9ImNpdGF0aW9uX3RpdGxlPVdlYXRoZXIsIHZlY3RvciBiaW9sb2d5LCBhbmQgYXJib3ZpcmFsIHJlY3J1ZGVzY2VuY2UuOyBjaXRhdGlvbl9hdXRob3I9UmVpdGVyICBQOyBjaXRhdGlvbl9ib29rPVRoZSBBcmJvdmlydXNlczogRXBpZGVtaW9sb2d5IGFuZCBFY29sb2d5LCBJLiBCb2NhIFJhdG9uLCBGbGE6IENSQyBQcmVzczsgY2l0YXRpb25feWVhcj0xOTg4OyAgY2l0YXRpb25fcGFnZXM9MjQ1LTI1NTsgIiAvPjxtZXRhIG5hbWU9ImNpdGF0aW9uX3JlZmVyZW5jZSIgY29udGVudD0iY2l0YXRpb25fdGl0bGU9VXBkYXRlOiBBZWRlcyBhbGJvcGljdHVzIGluZmVzdGF0aW9u4oCUVW5pdGVkIFN0YXRlcywgTWV4aWNvLjsgY2l0YXRpb25fYXV0aG9yPUNlbnRlcnMgZm9yIERpc2Vhc2UgQ29udHJvbCBhbmQgUHJldmVudGlvbiAgO01NV1IgTW9yYiBNb3J0YWwgV2tseSBSZXA7ICBjaXRhdGlvbl95ZWFyPTE5ODk7ICBjaXRhdGlvbl92b2x1bWU9Mzg7ICBjaXRhdGlvbl9wYWdlcz00NDAtNDQ2OyAiIC8+PG1ldGEgbmFtZT0iY2l0YXRpb25fcmVmZXJlbmNlIiBjb250ZW50PSJjaXRhdGlvbl90aXRsZT1FbWVyZ2VuY2Ugb2YgZXBpZGVtaWMgZGVuZ3VlL2Rlbmd1ZSBoZW1vcnJoYWdpYyBmZXZlciBhcyBhIHB1YmxpYyBoZWFsdGggcHJvYmxlbSBpbiB0aGUgQW1lcmljYXMuOyBjaXRhdGlvbl9hdXRob3I9R3VibGVyICBESiwgVHJlbnQgRFc7SW5mZWN0IEFnZW50cyBEaXM7ICBjaXRhdGlvbl95ZWFyPTE5OTQ7ICBjaXRhdGlvbl92b2x1bWU9MjsgIGNpdGF0aW9uX3BhZ2VzPTM4My0zOTM7ICIgLz48bWV0YSBuYW1lPSJjaXRhdGlvbl9yZWZlcmVuY2UiIGNvbnRlbnQ9ImNpdGF0aW9uX3RpdGxlPURlbmd1ZSBoZW1vcnJoYWdpYyBmZXZlci47IGNpdGF0aW9uX2F1dGhvcj1IYWxzdGVhZCAgU0I7IGNpdGF0aW9uX2Jvb2s9SGFuZGJvb2sgb2YgVmlyYWwgYW5kIFJpY2tldHRzaWFsIEhlbW9ycmhhZ2ljIEZldmVycy4gQm9jYSBSYXRvbiwgRmxhOiBDUkMgUHJlc3M7IGNpdGF0aW9uX3llYXI9MTk4ODsgIGNpdGF0aW9uX3BhZ2VzPTg1LTk0OyAiIC8+PG1ldGEgbmFtZT0iY2l0YXRpb25fcmVmZXJlbmNlIiBjb250ZW50PSJjaXRhdGlvbl90aXRsZT1HbG9iYWwgZXBpZGVtaW9sb2d5IG9mIGRlbmd1ZTogaGVhbHRoIHN5c3RlbXMgaW4gZGlzYXJyYXkuOyBjaXRhdGlvbl9hdXRob3I9SGFsc3RlYWQgIFNCO1Ryb3AgTWVkOyAgY2l0YXRpb25feWVhcj0xOTkzOyAgY2l0YXRpb25fdm9sdW1lPTM1OyAgY2l0YXRpb25fcGFnZXM9MTM3LTE0NjsgIiAvPjxtZXRhIG5hbWU9ImNpdGF0aW9uX3JlZmVyZW5jZSIgY29udGVudD0iY2l0YXRpb25fdGl0bGU9R2VuZXRpYyB2YXJpYXRpb24gYW1vbmcgZGVuZ3VlIDIgdmlydXNlcyBvZiBkaWZmZXJlbnQgZ2VvZ3JhcGhpYyBvcmlnaW4uOyBjaXRhdGlvbl9hdXRob3I9VHJlbnQgIERXLCBHcmFudCBKQSwgUm9zZW4gTCwgTW9uYXRoIFRQO1Zpcm9sb2d5OyAgY2l0YXRpb25feWVhcj0xOTgzOyAgY2l0YXRpb25fdm9sdW1lPTEyODsgIGNpdGF0aW9uX3BhZ2VzPTI3MS0yODQ7ICIgLz48bWV0YSBuYW1lPSJjaXRhdGlvbl9yZWZlcmVuY2UiIGNvbnRlbnQ9ImNpdGF0aW9uX3RpdGxlPUZhY3RvcnMgaW5mbHVlbmNpbmcgdGhlIHVuZXZlbiBkaXN0cmlidXRpb24gb2YgQWVkZXMgYWVneXB0aSBpbiBUZXhhcyBjaXRpZXMuOyBjaXRhdGlvbl9hdXRob3I9Q2hhbmRsZXIgIEFDO0FtIEogVHJvcCBNZWQgSHlnOyAgY2l0YXRpb25feWVhcj0xOTQ1OyAgY2l0YXRpb25fdm9sdW1lPTI1OyAgY2l0YXRpb25fcGFnZXM9MTQ1LTE0OTsgIiAvPjxtZXRhIG5hbWU9ImNpdGF0aW9uX3JlZmVyZW5jZSIgY29udGVudD0iY2l0YXRpb25fdGl0bGU9Rmlyc3QgcmVwb3J0ZWQgb3V0YnJlYWsgb2YgY2xhc3NpY2FsIGRlbmd1ZSBmZXZlciBhdCAxNzAwIG1ldGVycyBhYm92ZSBzZWEgbGV2ZWwgaW4gR3VlcnJlcm8gU3RhdGUsIE1leGljbywgSnVuZSAxOTg4LjsgY2l0YXRpb25fYXV0aG9yPUhlcnJlcmEtQmFzdG8gIEUsIFByZXZvdHMgRFIsIEx1aXNhIFphcmF0ZSBNQSwgTHVpcyBTaWx2YSBKLCBTZXB1bHZlZGEtQXJtb3IgSjtBbSBKIFRyb3AgTWVkIEh5ZzsgIGNpdGF0aW9uX3llYXI9MTk5MjsgIGNpdGF0aW9uX3ZvbHVtZT00NjsgIGNpdGF0aW9uX3BhZ2VzPTY0OS02NTM7ICIgLz48bWV0YSBuYW1lPSJjaXRhdGlvbl9yZWZlcmVuY2UiIGNvbnRlbnQ9ImNpdGF0aW9uX3RpdGxlPURlbmd1ZSBlcGlkZW1pYyBpbiBIb25kdXJhcywgMTk3OC0xOTgwLjsgY2l0YXRpb25fYXV0aG9yPUZpZ3Vlcm9hICBNLCBQZXJlaXJhIFIsIEd1dGllcnJleiBILCBEZW1lamlhIEMsIFBhZGlsbGEgTjtCdWxsIFBhbiBBbSBIZWFsdGggT3JnYW47ICBjaXRhdGlvbl95ZWFyPTE5ODI7ICBjaXRhdGlvbl92b2x1bWU9MTY7ICBjaXRhdGlvbl9wYWdlcz0xMzAtMTM3OyAiIC8+PG1ldGEgbmFtZT0iY2l0YXRpb25fcmVmZXJlbmNlIiBjb250ZW50PSJjaXRhdGlvbl90aXRsZT1EZXRlcm1pbmFudHMgYW5kIHByZWRpY3RvcnMgb2YgZGVuZ3VlIGluZmVjdGlvbiBpbiBNZXhpY28uOyBjaXRhdGlvbl9hdXRob3I9S29vcG1hbiAgSlMsIFByZXZvdHMgRFIsIE1hcmluIE1BViwgZXQgYWw7QW0gSiBFcGlkZW1pb2w7ICBjaXRhdGlvbl95ZWFyPTE5OTE7ICBjaXRhdGlvbl92b2x1bWU9MTMzOyAgY2l0YXRpb25fcGFnZXM9MTE2OC0xMTc4OyAiIC8+PG1ldGEgbmFtZT0iY2l0YXRpb25fcmVmZXJlbmNlIiBjb250ZW50PSJjaXRhdGlvbl90aXRsZT1UZW1wZXJhdHVyZS1kZXBlbmRlbnQgZGV2ZWxvcG1lbnQgYW5kIHN1cnZpdmFsIHJhdGVzIG9mIEN1bGV4IHF1aW5xdWVmYXNjaWF0dXMgYW5kIEFlZGVzIGFlZ3lwdGkgKERpcHRlcmE6IEN1bGljaWRhZSkuOyBjaXRhdGlvbl9hdXRob3I9UnVlZGEgIExNLCBQYXRlbCBLSiwgQXh0ZWxsIFJDLCBTdGlubmVyIFJFO0ogTWVkIEVudG9tb2w7ICBjaXRhdGlvbl95ZWFyPTE5OTA7ICBjaXRhdGlvbl92b2x1bWU9Mjc7ICBjaXRhdGlvbl9wYWdlcz04OTItODk4OyAiIC8+PG1ldGEgbmFtZT0iY2l0YXRpb25fcmVmZXJlbmNlIiBjb250ZW50PSJjaXRhdGlvbl90aXRsZT1CbG9vZC1mZWVkaW5nIHBhdHRlcm5zIG9mIEFlZGVzIGFlZ3lwdGkgKERpcHRlcmE6IEN1bGljaWRhZSkgY29sbGVjdGVkIGluIGEgcnVyYWwgVGhhaSB2aWxsYWdlLjsgY2l0YXRpb25fYXV0aG9yPVNjb3R0ICBUVywgQ2hvdyBFLCBTdHJpY2ttYW4gRCwgZXQgYWw7SiBNZWQgRW50b21vbDsgIGNpdGF0aW9uX3llYXI9MTk5MzsgIGNpdGF0aW9uX3ZvbHVtZT0zMDsgIGNpdGF0aW9uX3BhZ2VzPTkyMi05Mjc7ICIgLz48bWV0YSBuYW1lPSJjaXRhdGlvbl9yZWZlcmVuY2UiIGNvbnRlbnQ9ImNpdGF0aW9uX3RpdGxlPUZpZWxkIHN0dWRpZXMgb24gdGhlIGdvbm90cm9waGljIGN5Y2xlIG9mIEFlZGVzIGFlZ3lwdGkgaW4gQmFuZ2tvaywgVGhhaWxhbmQuOyBjaXRhdGlvbl9hdXRob3I9UGFudCAgQ1AsIFlhc3VubyBNO0ogTWVkIEVudG9tb2w7ICBjaXRhdGlvbl95ZWFyPTE5NzM7ICBjaXRhdGlvbl92b2x1bWU9MTA7ICBjaXRhdGlvbl9wYWdlcz0yMTktMjIzOyAiIC8+PG1ldGEgbmFtZT0iY2l0YXRpb25fcmVmZXJlbmNlIiBjb250ZW50PSJjaXRhdGlvbl90aXRsZT1FZmZlY3Qgb2YgdGVtcGVyYXR1cmUgb24gdGhlIHZlY3RvciBlZmZpY2llbmN5IG9mIEFlZGVzIGFlZ3lwdGkgZm9yIGRlbmd1ZSAyIHZpcnVzLjsgY2l0YXRpb25fYXV0aG9yPVdhdHRzICBETSwgQnVya2UgRFMsIEhhcnJpc29uIEJBLCBldCBhbDtBbSBKIFRyb3AgTWVkIEh5ZzsgIGNpdGF0aW9uX3llYXI9MTk4NzsgIGNpdGF0aW9uX3ZvbHVtZT0zNjsgIGNpdGF0aW9uX3BhZ2VzPTE0My0xNTI7ICIgLz48bWV0YSBuYW1lPSJjaXRhdGlvbl9yZWZlcmVuY2UiIGNvbnRlbnQ9ImNpdGF0aW9uX3RpdGxlPUEgc2ltdWxhdGlvbiBtb2RlbCBvZiB0aGUgZXBpZGVtaW9sb2d5IG9mIHVyYmFuIGRlbmd1ZSBmZXZlcjogbGl0ZXJhdHVyZSBhbmFseXNpcywgbW9kZWwgZGV2ZWxvcG1lbnQsIHByZWxpbWluYXJ5IHZhbGlkYXRpb24sIGFuZCBzYW1wbGVzIG9mIHNpbXVsYXRpb24gcmVzdWx0cy47IGNpdGF0aW9uX2F1dGhvcj1Gb2NrcyAgREEsIERhbmllbHMgRSwgSGFpbGUgREcsIEtlZXNsaW5nIEpFO0FtIEogVHJvcCBNZWQgSHlnOyAgY2l0YXRpb25feWVhcj0xOTk1OyAgY2l0YXRpb25fdm9sdW1lPTUzOyAgY2l0YXRpb25fcGFnZXM9NDg5LTUwNjsgIiAvPjxtZXRhIG5hbWU9ImNpdGF0aW9uX3JlZmVyZW5jZSIgY29udGVudD0iY2l0YXRpb25fdGl0bGU9QXJib3ZpcnVzLXJlbGF0ZWQgZW5jZXBoYWxpdGlzLjsgY2l0YXRpb25fYXV0aG9yPVNob3BlICBSRTtZYWxlIEogQmlvbCBNZWQ7ICBjaXRhdGlvbl95ZWFyPTE5ODA7ICBjaXRhdGlvbl92b2x1bWU9NTM7ICBjaXRhdGlvbl9wYWdlcz05My05OTsgIiAvPjxtZXRhIG5hbWU9ImNpdGF0aW9uX3JlZmVyZW5jZSIgY29udGVudD0iY2l0YXRpb25fdGl0bGU9U3QgTG91aXMgZW5jZXBoYWxpdGlzOiBsZXNzb25zIGZyb20gdGhlIGxhc3QgZGVjYWRlLjsgY2l0YXRpb25fYXV0aG9yPU1vbmF0aCAgVFAsIFRzYWkgVEY7QW0gSiBUcm9wIE1lZCBIeWc7ICBjaXRhdGlvbl95ZWFyPTE5ODc7ICBjaXRhdGlvbl92b2x1bWU9Mzc7ICBjaXRhdGlvbl9pc3N1ZT1zdXBwbDsgIGNpdGF0aW9uX3BhZ2VzPTQwUy01OVM7ICIgLz48bWV0YSBuYW1lPSJjaXRhdGlvbl9yZWZlcmVuY2UiIGNvbnRlbnQ9ImNpdGF0aW9uX3RpdGxlPUZsYXZpcmlkYWU6IEZsYXZpdmlydXMgKHllbGxvdyBmZXZlciwgZGVuZ3VlLCBhbmQgU3QgTG91aXMgZW5jZXBoYWxpdGlzKS47IGNpdGF0aW9uX2F1dGhvcj1Nb25hdGggIFRQOyBjaXRhdGlvbl9ib29rPVByaW5jaXBsZXMgYW5kIFByYWN0aWNlIG9mIEluZmVjdGlvdXMgRGlzZWFzZXMuIDNyZCBlZC4gTmV3IFlvcmssIE5ZOiBDaHVyY2hpbGwgTGl2aW5nc3RvbjsgY2l0YXRpb25feWVhcj0xOTkwOyAiIC8+PG1ldGEgbmFtZT0iY2l0YXRpb25fcmVmZXJlbmNlIiBjb250ZW50PSJjaXRhdGlvbl90aXRsZT1TdXJ2ZWlsbGFuY2UuOyBjaXRhdGlvbl9hdXRob3I9Qm93ZW4gIFNHLCBGcmFuY3kgREI7IGNpdGF0aW9uX2Jvb2s9U3QgTG91aXMgRW5jZXBoYWxpdGlzLiBXYXNoaW5ndG9uLCBEQzogQW1lcmljYW4gUHVibGljIEhlYWx0aCBBc3NvY2lhdGlvbjsgY2l0YXRpb25feWVhcj0xOTgwOyAiIC8+PG1ldGEgbmFtZT0iY2l0YXRpb25fcmVmZXJlbmNlIiBjb250ZW50PSJjaXRhdGlvbl9hdXRob3I9U2NobmVpZGVyICBTSDsgY2l0YXRpb25fYm9vaz1HbG9iYWwgV2FybWluZzogQXJlIFdlIEVudGVyaW5nIHRoZSBHcmVlbmhvdXNlIENlbnR1cnk/TmV3IFlvcmssIE5ZOiBWaW50YWdlIEJvb2tzOyBjaXRhdGlvbl95ZWFyPTE5OTA7ICIgLz48bWV0YSBuYW1lPSJjaXRhdGlvbl9yZWZlcmVuY2UiIGNvbnRlbnQ9ImNpdGF0aW9uX3RpdGxlPVRoZSBwb3RlbnRpYWwgZWZmZWN0IG9mIGdsb2JhbCB3YXJtaW5nIG9uIG1vc3F1aXRvYm9ybmUgYXJib3ZpcnVzZXMuOyBjaXRhdGlvbl9hdXRob3I9UmVldmVzICBXQywgSGFyZHkgSkwsIFJlaXNlbiBXSywgTWlsYnkgTU07SiBNZWQgRW50b21vbDsgIGNpdGF0aW9uX3llYXI9MTk5NDsgIGNpdGF0aW9uX3ZvbHVtZT0zMTsgIGNpdGF0aW9uX3BhZ2VzPTMyMy0zMzI7ICIgLz48bWV0YSBuYW1lPSJjaXRhdGlvbl9yZWZlcmVuY2UiIGNvbnRlbnQ9ImNpdGF0aW9uX3RpdGxlPVN1c2NlcHRpYmlsaXR5IGFuZCByZXNpc3RhbmNlIG9mIHZlY3RvciBtb3NxdWl0b2VzLjsgY2l0YXRpb25fYXV0aG9yPUhhcmR5ICBKTDsgY2l0YXRpb25fYm9vaz1UaGUgQXJib3ZpcnVzZXM6IEVwaWRlbWlvbG9neSBhbmQgRWNvbG9neSwgSS4gQm9jYSBSYXRvbiwgRmxhOiBDUkMgUHJlc3M7IGNpdGF0aW9uX3llYXI9MTk4ODsgIiAvPjxtZXRhIG5hbWU9ImNpdGF0aW9uX3JlZmVyZW5jZSIgY29udGVudD0iY2l0YXRpb25fdGl0bGU9RWZmZWN0cyBvZiB0ZW1wZXJhdHVyZSBvbiB0aGUgdHJhbnNtaXNzaW9uIG9mIFdlc3Rlcm4gRXF1aW5lIGVuY2VwaGFsb215ZWxpdGlzIGFuZCBTdCBMb3VpcyBlbmNlcGhhbGl0aXMgdmlydXNlcyBieSBDdWxleCB0YXJzYWxpcyAoRGlwdGVyYTogQ3VsaWNpZGFlKS47IGNpdGF0aW9uX2F1dGhvcj1SZWlzaW4gIFdLLCBNZXllciBSUCwgUHJlc3NlciBTQiwgSGFyZHkgSkw7SiBNZWQgRW50b21vbDsgIGNpdGF0aW9uX3llYXI9MTk5MzsgIGNpdGF0aW9uX3ZvbHVtZT0zMDsgIGNpdGF0aW9uX3BhZ2VzPTE1MS0xNjA7ICIgLz48bWV0YSBuYW1lPSJjaXRhdGlvbl9yZWZlcmVuY2UiIGNvbnRlbnQ9ImNpdGF0aW9uX3RpdGxlPVNlYXNvbmFsIGluZmx1ZW5jZSBvbiB0aGUgcHJvZHVjdGlvbiBvZiBTY2hpc3Rvc29tYSBoYWVtYXRvYml1bSBhbmQgUyBtYW5zb25pIGNlcmNhcmlhZSBpbiBSaG9kZXNpYS47IGNpdGF0aW9uX2F1dGhvcj1TaGlmZiAgQ0osIEV2YW5zIEEsIFlpYW5uYWtpcyBDLCBFYXJkbGV5IE07SW50IEogUGFyaXNpdG9sOyAgY2l0YXRpb25feWVhcj0xOTc1OyAgY2l0YXRpb25fdm9sdW1lPTU7ICBjaXRhdGlvbl9wYWdlcz0xMTktMTIzOyAiIC8+PG1ldGEgbmFtZT0iY2l0YXRpb25fcmVmZXJlbmNlIiBjb250ZW50PSJjaXRhdGlvbl90aXRsZT1TZWFzb25hbCBwYXR0ZXJucyBpbiB0aGUgdHJhbnNtaXNzaW9uIG9mIFNjaGlzdG9zb21hIGhhZW1hdG9iaXVtIGluIFJob2Rlc2lhLCBhbmQgaXRzIGNvbnRyb2wgYnkgd2ludGVyIGFwcGxpY2F0aW9uIG9mIG1vbGx1c2NpY2lkZS47IGNpdGF0aW9uX2F1dGhvcj1TaGlmZiAgQ0osIENvdXR0cyBXQ0MsIFlpYW5uYWtpcyBDLCBIb2xtZXMgUlc7VHJhbnMgUiBTb2MgVHJvcCBNZWQgSHlnOyAgY2l0YXRpb25feWVhcj0xOTc5OyAgY2l0YXRpb25fdm9sdW1lPTczOyAgY2l0YXRpb25fcGFnZXM9Mzc1LTM4MDsgIiAvPjxtZXRhIG5hbWU9ImNpdGF0aW9uX3JlZmVyZW5jZSIgY29udGVudD0iY2l0YXRpb25fdGl0bGU9RGlyZWN0IGFuZCBpbmRpcmVjdCBpbmZsdWVuY2VzIG9mIHRlbXBlcmF0dXJlIG9uIHRoZSB0cmFuc21pc3Npb24gb2YgcGFyYXNpdGVzIGZyb20gaW5zZWN0cyB0byBtYW4uOyBjaXRhdGlvbl9hdXRob3I9R2lsbGV0ICBKRDsgY2l0YXRpb25fYm9vaz1UaGUgRWZmZWN0cyBvZiBNZXRlb3JvbG9naWNhbCBGYWN0b3JzIFVwb24gUGFyYXNpdGVzLiBPeGZvcmQsIEVuZ2xhbmQ6IEJsYWNrd2VsbCBTY2llbnRpZmljIFB1YmxpY2F0aW9uczsgY2l0YXRpb25feWVhcj0xOTc0OyAgY2l0YXRpb25fcGFnZXM9NzktOTU7ICIgLz48bWV0YSBuYW1lPSJjaXRhdGlvbl9yZWZlcmVuY2UiIGNvbnRlbnQ9ImNpdGF0aW9uX2F1dGhvcj1NYXJ0ZW5zICBXSk07IGNpdGF0aW9uX2Jvb2s9TW9kZWxsaW5nIHRoZSBlZmZlY3Qgb2YgZ2xvYmFsIHdhcm1pbmcgb24gdGhlIHByZXZhbGVuY2Ugb2Ygc2NoaXN0b3NvbWlhc2lzLiBCaWx0aG92ZW4sIHRoZSBOZXRoZXJsYW5kczogUklWTTsgY2l0YXRpb25feWVhcj0xOTk1OyAiIC8+PG1ldGEgbmFtZT0iY2l0YXRpb25fcmVmZXJlbmNlIiBjb250ZW50PSJjaXRhdGlvbl9hdXRob3I9V29ybGQgSGVhbHRoIE9yZ2FuaXphdGlvbiAgOyBjaXRhdGlvbl9ib29rPVRlbiBZZWFycyBvZiBPbmNob2NlcmNpYXNpcyBDb250cm9sIGluIFdlc3QgQWZyaWNhOiBSZXZpZXcgb2YgV29yayBvZiB0aGUgT0NQIGluIHRoZSBWb2x0YSBSaXZlciBCYXNpbiBBcmVhIEZyb20gMTk3NCB0byAxOTg0LiBHZW5ldmEsIFN3aXR6ZXJsYW5kOiBXb3JsZCBIZWFsdGggT3JnYW5pemF0aW9uOyBjaXRhdGlvbl95ZWFyPTE5ODU7ICIgLz48bWV0YSBuYW1lPSJjaXRhdGlvbl9yZWZlcmVuY2UiIGNvbnRlbnQ9ImNpdGF0aW9uX3RpdGxlPUEgY2xpbWF0aWMgd2F0ZXIgYnVkZ2V0IGFwcHJvYWNoIHRvIGJsYWNrIGZseSBwb3B1bGF0aW9uIGR5bmFtaWNzLjsgY2l0YXRpb25fYXV0aG9yPU1pbGxzICBETTtQdWJsaWNhdGlvbnMgaW4gQ2xpbWF0b2xvZ3k7ICBjaXRhdGlvbl95ZWFyPTE5OTU7ICBjaXRhdGlvbl92b2x1bWU9NDg7ICBjaXRhdGlvbl9wYWdlcz0xLTg0OyAiIC8+PG1ldGEgbmFtZT0iY2l0YXRpb25fcmVmZXJlbmNlIiBjb250ZW50PSJjaXRhdGlvbl90aXRsZT1Nb3J0YWxpdHkgcmF0ZXMgYW5kIHBvcHVsYXRpb24gZGVuc2l0eSBvZiB0c2V0c2UgZmxpZXMgY29ycmVsYXRlZCB3aXRoIHNhdGVsbGl0ZSBpbWFnZXJ5LjsgY2l0YXRpb25fYXV0aG9yPVJvZ2VycyAgREosIFJhbmRvbHBoIFNFO05hdHVyZTsgIGNpdGF0aW9uX3llYXI9MTk5MTsgIGNpdGF0aW9uX3ZvbHVtZT0zNTE7ICBjaXRhdGlvbl9wYWdlcz03MzktNzQxOyAiIC8+PG1ldGEgbmFtZT0iY2l0YXRpb25fcmVmZXJlbmNlIiBjb250ZW50PSJjaXRhdGlvbl90aXRsZT1WZWN0b3ItYm9ybmUgZGlzZWFzZXMsIG1vZGVscywgYW5kIGdsb2JhbCBjaGFuZ2UuOyBjaXRhdGlvbl9hdXRob3I9Um9nZXJzICBETCwgUGFja2VyIE1KO0xhbmNldDsgIGNpdGF0aW9uX3llYXI9MTk5MzsgIGNpdGF0aW9uX3ZvbHVtZT0zNDI7ICBjaXRhdGlvbl9wYWdlcz0xMjgyLTEyODQ7ICIgLz48bWV0YSBuYW1lPSJjaXRhdGlvbl9yZWZlcmVuY2UiIGNvbnRlbnQ9ImNpdGF0aW9uX3RpdGxlPURpc3RyaWJ1dGlvbiBvZiB0c2V0c2UgYW5kIHRpY2tzIGluIEFmcmljYTogcGFzdCwgcHJlc2VudCBhbmQgZnV0dXJlLjsgY2l0YXRpb25fYXV0aG9yPVJvZ2VycyAgREosIFJhbmRvbHBoIFNFO1BhcmFzaXRvbCBUb2RheTsgIGNpdGF0aW9uX3llYXI9MTk5MzsgIGNpdGF0aW9uX3ZvbHVtZT05OyAgY2l0YXRpb25fcGFnZXM9MjY2LTI3MTsgIiAvPjxtZXRhIG5hbWU9ImNpdGF0aW9uX3JlZmVyZW5jZSIgY29udGVudD0iY2l0YXRpb25fdGl0bGU9Q29tcHV0ZXIgc2ltdWxhdGlvbiBvZiB0aGUgZWZmZWN0cyBvZiBjaGFuZ2VzIGluIHdlYXRoZXIgcGF0dGVybnMgb24gdmVjdG9yLWJvcm5lIGRpc2Vhc2UgdHJhbnNtaXNzaW9uLjsgY2l0YXRpb25fYXV0aG9yPUhhaWxlICBERzsgY2l0YXRpb25fYm9vaz1UaGUgUG90ZW50aWFsIEVmZmVjdHMgb2YgR2xvYmFsIENsaW1hdGUgQ2hhbmdlIGluIHRoZSBVbml0ZWQgU3RhdGVzLiBXYXNoaW5ndG9uLCBEQzogVVMgRW52aXJvbm1lbnRhbCBQcm90ZWN0aW9uIEFnZW5jeTsgY2l0YXRpb25feWVhcj0xOTg5OyAiIC8+PG1ldGEgbmFtZT0iY2l0YXRpb25fcmVmZXJlbmNlIiBjb250ZW50PSJjaXRhdGlvbl90aXRsZT1XRVNUUEFDIHN5bXBvc2l1bSBhbmQgaGFybWZ1bCBibG9vbXMgd29ya3Nob3AsIEludGVybmF0aW9uYWwgT2NlYW5vZ3JhcGhpYyBDb21taXNzaW9uLCBVTkVTQ08uOyBjaXRhdGlvbl9hdXRob3I9QW5kZXJzb24gIERNO0hhcm1mdWwgQWxnYWUgTmV3czsgIGNpdGF0aW9uX3llYXI9MTk5MjsgIGNpdGF0aW9uX3ZvbHVtZT0yOyAgY2l0YXRpb25fcGFnZXM9NDsgIiAvPjxtZXRhIG5hbWU9ImNpdGF0aW9uX3JlZmVyZW5jZSIgY29udGVudD0iY2l0YXRpb25fdGl0bGU9UmVkIHRpZGU6IGVmZmVjdHMgb24gaGVhbHRoIGFuZCBlY29ub21pY3MuOyBjaXRhdGlvbl9hdXRob3I9VGVzdGVyICBQO0hlYWx0aCBFbnZpcm9uIERpZ2VzdDsgIGNpdGF0aW9uX3llYXI9MTk5MTsgIGNpdGF0aW9uX3ZvbHVtZT01OyAgY2l0YXRpb25fcGFnZXM9NC01OyAiIC8+PG1ldGEgbmFtZT0iY2l0YXRpb25fcmVmZXJlbmNlIiBjb250ZW50PSJjaXRhdGlvbl9hdXRob3I9VmFsaWVsYSAgSTsgY2l0YXRpb25fYm9vaz1NYXJpbmUgRWNvbG9naWNhbCBQcm9jZXNzZXMuIE5ldyBZb3JrLCBOWTogU3ByaW5nZXItVmVybGFnOyBjaXRhdGlvbl95ZWFyPTE5ODQ7ICIgLz48bWV0YSBuYW1lPSJjaXRhdGlvbl9yZWZlcmVuY2UiIGNvbnRlbnQ9ImNpdGF0aW9uX3RpdGxlPUVtZXJnaW5nIGRpc2Vhc2VzIGFuZCBlY29zeXN0ZW0gaW5zdGFiaWxpdHk6IG5ldyB0aHJlYXRzIHRvIHB1YmxpYyBoZWFsdGguOyBjaXRhdGlvbl9hdXRob3I9RXBzdGVpbiAgUFI7QW0gSiBQdWJsaWMgSGVhbHRoOyAgY2l0YXRpb25feWVhcj0xOTk1OyAgY2l0YXRpb25fdm9sdW1lPTg1OyAgY2l0YXRpb25fcGFnZXM9MTY4LTE3MjsgIiAvPjxtZXRhIG5hbWU9ImNpdGF0aW9uX3JlZmVyZW5jZSIgY29udGVudD0iY2l0YXRpb25fdGl0bGU9RGV0ZWN0aW9uIG9mIFZpYnJpbyBjaG9sZXJhZSAwMSBpbiB0aGUgYXF1YXRpYyBlbnZpcm9ubWVudCBieSBmbHVvcmVzY2VudC1tb25vY2xvbmFsIGFudGlib2R5IGFuZCBjdWx0dXJlIG1ldGhvZHMuOyBjaXRhdGlvbl9hdXRob3I9SHVxICBBLCBDb2x3ZWxsIFJSLCBSYWhtYW4gUiwgZXQgYWw7QXBwbCBFbnZpcm9uIE1pY3JvYmlvbDsgIGNpdGF0aW9uX3llYXI9MTk5MDsgIGNpdGF0aW9uX3ZvbHVtZT01NjsgIGNpdGF0aW9uX3BhZ2VzPTIzNzAtMjM3MzsgIiAvPjxtZXRhIG5hbWU9ImNpdGF0aW9uX3JlZmVyZW5jZSIgY29udGVudD0iY2l0YXRpb25fdGl0bGU9TWFqb3IgUFNQIG91dGJyZWFrIGluIENoaWxlLCAxOTkxLTE5OTIuOyBjaXRhdGlvbl9hdXRob3I9TGVtYmV5ZSAgRztIYXJtZnVsIEFsZ2FlIE5ld3M7ICBjaXRhdGlvbl95ZWFyPTE5OTI7ICBjaXRhdGlvbl92b2x1bWU9MjsgIGNpdGF0aW9uX3BhZ2VzPTEtMjsgIiAvPjxtZXRhIG5hbWU9ImNpdGF0aW9uX3JlZmVyZW5jZSIgY29udGVudD0iY2l0YXRpb25fdGl0bGU9TmF0dXJhbCBkaXNhc3RlciByZWR1Y3Rpb24gYW5kIGdsb2JhbCBjaGFuZ2UuOyBjaXRhdGlvbl9hdXRob3I9QnJ1Y2UgIEpQO0J1bGwgQW0gTWV0ZW9yb2wgU29jOyAgY2l0YXRpb25feWVhcj0xOTk0OyAgY2l0YXRpb25fdm9sdW1lPTc1OyAgY2l0YXRpb25fcGFnZXM9MTgzMS0xODM1OyAiIC8+PG1ldGEgbmFtZT0iY2l0YXRpb25fcmVmZXJlbmNlIiBjb250ZW50PSJjaXRhdGlvbl90aXRsZT1JbXBsaWNhdGlvbnMgb2YgY2xpbWF0ZSBjaGFuZ2UgZHVlIHRvIHRoZSBlbmhhbmNlZCBncmVlbmhvdXNlIGVmZmVjdCBvbiBmbG9vZHMgYW5kIGRyb3VnaHRzIGluIEF1c3RyYWxpYS47IGNpdGF0aW9uX2F1dGhvcj1XaGV0dG9uICBQSCwgRm93bGVyIEFNLCBIYXlsb2NrIE1SLCBQaXR0b2NrIEFCO0NsaW1hdGljIENoYW5nZTsgIGNpdGF0aW9uX3llYXI9MTk5MzsgIGNpdGF0aW9uX3ZvbHVtZT0yNTsgIGNpdGF0aW9uX3BhZ2VzPTI4OS0zMTc7ICIgLz48bWV0YSBuYW1lPSJjaXRhdGlvbl9yZWZlcmVuY2UiIGNvbnRlbnQ9ImNpdGF0aW9uX3RpdGxlPU1ldGhvZHMgZm9yIGFzc2Vzc2luZyBwdWJsaWMgaGVhbHRoIHZ1bG5lcmFiaWxpdHkgdG8gZ2xvYmFsIGNsaW1hdGUgY2hhbmdlLjsgY2l0YXRpb25fYXV0aG9yPVBhdHogIEpBLCBCYWxidXMgSk07Q2xpbWF0ZSBSZXNlYXJjaDsgIiAvPjxtZXRhIG5hbWU9ImNpdGF0aW9uX3JlZmVyZW5jZSIgY29udGVudD0iY2l0YXRpb25fdGl0bGU9UG90ZW50aWFsIGltcGFjdHMgb24gaGVhbHRoIG9mIGF0bW9zcGhlcmljIGNoYW5nZS47IGNpdGF0aW9uX2F1dGhvcj1IYWluZXMgIEEsIEZ1Y2hzIEM7SiBQdWIgSGVhbHRoIE1lZDsgIGNpdGF0aW9uX3llYXI9MTk5MTsgIGNpdGF0aW9uX3ZvbHVtZT0xMzsgIGNpdGF0aW9uX3BhZ2VzPTY5LTgwOyAiIC8+PG1ldGEgbmFtZT0iY2l0YXRpb25fcmVmZXJlbmNlIiBjb250ZW50PSJjaXRhdGlvbl90aXRsZT1Qb3RlbnRpYWwgaGVhbHRoIGVmZmVjdHMgb2YgZ2xvYmFsIGNsaW1hdGljIGFuZCBlbnZpcm9ubWVudGFsIGNoYW5nZXMuOyBjaXRhdGlvbl9hdXRob3I9TGVhZiAgQTtOIEVuZ2wgSiBNZWQ7ICBjaXRhdGlvbl95ZWFyPTE5ODk7ICBjaXRhdGlvbl92b2x1bWU9MzIxOyAgY2l0YXRpb25fcGFnZXM9MTU3Ny0xNTgzOyAiIC8+PG1ldGEgbmFtZT0iY2l0YXRpb25fcmVmZXJlbmNlIiBjb250ZW50PSJjaXRhdGlvbl90aXRsZT1FbCBOacOxby1zb3V0aGVybiBvc2NpbGxhdGlvbiBhbmQgdmVjdG9yLWJvcm5lIGRpc2Vhc2UuOyBjaXRhdGlvbl9hdXRob3I9TmljaG9sbHMgIE47TGFuY2V0OyAgY2l0YXRpb25feWVhcj0xOTkzOyAgY2l0YXRpb25fdm9sdW1lPTM0MjsgIGNpdGF0aW9uX3BhZ2VzPTEyODQtMTI4NTsgIiAvPjxtZXRhIG5hbWU9ImNpdGF0aW9uX3JlZmVyZW5jZSIgY29udGVudD0iY2l0YXRpb25fdGl0bGU9R2xvYmFsIGNsaW1hdGljIGFub21hbGllcyBhc3NvY2lhdGVkIHdpdGggZXh0cmVtZXMgaW4gdGhlIFNvdXRoZXJuIE9zY2lsbGF0aW9uLjsgY2l0YXRpb25fYXV0aG9yPUtpbGFkaXMgIEdOLCBEaWFzIEhGO0ogQ2xpbWF0ZTsgIGNpdGF0aW9uX3llYXI9MTk4OTsgIGNpdGF0aW9uX3ZvbHVtZT0yOyAgY2l0YXRpb25fcGFnZXM9MTA2OTsgIiAvPjxtZXRhIG5hbWU9ImNpdGF0aW9uX3JlZmVyZW5jZSIgY29udGVudD0iY2l0YXRpb25fYXV0aG9yPUdsYW50eiAgTUgsIEthdHogUlcsIE5pY2hvbGxzIE47IGNpdGF0aW9uX2Jvb2s9VGVsZWNvbm5lY3Rpb25zIExpbmtpbmcgV29ybGR3aWRlIENsaW1hdGUgQW5vbWFsaWVzLiBDYW1icmlkZ2UsIEVuZ2xhbmQ6IENhbWJyaWRnZSBVbml2ZXJzaXR5IFByZXNzOyBjaXRhdGlvbl95ZWFyPTE5OTE7ICIgLz48bWV0YSBuYW1lPSJjaXRhdGlvbl9yZWZlcmVuY2UiIGNvbnRlbnQ9ImNpdGF0aW9uX3RpdGxlPVRoZSBhbmFseXNpcyBvZiBtYWxhcmlhIGVwaWRlbWljcy47IGNpdGF0aW9uX2F1dGhvcj1NYWNEb25hbGQgIEc7VHJvcCBEaXMgQnVsbDsgIGNpdGF0aW9uX3llYXI9MTk1NDsgIGNpdGF0aW9uX3ZvbHVtZT01MDsgIGNpdGF0aW9uX3BhZ2VzPTg3MS04OTI7ICIgLz48bWV0YSBuYW1lPSJjaXRhdGlvbl9yZWZlcmVuY2UiIGNvbnRlbnQ9ImNpdGF0aW9uX3RpdGxlPU1hbGFyaWEgY29udHJvbCBhbmQgbG9uZy10ZXJtIHBlcmlvZGljaXR5IG9mIHRoZSBkaXNlYXNlIGluIFBha2lzdGFuLjsgY2l0YXRpb25fYXV0aG9yPVp1bHVldGEgIEo7VHJhbnMgUiBTb2MgVHJvcCBNZWQgSHlnOyAgY2l0YXRpb25feWVhcj0xOTgwOyAgY2l0YXRpb25fdm9sdW1lPTc0OyAgY2l0YXRpb25fcGFnZXM9NjI0LTYzMjsgIiAvPjxtZXRhIG5hbWU9ImNpdGF0aW9uX3JlZmVyZW5jZSIgY29udGVudD0iY2l0YXRpb25fdGl0bGU9Q2xpbWF0ZSBjaGFuZ2UgYW5kIHBlcmlvZGljIGVwaWRlbWljIG1hbGFyaWEuOyBjaXRhdGlvbl9hdXRob3I9Qm91bWEgIE1KLCBTb25kb3JwIEhFLCB2YW4gZGVyIEthYXkgSEo7TGFuY2V0OyAgY2l0YXRpb25feWVhcj0xOTk0OyAgY2l0YXRpb25fdm9sdW1lPTM0MzsgIGNpdGF0aW9uX3BhZ2VzPTE0NDA7ICIgLz48bWV0YSBuYW1lPSJjaXRhdGlvbl9yZWZlcmVuY2UiIGNvbnRlbnQ9ImNpdGF0aW9uX3RpdGxlPVRlbGVjb25uZWN0aW9ucyBhbmQgaGVhbHRoLjsgY2l0YXRpb25fYXV0aG9yPU5pY2hvbGxzICBOOyBjaXRhdGlvbl9ib29rPVRlbGVjb25uZWN0aW9ucyBMaW5raW5nIFdvcmxkd2lkZSBDbGltYXRlIEFub21hbGllcy4gQ2FtYnJpZGdlLCBFbmdsYW5kOiBDYW1icmlkZ2UgVW5pdmVyc2l0eSBQcmVzczsgY2l0YXRpb25feWVhcj0xOTkxOyAgY2l0YXRpb25fcGFnZXM9NDkzLTUxMDsgIiAvPjxtZXRhIG5hbWU9ImNpdGF0aW9uX3JlZmVyZW5jZSIgY29udGVudD0iY2l0YXRpb25fYXV0aG9yPVNjcmlwcHMgSW5zdGl0dXRlIG9mIE9jZWFub2dyYXBoeSAgOyBjaXRhdGlvbl9ib29rPVNpbXVsYXRlZCBHbG9iYWwgV2FybWluZyBhbmQgTW9kZWwgRU5TTyBDeWNsZXMuIExhIEpvbGxhLCBDYWxpZjogU2NyaXBwcyBJbnN0aXR1dGUgb2YgT2NlYW5vZ3JhcGh5OyBjaXRhdGlvbl95ZWFyPTE5OTI7ICIgLz48bWV0YSBuYW1lPSJjaXRhdGlvbl9yZWZlcmVuY2UiIGNvbnRlbnQ9ImNpdGF0aW9uX2F1dGhvcj1Vbml0ZWQgTmF0aW9ucyBFbnZpcm9ubWVudCBQcm9ncmFtIGFuZCB0aGUgTmF0aW9uYWwgQ2VudGVyIGZvciBBdG1vc3BoZXJpYyBSZXNlYXJjaCAgOyBjaXRhdGlvbl9ib29rPUVOU08gYW5kIENsaW1hdGUgQ2hhbmdlOiBVTkVQIENvbmZlcmVuY2UgUHJvY2VlZGluZ3M6IEJhbmdrb2ssIDE5OTEuIEJvdWxkZXIsIENvbG86IE5hdGlvbmFsIENlbnRlciBmb3IgQXRtb3NwaGVyaWMgUmVzZWFyY2g7IGNpdGF0aW9uX3llYXI9MTk5MTsgIiAvPjxtZXRhIG5hbWU9ImNpdGF0aW9uX3JlZmVyZW5jZSIgY29udGVudD0iY2l0YXRpb25fdGl0bGU9SW1wbGljYXRpb25zIG9mIGdsb2JhbCB3YXJtaW5nIGZvciBjbGltYXRlIHZhcmlhYmlsaXR5IGFuZCB0aGUgb2NjdXJyZW5jZSBvZiBleHRyZW1lIGNsaW1hdGUgZXZlbnRzLjsgY2l0YXRpb25fYXV0aG9yPU1lYXJucyAgTE87IGNpdGF0aW9uX2Jvb2s9RHJvdWdodCBBc3Nlc3NtZW50LCBNYW5hZ2VtZW50IGFuZCBQbGFubmluZzogVGhlb3J5IGFuZCBDYXNlIFN0dWRpZXMuIEJvc3RvbiwgTWFzczogS2x1d2VyOyBjaXRhdGlvbl95ZWFyPTE5OTM7ICBjaXRhdGlvbl9wYWdlcz0xMDktMTMwOyAiIC8+PG1ldGEgbmFtZT0iY2l0YXRpb25fcmVmZXJlbmNlIiBjb250ZW50PSJjaXRhdGlvbl9hdXRob3I9VGVnYXJ0ICBXSk0sIFNoZWxkb24gR1csIEdyaWZmaXRocyBEQywgZWRzOyBjaXRhdGlvbl9ib29rPUNsaW1hdGUgQ2hhbmdlOiBUaGUgSVBDQyBJbXBhY3RzIEFzc2Vzc21lbnQuIENhbmJlcnJhOiBBdXN0cmFsaWFuIEdvdmVybm1lbnQgUHVibGlzaGluZyBTZXJ2aWNlOyBjaXRhdGlvbl95ZWFyPTE5OTA7ICIgLz48bWV0YSBuYW1lPSJjaXRhdGlvbl9yZWZlcmVuY2UiIGNvbnRlbnQ9ImNpdGF0aW9uX3RpdGxlPUZvb2Qgc3VwcGx5IGFuZCB0aGUgcmlzayBvZiBodW5nZXIuOyBjaXRhdGlvbl9hdXRob3I9UGFycnkgIE1MLCBSb3Nlbnp3ZWlnIEM7TGFuY2V0OyAgY2l0YXRpb25feWVhcj0xOTkzOyAgY2l0YXRpb25fdm9sdW1lPTM0MjsgIGNpdGF0aW9uX3BhZ2VzPTEzNDUtMTM0NzsgIiAvPjxtZXRhIG5hbWU9ImNpdGF0aW9uX3JlZmVyZW5jZSIgY29udGVudD0iY2l0YXRpb25fdGl0bGU9RXZpZGVuY2UgZm9yIGxhcmdlIHVwd2FyZCB0cmVuZHMgb2YgdWx0cmF2aW9sZXQtQiByYWRpYXRpb24gbGlua2VkIHRvIG96b25lIGRlcGxldGlvbi47IGNpdGF0aW9uX2F1dGhvcj1LZXJyICBKQiwgTWNFbHJveSBDVDtTY2llbmNlOyAgY2l0YXRpb25feWVhcj0xOTkzOyAgY2l0YXRpb25fdm9sdW1lPTI2MjsgIGNpdGF0aW9uX3BhZ2VzPTEwMzItMTAzNDsgIiAvPjxtZXRhIG5hbWU9ImNpdGF0aW9uX3JlZmVyZW5jZSIgY29udGVudD0iY2l0YXRpb25fdGl0bGU9U3RyYXRvc3BoZXJpYyBzaW5rIGZvciBjaGxvcm8tZmx1b3JvLW1ldGhhbmVzOiBjaGxvcmluZSBhdG9tLWNhdGFseXplZCBkZXN0cnVjdGlvbiBvZiBvem9uZS47IGNpdGF0aW9uX2F1dGhvcj1Nb2xpbmEgIE1KLCBSb3dsYW5kIEZTO05hdHVyZTsgIGNpdGF0aW9uX3llYXI9MTk3NDsgIGNpdGF0aW9uX3ZvbHVtZT0yNDk7ICBjaXRhdGlvbl9wYWdlcz04MTAtODE0OyAiIC8+PG1ldGEgbmFtZT0iY2l0YXRpb25fcmVmZXJlbmNlIiBjb250ZW50PSJjaXRhdGlvbl9hdXRob3I9SW50ZXJuYXRpb25hbCBBZ2VuY3kgZm9yIFJlc2VhcmNoIG9uIENhbmNlciAgOyBjaXRhdGlvbl9ib29rPUlBUkMgTW9ub2dyYXBocyBvbiB0aGUgRXZhbHVhdGlvbiBvZiBDYXJjaW5vZ2VuaWMgUmlza3MgdG8gSHVtYW5zOiBTb2xhciBhbmQgVWx0cmF2aW9sZXQgUmFkaWF0aW9uLCA1NS5MeW9uLCBGcmFuY2U6IEludGVybmF0aW9uYWwgQWdlbmN5IGZvciBSZXNlYXJjaCBvbiBDYW5jZXI7IGNpdGF0aW9uX3llYXI9MTk5MjsgIiAvPjxtZXRhIG5hbWU9ImNpdGF0aW9uX3JlZmVyZW5jZSIgY29udGVudD0iY2l0YXRpb25fdGl0bGU9RWZmZWN0cyBvZiB1bHRyYXZpb2xldCByYWRpYXRpb24gb24gY2F0YXJhY3QgZm9ybWF0aW9uLjsgY2l0YXRpb25fYXV0aG9yPVRheWxvciAgSFIsIFdlc3QgU0ssIFJvc2VudGhhbCBGUywgZXQgYWw7TiBFbmdsIEogTWVkOyAgY2l0YXRpb25feWVhcj0xOTg4OyAgY2l0YXRpb25fdm9sdW1lPTMxOTsgIGNpdGF0aW9uX3BhZ2VzPTE0MjktMTQzMzsgIiAvPjxtZXRhIG5hbWU9ImNpdGF0aW9uX3JlZmVyZW5jZSIgY29udGVudD0iY2l0YXRpb25fdGl0bGU9SW4gdml2byB1bHRyYXZpb2xldCBpcnJhZGlhdGlvbiBvZiBodW1hbiBza2luIHJlc3VsdHMgaW4gcHJvZm91bmQgcGVydHVyYmF0aW9uIG9mIHRoZSBpbW11bmUgc3lzdGVtLjsgY2l0YXRpb25fYXV0aG9yPUJhYWRzZ2FhcmQgIE87QXJjaCBEZXJtYXRvbDsgIGNpdGF0aW9uX3llYXI9MTk5MTsgIGNpdGF0aW9uX3ZvbHVtZT0xMjc7ICBjaXRhdGlvbl9wYWdlcz05OS0xMDk7ICIgLz48bWV0YSBuYW1lPSJjaXRhdGlvbl9yZWZlcmVuY2UiIGNvbnRlbnQ9ImNpdGF0aW9uX3RpdGxlPVVsdHJhdmlvbGV0IHJhZGlhdGlvbiBkZWNyZWFzZXMgdGhlIGdyYW51bG9tYXRvdXMgcmVzcG9uc2UgdG8gbGVwcm9taW4gaW4gaHVtYW5zLjsgY2l0YXRpb25fYXV0aG9yPUNlc3RhcmkgIFRGLCBLcmlwa2UgTUwsIEJhcHRpc3RhIFBMLCBCYWtvcyBMLCBCdWNhbmEgQ0Q7SiBJbnZlc3QgRGVybWF0b2w7ICBjaXRhdGlvbl95ZWFyPTE5OTU7ICBjaXRhdGlvbl92b2x1bWU9MTA1OyAgY2l0YXRpb25fcGFnZXM9OC0xMzsgIiAvPjxtZXRhIG5hbWU9ImNpdGF0aW9uX3JlZmVyZW5jZSIgY29udGVudD0iY2l0YXRpb25fdGl0bGU9VVYgZXhwb3N1cmUgcmVkdWNlcyBpbW11bml6YXRpb24gcmF0ZXMgYW5kIHByb21vdGVzIHRvbGVyYW5jZSB0byBlcGljdXRhbmVvdXMgYW50aWdlbnMgaW4gaHVtYW5zLjsgY2l0YXRpb25fYXV0aG9yPUNvb3BlciAgS0QsIE9iZXJoZWxtYW4gTCwgSGFtaWx0b24gVEEsIGV0IGFsO1Byb2MgTmF0bCBBY2FkIFNjaSBVUyBBOyAgY2l0YXRpb25feWVhcj0xOTkyOyAgY2l0YXRpb25fdm9sdW1lPTg5OyAgY2l0YXRpb25fcGFnZXM9ODQ5Ny04NTAxOyAiIC8+PG1ldGEgbmFtZT0iY2l0YXRpb25fcmVmZXJlbmNlIiBjb250ZW50PSJjaXRhdGlvbl90aXRsZT1BbHRlcmF0aW9uIG9mIHRoZSBpbW11bmUgcmVzcG9uc2UgdG8gTXljb2JhY3Rlcml1bSBib3ZpcyBCQ0cgaW4gbWljZSBleHBvc2VkIGNocm9uaWNhbGx5IHRvIGxvdyBkb3NlcyBvZiBVViByYWRpYXRpb24uOyBjaXRhdGlvbl9hdXRob3I9SmVldmFuICBBLCBLcmlwa2UgTUw7Q2VsbCBJbW11bm9sOyAgY2l0YXRpb25feWVhcj0xOTkwOyAgY2l0YXRpb25fdm9sdW1lPTEzMDsgIGNpdGF0aW9uX3BhZ2VzPTMyLTQxOyAiIC8+PG1ldGEgbmFtZT0iY2l0YXRpb25fcmVmZXJlbmNlIiBjb250ZW50PSJjaXRhdGlvbl9hdXRob3I9S3JpcGtlICBNTDsgY2l0YXRpb25fYm9vaz1FZmZlY3RzIG9uIEh1bWFuIEhlYWx0aDogVVYtQiBNb25pdG9yaW5nIFdvcmtzaG9wLiBXYXNoaW5ndG9uLCBEQzogU2NpZW5jZSBhbmQgUG9saWN5IEFzc29jaWF0ZXM7IGNpdGF0aW9uX3llYXI9MTk5MjsgIiAvPjxtZXRhIG5hbWU9ImNpdGF0aW9uX3JlZmVyZW5jZSIgY29udGVudD0iY2l0YXRpb25fdGl0bGU9U3VwcHJlc3Npb24gb2YgaW1tdW5vY29tcGV0ZW5jZSBhbmQgRE5BIHJlcGFpciBjYXBhY2l0eSBieSBleHBvc3VyZSBpbiBjb21tZXJjaWFsIHRhbm5pbmcgc2Fsb25zLjsgY2l0YXRpb25fYXV0aG9yPUxhcmNvbSAgTEwsIE1vcnJpcyBURSwgU21pdGggTUU7SiBOYXRsIENhbmNlciBJbnN0OyAgY2l0YXRpb25feWVhcj0xOTkwOyAgY2l0YXRpb25fdm9sdW1lPTgyOyAgY2l0YXRpb25fcGFnZXM9MTM2MTsgIiAvPjxtZXRhIG5hbWU9ImNpdGF0aW9uX3JlZmVyZW5jZSIgY29udGVudD0iY2l0YXRpb25fYXV0aG9yPXZhbiBkZXIgTGV1biAgSkMsIFRldmluaSBNLCBXb3JyZXN0IFJDLCBlZHM7IGNpdGF0aW9uX2Jvb2s9RW52aXJvbm1lbnRhbCBFZmZlY3RzIG9mIE96b25lIERlcGxldGlvbjogMTk5MSBVcGRhdGUuIE5haXJvYmksIEtlbnlhOiBVbml0ZWQgTmF0aW9ucyBFbnZpcm9ubWVudCBQcm9ncmFtbWU7IGNpdGF0aW9uX3llYXI9MTk5MTsgIiAvPjxtZXRhIG5hbWU9ImNpdGF0aW9uX3JlZmVyZW5jZSIgY29udGVudD0iY2l0YXRpb25fdGl0bGU9VGhlIGxvdy1kb3NlIG1vZGVsIG9mIFVWQi1pbmR1Y2VkIGltbXVub3N1cHByZXNzaW9uLjsgY2l0YXRpb25fYXV0aG9yPUNydXogIFBELCBCZXJnc3RyZXNzZXIgUFI7UGhvdG9kZXJtYXRvbG9neTsgIGNpdGF0aW9uX3llYXI9MTk4ODsgIGNpdGF0aW9uX3ZvbHVtZT01OyAgY2l0YXRpb25fcGFnZXM9MTUxLTE2MTsgIiAvPjxtZXRhIG5hbWU9ImNpdGF0aW9uX3JlZmVyZW5jZSIgY29udGVudD0iY2l0YXRpb25fdGl0bGU9RWZmZWN0cyBvZiB1bHRyYXZpb2xldCByYWRpYXRpb24gb24gdGhlIGltbXVuZSBzeXN0ZW0gaW4gaHVtYW5zLjsgY2l0YXRpb25fYXV0aG9yPU1vcmlzb24gIFc7UGhvdG9jaGVtIFBob3RvYmlvbDsgIGNpdGF0aW9uX3llYXI9MTk4OTsgIGNpdGF0aW9uX3ZvbHVtZT01MDsgIGNpdGF0aW9uX3BhZ2VzPTUxNS01MjQ7ICIgLz48bWV0YSBuYW1lPSJjaXRhdGlvbl9yZWZlcmVuY2UiIGNvbnRlbnQ9ImNpdGF0aW9uX3RpdGxlPVRoZSBMYW5nZXJoYW4gY2VsbC47IGNpdGF0aW9uX2F1dGhvcj1Xb2xmZiAgSywgU3RpbmdsIEc7SiBJbnZlc3QgRGVybWF0b2w7ICBjaXRhdGlvbl95ZWFyPTE5ODM7ICBjaXRhdGlvbl92b2x1bWU9ODA7ICBjaXRhdGlvbl9pc3N1ZT1zdXBwbDsgIGNpdGF0aW9uX3BhZ2VzPTE3Uy0yMVM7ICIgLz48bWV0YSBuYW1lPSJjaXRhdGlvbl9yZWZlcmVuY2UiIGNvbnRlbnQ9ImNpdGF0aW9uX3RpdGxlPUltbXVuZSBzeXN0ZW0gYW5kIHVsdHJhdmlvbGV0IGxpZ2h0LjsgY2l0YXRpb25fYXV0aG9yPURheW5lcyAgUkE7IGNpdGF0aW9uX2Jvb2s9R2xvYmFsIEF0bW9zcGhlcmljIENoYW5nZSBhbmQgUHVibGljIEhlYWx0aDogUHJvY2VlZGluZ3Mgb2YgdGhlIENlbnRlciBmb3IgRW52aXJvbm1lbnRhbCBJbmZvcm1hdGlvbi4gTmV3IFlvcmssIE5ZOiBFbHNldmllcjsgY2l0YXRpb25feWVhcj0xOTkwOyAiIC8+PG1ldGEgbmFtZT0iY2l0YXRpb25fcmVmZXJlbmNlIiBjb250ZW50PSJjaXRhdGlvbl90aXRsZT1NZWNoYW5pc20gb2YgaW1tdW5lIHN1cHByZXNzaW9uIGJ5IHVsdHJhdmlvbGV0IGlycmFkaWF0aW9uIGluIHZpdm8uOyBjaXRhdGlvbl9hdXRob3I9RGVGYWJvICBFQywgTm9vbmFuIEZQO0ogRXhwIE1lZDsgIGNpdGF0aW9uX3llYXI9MTk4MzsgIGNpdGF0aW9uX3ZvbHVtZT0xNTg7ICBjaXRhdGlvbl9wYWdlcz04NC05ODsgIiAvPjxtZXRhIG5hbWU9ImNpdGF0aW9uX3JlZmVyZW5jZSIgY29udGVudD0iY2l0YXRpb25fdGl0bGU9QWx0ZXJhdGlvbiBvZiBUIGNlbGwgc3Vic2V0cyBhbmQgaW5kdWN0aW9uIG9mIHN1cHByZXNzb3IgVCBjZWxsIGFjdGl2aXR5IGluIG5vcm1hbCBzdWJqZWN0cyBhZnRlciBleHBvc3VyZSB0byBzdW5saWdodC47IGNpdGF0aW9uX2F1dGhvcj1IZXJzZXkgIFAsIEhhcmVuIEcsIEhhc2ljIEUsIEVkd2FyZHMgQTtKIEltbXVub2w7ICBjaXRhdGlvbl95ZWFyPTE5ODM7ICBjaXRhdGlvbl92b2x1bWU9MzE7ICBjaXRhdGlvbl9wYWdlcz0xNzEtMTc0OyAiIC8+PG1ldGEgbmFtZT0iY2l0YXRpb25fcmVmZXJlbmNlIiBjb250ZW50PSJjaXRhdGlvbl90aXRsZT1TdHVkaWVzIG9uIHRoZSBtZWNoYW5pc20gb2Ygc3lzdGVtaWMgc3VwcHJlc3Npb24gb2YgY29udGFjdCBoeXBlcnNlbnNpdGl2aXR5IGJ5IFVWQiByYWRpYXRpb24sIElJOiBkaWZmZXJlbmNlcyBpbiB0aGUgc3VwcHJlc3Npb24gb2YgZGVsYXllZCBhbmQgY29udGFjdCBoeXBlcnNlbnNpdGl2aXR5IGluIG1pY2UuOyBjaXRhdGlvbl9hdXRob3I9S3JpcGtlICBNTCwgTW9yaXNvbiBXTDtKIEludmVzdCBEZXJtYXRvbDsgIGNpdGF0aW9uX3llYXI9MTk4NjsgIGNpdGF0aW9uX3ZvbHVtZT04NjsgIGNpdGF0aW9uX3BhZ2VzPTU0My01NDk7ICIgLz48bWV0YSBuYW1lPSJjaXRhdGlvbl9yZWZlcmVuY2UiIGNvbnRlbnQ9ImNpdGF0aW9uX3RpdGxlPVN1cHByZXNzaW9uIG9mIGNvbnRhY3QgaHlwZXJzZW5zaXRpdml0eSBieSBVViByYWRpYXRpb24gYW5kIGl0cyByZWxhdGlvbnNoaXAgdG8gVVYtaW5kdWNlZCBzdXBwcmVzc2lvbiBvZiB0dW1vciBpbW11bml0eS47IGNpdGF0aW9uX2F1dGhvcj1Ob29uYW4gIEZQLCBEZUZhYm8gRUMsIEtyaXBrZSBNTDtQaG90b2NoZW0gUGhvdG9iaW9sOyAgY2l0YXRpb25feWVhcj0xOTgxOyAgY2l0YXRpb25fdm9sdW1lPTM0OyAgY2l0YXRpb25fcGFnZXM9NjgzLTY4OTsgIiAvPjxtZXRhIG5hbWU9ImNpdGF0aW9uX3JlZmVyZW5jZSIgY29udGVudD0iY2l0YXRpb25fdGl0bGU9RWZmZWN0cyBvZiBVVkIgb24gaW5mZWN0aW91cyBkaXNlYXNlLjsgY2l0YXRpb25fYXV0aG9yPUdpYW5uaW5pICBNUzsgY2l0YXRpb25fYm9vaz1HbG9iYWwgQXRtb3NwaGVyaWMgQ2hhbmdlIGFuZCBQdWJsaWMgSGVhbHRoOiBQcm9jZWVkaW5ncyBvZiB0aGUgQ2VudGVyIGZvciBFbnZpcm9ubWVudGFsIEluZm9ybWF0aW9uLiBOZXcgWW9yaywgTlk6IEVsc2V2aWVyOyBjaXRhdGlvbl95ZWFyPTE5OTA7ICIgLz48bWV0YSBuYW1lPSJjaXRhdGlvbl9yZWZlcmVuY2UiIGNvbnRlbnQ9ImNpdGF0aW9uX3RpdGxlPUZyYW1ld29yayBmb3IgYW4gaW50ZWdyYXRlZCBhc3Nlc3NtZW50IG9mIGNsaW1hdGljIGNoYW5nZSBhbmQgZWNvc3lzdGVtIHZ1bG5lcmFiaWxpdHkuOyBjaXRhdGlvbl9hdXRob3I9RXBzdGVpbiAgUFI7IGNpdGF0aW9uX2Jvb2s9RGlzZWFzZXMgaW4gRXZvbHV0aW9uOiBHbG9iYWwgQ2hhbmdlIGFuZCBFbWVyZ2VuY2Ugb2YgSW5mZWN0aW91cyBEaXNlYXNlcy4gTmV3IFlvcmssIE5ZOiBOZXcgWW9yayBBY2FkZW15IG9mIFNjaWVuY2U7IGNpdGF0aW9uX3llYXI9MTk5NDsgIGNpdGF0aW9uX3BhZ2VzPTQyMy00MzU7ICIgLz48bWV0YSBuYW1lPSJjaXRhdGlvbl9yZWZlcmVuY2UiIGNvbnRlbnQ9ImNpdGF0aW9uX3RpdGxlPUdsb2JhbCBlbnZpcm9ubWVudGFsIGNoYW5nZSBhbmQgaHVtYW4gcG9wdWxhdGlvbiBoZWFsdGg6IGNvbmNlcHR1YWwgYW5kIHNjaWVudGlmaWMgY2hhbGxlbmdlIGZvciBlcGlkZW1pb2xvZ3kuOyBjaXRhdGlvbl9hdXRob3I9TWNNaWNoYWVsICBBSjtJbnQgSiBFcGlkZW1pb2w7ICBjaXRhdGlvbl95ZWFyPTE5OTM7ICBjaXRhdGlvbl92b2x1bWU9MjI7ICBjaXRhdGlvbl9wYWdlcz0xLTg7ICIgLz48bWV0YSBuYW1lPSJjaXRhdGlvbl9yZWZlcmVuY2UiIGNvbnRlbnQ9ImNpdGF0aW9uX3RpdGxlPVRoZSBoZWFsdGggaW1wYWN0cyBvZiBnbG9iYWwgY2xpbWF0ZSBjaGFuZ2U6IGdyYXBwbGluZyB3aXRoIHNjZW5hcmlvcywgcHJlZGljdGl2ZSBtb2RlbHMsIGFuZCBtdWx0aXBsZSB1bmNlcnRhaW50aWVzLjsgY2l0YXRpb25fYXV0aG9yPU1jTWljaGFlbCAgQUosIE1hcnRlbnMgV0pNO0Vjb3N5c3RlbSBIZWFsdGg7ICBjaXRhdGlvbl95ZWFyPTE5OTU7ICBjaXRhdGlvbl92b2x1bWU9MTsgIGNpdGF0aW9uX3BhZ2VzPTIzLTMzOyAiIC8+PG1ldGEgbmFtZT0iY2l0YXRpb25fcmVmZXJlbmNlIiBjb250ZW50PSJjaXRhdGlvbl90aXRsZT1JbXBhY3Qgb2YgY2xpbWF0ZSBjaGFuZ2Ugb24gbWFsYXJpYSB2ZWN0b3JzLjsgY2l0YXRpb25fYXV0aG9yPUpldHRlbiAgVEgsIFRha2tlbiBXO0NoYW5nZTsgIGNpdGF0aW9uX3llYXI9MTk5NDsgIGNpdGF0aW9uX3ZvbHVtZT0xODsgIGNpdGF0aW9uX3BhZ2VzPTEwLTEyOyAiIC8+PG1ldGEgbmFtZT0iY2l0YXRpb25fcmVmZXJlbmNlIiBjb250ZW50PSJjaXRhdGlvbl90aXRsZT1Bc3Nlc3NpbmcgdGhlIHB1YmxpYyBoZWFsdGggZWZmZWN0cyBvZiBnbG9iYWwgd2FybWluZzogbmV3IGFuZCBvbmdvaW5nIGludGVybmF0aW9uYWwgZWZmb3J0cy47IGNpdGF0aW9uX2F1dGhvcj1QYXR6ICBKQTtXb3JsZCBSZXNvdXJjZSBSZXY7ICBjaXRhdGlvbl95ZWFyPTE5OTU7ICBjaXRhdGlvbl92b2x1bWU9NzsgIGNpdGF0aW9uX3BhZ2VzPTEwNC0xMTI7ICIgLz48bWV0YSBuYW1lPSJjaXRhdGlvbl9yZWZlcmVuY2UiIGNvbnRlbnQ9ImNpdGF0aW9uX2F1dGhvcj1HbGFzcyAgR0UsIEFyb24gSkwsIEVsbGlzIEpILCBZb29uIFNTOyBjaXRhdGlvbl9ib29rPUFwcGxpY2F0aW9ucyBvZiBHSVMgVGVjaG5vbG9neSB0byBEaXNlYXNlIENvbnRyb2wuIEJhbHRpbW9yZSwgTWQ6IFRoZSBKb2hucyBIb3BraW5zIFVuaXZlcnNpdHk7IGNpdGF0aW9uX3llYXI9MTk5MzsgIiAvPjxtZXRhIG5hbWU9ImNpdGF0aW9uX3JlZmVyZW5jZSIgY29udGVudD0iY2l0YXRpb25fdGl0bGU9QXBwbGljYXRpb24gb2YgcmVtb3RlIHNlbnNpbmcgdG8gYXJ0aHJvcG9kIHZlY3RvciBzdXJ2ZWlsbGFuY2UgYW5kIGNvbnRyb2wuOyBjaXRhdGlvbl9hdXRob3I9V2FzaGlubyAgUkssIFdvb2QgQkw7QW0gSiBUcm9wIE1lZCBIeWc7ICBjaXRhdGlvbl95ZWFyPTE5OTQ7ICBjaXRhdGlvbl92b2x1bWU9NTA7ICBjaXRhdGlvbl9pc3N1ZT1zdXBwbDsgIGNpdGF0aW9uX3BhZ2VzPTEzNC0xNDQ7ICIgLz48bWV0YSBuYW1lPSJjaXRhdGlvbl9wZGZfdXJsIiBjb250ZW50PSJodHRwOi8vamFtYS5qYW1hbmV0d29yay5jb20vZGF0YS9qb3VybmFscy9qYW1hLzk1MTQvamFtYV8yNzVfM18wMzIucGRmIiAvPmQCBQ8WAh8ABX08IS0tIE9wdGltaXplbHkgc2NyaXB0IC0tPiA8c2NyaXB0IHNyYz0iaHR0cHM6Ly9jZG4ub3B0aW1pemVseS5jb20vanMvMjc4NTUwMTgwNi5qcyI+PC9zY3JpcHQ+IDwhLS0gRW5kIE9wdGltaXplbHkgc2NyaXB0IC0tPmQCAQ8WAh8ABbEEPCEtLSBHb29nbGUgVGFnIE1hbmFnZXIgLS0+PG5vc2NyaXB0PjxpZnJhbWUgc3JjPSIvL3d3dy5nb29nbGV0YWdtYW5hZ2VyLmNvbS9ucy5odG1sP2lkPUdUTS1XTktTTlAiIGhlaWdodD0iMCIgd2lkdGg9IjAiIHN0eWxlPSJkaXNwbGF5Om5vbmU7dmlzaWJpbGl0eTpoaWRkZW4iPjwvaWZyYW1lPjwvbm9zY3JpcHQ+PHNjcmlwdD4oZnVuY3Rpb24odyxkLHMsbCxpKXt3W2xdPXdbbF18fFtdO3dbbF0ucHVzaCh7J2d0bS5zdGFydCc6IG5ldyBEYXRlKCkuZ2V0VGltZSgpLGV2ZW50OidndG0uanMnfSk7dmFyIGY9ZC5nZXRFbGVtZW50c0J5VGFnTmFtZShzKVswXSwgaj1kLmNyZWF0ZUVsZW1lbnQocyksZGw9bCE9J2RhdGFMYXllcic/JyZsPScrbDonJztqLmFzeW5jPXRydWU7ai5zcmM9Jy8vd3d3Lmdvb2dsZXRhZ21hbmFnZXIuY29tL2d0bS5qcz9pZD0nK2krZGw7Zi5wYXJlbnROb2RlLmluc2VydEJlZm9yZShqLGYpOyB9KSh3aW5kb3csZG9jdW1lbnQsJ3NjcmlwdCcsJ2RhdGFMYXllcicsJ0dUTS1XTktTTlAnKTs8L3NjcmlwdD48IS0tIEVuZCBHb29nbGUgVGFnIE1hbmFnZXIgLS0+ZAICD2QWCAICD2QWBAIBD2QWEGYPFgIeC18hSXRlbUNvdW50AgQWCGYPZBYCZg8WBh4JaW5uZXJodG1sBQRIb21lHgRocmVmBSRodHRwOi8vamFtYW5ldHdvcmsuY29tL2pvdXJuYWxzL2phbWEeBWNsYXNzBQRob21lZAIBD2QWAmYPFgYfAgUKTmV3IE9ubGluZR8DBS5odHRwOi8vamFtYW5ldHdvcmsuY29tL2pvdXJuYWxzL2phbWEvbmV3b25saW5lHwQFCm5ldy1vbmxpbmVkAgIPZBYCZg8WBh8CBQ1DdXJyZW50IElzc3VlHwMFMWh0dHA6Ly9qYW1hbmV0d29yay5jb20vam91cm5hbHMvamFtYS9jdXJyZW50aXNzdWUfBAUNY3VycmVudC1pc3N1ZWQCAw9kFgJmDxYGHwIFC0ZvciBBdXRob3JzHwMFNmh0dHA6Ly9qYW1hbmV0d29yay5jb20vam91cm5hbHMvamFtYS9wYWdlcy9mb3ItYXV0aG9ycx8EBQtmb3ItYXV0aG9yc2QCAQ8WAh8CBQhKb3VybmFsc2QCAg8WAh8BAg0WGmYPZBYCZg8WBh8EBQp0aGVtZS1qYW1hHwIFBEpBTUEfAwUkaHR0cDovL2phbWFuZXR3b3JrLmNvbS9qb3VybmFscy9qYW1hZAIBD2QWAmYPFgYfBAUVdGhlbWUtamFtYS1jYXJkaW9sb2d5HwIFD0pBTUEgQ2FyZGlvbG9neR8DBS5odHRwOi8vamFtYW5ldHdvcmsuY29tL2pvdXJuYWxzL2phbWFjYXJkaW9sb2d5ZAICD2QWAmYPFgYfBAUWdGhlbWUtamFtYS1kZXJtYXRvbG9neR8CBRBKQU1BIERlcm1hdG9sb2d5HwMFL2h0dHA6Ly9qYW1hbmV0d29yay5jb20vam91cm5hbHMvamFtYWRlcm1hdG9sb2d5ZAIDD2QWAmYPFgYfBAUhdGhlbWUtamFtYS1mYWNpYWwtcGxhc3RpYy1zdXJnZXJ5HwIFG0pBTUEgRmFjaWFsIFBsYXN0aWMgU3VyZ2VyeR8DBThodHRwOi8vamFtYW5ldHdvcmsuY29tL2pvdXJuYWxzL2phbWFmYWNpYWxwbGFzdGljc3VyZ2VyeWQCBA9kFgJmDxYGHwQFHHRoZW1lLWphbWEtaW50ZXJuYWwtbWVkaWNpbmUfAgUWSkFNQSBJbnRlcm5hbCBNZWRpY2luZR8DBTRodHRwOi8vamFtYW5ldHdvcmsuY29tL2pvdXJuYWxzL2phbWFpbnRlcm5hbG1lZGljaW5lZAIFD2QWAmYPFgYfBAUUdGhlbWUtamFtYS1uZXVyb2xvZ3kfAgUOSkFNQSBOZXVyb2xvZ3kfAwUtaHR0cDovL2phbWFuZXR3b3JrLmNvbS9qb3VybmFscy9qYW1hbmV1cm9sb2d5ZAIGD2QWAmYPFgYfBAUTdGhlbWUtamFtYS1vbmNvbG9neR8CBQ1KQU1BIE9uY29sb2d5HwMFLGh0dHA6Ly9qYW1hbmV0d29yay5jb20vam91cm5hbHMvamFtYW9uY29sb2d5ZAIHD2QWAmYPFgYfBAUYdGhlbWUtamFtYS1vcGh0aGFsbW9sb2d5HwIFEkpBTUEgT3BodGhhbG1vbG9neR8DBTFodHRwOi8vamFtYW5ldHdvcmsuY29tL2pvdXJuYWxzL2phbWFvcGh0aGFsbW9sb2d5ZAIID2QWAmYPFgYfBAUrdGhlbWUtamFtYS1vdG9sYXJ5bmdvbG9neS1oZWFkLW5lY2stc3VyZ2VyeR8CBS1KQU1BIE90b2xhcnluZ29sb2d54oCTSGVhZCAmYW1wOyBOZWNrIFN1cmdlcnkfAwUyaHR0cDovL2phbWFuZXR3b3JrLmNvbS9qb3VybmFscy9qYW1hb3RvbGFyeW5nb2xvZ3lkAgkPZBYCZg8WBh8EBRV0aGVtZS1qYW1hLXBlZGlhdHJpY3MfAgUPSkFNQSBQZWRpYXRyaWNzHwMFLmh0dHA6Ly9qYW1hbmV0d29yay5jb20vam91cm5hbHMvamFtYXBlZGlhdHJpY3NkAgoPZBYCZg8WBh8EBRV0aGVtZS1qYW1hLXBzeWNoaWF0cnkfAgUPSkFNQSBQc3ljaGlhdHJ5HwMFLmh0dHA6Ly9qYW1hbmV0d29yay5jb20vam91cm5hbHMvamFtYXBzeWNoaWF0cnlkAgsPZBYCZg8WBh8EBRJ0aGVtZS1qYW1hLXN1cmdlcnkfAgUMSkFNQSBTdXJnZXJ5HwMFK2h0dHA6Ly9qYW1hbmV0d29yay5jb20vam91cm5hbHMvamFtYXN1cmdlcnlkAgwPZBYCZg8WBh8EBTF0aGVtZS1hcmNoaXZlcy1vZi1uZXVyb2xvZ3ktcHN5Y2hpYXRyeS0xOTE5LTE5NTktHwIFMkFyY2hpdmVzIG9mIE5ldXJvbG9neSAmYW1wOyBQc3ljaGlhdHJ5ICgxOTE5LTE5NTkpHwMFLGh0dHA6Ly9qYW1hbmV0d29yay5jb20vam91cm5hbHMvYXJjaG5ldXJwc3ljZAIDDxYCHwECBhYMZg9kFgJmDxYGHwQFEmlzLWIgbGluay1sZWFybmluZx8CBQhMZWFybmluZx8DBR9odHRwOi8vamFtYW5ldHdvcmsuY29tL2xlYXJuaW5nZAIBD2QWAmYPFggfBAUPaXMtYiBsaW5rLXN0b3JlHgZ0YXJnZXQFBl9ibGFuax8CBQVTdG9yZR8DBRxodHRwOi8vc3RvcmUuamFtYW5ldHdvcmsuY29tZAICD2QWAmYPFgYfBAUOaXMtYiBsaW5rLWFwcHMfAgUEQXBwcx8DBSJodHRwOi8vamFtYW5ldHdvcmsuY29tL3BhZ2VzL2FwcHMvZAIDD2QWAmYPFggfBAUOaXMtYiBsaW5rLWpvYnMfBQUGX2JsYW5rHwIFBEpvYnMfAwUgaHR0cDovL3d3dy5qYW1hY2FyZWVyY2VudGVyLmNvbS9kAgQPZBYCZg8WBh8EBSFpcy1iIGxpbmstaW5zdGl0dXRpb25zLWxpYnJhcmlhbnMfAgUZSW5zdGl0dXRpb25zIC8gTGlicmFyaWFucx8DBThodHRwOi8vamFtYW5ldHdvcmsuY29tL3BhZ2VzL2luc3RpdHV0aW9ucy1hbmQtbGlicmFyaWFuc2QCBQ9kFgJmDxYGHwQFHmlzLWIgbGluay1yZXByaW50cy1wZXJtaXNzaW9ucx8CBRpSZXByaW50cyAmYW1wOyBQZXJtaXNzaW9ucx8DBTVodHRwOi8vamFtYW5ldHdvcmsuY29tL3BhZ2VzL3JlcHJpbnRzLWFuZC1wZXJtaXNzaW9uc2QCDg8WAh4HVmlzaWJsZWcWAgIBDw8WAh8ABR1Vbml2ZXJzaXR5IG9mIEhhd2FpaSBhdCBNYW5vYWRkAg8PFgIfAgUhPHNwYW4gY2xhc3M9J25ldHdvcmsnPkpBTUE8L3NwYW4+ZAIQD2QWAmYPFgIfBAUOYXV0aCBsb2dnZWQtaW4WDAIFD2QWBAIBDxYCHwMFc2h0dHA6Ly9qYW1hbmV0d29yay5jb20vb2F1dGhzaWduaW4/cmV0dXJuX3VybD1odHRwJTNhJTJmJTJmamFtYW5ldHdvcmsuY29tJTJmam91cm5hbHMlMmZqYW1hJTJmZnVsbGFydGljbGUlMmYzOTQ1MDhkAgIPFgIfAwWzAWh0dHBzOi8vbG9naW4uYW1hLWFzc24ub3JnL2FjY291bnQvc2lnbnVwP2FwcElkPXNjd2ViJnJldHVybnVybD1odHRwOi8vamFtYW5ldHdvcmsuY29tL29hdXRoc2lnbmluP3JldHVybl91cmw9aHR0cCUzYSUyZiUyZmphbWFuZXR3b3JrLmNvbSUyZmpvdXJuYWxzJTJmamFtYSUyZmZ1bGxhcnRpY2xlJTJmMzk0NTA4ZAIHDxYCHwZoZAILDxYCHwZoFgRmDw8WAh8GaGRkAgEPDxYEHwAFHVN1YnNjcmliZSB0byB0aGUgSkFNQSBqb3VybmFsHwZoZGQCDQ8WAh8GaGQCDw8WAh8GaGQCEQ8WAh8GaBYCZg8WAh8DBXlodHRwOi8vamFtYW5ldHdvcmsuY29tL29hdXRoc2lnbm91dD9yZXR1cm5fdXJsPWh0dHAlM2ElMmYlMmZqYW1hbmV0d29yay5jb20lMmZqb3VybmFscyUyZmphbWElMmZhcnRpY2xlLWFic3RyYWN0JTJmMzk0NTA4ZAIRDxBkDxYPZgIBAgICAwIEAgUCBgIHAggCCQIKAgsCDAINAg4WDxAFCEpvdXJuYWxzBQJKKmcQBQhMZWFybmluZwUCTCpnEAUESkFNQQUDSjY3ZxAFD0pBTUEgQ2FyZGlvbG9neQUESjE4NGcQBRBKQU1BIERlcm1hdG9sb2d5BQNKNjhnEAUbSkFNQSBGYWNpYWwgUGxhc3RpYyBTdXJnZXJ5BQNKNjlnEAUWSkFNQSBJbnRlcm5hbCBNZWRpY2luZQUDSjcxZxAFDkpBTUEgTmV1cm9sb2d5BQNKNzJnEAUNSkFNQSBPbmNvbG9neQUESjE3NGcQBRJKQU1BIE9waHRoYWxtb2xvZ3kFA0o3M2cQBSlKQU1BIE90b2xhcnluZ29sb2d54oCTSGVhZCAmIE5lY2sgU3VyZ2VyeQUDSjc0ZxAFD0pBTUEgUGVkaWF0cmljcwUDSjc1ZxAFD0pBTUEgUHN5Y2hpYXRyeQUDSjcwZxAFDEpBTUEgU3VyZ2VyeQUDSjc2ZxAFIkFyY2hpdmVzIG9mIE5ldXJvbG9neSAmIFBzeWNoaWF0cnkFA0o5MWdkZAIDD2QWAmYPFgIfBmhkAgMPZBYCZg9kFgYCAw9kFgICAQ8WAh8DBXNodHRwOi8vamFtYW5ldHdvcmsuY29tL29hdXRoc2lnbmluP3JldHVybl91cmw9aHR0cCUzYSUyZiUyZmphbWFuZXR3b3JrLmNvbSUyZmpvdXJuYWxzJTJmamFtYSUyZmZ1bGxhcnRpY2xlJTJmMzk0NTA4ZAIFDxYCHwZoZAIHD2QWAgIBDxYCHwMFswFodHRwczovL2xvZ2luLmFtYS1hc3NuLm9yZy9hY2NvdW50L3NpZ251cD9hcHBJZD1zY3dlYiZyZXR1cm51cmw9aHR0cDovL2phbWFuZXR3b3JrLmNvbS9vYXV0aHNpZ25pbj9yZXR1cm5fdXJsPWh0dHAlM2ElMmYlMmZqYW1hbmV0d29yay5jb20lMmZqb3VybmFscyUyZmphbWElMmZmdWxsYXJ0aWNsZSUyZjM5NDUwOGQCBQ9kFgJmD2QWCAIBDxYCHwIFJFNpZ24gaW4gdG8gYWNjZXNzIHlvdXIgc3Vic2NyaXB0aW9uc2QCAw9kFgICAQ8WAh8DBXNodHRwOi8vamFtYW5ldHdvcmsuY29tL29hdXRoc2lnbmluP3JldHVybl91cmw9aHR0cCUzYSUyZiUyZmphbWFuZXR3b3JrLmNvbSUyZmpvdXJuYWxzJTJmamFtYSUyZmZ1bGxhcnRpY2xlJTJmMzk0NTA4ZAIFDxYCHwZoZAIHD2QWBAIBDxYCHwMFswFodHRwczovL2xvZ2luLmFtYS1hc3NuLm9yZy9hY2NvdW50L3NpZ251cD9hcHBJZD1zY3dlYiZyZXR1cm51cmw9aHR0cDovL2phbWFuZXR3b3JrLmNvbS9vYXV0aHNpZ25pbj9yZXR1cm5fdXJsPWh0dHAlM2ElMmYlMmZqYW1hbmV0d29yay5jb20lMmZqb3VybmFscyUyZmphbWElMmZmdWxsYXJ0aWNsZSUyZjM5NDUwOGQCAw8WAh8CBTp0byBhY2Nlc3MgeW91ciBzdWJzY3JpcHRpb25zLCBzaWduIHVwIGZvciBhbGVydHMsIGFuZCBtb3JlZAIHD2QWAmYPZBYGAgMPZBYCAgEPFgIfAwVzaHR0cDovL2phbWFuZXR3b3JrLmNvbS9vYXV0aHNpZ25pbj9yZXR1cm5fdXJsPWh0dHAlM2ElMmYlMmZqYW1hbmV0d29yay5jb20lMmZqb3VybmFscyUyZmphbWElMmZmdWxsYXJ0aWNsZSUyZjM5NDUwOGQCBQ8WAh8GaGQCBw9kFgICAQ8WAh8DBbMBaHR0cHM6Ly9sb2dpbi5hbWEtYXNzbi5vcmcvYWNjb3VudC9zaWdudXA/YXBwSWQ9c2N3ZWImcmV0dXJudXJsPWh0dHA6Ly9qYW1hbmV0d29yay5jb20vb2F1dGhzaWduaW4/cmV0dXJuX3VybD1odHRwJTNhJTJmJTJmamFtYW5ldHdvcmsuY29tJTJmam91cm5hbHMlMmZqYW1hJTJmZnVsbGFydGljbGUlMmYzOTQ1MDhkZJ76KXEhSbslPLaDEsnMEpDx4Us4" />
+</div>
+
+
+<script src="/WebResource.axd?d=rUrVk3y4W--u-NvW9ko7yKS83OK9kKrf5HFrFmLEyJs8j7JctvNQTguGr5f2zMzXMHHMQoW1xoOfFbDUC4-ufY7Rswc9vv5eN98KVLTfAk6dngu8PEYexnX465jes5zeQ5Iq58WBVZOXuLjDxXKU4T7HVVs1&amp;t=636227552189395126" type="text/javascript"></script>
+<div class="aspNetHidden">
+
+	<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="2FAFABAE" />
+	<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEdABrHkohTUZN7dZ5vcKY9IbX5NS2zm+OxjCYYjvQ36mGgUkTBGkQQ1gEOuoEWbQhhTxdziuZNSHsD6vBL6Rd2v9PAii5nSjjEdpbh75Mf1Zbotxo1aCadrWnldcWJdnH7jpvqUjRABcdJpNqnb+6Wjbj2epwK6sK+gfOHf+fMzD3UHEDPXlv01hCy7yMkQxs8EdOz9Zc1UvOpkfrAQeKirNRMAL/SA2yFNeAnjiC/zoV/3ljm6lyMS2iE8Txm4hG4Wfp9G/C7cDdZeatj8CEyZr9gyfJV4LoVotajwWTN94sB9oXjib2QcjsBnjXQiLRRc+WC1ZePFAgLl0ZZV+TS7y8w3UP6LuqpdfI9MLZJg03K0wvAIo4zUrTvKmVQERgE5Up5hs9/KA43wUNQUKdM2G67s04zHL1GcuLTKAJvbZB2pBym4GowGnEntf3Sl2Q6CA79Vjo8hzoYSSFDnUJqShgNIRrqggQA7Z9Xmy6vOZYge0fs+UvEOY1O1+RV7AaBECJ7gPGQrVmIPB62W+mnoBcDxnzezZDkqvoaFbGClYfcJTEpSJ2GSe0tOKRPBjTSL8WnAeyq" />
+</div>
+        
+        <input id="hdnSiteID" type="hidden" value="3" />
+
+
+        
+        
+
+
+        
+        
+    
+    <script>
+        
+        var App = App || {};
+        App.suppressAds = !!document.getElementsByClassName('suppress-ads').length;
+    </script>
+
+
+    <section class="master-header">
+        
+<nav id="nav" class="nav">
+    <div class="nav-journal-level">
+        <a href="http://jamanetwork.com.eres.library.manoa.hawaii.edu/journals/jama" id="BodyContent_Header_rptMicrositeHeaders_aItemResourceList_0" class="home">Home</a><a href="http://jamanetwork.com.eres.library.manoa.hawaii.edu/journals/jama/newonline" id="BodyContent_Header_rptMicrositeHeaders_aItemResourceList_1" class="new-online">New Online</a><a href="http://jamanetwork.com.eres.library.manoa.hawaii.edu/journals/jama/currentissue" id="BodyContent_Header_rptMicrositeHeaders_aItemResourceList_2" class="current-issue">Current Issue</a><a href="http://jamanetwork.com.eres.library.manoa.hawaii.edu/journals/jama/pages/for-authors" id="BodyContent_Header_rptMicrositeHeaders_aItemResourceList_3" class="for-authors">For Authors</a>
+    </div>
+    <div class="nav-journals">
+        <h2 id="BodyContent_Header_JournalHeader" class="nav-heading">Journals</h2>
+       <a href="http://jamanetwork.com.eres.library.manoa.hawaii.edu/journals/jama" id="BodyContent_Header_rptJournals_aItemResourceList_0" class="theme-jama">JAMA</a><a href="http://jamanetwork.com.eres.library.manoa.hawaii.edu/journals/jamacardiology" id="BodyContent_Header_rptJournals_aItemResourceList_1" class="theme-jama-cardiology">JAMA Cardiology</a><a href="http://jamanetwork.com.eres.library.manoa.hawaii.edu/journals/jamadermatology" id="BodyContent_Header_rptJournals_aItemResourceList_2" class="theme-jama-dermatology">JAMA Dermatology</a><a href="http://jamanetwork.com.eres.library.manoa.hawaii.edu/journals/jamafacialplasticsurgery" id="BodyContent_Header_rptJournals_aItemResourceList_3" class="theme-jama-facial-plastic-surgery">JAMA Facial Plastic Surgery</a><a href="http://jamanetwork.com.eres.library.manoa.hawaii.edu/journals/jamainternalmedicine" id="BodyContent_Header_rptJournals_aItemResourceList_4" class="theme-jama-internal-medicine">JAMA Internal Medicine</a><a href="http://jamanetwork.com.eres.library.manoa.hawaii.edu/journals/jamaneurology" id="BodyContent_Header_rptJournals_aItemResourceList_5" class="theme-jama-neurology">JAMA Neurology</a><a href="http://jamanetwork.com.eres.library.manoa.hawaii.edu/journals/jamaoncology" id="BodyContent_Header_rptJournals_aItemResourceList_6" class="theme-jama-oncology">JAMA Oncology</a><a href="http://jamanetwork.com.eres.library.manoa.hawaii.edu/journals/jamaophthalmology" id="BodyContent_Header_rptJournals_aItemResourceList_7" class="theme-jama-ophthalmology">JAMA Ophthalmology</a><a href="http://jamanetwork.com.eres.library.manoa.hawaii.edu/journals/jamaotolaryngology" id="BodyContent_Header_rptJournals_aItemResourceList_8" class="theme-jama-otolaryngology-head-neck-surgery">JAMA Otolaryngology–Head &amp; Neck Surgery</a><a href="http://jamanetwork.com.eres.library.manoa.hawaii.edu/journals/jamapediatrics" id="BodyContent_Header_rptJournals_aItemResourceList_9" class="theme-jama-pediatrics">JAMA Pediatrics</a><a href="http://jamanetwork.com.eres.library.manoa.hawaii.edu/journals/jamapsychiatry" id="BodyContent_Header_rptJournals_aItemResourceList_10" class="theme-jama-psychiatry">JAMA Psychiatry</a><a href="http://jamanetwork.com.eres.library.manoa.hawaii.edu/journals/jamasurgery" id="BodyContent_Header_rptJournals_aItemResourceList_11" class="theme-jama-surgery">JAMA Surgery</a><a href="http://jamanetwork.com.eres.library.manoa.hawaii.edu/journals/archneurpsyc" id="BodyContent_Header_rptJournals_aItemResourceList_12" class="theme-archives-of-neurology-psychiatry-1919-1959-">Archives of Neurology &amp; Psychiatry (1919-1959)</a>
+    </div>
+    <div class="nav-network-other">
+        <a href="http://jamanetwork.com.eres.library.manoa.hawaii.edu/learning" id="BodyContent_Header_rptOtherResources_aItemResourceList_0" class="is-b link-learning">Learning</a><a href="http://store.jamanetwork.com.eres.library.manoa.hawaii.edu" id="BodyContent_Header_rptOtherResources_aItemResourceList_1" class="is-b link-store" target="_blank">Store</a><a href="http://jamanetwork.com.eres.library.manoa.hawaii.edu/pages/apps/" id="BodyContent_Header_rptOtherResources_aItemResourceList_2" class="is-b link-apps">Apps</a><a href="http://www.jamacareercenter.com/" id="BodyContent_Header_rptOtherResources_aItemResourceList_3" class="is-b link-jobs" target="_blank">Jobs</a><a href="http://jamanetwork.com.eres.library.manoa.hawaii.edu/pages/institutions-and-librarians" id="BodyContent_Header_rptOtherResources_aItemResourceList_4" class="is-b link-institutions-librarians">Institutions / Librarians</a><a href="http://jamanetwork.com.eres.library.manoa.hawaii.edu/pages/reprints-and-permissions" id="BodyContent_Header_rptOtherResources_aItemResourceList_5" class="is-b link-reprints-permissions">Reprints &amp; Permissions</a>
+    </div>
+    <div class="white text-xxs">
+        <div class="p05 ml4 mr3 mb1 mt10 flex hamburger-menu-legal">
+            <a href="/pages/conditions-of-use" class="p0">Terms of Use</a>
+            <span class="pl1 pr1"> | </span>
+            <a href="/pages/privacy-policy" class="p0">Privacy Policy</a>
+            <span class="pl1 pr1"> | </span>
+            <a href="/pages/accessibility-statement" class="p0">Accessibility Statement</a>
+        </div>
+        <div class="ta-c">
+            <span class="pb1">2016 American Medical Association. All Rights Reserved</span>
+        </div>
+    </div>
+</nav>
+
+<script type='text/javascript'>
+    var App = App || {};
+    App.LoginUserInfo = {
+        isInstLoggedIn: [1],
+        currentSessionId: 'gp41t5liatat24h0kcvkgp2t'
+    };
+</script>
+
+
+
+<input name="ctl00$ctl00$BodyContent$Header$hfGlobalSearchSiteURL" type="hidden" id="hfGlobalSearchSiteURL" value="http://jamanetwork.com.eres.library.manoa.hawaii.edu/" />
+
+<input name="ctl00$ctl00$BodyContent$Header$hfAppIsPaidUser" type="hidden" id="hfAppIsPaidUser" value="true" />
+<input name="ctl00$ctl00$BodyContent$Header$hfAppIsMember" type="hidden" id="hfAppIsMember" value="false" />
+<input name="ctl00$ctl00$BodyContent$Header$hfAppSubscribedTo" type="hidden" id="hfAppSubscribedTo" value="67,68,69,70,71,72,73,74,75,76" />
+<input name="ctl00$ctl00$BodyContent$Header$hfAppIsIndividual" type="hidden" id="hfAppIsIndividual" value="false" />
+<input name="ctl00$ctl00$BodyContent$Header$hfAppHasAccess" type="hidden" id="hfAppHasAccess" value="true" />
+<input name="ctl00$ctl00$BodyContent$Header$hfAppIsReferredFromGoogle" type="hidden" id="hfAppIsReferredFromGoogle" value="False" />
+<input name="ctl00$ctl00$BodyContent$Header$hfSolrAutoSuggestMinimumCharactersLength" type="hidden" id="hfSolrAutoSuggestMinimumCharactersLength" value="2" />
+<input name="ctl00$ctl00$BodyContent$Header$hfSolrJournalName" type="hidden" id="hfSolrJournalName" value="JAMA" />
+<input name="ctl00$ctl00$BodyContent$Header$hfSolrJournalID" type="hidden" id="hfSolrJournalID" value="J67" />
+
+
+<div class="header-wrap">
+    <header class="header">
+        <div class="network-bar">
+            <a class="jama-network" href="/" title="JAMA Network Home"><img alt="JAMA Network Home" class="title-image" src="/UI/app/svg/Jama_Network_Logo.svg"> </a>
+            <div id="BodyContent_Header_divAccessProvidedBy" class="auth--inst"><span class="auth--provided-by">Access Provided by </span><span id="BodyContent_Header_lblInstitutionAccessProviderName">University of Hawaii at Manoa</span></div>
+        </div>
+
+        <a class="nav-toggler" href="#nav">
+            <div class="nav-toggler-indicator">
+              <span class="indicator-stroke"></span>
+              <span class="indicator-stroke"></span>
+              <span class="indicator-stroke"></span>
+              <span class="indicator-stroke"></span>
+            </div>
+            <div class="nav-toggler-site" >
+                <span id="BodyContent_Header_siteFullNamenav" class="nav-toggler-microsite"><span class='network'>JAMA</span></span>
+            </div>
+        </a>
+
+
+        
+        <div id="BodyContent_Header_GlobalSignIn_auth" class="auth logged-in">
+            <a class="auth--trigger is-b is-a">
+                <span id="BodyContent_Header_GlobalSignIn_spnUserFullName" class="user-full-name">Sign In</span>
+            </a>
+
+            <div class="auth--dropdown">
+                
+                <div class="auth--option auth--ind">
+                    
+                    <div id="BodyContent_Header_GlobalSignIn_divUserFullName" class="auth--ind-user"></div>                    
+                    
+                    <div id="BodyContent_Header_GlobalSignIn_divIndSignIn" class="auth--ind-auth">
+                        <div class="auth--title">Individual Sign In</div>
+                        <a href="http://jamanetwork.com.eres.library.manoa.hawaii.edu/oauthsignin?return_url=http%3a%2f%2fjamanetwork.com%2fjournals%2fjama%2ffullarticle%2f394508" id="BodyContent_Header_GlobalSignIn_oauthSignInLink" rel="nofollow" class="auth--ind-sign-in">Sign in</a><a href="https://login-ama-assn-org.eres.library.manoa.hawaii.edu/account/signup?appId=scweb&returnurl=http://jamanetwork.com.eres.library.manoa.hawaii.edu/oauthsignin?return_url=http%3a%2f%2fjamanetwork.com%2fjournals%2fjama%2ffullarticle%2f394508" id="BodyContent_Header_GlobalSignIn_oauthSignUpLink" rel="nofollow" class="auth--ind-create">Create an Account</a>
+                    </div>
+                </div>
+
+                
+                
+ 
+                                               
+                
+
+                
+                
+
+                
+                
+
+                
+                
+                
+            </div>
+        </div>
+
+
+
+
+
+        
+        <a class="toolbar-search-trigger is-b" data-mobile-tog-target=".site-search"></a>
+
+        
+        <div id="site-search" class="site-search">
+            <div class="site-search-bar">
+                
+                <select name="ctl00$ctl00$BodyContent$Header$ddlForSearch" id="BodyContent_Header_ddlForSearch" class="cs-select cs-skin-border" title="Search Site Selector">
+	<option value="J*">Journals</option>
+	<option value="L*">Learning</option>
+	<option value="J67">JAMA</option>
+	<option value="J184">JAMA Cardiology</option>
+	<option value="J68">JAMA Dermatology</option>
+	<option value="J69">JAMA Facial Plastic Surgery</option>
+	<option value="J71">JAMA Internal Medicine</option>
+	<option value="J72">JAMA Neurology</option>
+	<option value="J174">JAMA Oncology</option>
+	<option value="J73">JAMA Ophthalmology</option>
+	<option value="J74">JAMA Otolaryngology–Head &amp; Neck Surgery</option>
+	<option value="J75">JAMA Pediatrics</option>
+	<option value="J70">JAMA Psychiatry</option>
+	<option value="J76">JAMA Surgery</option>
+	<option value="J91">Archives of Neurology &amp; Psychiatry</option>
+
+</select>
+
+                
+                <div class="search-input-container">
+                    
+                    <input id="search-term" class="search-term" type="text" placeholder="Enter Search Term" maxlength="255" title="Enter Search Term">
+                    
+                    
+                    <input class="searchTerm" type="text" id="umbrellaSiteSearchInputHint" autocomplete="off" class="search-input">
+                    
+                    <ul id ="umbrellaSiteAutoCompleteResults" class="term-list hidden"></ul>
+                 
+
+                </div><!-- /.search-input-container -->
+                
+                <a class="search-button is-b"></a>
+            </div>
+        </div>
+    </header>
+</div>
+
+
+
+
+
+<div class="editors-choice-header">
+</div>
+
+
+
+
+
+<div class="leader-ad desktop-only">
+    
+        <div class="widget-WidgetLoader widget-instance-AMA_AdTag_LeaderboardAd">
+        
+    <div class="SCM-SharedWidgets-AsyncAdLoader" data-url="/AMA/AdTag/AMA_AdTag_LeaderboardAd" data-params="{&quot;parameters&quot;:{&quot;siteName&quot;:&quot;jama&quot;,&quot;adDisplay&quot;:1,&quot;adSection&quot;:&quot;abstract&quot;,&quot;adPosition&quot;:&quot;atf&quot;},&quot;dynamicParameters&quot;:{&quot;localParams&quot;:&quot;[REPLACE_WITH_LOCAL]&quot;}}"></div>
+ 
+    </div>
+
+</div>
+
+
+    </section>
+
+
+    <section class="master-main">
+        <a id="skip-to-content" class="hide">[Skip to Content Landing]</a>
+        
+    <span class="hide tagmanagervalue" data-attribute="articleTemplate" data-value="abstract" data-type="string"></span>
+    <div itemscope itemtype='http://schema.org/Article'>
+    <meta itemprop='inLanguage' content='en-US' />
+    <meta itemprop='name headline' content='Global Climate Change and Emerging Infectious Diseases' />
+    <meta itemprop='description' content='Climatic factors influence the emergence and reemergence of infectious diseases, in addition to multiple human, biological, and ecological determinants. Climatologists have identified upward trends in global temperatures and now estimate an unprecedented rise of 2.0&#176;C by the year 2100. Of major concern is that these changes can affect the introduction...' />
+    <meta itemprop='author' content='Jonathan A. Patz, MD, MPH' />
+    <meta itemprop='url' content='http://jamanetwork.com.eres.library.manoa.hawaii.edu/journals/jama/fullarticle/394508' />
+    <meta itemprop='datePublished' datetime='1996-01-17' content='1996-01-17' />
+        <meta itemprop='keywords' content='' />
+</div>    <div class="widget-WidgetLoader widget-instance-AMA_AdTag_Interstitial">
+        
+    <div class="SCM-SharedWidgets-AsyncAdLoader" data-url="/AMA/AdTag/AMA_AdTag_Interstitial" data-params="{&quot;parameters&quot;:{&quot;siteName&quot;:&quot;jama&quot;,&quot;adDisplay&quot;:10,&quot;adSection&quot;:&quot;abstract&quot;,&quot;adPosition&quot;:&quot;interstitial&quot;},&quot;dynamicParameters&quot;:{&quot;localParams&quot;:&quot;[REPLACE_WITH_LOCAL]&quot;}}"></div>
+ 
+    </div>
+    <div class="widget-UserContentAccessWrite widget-instance-AMA_UserContentAccessWrite_AbstractView">
+        <div class="SCM-SharedWidgets-LocalStorage-UserContentAccessWrite" data-values='{"id":"394508","type":"Article","date":"3/6/2017 7:41:14 PM"}'></div>
+ 
+    </div>
+
+    <div class="ymal--leader hide-small">
+            <div class="widget-WidgetLoader widget-instance-AMA_PersonalizedContent_AbstractView_Leaderboard">
+        <div class="SCM-SharedWidgets-AsyncWidgetLoader" data-url="/Personalization/PersonalizedContent/AMA_PersonalizedContent_AbstractView_Leaderboard" data-params="{&quot;parameters&quot;:{&quot;resourceIdToExclude&quot;:394508,&quot;resourceTypeToExclude&quot;:3},&quot;dynamicParameters&quot;:{&quot;localParams&quot;:&quot;[REPLACE_WITH_LOCAL]&quot;}}"></div>
+ 
+    </div>
+    
+    </div>
+    
+    <div class="content pb0">
+        <a id="top"></a>
+        
+        <div class="article-content">
+            <div class="social-share">
+                <a class="addthis_button_twitter toolbar-twitter toolbar-share is-b" rel="nofollow" data-utm-source="twitter"><span class="share-text">Twitter</span></a>
+                <a class="addthis_button_facebook toolbar-facebook toolbar-share is-b" rel="nofollow" data-utm-source="facebook"><span class="share-text">Facebook</span></a>
+                <a class="addthis_button_email toolbar-email toolbar-share is-b" rel="nofollow"><span class="share-text">Email</span></a>
+                <div class="toolbar-share-more">
+                    <a class="toolbar-google toolbar-share is-b" rel="nofollow" href="https://plus.google.com/share?url=http%3a%2f%2fjamanetwork.com%2fjournals%2fjama%2ffullarticle%2f394508" data-utm-source="googleplus"><span class="share-text"> </span></a>
+                    <a class="addthis_button_linkedin toolbar-linkedin toolbar-share is-b" rel="nofollow" data-utm-source="linkedin"><span class="share-text"> </span></a>
+                </div>
+                <a class="toolbar-share-more-link is-a" rel="nofollow" data-tog-target=".social-share .toolbar-share-more">More</a>
+            </div>
+            
+            
+                <div class="widget-ArticleLinks widget-instance-AMA_ErrataArticleLinks_Abstract">
+         
+    </div>
+    <div class="widget-ArticleLinks widget-instance-AMA_ArticleLinks_ToErrata_Abstract">
+        
+ 
+    </div>
+    <div class="widget-ArticleNavLinks widget-instance-AMA_ArticleNavLinks_Abstract">
+                <a class="toc-link btn" href="http://jamanetwork.com.eres.library.manoa.hawaii.edu/journals/jama/issue/275/3">This Issue</a>
+ 
+    </div>
+
+            
+
+            
+            <ul class="toolbar-trigger">
+	            <li class="toolbar-pdf-wrap toolbar-tool-wrap">
+	                <a class="toolbar-tool toolbar-pdf is-b" data-trigger=".abstract-toolbar .toolbar-pdf"><span class="toolbar-pdf-text"><span class="toolbar-link-text-extra">Download </span><span class="toolbar-link-text">PDF</span></span></a>
+	            </li>
+                <li class="toolbar-full-text-wrap toolbar-tool-wrap">
+	                <a class="toolbar-tool toolbar-full-text is-b" data-url="" data-article-id="394508" data-trigger=".abstract-toolbar .toolbar-full-text">Full Text</a>
+	            </li>
+                
+	            <li class="toolbar-share-wrap toolbar-tool-wrap">
+		            <div class="toolbar-tool toolbar-share is-b">
+			            <a class="toolbar-share-more-link">Share</a>
+			            <div class="toolbar-share-more">
+				            <a class="toolbar-share toolbar-twitter is-b" rel="nofollow" data-trigger=".social-share .toolbar-twitter"><span class="share-text">Twitter</span></a>
+				            <a class="toolbar-share toolbar-facebook is-b" rel="nofollow" data-trigger=".social-share .toolbar-facebook"><span class="share-text">Facebook</span></a>
+				            <a class="toolbar-share toolbar-email is-b" rel="nofollow" data-trigger=".social-share .toolbar-email"><span class="share-text">Email</span></a>
+				            <a class="toolbar-share toolbar-google is-b" rel="nofollow" data-trigger=".social-share .toolbar-google"><span class="share-text">Google</span></a>
+				            <a class="toolbar-share toolbar-linkedin is-b" rel="nofollow" data-trigger=".social-share .toolbar-linkedin"><span class="share-text">LinkedIn</span></a>
+			            </div>
+		            </div>
+	            </li>
+	            <li class="toolbar-citation-wrap toolbar-tool-wrap">
+		            <a class="toolbar-tool toolbar-citation is-b" rel="nofollow" data-trigger=".abstract-toolbar .toolbar-citation"><span class="toolbar-link-text">Cite</span> <span class="toolbar-link-text-extra">This</span></a>
+	            </li>
+	            <li class="toolbar-permissions-wrap toolbar-tool-wrap">
+		            <a class="toolbar-tool toolbar-permissions is-b" rel="nofollow" data-trigger=".abstract-toolbar .toolbar-permissions"><span class="toolbar-link-text">Permissions</span></a> 
+	            </li>
+            </ul>
+            
+
+            
+                <div class="widget-ArticleTopInfo widget-instance-AMA_ArticleTop_Info_Widget">
+        
+
+
+
+            <span class="hide tagmanagervalue" data-attribute="articleId" data-value="394508" data-type="string"></span>
+            <span class="hide tagmanagervalue" data-attribute="arrArticleAuthor" data-value="Jonathan%20A.%20Patz%2C%20MD%2C%20MPH,Paul%20R.%20Epstein%2C%20MD%2C%20MPH,Thomas%20A.%20Burke%2C%20PhD%2C%20MPH,John%20M.%20Balbus%2C%20MD%2C%20MPH" data-type="array"></span>
+            <span class="hide tagmanagervalue" data-attribute="articleDOI" data-value="10.1001/jama.1996.03530270057032" data-type="string"></span>
+            <span class="hide tagmanagervalue" data-attribute="articleTitle" data-value="Global Climate Change and Emerging Infectious Diseases" data-type="string"></span>
+            <span class="hide tagmanagervalue" data-attribute="articleType" data-value="Article" data-type="string"></span>
+            <span class="hide tagmanagervalue" data-attribute="issueVolume" data-value="275" data-type="string"></span>
+            <span class="hide tagmanagervalue" data-attribute="issueNo" data-value="3" data-type="string"></span>
+            <span class="hide tagmanagervalue" data-attribute="publishDate" data-value="January%2017%2C%201996" data-type="string"></span>
+            <span class="hide tagmanagervalue" data-attribute="journalClub" data-value="No" data-type="string"></span>
+            <span class="hide tagmanagervalue" data-attribute="articleStatus" data-value="Locked" data-type="string"></span>
+            <span class="hide tagmanagervalue" data-attribute="articlePubState" data-value="Final" data-type="string"></span>
+
+
+        <div class="meta-article-type-wrap">
+            <div class="meta-article-type thm-col">Article </div>
+        </div>
+        <div class="meta-date"><span class="ppub"><span class="month">January </span><span class="day">17, </span><span class="year">1996</span></span></div>
+        <div class="meta-article-title-wrap">
+            
+            <h1 class="meta-article-title ">Global Climate Change and Emerging Infectious Diseases</h1>
+
+            
+        </div>
+            <div class="meta-authors">
+                <span class="meta-authors--limited"><span class="wi-fullname brand-fg"><a href="/searchresults?author=Jonathan+A.+Patz&q=Jonathan+A.+Patz" target="_blank">Jonathan A. Patz, MD, MPH<sup></sup></a></span>; <span class="wi-fullname brand-fg"><a href="/searchresults?author=Paul+R.+Epstein&q=Paul+R.+Epstein" target="_blank">Paul R. Epstein, MD, MPH<sup></sup></a></span>; <span class="wi-fullname brand-fg"><a href="/searchresults?author=Thomas+A.+Burke&q=Thomas+A.+Burke" target="_blank">Thomas A. Burke, PhD, MPH<sup></sup></a></span>; <a class="meta-authors--etal td-u">et al</a></span>
+                <span class="meta-authors--remaining"><span class="wi-fullname brand-fg"><a href="/searchresults?author=John+M.+Balbus&q=John+M.+Balbus" target="_blank">John M. Balbus, MD, MPH<sup></sup></a></span></span>
+            </div>
+            <div class="meta-author">
+                <a class="meta-author-title is-b" data-tog-target=".meta-author-content">Author Affiliations</a>
+
+
+                <div class="meta-author-content">
+                                                                    <div class="meta-author-notes"><p class="para"><div class="authorInfo" xmlns:ml="http://www.w3.org/1998/Math/MathML">From the Departments of Molecular Microbiology and Immunology (Dr Patz) and Health Policy (Dr Burke), Johns Hopkins School of Hygiene and Public Health, Baltimore, Md; Department of Medicine, Harvard Medical School, Boston, Mass (Dr Epstein); and Division of Occupational and Environmental Medicine, George Washington University School of Medicine and Health Sciences, Washington, DC (Dr Balbus).</div></p></div>
+                </div>
+            </div>
+    <div class="meta-citation-wrap">
+        <span class="meta-citation-journal-name">JAMA. </span><span class="meta-citation"> 1996;275(3):217-223. doi:10.1001/jama.1996.03530270057032</span>
+    </div>
+ 
+    </div>
+    <div class="widget-EditorsChoice widget-instance-AMA_EditorsChoice_Links">
+         
+    </div>
+    <div class="widget-LinkedContentToolbar widget-instance-AMA_LinkedContentToolbar">
+        
+<div class="linked-content-toolbar">
+    
+    <div class="linked-content-controls">
+        <a class="linked-content-trigger td-n" href="#editorial-comment-tab">
+            <i class="icon-document"><span class="sr-t">editorial comment icon</span></i>
+            <div class="trigger-text d-ib va-m ta-l fw-5">Editorial <div>Comment</div></div>
+        </a>
+        <a class="linked-content-trigger td-n" href="#related-articles-tab">
+            <i class="icon-related"><span class="sr-t">related articles icon</span></i>
+            <div class="trigger-text d-ib va-m ta-l fw-5">Related <div>Articles</div></div>
+        </a>
+        <a class="linked-content-trigger td-n" href="#author-interviews-tab">
+            <i class="icon-author_interview"><span class="sr-t">author interview icon</span></i>
+            <div class="trigger-text d-ib va-m ta-l fw-5">Author <div>Interview</div></div>
+        </a>
+        <a class="linked-content-trigger td-n" href="#more-multimedia-tab">
+            <i class="icon-multimedia"><span class="sr-t">multimedia icon</span></i>
+            <div class="trigger-text d-ib va-m ta-l fw-5">Multimedia</div>
+        </a>
+    </div>
+
+    
+    <div class="linked-content-tabs">
+        
+        <div id="editorial-comment-tab"  class="linked-content-tab editorial-comment-tab">
+    <div class="widget-ArticleLinks widget-instance-AMA_LinkedContentToolbar_EditorialComments">
+        
+ 
+    </div>
+
+        </div>
+
+        
+        <div id="related-articles-tab" class="linked-content-tab related-article-tab">
+    <div class="widget-ArticleLinks widget-instance-AMA_LinkedContentToolbar_RelatedArticle">
+        
+ 
+    </div>
+    <div class="widget-ArticleLinks widget-instance-AMA_LinkedContentToolbar_RelatedEditorsChoices">
+        
+ 
+    </div>
+
+        </div>
+
+        
+        <div id="author-interviews-tab" class="linked-content-tab linked-author-interviews-tab">
+
+        </div>
+
+        
+        <div id="more-multimedia-tab" class="linked-content-tab more-multimedia-tab">
+
+        </div>
+    </div>
+</div> 
+    </div>
+
+            
+            
+
+            
+            <a class="full-text-link is-b" data-url="" data-article-id="394508">
+                <div class="full-text-link--text"><span class="full-text-link--text-top">Full </span>Text</div>
+            </a>
+            
+            
+            <div class="abstract-content">
+                
+                    <div class="widget-ArticleFulltext widget-instance-AMA_Article_Abstract_Widget">
+        <div class="article-full-text" data-userHasAccess="False">
+    
+
+
+            <a class="article-section-id-anchor" id="3969356"></a>
+                        <div class="h3 cb section-type-abstract decorated-hed ">
+
+                            <div class="heading-text thm-col">
+                                Abstract
+                            </div>
+                        </div>
+<p class="para">Climatic factors influence the emergence and reemergence of infectious diseases, in addition to multiple human, biological, and ecological determinants. Climatologists have identified upward trends in global temperatures and now estimate an unprecedented rise of 2.0°C by the year 2100. Of major concern is that these changes can affect the introduction and dissemination of many serious infectious diseases.</p><p class="para">The incidence of mosquito-borne diseases, including malaria, dengue, and viral encephalitides, are among those diseases most sensitive to climate. Climate change would directly affect disease transmission by shifting the vector's geographic range and increasing reproductive and biting rates and by shortening the pathogen incubation period. Climate-related increases in sea surface temperature and sea level can lead to higher incidence of water-borne infectious and toxin-related illnesses, such as cholera and shellfish poisoning. Human migration and damage to health infrastructures from the projected increase in climate variability could indirectly contribute to disease transmission. Human susceptibility to infections might be further compounded by malnutrition due to climate stress on agriculture and potential alterations in the human immune system caused by increased flux of ultraviolet radiation.</p><p class="para">Analyzing the role of climate in the emergence of human infectious diseases will require interdisciplinary cooperation among physicians, climatologists, biologists, and social scientists. Increased disease surveillance, integrated modeling, and use of geographically based data systems will afford more anticipatory measures by the medical community. Understanding the linkages between climatological and ecological change as determinants of disease emergence and redistribution will ultimately help optimize preventive strategies.</p><p class="para">(<i>JAMA</i>. 1995;275:217-223)</p>            <div class="movable-ad-target bta"> </div>
+
+    
+
+
+</div> 
+    </div>
+    <div class="widget-ArticleLinks widget-instance-AMA_Abstract_EditorialComments">
+        
+ 
+    </div>
+
+
+                
+                <a class="full-text-link is-b d-b bd-none ta-c fl-n radius mt1 mb1 m-auto" data-url="" data-article-id="394508">
+                    <div class="full-text-link--text fw-b"><span class="full-text-link--text-top">Full </span>Text</div>
+                </a>
+                
+                
+                    <div class="widget-WidgetLoader widget-instance-AMA_AdTag_abstract_bta_dual">
+        
+    <div class="SCM-SharedWidgets-AsyncAdLoader" data-url="/AMA/AdTag/AMA_AdTag_abstract_bta_dual" data-params="{&quot;parameters&quot;:{&quot;siteName&quot;:&quot;jama&quot;,&quot;adDisplay&quot;:6,&quot;adSection&quot;:&quot;abstract&quot;,&quot;adPosition&quot;:&quot;bta&quot;},&quot;dynamicParameters&quot;:{&quot;localParams&quot;:&quot;[REPLACE_WITH_LOCAL]&quot;}}"></div>
+ 
+    </div>
+
+                
+            </div>
+            
+            
+                <div class="widget-RelatedTopics widget-instance-AMA_Related_Topics_Abstract">
+        
+ 
+    </div>
+
+        </div>
+
+        
+        <div class="sidebar">
+            <div class="branded-bar"></div>
+
+            <div class="abstract-toolbar">
+                            <a id="pdf-link" class="toolbar-tool toolbar-pdf al-link pdfaccess" data-article-id="394508" data-article-url="/journals/jama/data/journals/jama/9514/jama_275_3_032.pdf" data-ajax-url="/Content/CheckPdfAccess"><span class="toolbar-pdf-text"><span class="toolbar-link-text-extra">Download </span><span class="toolbar-link-text">PDF</span></span>
+            </a>
+
+                <a class="toolbar-tool toolbar-full-text is-b" data-url="" data-article-id="394508"><span class="toolbar-link-text-extra">Full</span> Text</a>
+                    <div class="widget-ToolboxGetCitation widget-instance-AMA_Get_Citation_Abstract">
+        <a class="toolbar-tool toolbar-citation is-b" rel="nofollow" data-reveal-id="get-citation" data-reveal><span class="toolbar-link-text">Cite</span> <span class="toolbar-link-text-extra">This</span></a>
+
+<div id="get-citation" class="reveal-modal get-citation" data-reveal>
+    <h3 class="get-citation-title">Citation</h3>
+    <p class="get-citation-citation">Patz JA, Epstein PR, Burke TA, Balbus JM. Global Climate Change and Emerging Infectious Diseases. <em>JAMA.</em> 1996;275(3):217-223. doi:10.1001/jama.1996.03530270057032</p>
+    <h4 class="get-citation-download-heading">Download citation file:</h4>
+    <div class="get-citation-types">
+        <a class="get-citation-format" rel="nofollow" href="http://jamanetwork.com.eres.library.manoa.hawaii.edu/journals/jama/downloadcitation/394508?format=ris">RIS (Zotero)</a>
+        <a class="get-citation-format" rel="nofollow" href="http://jamanetwork.com.eres.library.manoa.hawaii.edu/journals/jama/downloadcitation/394508?format=ris">EndNote</a>
+        <a class="get-citation-format" rel="nofollow" href="http://jamanetwork.com.eres.library.manoa.hawaii.edu/journals/jama/downloadcitation/394508?format=bibtex">BibTex</a>
+        <a class="get-citation-format" rel="nofollow" href="http://jamanetwork.com.eres.library.manoa.hawaii.edu/journals/jama/downloadcitation/394508?format=txt">Medlars</a>
+        <a class="get-citation-format" rel="nofollow" href="http://jamanetwork.com.eres.library.manoa.hawaii.edu/journals/jama/downloadcitation/394508?format=ris">ProCite</a>
+        <a class="get-citation-format" rel="nofollow" href="http://jamanetwork.com.eres.library.manoa.hawaii.edu/journals/jama/downloadcitation/394508?format=">RefWorks</a>
+        <a class="get-citation-format" rel="nofollow" href="http://jamanetwork.com.eres.library.manoa.hawaii.edu/journals/jama/downloadcitation/394508?format=ris">Reference Manager</a>
+        <a class="get-citation-format" rel="nofollow" href="http://jamanetwork.com.eres.library.manoa.hawaii.edu/journals/jama/downloadcitation/394508?format=mendeley">Mendeley</a>
+    </div>
+
+    <p class="get-citation-copyright">&#169; 2017 </p>
+    <a class="close-reveal-modal icon-close" rel="nofollow"></a>
+</div> 
+    </div>
+    <div class="widget-ToolboxPermissions widget-instance-">
+            <a href="http://s100.copyright.com.eres.library.manoa.hawaii.edu/AppDispatchServlet?publisherName=AMA&amp;publication=0098-7484&amp;title=Global+Climate+Change+and+Emerging+Infectious+Diseases&amp;publicationDate=1996-01-17&amp;volumeNum=275&amp;issueNum=3&amp;author=Patz%2c+Jonathan+A.%3b+Epstein%2c+Paul+R.&amp;startPage=217&amp;endPage=223&amp;contentId=10.1001%2fjama.1996.03530270057032&amp;oa=&amp;orderBeanReset=True" rel="nofollow" id="PermissionsLink" class="toolbar-tool toolbar-permissions is-b" target="_blank"><span class="toolbar-link-text">Permissions</span></a>
+ 
+    </div>
+
+            </div>
+
+            
+            <div class="cme-promo ta-c">
+                <div id="BodyContent_PageContent_ssPromoteCmeToInstSubUsers">
+	<div class="selfServe">
+		<a href="http://jamanetwork.com.eres.library.manoa.hawaii.edu/oauthsignin?return_url=http%3a%2f%2fjamanetwork.com%2flearning"><img alt="CME promo" src="/ImageLibrary/JamaNetwork/CME_Widget_Image.PNG" /></a>
+	</div>
+</div>
+            </div>
+
+            
+                <div class="widget-WidgetLoader widget-instance-AMA_PersonalizedContent_AbstractView_RightRail">
+        <div class="SCM-SharedWidgets-AsyncWidgetLoader" data-url="/AMA/PersonalizedContent_RightRail/AMA_PersonalizedContent_AbstractView_RightRail" data-params="{&quot;parameters&quot;:{&quot;resourceIdToExclude&quot;:394508,&quot;resourceTypeToExclude&quot;:3},&quot;dynamicParameters&quot;:{&quot;localParams&quot;:&quot;[REPLACE_WITH_LOCAL]&quot;}}"></div>
+ 
+    </div>
+    <div class="widget-WidgetLoader widget-instance-AMA_AdTag_abstract_mid_dual">
+        
+    <div class="SCM-SharedWidgets-AsyncAdLoader" data-url="/AMA/AdTag/AMA_AdTag_abstract_mid_dual" data-params="{&quot;parameters&quot;:{&quot;siteName&quot;:&quot;jama&quot;,&quot;adDisplay&quot;:5,&quot;adSection&quot;:&quot;abstract&quot;,&quot;adPosition&quot;:&quot;mid&quot;},&quot;dynamicParameters&quot;:{&quot;localParams&quot;:&quot;[REPLACE_WITH_LOCAL]&quot;}}"></div>
+ 
+    </div>
+    <div class="widget-JobsAd widget-instance-AMA_JobsAd">
+        <div class="jobs-ad mb2 sugar-cookie">
+    <a href="http://jama.careers.adicio.com/jobs/search/results?locationType=text&amp;view=List_Brief&amp;sort=score+desc&amp;rows=15" target="_blank" class="td-n">
+        <div class="jobs-ad--icon">
+            <i class="icon-jobs white"><span class="sr-t">icon stethoscope</span></i>
+        </div>
+
+        <div class="jobs-ad--text">
+            <h6 class="tt-u mt0 black">Physician Jobs</h6>
+            <div class="jobs-ad--title black fw-b">Find Jobs Now</div>
+        </div>
+    </a>
+</div>
+
+ 
+    </div>
+
+        </div>
+    </div>
+
+    
+    <div class="ymal--footer">
+            <div class="widget-WidgetLoader widget-instance-AMA_PersonalizedContent_AbstractView_Footer">
+        <div class="SCM-SharedWidgets-AsyncWidgetLoader" data-url="/Personalization/PersonalizedContent/AMA_PersonalizedContent_AbstractView_Footer" data-params="{&quot;parameters&quot;:{&quot;resourceIdToExclude&quot;:394508,&quot;resourceTypeToExclude&quot;:3},&quot;dynamicParameters&quot;:{&quot;localParams&quot;:&quot;[REPLACE_WITH_LOCAL]&quot;}}"></div>
+ 
+    </div>
+
+    </div>
+
+    </section>
+
+
+    <section id="secFooterControl" class="master-footer">
+        
+
+        <script>
+            // --------------------
+            // Globals in the Global Namespace
+            var App = App || {};
+
+            // alias for getElementsByClassName
+            function scmByClass(className) {
+                return document.getElementsByClassName(className);
+            }
+
+            // alias for getElementById
+            function scmById(id) {
+                return document.getElementById(id);
+            }
+
+            // alias for querySelector
+            function scmquery(selector) {
+                return document.querySelector(selector);
+            }
+
+            // alias for querySelectorAll
+            function queryAll(selector) {
+                return document.querySelectorAll(selector);
+            }
+            
+            // is true string
+            function isTrueString(string) {
+                if (typeof string === 'string') {
+                    return string.toLowerCase() === 'true';
+                }
+
+                return undefined;
+            }
+
+            // Get viewport dimensions w/o the need for Modernizr or some other dependency
+            function updateViewportDimensions() {
+                var w = window, d = document, e = d.documentElement, g = d.getElementsByTagName('body')[0], x = w.innerWidth || e.clientWidth || g.clientWidth, y = w.innerHeight || e.clientHeight || g.clientHeight;
+                return { width: x, height: y };
+            }
+
+            // setting the viewport width
+            var viewport = updateViewportDimensions();
+
+            // Debounce function. Use this on resize to avoid taxing the browser.
+            var debounce = function (func, wait, immediate) {
+                var timeout;
+                return function () {
+                    var context = this, args = arguments;
+                    var later = function () {
+                        timeout = null;
+                        if (!immediate) func.apply(context, args);
+                    };
+                    var callNow = immediate && !timeout;
+                    clearTimeout(timeout);
+                    timeout = setTimeout(later, wait);
+                    if (callNow) func.apply(context, args);
+                };
+            };
+
+            // --------------------
+            // variables we can use throughout the application. e.g. if (App.isMobile), etc.
+            (function (App) {
+                // breakpoint variables
+                App.mobileUpperBreakpoint = 767;
+                App.mobileAltBreakpoint = 640;
+                App.tabletUpperBreakpoint = 1023;
+
+                function setVariables() {
+                    // variables that are dependent on viewport
+                    viewport = updateViewportDimensions();
+                    App.isMobile = (viewport.width <= App.mobileUpperBreakpoint);
+                    App.isMobileAlt = (viewport.width <= App.mobileAltBreakpoint);
+                    App.isTablet = (viewport.width > App.mobileUpperBreakpoint && viewport.width <= App.tabletUpperBreakpoint);
+                    App.isTabletDown = (viewport.width <= App.tabletUpperBreakpoint);
+                    App.isDesktop = (viewport.width > App.tabletUpperBreakpoint);
+                    App.activeViewport = App.isMobile ? 'small' : App.isTablet ? 'med' : 'large';
+                }
+
+                setVariables();
+
+                // other variables that are useful throughout the app
+                // The "pg_" value corresponds to the class name found in the aspx.cs file
+                // (i.e., "pg_learningsearchresults" corresponds to "public partial class LearningSearchResults...").
+                App.cachedViewport = App.isMobile ? 'small' : App.isTablet ? 'med' : 'large';
+                App.isAnyArticle = !!(scmByClass('widget-ArticleFullView').length || scmByClass('pg_abstract').length || scmByClass('widget-MagazineView').length);
+                App.isSplitScreen = !!scmByClass('widget-ArticleFullView').length;
+                App.isAbstract = !!scmByClass('pg_abstract').length;
+                App.isMag = !!scmByClass('widget-MagazineView').length;
+                App.isFreeArticle = !!(scmquery('.widget-ArticleTopInfo .free-access') ||
+                                        scmquery('.widget-ArticleTopInfo .open-access') ||
+                                        scmquery('.widget-ArticleTopInfo .icon-free'));
+                App.isIssue = !!scmByClass('pg_issue').length || !!scmByClass('pg_newonline').length || !!scmByClass('pg_currentissue').length || !!scmByClass('pg_pastissues').length;
+                App.isNewOnline = !!scmByClass('pg_newonline').length;
+                App.isCurrentIssue = !!scmByClass('pg_currentissue').length;
+                App.isPastIssues = !!scmByClass('pg_pastissues').length;
+                App.isJournal = !!scmByClass('pg_journal').length;
+                App.isNetworkHome = !!scmByClass('pg_index').length;
+                App.isSearch = !!scmByClass('pg_searchresults').length;
+                App.isAdvancedSearch = !!scmByClass('pg_advancedsearch').length;
+                App.isPlayer= !!scmByClass('pg_multimediaplayer').length;
+                App.isSelfServe = !!scmByClass('pg_sspage').length;
+                App.isMyAccount = !!scmByClass('pg_myaccount').length;
+                App.isLearning = !!scmByClass('pg_learning').length;
+                App.isLearningContent = !!scmByClass('pg_learning').length || !!scmByClass('pg_learningsearchresults').length || !!scmByClass('pg_quiz').length || !!scmByClass('pg_multimediaplayer').length || !!scmByClass('pg_journalarticlecme').length;
+
+                // Because we use one aspx page to display all self serve content, we really don't have a good way of
+                // determining whether we showing learning SS or not so we need to check the pathname.
+                App.isLearningSelfServe = window.location.pathname.indexOf("/learning/pages/") >= 0;
+
+                App.isLearningSearchResults = !!scmByClass('pg_learningsearchresults').length;
+                App.isQuiz = !!scmByClass('pg_quiz').length;
+                App.supportsFlexbox = !!scmByClass('flexbox').length;
+                App.isCollection = !!scmByClass('pg_collection').length;
+                App.isJournalArticleCme = !!scmByClass('pg_journalarticlecme').length;
+                App.isPaidUser = isTrueString(scmById('hfAppIsPaidUser').getAttribute('value'));
+                App.isMember = isTrueString(scmById('hfAppIsMember').getAttribute('value'));
+                App.isIndividual = isTrueString(scmById('hfAppIsIndividual').getAttribute('value'));
+                App.hasAccess = isTrueString(scmById('hfAppHasAccess').getAttribute('value'));
+                App.isReferredFromGoogle = isTrueString(scmById('hfAppIsReferredFromGoogle').getAttribute('value'));
+                var subscribedTo = scmById('hfAppSubscribedTo').getAttribute('value');
+                App.userSubscribedTo = subscribedTo ? subscribedTo.split(',') : undefined;
+
+                App.updateAppVariables = debounce(function () {
+                    setVariables();
+                }, 50, false);
+            })(App);
+        </script>
+        
+
+        
+<div class="footer-ad desktop-only">
+    
+        <div class="widget-WidgetLoader widget-instance-AMA_AdTag_AnchorboardAd_btf">
+        
+    <div class="SCM-SharedWidgets-AsyncAdLoader" data-url="/AMA/AdTag/AMA_AdTag_AnchorboardAd_btf" data-params="{&quot;parameters&quot;:{&quot;siteName&quot;:&quot;jama&quot;,&quot;adDisplay&quot;:8,&quot;adSection&quot;:&quot;abstract&quot;,&quot;adPosition&quot;:&quot;btf&quot;},&quot;dynamicParameters&quot;:{&quot;localParams&quot;:&quot;[REPLACE_WITH_LOCAL]&quot;}}"></div>
+ 
+    </div>
+
+</div>
+
+
+<div class="ad-riser-wrap desktop-only">
+    <div class="ad-riser--dismiss t-c">X</div>
+        <div class="widget-WidgetLoader widget-instance-AMA_AdTag_Riser">
+        
+    <div class="SCM-SharedWidgets-AsyncAdLoader" data-url="/AMA/AdTag/AMA_AdTag_Riser" data-params="{&quot;parameters&quot;:{&quot;siteName&quot;:&quot;jama&quot;,&quot;adDisplay&quot;:9,&quot;adSection&quot;:&quot;abstract&quot;,&quot;adPosition&quot;:&quot;Riser&quot;},&quot;dynamicParameters&quot;:{&quot;localParams&quot;:&quot;[REPLACE_WITH_LOCAL]&quot;}}"></div>
+ 
+    </div>
+
+</div>
+
+<div class="footer-wrap">
+    <footer class="footer">
+        
+        <div id="footer-microsite" class="footer-microsite">
+            <style type="text/css">
+    @media (min-width: 1024px) {.split-screen .footer-microsite-contents {border-bottom:0 !important;}}
+    .footer-microsite-contents {margin-bottom:1em;width:100%;}
+    .footer-network-other .link-apps:before {width: 23px;}
+    .footer-network-other .link-institutions-librarians:before {width: 23px;}
+    .jn-ss-footer-border-top {border-top:1px solid #555;padding-top:15px;}
+    .jn-ss-footer-border-bottom {border-bottom:1px solid #555;padding-bottom:10px;}
+</style>
+<div class="footer-heading-wrap">
+<h3 id="BodyContent_Footer_h3SiteName" class="footer-heading is-b footer-microsite-heading" data-mobile-tog-target=".footer-microsite-links-wrap">JAMA</h3>
+</div>
+<div class="footer-microsite-links-wrap">
+<div class="footer-microsite-contents  jn-ss-footer-border-bottom">
+<h4 id="BodyContent_Footer_ContentHeader" class="footer-subheading">Content</h4>
+<a href="/journals/jama">Home</a>
+<a href="/journals/jama/newonline">New Online</a>
+<a href="/journals/jama/currentissue">Current Issue</a>
+</div>
+<div class="footer-microsite-services cf">
+<h4 id="BodyContent_Footer_ServiceHeader" class="footer-subheading">Journal Information</h4>
+<a href="/journals/jama/pages/for-authors">For Authors</a>
+<a href="/journals/jama/editors-and-publishers">Editors &amp; Publishers</a>
+<a href="/pages/rss">RSS</a>
+<a href="/journals/jama/pages/contact-us">Contact Us</a>
+</div>
+<div class="footer-network-other  jn-ss-footer-border-bottom">
+<a href="/learning" class="link-network-other is-b link-learning">Learning</a>
+<a href="http://store.jamanetwork.com.eres.library.manoa.hawaii.edu" class="link-network-other is-b link-store" target="_blank">Store</a>
+<a href="http://jamanetwork.com.eres.library.manoa.hawaii.edu/pages/apps" class="link-network-other is-b link-mobile" target="_blank">Apps</a>
+<a href="http://www.jamacareercenter.com/" class="link-network-other is-b link-jobs" target="_blank">Jobs</a>
+<a href="/pages/institutions-and-librarians" class="link-network-other is-b link-institutions-librarians" target="_blank">Institutions</a>
+<a href="/pages/reprints-and-permissions" class="link-network-other is-b link-reprints-permissions">Reprints &amp; Permissions</a>
+</div>
+<div id="BodyContent_Footer_divSubscribe" class="footer-microsite-subscribe">
+<img src="//amaprod.silverchaircdn.com/UI/app/img/covers/jama.jpg" class="subscribe-image" alt="Journal Cover" />
+<div class="subscribe-meta">
+<h4 class="subscribe-heading footer-subheading">Subscribe</h4>
+<a href="http://store.jamanetwork.com.eres.library.manoa.hawaii.edu/productDetails.aspx?productcodeID=64" class="subscribe-submit btn">Go</a>
+</div>
+</div>
+</div>
+        </div>
+
+        
+        <div id="footer-network" class="footer-network">
+            <style type="text/css">
+    .footer-network-sites {width: 62.85542%;}
+    .footer-network-info {width: 35.93976%}
+    .jn-ss-subheading-mt {margin-top: 1.5em;}
+    .jn-registered:after {content: "\00AE";font-size: 50%;vertical-align: top;}
+    .jn-trademark:after {content: "\2122";font-size: 50%;vertical-align: top;}
+</style>
+<div class="footer-heading-wrap">
+<h3 class="footer-heading is-b footer-network-heading" data-mobile-tog-target=".footer-network-links-wrap">The <strong>JAMA</strong> Network</h3>
+</div>
+<div class="footer-network-links-wrap">
+<div class="footer-network-sites">
+<div class="internal">
+<h4 id="BodyContent_Footer_JournalHeader" class="footer-subheading">Journals</h4>
+<a href="/journals/jama">JAMA</a>
+<a href="/journals/jamacardiology">JAMA Cardiology</a>
+<a href="/journals/jamadermatology">JAMA Dermatology</a>
+<a href="/journals/jamafacialplasticsurgery">JAMA Facial Plastic Surgery</a>
+<a href="/journals/jamainternalmedicine">JAMA Internal Medicine</a>
+<a href="/journals/jamaneurology">JAMA Neurology</a>
+<a href="/journals/jamaoncology">JAMA Oncology</a>
+<a href="/journals/jamaophthalmology">JAMA Ophthalmology</a>
+<a href="/journals/jamaotolaryngology">JAMA Otolaryngology&ndash;Head &amp; Neck Surgery</a>
+<a href="/journals/jamapediatrics">JAMA Pediatrics</a>
+<a href="/journals/jamapsychiatry">JAMA Psychiatry</a>
+<a href="/journals/jamasurgery">JAMA Surgery</a>
+<a href="/journals/archneurpsyc">Archives of Neurology &amp; Psychiatry (1919-1959)</a>
+</div>
+<div class="external">
+<h4 class="footer-subheading">Sites</h4>
+<div id="BodyContent_Footer_ssFooterSiteMenu">
+<div class="selfServe">
+<a target="_blank" href="http://www.amamanualofstyle.com/">AMA Manual of Style</a>
+<a target="_blank" href="http://sites.jamanetwork.com.eres.library.manoa.hawaii.edu/art-and-images-in-psychiatry/">Art and Images in Psychiatry</a>
+<a target="_blank" href="http://sites.jamanetwork.com.eres.library.manoa.hawaii.edu/breastcancerscreening/index.html">Breast Cancer Screening Guidelines</a>
+<a target="_blank" href="http://sites.jamanetwork.com.eres.library.manoa.hawaii.edu/colon-cancer-screening/">Colorectal Screening Guidelines</a>
+<a target="_blank" href="http://sites.jamanetwork.com.eres.library.manoa.hawaii.edu/declaration-of-helsinki/index.html">Declaration of Helsinki</a>
+<a target="_blank" href="http://sites.jamanetwork.com.eres.library.manoa.hawaii.edu/depression-screening/">Depression Screening Guidelines</a>
+<a target="_blank" href="http://ebm.jamanetwork.com.eres.library.manoa.hawaii.edu/index.html">Evidence-Based Medicine: An Oral History</a>
+<a target="_blank" href="http://sites.jamanetwork.com.eres.library.manoa.hawaii.edu/health-disparities/">Health Disparities</a>
+<a target="_blank" href="http://sites.jamanetwork.com.eres.library.manoa.hawaii.edu/jnc8/">Hypertension Guidelines</a>
+<a target="_blank" href="http://jamanetworkaudio.com">JAMA Network Audio</a>
+<a target="_blank" href="http://medmen.jamanetwork.com.eres.library.manoa.hawaii.edu/">Med Men</a>
+<a target="_blank" href="http://sites.jamanetwork.com.eres.library.manoa.hawaii.edu/jama-medical-education/">Medical Education</a>
+<a target="_blank" href="http://sites.jamanetwork.com.eres.library.manoa.hawaii.edu/opioids/">Opioid Management Guidelines</a>
+<a target="_blank" href="http://peerreviewcongress.org/index.html">Peer Review Congress</a>
+<a target="_blank" href="http://sites.jamanetwork.com.eres.library.manoa.hawaii.edu/sepsis/">Sepsis and Septic Shock</a>
+<a target="_blank" href="http://sites.jamanetwork.com.eres.library.manoa.hawaii.edu/statins/">Statins and Dyslipidemia</a>
+<a target="_blank" href="http://jamanetwork.com.eres.library.manoa.hawaii.edu/pages/collections">Topics and Collections</a>
+<h4 class="footer-subheading jn-ss-subheading-mt">Featured Articles</h4>
+<a href="/journals/jama/fullarticle/2463262">ACS Breast Cancer Screening Guideline</a>
+<a href="/journals/jama/fullarticle/2503508">CDC Guideline for Prescribing Opioids</a>
+<a href="/journals/jama/fullarticle/2492881">Consensus Definitions for Sepsis and Septic Shock</a>
+<a href="/journals/jama/fullarticle/2513561">Income and Life Expectancy in the US</a>
+<a href="/journals/jama/fullarticle/1791497">JNC 8 Guideline for Management of High Blood Pressure</a>
+<a href="/journals/jama/fullarticle/2533698">President Obama on US Health Care Reform</a>
+<a href="/journals/jama/fullarticle/2529486">Screening for Colorectal Cancer</a>
+<a href="/journals/jama/fullarticle/2484345">Screening for Depression in Adults</a>
+<a href="/journals/jama/fullarticle/2584058">Statins for Primary Prevention of Cardiovascular Disease</a>
+<a href="/journals/jama/fullarticle/1760318">WMA Declaration of Helsinki, 7th Revision</a>
+<h4 class="footer-subheading jn-ss-subheading-mt">Blogs</h4>
+<a target="_blank" href="https://internalmedicineblog.jamainternalmed.com/">JAMA Internal Medicine Blog</a>
+<a target="_blank" href="https://newsatjama.jama.com/">The JAMA Forum</a>
+<a target="_blank" href="http://blogs.jamanetwork.com.eres.library.manoa.hawaii.edu/topics-in-ophthalmology/">Topics in Ophthalmology </a>
+</div>
+</div>
+</div>
+</div>
+<div id="footer-network-info" class="footer-network-info">
+<div class="information-for-links">
+<h4 id="BodyContent_Footer_InfoHeader" class="footer-subheading">Information For</h4>
+<a href="/pages/for-authors">Authors</a>
+<a href="/pages/institutions-and-librarians">Institutions &amp; Librarians</a>
+<a href="/pages/advertisers">Advertisers</a>
+<a href="/pages/subscription-agents">Subscription Agents</a>
+<a href="http://www.jamacareercenter.com/" target="_blank">Employers &amp; Job Seekers</a>
+<a href="http://media.jamanetwork.com.eres.library.manoa.hawaii.edu/" rel="nofollow" target="_blank">Media</a>
+</div>
+<div class="services-links">
+<h4 id="BodyContent_Footer_JAMANetworkProductsHeader" class="footer-subheading">JAMA Network Products</h4>
+<a href="http://www.amamanualofstyle.com/" class="footer-service-link" target="_blank">AMA Manual of Style</a>
+<a href="http://jamaevidence.mhmedical.com.eres.library.manoa.hawaii.edu/" class="footer-service-link" target="_blank"><span class="jn-registered">JAMAevidence</span></a>
+<a href="http://jamanetwork.com.eres.library.manoa.hawaii.edu/pages/clinical-challenge" class="footer-service-link" target="_blank"><span class="jn-trademark">JN Challenge</span></a>
+<a href="http://jamanetwork.com.eres.library.manoa.hawaii.edu/pages/reader" class="footer-service-link" target="_blank"><span class="jn-trademark">JN Reader</span></a>
+<a href="http://www.peerreviewcongress.org/" class="footer-service-link" target="_blank">Peer Review Congress</a>
+</div>
+<div class="learning-links">
+<h4 id="BodyContent_Footer_LearningHeader" class="footer-subheading">Learning</h4>
+<a href="/learning">CME Quizzes</a>
+<a href="/learning/pages/about-cme">About CME &amp; MOC</a>
+<a target="_blank" href="http://moc-reporting.jamanetwork.com.eres.library.manoa.hawaii.edu/">MOC Reporting Preferences</a>
+</div>
+</div>
+</div>
+        </div>
+
+        
+        <div id="footer-resources-wrap" class="footer-resources-wrap">
+            <style type="text/css">
+    .footer-resources-wrap .footer-subheading {color: grey;display:block !important;font-size: 1.17647em;font-weight: 400;text-transform: uppercase;}
+</style>
+<div class="footer-heading-wrap">
+<h3 class="footer-heading is-b footer-resources-heading" data-mobile-tog-target=".footer-resources">Help</h3>
+</div>
+<div class="footer-resources">
+<a href="http://store.jamanetwork.com.eres.library.manoa.hawaii.edu" class="footer-service-link" target="_blank">Subscriptions &amp; Renewals</a>
+<a href="/myaccount#my-alerts" class="footer-service-link" rel="nofollow">Email Subscriptions</a>
+<a href="/myaccount#my-profile" class="footer-service-link" rel="nofollow">Update Your Address</a>
+<a href="http://sites.jamanetwork.com.eres.library.manoa.hawaii.edu/help/" class="footer-service-link">Contact Us</a>
+<a href="http://sites.jamanetwork.com.eres.library.manoa.hawaii.edu/help/" class="footer-service-link">Frequently Asked Questions</a>
+<h4 class="footer-subheading jn-ss-subheading-mt">JAMA Career Center</h4>
+<a href="http://www.jamacareercenter.com" class="footer-service-link" target="_blank">Physician Job Listings</a>
+</div><div id="BodyContent_Footer_divSocial" class="social-links footer-social-links">
+<a target="_blank" rel="nofollow" data-emailid="6d35777a-fc12-4d2d-9b49-81d031835d91" href="https://www.facebook.com/pages/JAMA-Journal-of-the-American-Medical-Association/87087958340" class="social-link is-b facebook"></a>
+<a target="_blank" rel="nofollow" data-emailid="6d35777a-fc12-4d2d-9b49-81d031835d91" href="https://twitter.com/JAMA_current" class="social-link is-b twitter"></a>
+<a target="_blank" rel="nofollow" data-emailid="6d35777a-fc12-4d2d-9b49-81d031835d91" href="https://www.linkedin.com/company/jama-network" class="social-link is-b linked-in"></a>
+<a target="_blank" rel="nofollow" data-emailid="6d35777a-fc12-4d2d-9b49-81d031835d91" href="https://plus.google.com/u/0/104285613971644324251" class="social-link is-b google-plus"></a>
+<a target="_blank" rel="nofollow" data-emailid="6d35777a-fc12-4d2d-9b49-81d031835d91" href="http://www.pinterest.com/thejamanetwork/" class="social-link is-b pinterest"></a>
+<a target="_blank" rel="nofollow" data-emailid="6d35777a-fc12-4d2d-9b49-81d031835d91" href="http://www.youtube.com/user/JAMAJournalVideo" class="social-link is-b you-tube"></a>
+<a target="_blank" rel="nofollow" data-emailid="6d35777a-fc12-4d2d-9b49-81d031835d91" href="/rss/site_3/67.xml" class="social-link is-b rss"></a>
+<a target="_blank" rel="nofollow" data-emailid="6d35777a-fc12-4d2d-9b49-81d031835d91" href="http://jamaeditorsaudiosummary.jamanetwork.libsynpro.com/rss" class="social-link is-b podcast"></a>
+</div><div id="BodyContent_Footer_divEmailUpdate" class="footer-email-updates">
+                
+                    <div class="widget-EmailListSignUp widget-instance-AMAv2_EmailListSignUp_Footer">
+        <div class="email-signup">
+    <div class="email-signup--text">Get the latest from JAMA</div>
+    <div class="email-signup--input-wrap is-b">
+        <input type="text" name="email" class="email-signup--input" placeholder="Email address" title="Email address" />
+    </div>
+
+    <a rel="nofollow" class="email-signup--submit btn">Sign Up</a>
+
+    <div class="email-signup--user-message"></div>
+</div> 
+    </div>
+</div>
+        </div>
+
+        
+        <div class="footer-bar" itemscope itemtype="http://schema.org/Organization">
+            <style type="text/css">
+    .jn-bottom-bar {color: #fff; float: left;font-size: 10px;padding: 13px 20px;width: 33.33%;}
+    .jn-bottom-bar p {line-height: 2;}
+    @media (max-width: 900px) {.jn-bottom-bar {float: none;width: 100%;}}
+    .jn-footer-copyright {font-size:12px;}
+    .jn-footer-pipe {margin:0 10px;}
+</style>
+<a class="footer-bar-jn-logo d-b no-mw mb1" href="/" title="JAMA Network Home"><img class="mw-100" src="//amaprod.silverchaircdn.com/UI/app/img/jn_sig_white.png" alt="Jama Network Logo" /></a>
+<div class="jn-bottom-bar">
+<p>
+<span class="jn-footer-copyright">&copy; 2017 American Medical Association. All Rights Reserved.</span><br />
+<a href="/pages/conditions-of-use" class="p0">Terms of Use</a><span class="jn-footer-pipe">|</span>
+<a href="/pages/privacy-policy" class="p0">Privacy Policy</a><span class="jn-footer-pipe">|</span>
+<a href="/pages/accessibility-statement" class="p0">Accessibility Statement</a>
+</p>
+</div>
+            <a class="footer-bar-sis no-mw relative nudge-down" href="http://www.silverchair.com" target="_blank"><img class="footer-bar-sis-img mt05 mw-100" src="//amaprod.silverchaircdn.com/UI/app/img/powered.png" alt="Silverchair Logo" /></a>
+        </div>
+    </footer>
+
+</div>
+
+
+    </section>
+
+
+
+        
+        
+        <div id="revealModal" class="reveal-modal" data-reveal>
+            <div id="revealContent"></div>
+            <a class="close-reveal-modal icon-close"></a>
+        </div>
+
+
+        
+        <div class="artmet-modal" id="MetricsModal">
+            <div class="artmet-modal-contents">
+                <a class="artmet-close-modal">&#215;</a>
+            </div>
+        </div>
+
+
+
+        
+        <div id="no-access-reveal" class="no-access reveal-modal login-modal medium modal" data-reveal>
+            
+            <div id="accessSignIn_SignInOptionsModal" class="modal--options">
+    <h4 class="signin-hed"><span id="accessSignIn_spnSignInHeader">Sign in to access your subscriptions</span></h4>
+
+	<div class="modal--option">
+	    
+	    <div id="accessSignIn_divIndSignIn" class="sign-in--personal">
+		<a href="http://jamanetwork.com.eres.library.manoa.hawaii.edu/oauthsignin?return_url=http%3a%2f%2fjamanetwork.com%2fjournals%2fjama%2ffullarticle%2f394508" id="accessSignIn_oauthSignInLink" rel="nofollow" class="sign-in--personal-link">Sign in</a> to your personal account    
+	    </div>
+	    
+	    
+	</div>
+	<div id="accessSignIn_divIndSignUp" class="modal--option">
+	    <div class="sign-in--create">
+		<a href="https://login-ama-assn-org.eres.library.manoa.hawaii.edu/account/signup?appId=scweb&returnurl=http://jamanetwork.com.eres.library.manoa.hawaii.edu/oauthsignin?return_url=http%3a%2f%2fjamanetwork.com%2fjournals%2fjama%2ffullarticle%2f394508" id="accessSignIn_oauthSignUpLink" rel="nofollow" class="sign-in--create-link">Create a free personal account</a> <span id="accessSignIn_spnDownloadMessage">to download free article PDFs,
+		sign up for alerts, and more</span>
+	    </div>
+	</div>
+</div>
+
+            <div class="modal--box purchase-access">
+                <h4>Purchase access</h4>
+                <div class="modal--option"><a id="journalLinkToSubscribe" href="#">Subscribe</a> to the journal</div>
+                <div class="modal--option"><a id="articleLinkToPurchase" href="#" data-storeurl="http://store.jamanetwork.com.eres.library.manoa.hawaii.edu">Buy</a> this article</div>
+                <div id="modal_rent_this_article" class="modal--option"><a id="rentThisArticleLink" href="#">Rent</a> this article</div>
+            </div>
+            <a class="close-reveal-modal icon-close"></a>
+        </div>
+        
+
+
+        
+        <div id="no-access-reveal-learning" class="no-access reveal-modal login-modal medium modal" data-reveal>
+            
+            <div id="SignInOptions_Learning_SignInOptionsModal" class="modal--options">
+    <h4 class="signin-hed"><span id="SignInOptions_Learning_spnSignInHeader">Sign in to access your subscriptions</span></h4>
+
+	<div class="modal--option">
+	    
+	    <div id="SignInOptions_Learning_divIndSignIn" class="sign-in--personal">
+		<a href="http://jamanetwork.com.eres.library.manoa.hawaii.edu/oauthsignin?return_url=http%3a%2f%2fjamanetwork.com%2fjournals%2fjama%2ffullarticle%2f394508" id="SignInOptions_Learning_oauthSignInLink" rel="nofollow" class="sign-in--personal-link">Sign in</a> to your personal account    
+	    </div>
+	    
+	    
+	</div>
+	<div id="SignInOptions_Learning_divIndSignUp" class="modal--option">
+	    <div class="sign-in--create">
+		<a href="https://login-ama-assn-org.eres.library.manoa.hawaii.edu/account/signup?appId=scweb&returnurl=http://jamanetwork.com.eres.library.manoa.hawaii.edu/oauthsignin?return_url=http%3a%2f%2fjamanetwork.com%2fjournals%2fjama%2ffullarticle%2f394508" id="SignInOptions_Learning_oauthSignUpLink" rel="nofollow" class="sign-in--create-link">Create a free personal account</a> <span id="SignInOptions_Learning_spnDownloadMessage">to access your subscriptions, sign up for alerts, and more</span>
+	    </div>
+	</div>
+</div>
+
+            <div class="modal--box purchase-access">
+                    <h4>Purchase access</h4>
+                    <div class="modal--option"><a id="linkSubscribeLearning" href="http://store.jamanetwork.com.eres.library.manoa.hawaii.edu/productDetails.aspx?productcodeId=194" target="_blank">Subscribe</a> to Learning for one year</div>
+                    <div id="divPuchaseActivity" class="modal--option"><a id="linkPurchaseActivity" target="_blank">Buy</a> this activity</div>
+            </div>
+            <a class="close-reveal-modal icon-close"></a>
+        </div>
+        
+
+
+        
+        <div id="register-free-pdf-reveal" class="reveal-modal modal register-free-pdf medium" data-reveal>
+            <h4 class="modal--title">Sign in to download free article PDFs</h4>
+            <div id="freePdfSignIn_SignInOptionsModal" class="modal--options">
+    <h4 class="signin-hed"><span id="freePdfSignIn_spnSignInHeader">Sign in to access your subscriptions</span></h4>
+
+	<div class="modal--option">
+	    
+	    <div id="freePdfSignIn_divIndSignIn" class="sign-in--personal">
+		<a href="http://jamanetwork.com.eres.library.manoa.hawaii.edu/oauthsignin?return_url=http%3a%2f%2fjamanetwork.com%2fjournals%2fjama%2ffullarticle%2f394508" id="freePdfSignIn_oauthSignInLink" rel="nofollow" class="sign-in--personal-link">Sign in</a> to your personal account    
+	    </div>
+	    
+	    
+	</div>
+	<div id="freePdfSignIn_divIndSignUp" class="modal--option">
+	    <div class="sign-in--create">
+		<a href="https://login-ama-assn-org.eres.library.manoa.hawaii.edu/account/signup?appId=scweb&returnurl=http://jamanetwork.com.eres.library.manoa.hawaii.edu/oauthsignin?return_url=http%3a%2f%2fjamanetwork.com%2fjournals%2fjama%2ffullarticle%2f394508" id="freePdfSignIn_oauthSignUpLink" rel="nofollow" class="sign-in--create-link">Create a free personal account</a> <span id="freePdfSignIn_spnDownloadMessage">to download free article PDFs,
+		sign up for alerts, and more</span>
+	    </div>
+	</div>
+</div>
+
+            <div class="modal--box">
+                <h5 class="modal--subtitle">A free personal account provides</h5>
+                <ul>
+                    <li>Free current issues on <a href="http://app.jamanetwork.com.eres.library.manoa.hawaii.edu" target="_blank">The JAMA Network Reader</a></li>
+                    <li>Free quizzes on <a href="http://mobile.jamanetwork.com.eres.library.manoa.hawaii.edu/challenge.html" target="_blank">The JAMA Network Challenge</a></li>
+                    <li>Personalized alerts</li>
+                </ul>
+
+                <div class="no-access--alerts">
+                    <input id="no-access--alerts-input" class="no-access--alerts-input" type="checkbox" name="no-access-alerts-checkbox" checked="checked">
+                    <div class="no-access--alerts-content">
+                        <label for="no-access--alerts-input">Yes! Alert me when new content is published.</label>
+                        <div class="privacy-policy"><a href="/pages/privacy-policy">Privacy Policy</a></div>
+                    </div>
+                </div>
+            </div>
+
+            <a class="close-reveal-modal icon-close"></a>
+        </div>
+        
+        
+
+
+
+        
+        
+    
+    
+    <script src="//cdn.jsdelivr.net/chartist.js/latest/chartist.min.js" type="text/javascript"></script>
+
+    
+    <script src="//d1bxh8uas1mnw7.cloudfront.net/assets/embed.js" type="text/javascript"></script>
+
+    
+    <script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-53346900644c40ac"></script>
+
+    <script>
+        var addthis_share = {
+            // ... other options
+            title: 'Global Climate Change and Emerging Infectious Diseases',
+            url_transforms: {
+                shorten: {
+                    twitter: 'bitly'
+                }
+            },
+            shorteners: {
+                bitly: {}
+            }
+        };
+    </script>
+
+
+    </form>
+    <script src="//amaprod.silverchaircdn.com/UI/app/dist/v-636227540043648478/app.min.js"></script>
+    
+</body>
+</html>
+

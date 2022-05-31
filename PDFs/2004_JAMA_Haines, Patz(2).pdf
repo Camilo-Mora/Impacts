@@ -1,0 +1,1343 @@
+
+
+<!DOCTYPE html>
+
+<html id="doc" lang="en" class="page-abstract">
+<head id="Head1"><meta name="viewport" content="width=device-width, initial-scale=1" /><meta name="format-detection" content="telephone=no" />
+
+
+    
+    
+    <link rel="shortcut icon" href="//amaprod.silverchaircdn.com/UI/app/img/favicons/jama/favicon.ico">
+    <link rel="icon" type="image/png" href="//amaprod.silverchaircdn.com/UI/app/img/favicons/jama/favicon-192x192.png" sizes="192x192">
+    <link rel="apple-touch-icon" sizes="180x180" href="//amaprod.silverchaircdn.com/UI/app/img/favicons/jama/apple-touch-icon-180x180.png">
+
+    
+    <meta charset="utf-8" /><meta http-equiv="X-UA-Compatible" content="IE=Edge" /><script type="text/javascript">window.NREUM||(NREUM={});NREUM.info = {"beacon":"bam.nr-data.net","errorBeacon":"bam.nr-data.net","licenseKey":"8d76ca6f26","applicationID":"24437787","transactionName":"ZQBRMkVUCEtRVkINXlxKcjVnGgdaQ0FEBVJGS1IVR00=","queueTime":0,"applicationTime":227,"ttGuid":"411F028E79F9AD28","agent":""}</script><script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(e,n,t){function r(t){if(!n[t]){var o=n[t]={exports:{}};e[t][0].call(o.exports,function(n){var o=e[t][1][n];return r(o||n)},o,o.exports)}return n[t].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<t.length;o++)r(t[o]);return r}({1:[function(e,n,t){function r(){}function o(e,n,t){return function(){return i(e,[c.now()].concat(u(arguments)),n?null:this,t),n?void 0:this}}var i=e("handle"),a=e(2),u=e(3),f=e("ee").get("tracer"),c=e("loader"),s=NREUM;"undefined"==typeof window.newrelic&&(newrelic=s);var p=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],d="api-",l=d+"ixn-";a(p,function(e,n){s[n]=o(d+n,!0,"api")}),s.addPageAction=o(d+"addPageAction",!0),s.setCurrentRouteName=o(d+"routeName",!0),n.exports=newrelic,s.interaction=function(){return(new r).get()};var m=r.prototype={createTracer:function(e,n){var t={},r=this,o="function"==typeof n;return i(l+"tracer",[c.now(),e,t],r),function(){if(f.emit((o?"":"no-")+"fn-start",[c.now(),r,o],t),o)try{return n.apply(this,arguments)}finally{f.emit("fn-end",[c.now()],t)}}}};a("setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(e,n){m[n]=o(l+n)}),newrelic.noticeError=function(e){"string"==typeof e&&(e=new Error(e)),i("err",[e,c.now()])}},{}],2:[function(e,n,t){function r(e,n){var t=[],r="",i=0;for(r in e)o.call(e,r)&&(t[i]=n(r,e[r]),i+=1);return t}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],3:[function(e,n,t){function r(e,n,t){n||(n=0),"undefined"==typeof t&&(t=e?e.length:0);for(var r=-1,o=t-n||0,i=Array(o<0?0:o);++r<o;)i[r]=e[n+r];return i}n.exports=r},{}],4:[function(e,n,t){n.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],ee:[function(e,n,t){function r(){}function o(e){function n(e){return e&&e instanceof r?e:e?f(e,u,i):i()}function t(t,r,o,i){if(!d.aborted||i){e&&e(t,r,o);for(var a=n(o),u=m(t),f=u.length,c=0;c<f;c++)u[c].apply(a,r);var p=s[y[t]];return p&&p.push([b,t,r,a]),a}}function l(e,n){v[e]=m(e).concat(n)}function m(e){return v[e]||[]}function w(e){return p[e]=p[e]||o(t)}function g(e,n){c(e,function(e,t){n=n||"feature",y[t]=n,n in s||(s[n]=[])})}var v={},y={},b={on:l,emit:t,get:w,listeners:m,context:n,buffer:g,abort:a,aborted:!1};return b}function i(){return new r}function a(){(s.api||s.feature)&&(d.aborted=!0,s=d.backlog={})}var u="nr@context",f=e("gos"),c=e(2),s={},p={},d=n.exports=o();d.backlog=s},{}],gos:[function(e,n,t){function r(e,n,t){if(o.call(e,n))return e[n];var r=t();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,n,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return e[n]=r,r}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],handle:[function(e,n,t){function r(e,n,t,r){o.buffer([e],r),o.emit(e,n,t)}var o=e("ee").get("handle");n.exports=r,r.ee=o},{}],id:[function(e,n,t){function r(e){var n=typeof e;return!e||"object"!==n&&"function"!==n?-1:e===window?0:a(e,i,function(){return o++})}var o=1,i="nr@id",a=e("gos");n.exports=r},{}],loader:[function(e,n,t){function r(){if(!x++){var e=h.info=NREUM.info,n=d.getElementsByTagName("script")[0];if(setTimeout(s.abort,3e4),!(e&&e.licenseKey&&e.applicationID&&n))return s.abort();c(y,function(n,t){e[n]||(e[n]=t)}),f("mark",["onload",a()+h.offset],null,"api");var t=d.createElement("script");t.src="https://"+e.agent,n.parentNode.insertBefore(t,n)}}function o(){"complete"===d.readyState&&i()}function i(){f("mark",["domContent",a()+h.offset],null,"api")}function a(){return E.exists&&performance.now?Math.round(performance.now()):(u=Math.max((new Date).getTime(),u))-h.offset}var u=(new Date).getTime(),f=e("handle"),c=e(2),s=e("ee"),p=window,d=p.document,l="addEventListener",m="attachEvent",w=p.XMLHttpRequest,g=w&&w.prototype;NREUM.o={ST:setTimeout,CT:clearTimeout,XHR:w,REQ:p.Request,EV:p.Event,PR:p.Promise,MO:p.MutationObserver};var v=""+location,y={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1026.min.js"},b=w&&g&&g[l]&&!/CriOS/.test(navigator.userAgent),h=n.exports={offset:u,now:a,origin:v,features:{},xhrWrappable:b};e(1),d[l]?(d[l]("DOMContentLoaded",i,!1),p[l]("load",r,!1)):(d[m]("onreadystatechange",o),p[m]("onload",r)),f("mark",["firstbyte",u],null,"api");var x=0,E=e(4)},{}]},{},["loader"]);</script>
+
+
+    
+    <link rel="stylesheet" href="//amaprod.silverchaircdn.com/UI/app/dist/v-636292249253156458/app.min.css">
+
+    
+    
+    
+    
+    <link href="//cdn.jsdelivr.net/chartist.js/latest/chartist.min.css" type="text/css" rel="stylesheet"/>
+
+    
+
+    <meta property="og:title" content="Health Effects of Climate Change"/>
+    <meta property="og:type" content="Article"/>
+    <meta property="og:url" content="http://jamanetwork.com/journals/jama/fullarticle/197911" />
+    <meta property="og:image" content="http://jamanetwork.com/data/Journals/JAMA/4910/jct30007f1.gif" />
+    <meta property="og:image" content="http://jamanetwork.com/data/Journals/JAMA/4910/jct30007t1.png" />
+    <meta property="og:description" content="Humans are now making unprecedented changes to the global environment.
+Economic development has been fostered by the use of fossil fuels but the
+accompanying accumulation of greenhouse gases, particularly carbon dioxide
+and methane, has implications for the world&#39;s climate (Box).1 Since the 1850s..."/>
+
+    <meta name="twitter:card" content="summary_large_image"/>
+    <meta name="twitter:site" content="@JAMA_current"/>
+
+
+
+
+
+<meta name="citation_author" content="Andy Haines" /><meta name="citation_author" content="Jonathan A. Patz" /><meta name="citation_title" content="Health Effects of Climate Change" /><meta name="citation_firstpage" content="99" /><meta name="citation_lastpage" content="103" /><meta name="citation_doi" content="10.1001/jama.291.1.99" /><meta name="citation_journal_title" content="JAMA" /><meta name="citation_journal_abbrev" content="JAMA" /><meta name="citation_volume" content="291" /><meta name="citation_issue" content="1" /><meta name="citation_publication_date" content="2004/01/07" /><meta name="citation_issn" content="0098-7484" /><meta name="citation_publisher" content="American Medical Association" /><meta name="citation_reference" content="citation_title=Climate Change 2001: The Scientific Basis.;  citation_authors=Houghton  JT; Ding  Y; Griggs  DJ;  citation_text=Cambridge, England: Cambridge University Press; 2001.; " /><meta name="citation_reference" content="citation_title=The potential health impacts of climate variability and change for the United States: executive summary of the report of the health sector of the US National Assessment.;  citation_authors=Patz  JA; McGeehin  MA; Bernard  SM;  citation_journal_title=Environ Health Perspect.;  citation_year=2000;  citation_volume=108;  citation_pages=367-376.; " /><meta name="citation_reference" content="citation_org=Department of Health; citation_title=Health Effects of Climate Change in the UK: Report of the Expert Advisory Group on Climate Change and Health, 2002.;  citation_text=London, England: Dept of Health; 2002.; " /><meta name="citation_reference" content="citation_title=Mortality in Chicago attributed to the July 1995 heat wave.;  citation_authors=Whitman  S; Good  G; Donoghue  ER;  citation_journal_title=Am J Public Health.;  citation_year=1997;  citation_volume=87;  citation_pages=1515-1518.; " /><meta name="citation_reference" content="citation_title=Heat wave triggers political conflict as French death rates rise.;  citation_author=Dorozynski  A;  citation_journal_title=BMJ.;  citation_year=2003;  citation_volume=327;  citation_pages=411.; " /><meta name="citation_reference" content="citation_title=Analysis of differences in hot-weather-related mortality across 44 US metropolitan areas.;  citation_authors=Chesnut  LG; Breffle  WS; Smith  JB; Kalkstein  LS;  citation_journal_title=Environ Sci Policy.;  citation_year=1998;  citation_volume=1;  citation_pages=59-70.; " /><meta name="citation_reference" content="citation_title=An evaluation of climate/mortality relationships in large US cities and the possible impacts of a climate change.;  citation_authors=Kalkstein  LS; Greene  JS;  citation_journal_title=Environ Health Perspect.;  citation_year=1997;  citation_volume=105;  citation_pages=84-93.; " /><meta name="citation_reference" content="citation_title=Psychological aspects of traumatic injury in children and adolescents.;  citation_authors=Caffo  E; Belaise  C;  citation_journal_title=Child Adolesc Psychiatr Clin North Am.;  citation_year=2003;  citation_volume=12;  citation_pages=493-535.; " /><meta name="citation_reference" content="citation_title=El Niño and health.;  citation_authors=Kovats  RS; Bourma  MJ; Hajat  S; Worrall  E; Haines  A;  citation_journal_title=Lancet.;  citation_year=2003;  citation_volume=362;  citation_pages=1481-1489.; " /><meta name="citation_reference" content="citation_title=Global assessment of El Niño's disaster burden.;  citation_authors=Bouma  MJ; Kovats  RS; Goubet  SA; Cox  JS; Haines  A;  citation_journal_title=Lancet.;  citation_year=1997;  citation_volume=350;  citation_pages=1435-1438.; " /><meta name="citation_reference" content="citation_title=Human health in climate change 2001: impacts, adaptation, and vulnerability.;  citation_authors=McMichael  M; Githeko  A; Akhtar  R;  citation_text=In: McCarthy JJ, Canziani OF, Leary NA, Dokken DJ, White KS, eds. Climate Change: Impacts, Adaptation, and Vulnerability: Contribution of Working Group II to the Intergovernmental Panel on Climate Changes. Cambridge, England: Cambridge University Press; 2001:451-485.; " /><meta name="citation_reference" content="citation_title=Epidemiological studies of acute ozone exposures and mortality.;  citation_authors=Thurston  GD; Ito  K;  citation_journal_title=J Expo Anal Environ Epidemiol.;  citation_year=2001;  citation_volume=11;  citation_pages=286-294.; " /><meta name="citation_reference" content="citation_org=Not Available; citation_title=Surveillance of morbidity during wildfires—Central Florida, 1988.;  citation_journal_title=Mortal Wkly Rep.;  citation_year=1999;  citation_volume=48;  citation_pages=78-79.; " /><meta name="citation_reference" content="citation_title=Evaluation of the growth response of six invasive species to past, present and future atmospheric carbon dioxide.;  citation_author=Ziska  LH;  citation_journal_title=J Exp Bot.;  citation_year=2003;  citation_volume=54;  citation_pages=395-404.; " /><meta name="citation_reference" content="citation_title=Effects of environmental change on emerging parasitic diseases.;  citation_authors=Patz  JA; Graczyk  TK; Geller  N; Vittor  AY;  citation_journal_title=Int J Parasitol.;  citation_year=2000;  citation_volume=30;  citation_pages=1395-1405.; " /><meta name="citation_reference" content="citation_title=Malaria in 2002.;  citation_authors=Greenwood  B; Mutabingwa  T;  citation_journal_title=Nature.;  citation_year=2002;  citation_volume=415;  citation_pages=670-672.; " /><meta name="citation_reference" content="citation_title=Malaria in the African highlands: past, present and future.;  citation_authors=Lindsay  SW; Martens  WJ;  citation_journal_title=Bull World Health Organ.;  citation_year=1998;  citation_volume=76;  citation_pages=33-45.; " /><meta name="citation_reference" content="citation_title=Climate change and future populations at risk of malaria.;  citation_authors=Martens  P; Kovats  RS; Nijhof  S;  citation_journal_title=Glob Environ Change.;  citation_year=1999;  citation_volume=9;  citation_pages=S89-S107.; " /><meta name="citation_reference" content="citation_title=The global spread of malaria in a future, warmer world.;  citation_authors=Rogers  DJ; Randolph  SE;  citation_journal_title=Science.;  citation_year=2000;  citation_volume=289;  citation_pages=1763-1766.; " /><meta name="citation_reference" content="citation_title=Potential effect of climate change on malaria transmission in Africa.;  citation_authors=Tanser  FC; Sharp  B; le Sueur  D;  citation_journal_title=Lancet.;  citation_year=2003;  citation_volume=362;  citation_pages=1792-1798.; " /><meta name="citation_reference" content="citation_title=Dengue fever epidemic potential as projected by general circulation models of global climate change.;  citation_authors=Patz  JA; Martens  WJ; Focks  DA; Jetten  TH;  citation_journal_title=Environ Health Perspect.;  citation_year=1998;  citation_volume=106;  citation_pages=147-153.; " /><meta name="citation_reference" content="citation_title=West Nile virus and the climate.;  citation_author=Epstein  PR;  citation_journal_title=J Urban Health.;  citation_year=2001;  citation_volume=78;  citation_pages=367-371.; " /><meta name="citation_reference" content="citation_title=Impact of climatic change on the northern latitude limit and population density of the disease-transmitting European tick ixodes ricinus.;  citation_authors=Lindgren  E; Talleklint  L; Polfeldt  T;  citation_journal_title=Environ Health Perspect.;  citation_year=2000;  citation_volume=108;  citation_pages=119-123.; " /><meta name="citation_reference" content="citation_title=Fragile transmission cycles of tick-borne encephalitis virus may be disrupted by predicted climate change.;  citation_authors=Randolph  SE; Rogers  DJ;  citation_journal_title=Proc R Soc Lond B Biol Sci.;  citation_year=2000;  citation_volume=267;  citation_pages=1741-1744.; " /><meta name="citation_reference" content="citation_title=The ecology of infectious disease: effects of host diversity and community composition on Lyme disease risk.;  citation_authors=LoGiudice  K; Ostfeld  RS; Schmidt  KA; Keesing  F;  citation_journal_title=Proc Natl Acad Sci U S A.;  citation_year=2003;  citation_volume=100;  citation_pages=567-571.; " /><meta name="citation_reference" content="citation_title=Using remotely sensed data to identify areas at risk for hantavirus pulmonary syndrome.;  citation_authors=Glass  GE; Cheek  JE; Patz  JA;  citation_journal_title=Emerg Infect Dis.;  citation_year=2000;  citation_volume=6;  citation_pages=238-247.; " /><meta name="citation_reference" content="citation_title=Epidemic leptospirosis associated with pulmonary hemorrhage: Nicaragua, 1995.;  citation_authors=Trevejo  RT; Rigau-Perez  JG; Ashford  DA;  citation_journal_title=J Infect Dis.;  citation_year=1998;  citation_volume=178;  citation_pages=1457-1463.; " /><meta name="citation_reference" content="citation_title=The World's Water: 1998-1999.;  citation_author=Gleick  PH;  citation_text=Washington, DC: Island Press; 1998.; " /><meta name="citation_reference" content="citation_title=The association between extreme precipitation and waterborne disease outbreaks in the United States, 1948-1994.;  citation_authors=Curriero  FC; Patz  JA; Rose  JB; Lele  S;  citation_journal_title=Am J Public Health.;  citation_year=2001;  citation_volume=91;  citation_pages=1194-1199.; " /><meta name="citation_reference" content="citation_title=ENSO and cholera: a nonstationary link related to climate change?;  citation_authors=Rodo  X; Pascual  M; Fuchs  G; Faruque  AS;  citation_journal_title=Proc Natl Acad Sci U S A.;  citation_year=2002;  citation_volume=99;  citation_pages=12901-12906.; " /><meta name="citation_reference" content="citation_title=Climate Change 2001: Mitigation: Contribution of Working Group III to the Third Assessment Report of the Intergovernmental Panel on Climate Change.;  citation_authors=Metz  B; Davidson  O; Swart  R; Pan  J;  citation_text=Cambridge, England: Cambridge University Press; 2001.; " /><meta name="citation_pdf_url" content="http://jama.jamanetwork.com/data/journals/jama/4910/jct30007.pdf" />
+
+    
+                <title>Health Effects of Climate Change | JAMA | The JAMA Network</title>
+
+    <meta name="description" content="Humans are now making unprecedented changes to the global environment.
+Economic development has been fostered by the use of fossil fuels but the
+accompanying ">
+
+
+    <link rel="canonical" href="http://jamanetwork.com/journals/jama/fullarticle/197911" />
+
+
+
+    
+    <script src="//ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js"></script>
+    <script>window.jQuery || document.write('<script src="UI/app/vendor/jquery-1.8.3.min.js">\x3C/script>')</script>
+    <script src="//amaprod.silverchaircdn.com/UI/app/dist/v-636287538286528411/head.min.js"></script>
+    <!-- Optimizely script --> <script src="https://cdn.optimizely.com/js/2785501806.js"></script> <!-- End Optimizely script -->    <div class="widget-WidgetLoader widget-instance-AMA_AdTag_HeaderScript">
+        
+    <meta class="SCM-SharedWidgets-AsyncHeaderAdLoader" data-url="/AMA/AdTag/AMA_AdTag_HeaderScript" data-params="{&quot;parameters&quot;:{&quot;siteName&quot;:&quot;jama&quot;,&quot;adDisplay&quot;:0,&quot;adSection&quot;:&quot;abstract&quot;,&quot;adPosition&quot;:&quot;&quot;,&quot;fromGoogle&quot;:false},&quot;dynamicParameters&quot;:{&quot;localParams&quot;:&quot;[REPLACE_WITH_LOCAL]&quot;}}">
+ 
+    </div>
+</head>
+
+<body data-sitename="jama" class="pg_abstract" data-thm="jama">
+    
+    <a class="accessible" href="#skip-to-content">[Skip to Content]</a>
+
+    <!-- Google Tag Manager --><noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-WNKSNP" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript><script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start': new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0], j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src='//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f); })(window,document,'script','dataLayer','GTM-WNKSNP');</script><!-- End Google Tag Manager -->
+
+    
+    
+    <span class="hide tagmanagervalue" data-attribute="journalName" data-value="JAMA" data-type="string"></span>
+    <form method="post" action="./197911" id="webform" class="m0">
+<div class="aspNetHidden">
+<input type="hidden" name="__EVENTTARGET" id="__EVENTTARGET" value="" />
+<input type="hidden" name="__EVENTARGUMENT" id="__EVENTARGUMENT" value="" />
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJODk2NDA3NzQ5D2QWAmYPZBYCZg9kFgZmD2QWBAIFD2QWAgIBD2QWAmYPFgIeBFRleHQF5E88bWV0YSBuYW1lPSJjaXRhdGlvbl9hdXRob3IiIGNvbnRlbnQ9IkFuZHkgSGFpbmVzIiAvPjxtZXRhIG5hbWU9ImNpdGF0aW9uX2F1dGhvciIgY29udGVudD0iSm9uYXRoYW4gQS4gUGF0eiIgLz48bWV0YSBuYW1lPSJjaXRhdGlvbl90aXRsZSIgY29udGVudD0iSGVhbHRoIEVmZmVjdHMgb2YgQ2xpbWF0ZSBDaGFuZ2UiIC8+PG1ldGEgbmFtZT0iY2l0YXRpb25fZmlyc3RwYWdlIiBjb250ZW50PSI5OSIgLz48bWV0YSBuYW1lPSJjaXRhdGlvbl9sYXN0cGFnZSIgY29udGVudD0iMTAzIiAvPjxtZXRhIG5hbWU9ImNpdGF0aW9uX2RvaSIgY29udGVudD0iMTAuMTAwMS9qYW1hLjI5MS4xLjk5IiAvPjxtZXRhIG5hbWU9ImNpdGF0aW9uX2pvdXJuYWxfdGl0bGUiIGNvbnRlbnQ9IkpBTUEiIC8+PG1ldGEgbmFtZT0iY2l0YXRpb25fam91cm5hbF9hYmJyZXYiIGNvbnRlbnQ9IkpBTUEiIC8+PG1ldGEgbmFtZT0iY2l0YXRpb25fdm9sdW1lIiBjb250ZW50PSIyOTEiIC8+PG1ldGEgbmFtZT0iY2l0YXRpb25faXNzdWUiIGNvbnRlbnQ9IjEiIC8+PG1ldGEgbmFtZT0iY2l0YXRpb25fcHVibGljYXRpb25fZGF0ZSIgY29udGVudD0iMjAwNC8wMS8wNyIgLz48bWV0YSBuYW1lPSJjaXRhdGlvbl9pc3NuIiBjb250ZW50PSIwMDk4LTc0ODQiIC8+PG1ldGEgbmFtZT0iY2l0YXRpb25fcHVibGlzaGVyIiBjb250ZW50PSJBbWVyaWNhbiBNZWRpY2FsIEFzc29jaWF0aW9uIiAvPjxtZXRhIG5hbWU9ImNpdGF0aW9uX3JlZmVyZW5jZSIgY29udGVudD0iY2l0YXRpb25fdGl0bGU9Q2xpbWF0ZSBDaGFuZ2UgMjAwMTogVGhlIFNjaWVudGlmaWMgQmFzaXMuOyAgY2l0YXRpb25fYXV0aG9ycz1Ib3VnaHRvbiAgSlQ7IERpbmcgIFk7IEdyaWdncyAgREo7ICBjaXRhdGlvbl90ZXh0PUNhbWJyaWRnZSwgRW5nbGFuZDogQ2FtYnJpZGdlIFVuaXZlcnNpdHkgUHJlc3M7IDIwMDEuOyAiIC8+PG1ldGEgbmFtZT0iY2l0YXRpb25fcmVmZXJlbmNlIiBjb250ZW50PSJjaXRhdGlvbl90aXRsZT1UaGUgcG90ZW50aWFsIGhlYWx0aCBpbXBhY3RzIG9mIGNsaW1hdGUgdmFyaWFiaWxpdHkgYW5kIGNoYW5nZSBmb3IgdGhlIFVuaXRlZCBTdGF0ZXM6IGV4ZWN1dGl2ZSBzdW1tYXJ5IG9mIHRoZSByZXBvcnQgb2YgdGhlIGhlYWx0aCBzZWN0b3Igb2YgdGhlIFVTIE5hdGlvbmFsIEFzc2Vzc21lbnQuOyAgY2l0YXRpb25fYXV0aG9ycz1QYXR6ICBKQTsgTWNHZWVoaW4gIE1BOyBCZXJuYXJkICBTTTsgIGNpdGF0aW9uX2pvdXJuYWxfdGl0bGU9RW52aXJvbiBIZWFsdGggUGVyc3BlY3QuOyAgY2l0YXRpb25feWVhcj0yMDAwOyAgY2l0YXRpb25fdm9sdW1lPTEwODsgIGNpdGF0aW9uX3BhZ2VzPTM2Ny0zNzYuOyAiIC8+PG1ldGEgbmFtZT0iY2l0YXRpb25fcmVmZXJlbmNlIiBjb250ZW50PSJjaXRhdGlvbl9vcmc9RGVwYXJ0bWVudCBvZiBIZWFsdGg7IGNpdGF0aW9uX3RpdGxlPUhlYWx0aCBFZmZlY3RzIG9mIENsaW1hdGUgQ2hhbmdlIGluIHRoZSBVSzogUmVwb3J0IG9mIHRoZSBFeHBlcnQgQWR2aXNvcnkgR3JvdXAgb24gQ2xpbWF0ZSBDaGFuZ2UgYW5kIEhlYWx0aCwgMjAwMi47ICBjaXRhdGlvbl90ZXh0PUxvbmRvbiwgRW5nbGFuZDogRGVwdCBvZiBIZWFsdGg7IDIwMDIuOyAiIC8+PG1ldGEgbmFtZT0iY2l0YXRpb25fcmVmZXJlbmNlIiBjb250ZW50PSJjaXRhdGlvbl90aXRsZT1Nb3J0YWxpdHkgaW4gQ2hpY2FnbyBhdHRyaWJ1dGVkIHRvIHRoZSBKdWx5IDE5OTUgaGVhdCB3YXZlLjsgIGNpdGF0aW9uX2F1dGhvcnM9V2hpdG1hbiAgUzsgR29vZCAgRzsgRG9ub2dodWUgIEVSOyAgY2l0YXRpb25fam91cm5hbF90aXRsZT1BbSBKIFB1YmxpYyBIZWFsdGguOyAgY2l0YXRpb25feWVhcj0xOTk3OyAgY2l0YXRpb25fdm9sdW1lPTg3OyAgY2l0YXRpb25fcGFnZXM9MTUxNS0xNTE4LjsgIiAvPjxtZXRhIG5hbWU9ImNpdGF0aW9uX3JlZmVyZW5jZSIgY29udGVudD0iY2l0YXRpb25fdGl0bGU9SGVhdCB3YXZlIHRyaWdnZXJzIHBvbGl0aWNhbCBjb25mbGljdCBhcyBGcmVuY2ggZGVhdGggcmF0ZXMgcmlzZS47ICBjaXRhdGlvbl9hdXRob3I9RG9yb3p5bnNraSAgQTsgIGNpdGF0aW9uX2pvdXJuYWxfdGl0bGU9Qk1KLjsgIGNpdGF0aW9uX3llYXI9MjAwMzsgIGNpdGF0aW9uX3ZvbHVtZT0zMjc7ICBjaXRhdGlvbl9wYWdlcz00MTEuOyAiIC8+PG1ldGEgbmFtZT0iY2l0YXRpb25fcmVmZXJlbmNlIiBjb250ZW50PSJjaXRhdGlvbl90aXRsZT1BbmFseXNpcyBvZiBkaWZmZXJlbmNlcyBpbiBob3Qtd2VhdGhlci1yZWxhdGVkIG1vcnRhbGl0eSBhY3Jvc3MgNDQgVVMgbWV0cm9wb2xpdGFuIGFyZWFzLjsgIGNpdGF0aW9uX2F1dGhvcnM9Q2hlc251dCAgTEc7IEJyZWZmbGUgIFdTOyBTbWl0aCAgSkI7IEthbGtzdGVpbiAgTFM7ICBjaXRhdGlvbl9qb3VybmFsX3RpdGxlPUVudmlyb24gU2NpIFBvbGljeS47ICBjaXRhdGlvbl95ZWFyPTE5OTg7ICBjaXRhdGlvbl92b2x1bWU9MTsgIGNpdGF0aW9uX3BhZ2VzPTU5LTcwLjsgIiAvPjxtZXRhIG5hbWU9ImNpdGF0aW9uX3JlZmVyZW5jZSIgY29udGVudD0iY2l0YXRpb25fdGl0bGU9QW4gZXZhbHVhdGlvbiBvZiBjbGltYXRlL21vcnRhbGl0eSByZWxhdGlvbnNoaXBzIGluIGxhcmdlIFVTIGNpdGllcyBhbmQgdGhlIHBvc3NpYmxlIGltcGFjdHMgb2YgYSBjbGltYXRlIGNoYW5nZS47ICBjaXRhdGlvbl9hdXRob3JzPUthbGtzdGVpbiAgTFM7IEdyZWVuZSAgSlM7ICBjaXRhdGlvbl9qb3VybmFsX3RpdGxlPUVudmlyb24gSGVhbHRoIFBlcnNwZWN0LjsgIGNpdGF0aW9uX3llYXI9MTk5NzsgIGNpdGF0aW9uX3ZvbHVtZT0xMDU7ICBjaXRhdGlvbl9wYWdlcz04NC05My47ICIgLz48bWV0YSBuYW1lPSJjaXRhdGlvbl9yZWZlcmVuY2UiIGNvbnRlbnQ9ImNpdGF0aW9uX3RpdGxlPVBzeWNob2xvZ2ljYWwgYXNwZWN0cyBvZiB0cmF1bWF0aWMgaW5qdXJ5IGluIGNoaWxkcmVuIGFuZCBhZG9sZXNjZW50cy47ICBjaXRhdGlvbl9hdXRob3JzPUNhZmZvICBFOyBCZWxhaXNlICBDOyAgY2l0YXRpb25fam91cm5hbF90aXRsZT1DaGlsZCBBZG9sZXNjIFBzeWNoaWF0ciBDbGluIE5vcnRoIEFtLjsgIGNpdGF0aW9uX3llYXI9MjAwMzsgIGNpdGF0aW9uX3ZvbHVtZT0xMjsgIGNpdGF0aW9uX3BhZ2VzPTQ5My01MzUuOyAiIC8+PG1ldGEgbmFtZT0iY2l0YXRpb25fcmVmZXJlbmNlIiBjb250ZW50PSJjaXRhdGlvbl90aXRsZT1FbCBOacOxbyBhbmQgaGVhbHRoLjsgIGNpdGF0aW9uX2F1dGhvcnM9S292YXRzICBSUzsgQm91cm1hICBNSjsgSGFqYXQgIFM7IFdvcnJhbGwgIEU7IEhhaW5lcyAgQTsgIGNpdGF0aW9uX2pvdXJuYWxfdGl0bGU9TGFuY2V0LjsgIGNpdGF0aW9uX3llYXI9MjAwMzsgIGNpdGF0aW9uX3ZvbHVtZT0zNjI7ICBjaXRhdGlvbl9wYWdlcz0xNDgxLTE0ODkuOyAiIC8+PG1ldGEgbmFtZT0iY2l0YXRpb25fcmVmZXJlbmNlIiBjb250ZW50PSJjaXRhdGlvbl90aXRsZT1HbG9iYWwgYXNzZXNzbWVudCBvZiBFbCBOacOxbydzIGRpc2FzdGVyIGJ1cmRlbi47ICBjaXRhdGlvbl9hdXRob3JzPUJvdW1hICBNSjsgS292YXRzICBSUzsgR291YmV0ICBTQTsgQ294ICBKUzsgSGFpbmVzICBBOyAgY2l0YXRpb25fam91cm5hbF90aXRsZT1MYW5jZXQuOyAgY2l0YXRpb25feWVhcj0xOTk3OyAgY2l0YXRpb25fdm9sdW1lPTM1MDsgIGNpdGF0aW9uX3BhZ2VzPTE0MzUtMTQzOC47ICIgLz48bWV0YSBuYW1lPSJjaXRhdGlvbl9yZWZlcmVuY2UiIGNvbnRlbnQ9ImNpdGF0aW9uX3RpdGxlPUh1bWFuIGhlYWx0aCBpbiBjbGltYXRlIGNoYW5nZSAyMDAxOiBpbXBhY3RzLCBhZGFwdGF0aW9uLCBhbmQgdnVsbmVyYWJpbGl0eS47ICBjaXRhdGlvbl9hdXRob3JzPU1jTWljaGFlbCAgTTsgR2l0aGVrbyAgQTsgQWtodGFyICBSOyAgY2l0YXRpb25fdGV4dD1JbjogTWNDYXJ0aHkgSkosIENhbnppYW5pIE9GLCBMZWFyeSBOQSwgRG9ra2VuIERKLCBXaGl0ZSBLUywgZWRzLiBDbGltYXRlIENoYW5nZTogSW1wYWN0cywgQWRhcHRhdGlvbiwgYW5kIFZ1bG5lcmFiaWxpdHk6IENvbnRyaWJ1dGlvbiBvZiBXb3JraW5nIEdyb3VwIElJIHRvIHRoZSBJbnRlcmdvdmVybm1lbnRhbCBQYW5lbCBvbiBDbGltYXRlIENoYW5nZXMuIENhbWJyaWRnZSwgRW5nbGFuZDogQ2FtYnJpZGdlIFVuaXZlcnNpdHkgUHJlc3M7IDIwMDE6NDUxLTQ4NS47ICIgLz48bWV0YSBuYW1lPSJjaXRhdGlvbl9yZWZlcmVuY2UiIGNvbnRlbnQ9ImNpdGF0aW9uX3RpdGxlPUVwaWRlbWlvbG9naWNhbCBzdHVkaWVzIG9mIGFjdXRlIG96b25lIGV4cG9zdXJlcyBhbmQgbW9ydGFsaXR5LjsgIGNpdGF0aW9uX2F1dGhvcnM9VGh1cnN0b24gIEdEOyBJdG8gIEs7ICBjaXRhdGlvbl9qb3VybmFsX3RpdGxlPUogRXhwbyBBbmFsIEVudmlyb24gRXBpZGVtaW9sLjsgIGNpdGF0aW9uX3llYXI9MjAwMTsgIGNpdGF0aW9uX3ZvbHVtZT0xMTsgIGNpdGF0aW9uX3BhZ2VzPTI4Ni0yOTQuOyAiIC8+PG1ldGEgbmFtZT0iY2l0YXRpb25fcmVmZXJlbmNlIiBjb250ZW50PSJjaXRhdGlvbl9vcmc9Tm90IEF2YWlsYWJsZTsgY2l0YXRpb25fdGl0bGU9U3VydmVpbGxhbmNlIG9mIG1vcmJpZGl0eSBkdXJpbmcgd2lsZGZpcmVz4oCUQ2VudHJhbCBGbG9yaWRhLCAxOTg4LjsgIGNpdGF0aW9uX2pvdXJuYWxfdGl0bGU9TW9ydGFsIFdrbHkgUmVwLjsgIGNpdGF0aW9uX3llYXI9MTk5OTsgIGNpdGF0aW9uX3ZvbHVtZT00ODsgIGNpdGF0aW9uX3BhZ2VzPTc4LTc5LjsgIiAvPjxtZXRhIG5hbWU9ImNpdGF0aW9uX3JlZmVyZW5jZSIgY29udGVudD0iY2l0YXRpb25fdGl0bGU9RXZhbHVhdGlvbiBvZiB0aGUgZ3Jvd3RoIHJlc3BvbnNlIG9mIHNpeCBpbnZhc2l2ZSBzcGVjaWVzIHRvIHBhc3QsIHByZXNlbnQgYW5kIGZ1dHVyZSBhdG1vc3BoZXJpYyBjYXJib24gZGlveGlkZS47ICBjaXRhdGlvbl9hdXRob3I9Wmlza2EgIExIOyAgY2l0YXRpb25fam91cm5hbF90aXRsZT1KIEV4cCBCb3QuOyAgY2l0YXRpb25feWVhcj0yMDAzOyAgY2l0YXRpb25fdm9sdW1lPTU0OyAgY2l0YXRpb25fcGFnZXM9Mzk1LTQwNC47ICIgLz48bWV0YSBuYW1lPSJjaXRhdGlvbl9yZWZlcmVuY2UiIGNvbnRlbnQ9ImNpdGF0aW9uX3RpdGxlPUVmZmVjdHMgb2YgZW52aXJvbm1lbnRhbCBjaGFuZ2Ugb24gZW1lcmdpbmcgcGFyYXNpdGljIGRpc2Vhc2VzLjsgIGNpdGF0aW9uX2F1dGhvcnM9UGF0eiAgSkE7IEdyYWN6eWsgIFRLOyBHZWxsZXIgIE47IFZpdHRvciAgQVk7ICBjaXRhdGlvbl9qb3VybmFsX3RpdGxlPUludCBKIFBhcmFzaXRvbC47ICBjaXRhdGlvbl95ZWFyPTIwMDA7ICBjaXRhdGlvbl92b2x1bWU9MzA7ICBjaXRhdGlvbl9wYWdlcz0xMzk1LTE0MDUuOyAiIC8+PG1ldGEgbmFtZT0iY2l0YXRpb25fcmVmZXJlbmNlIiBjb250ZW50PSJjaXRhdGlvbl90aXRsZT1NYWxhcmlhIGluIDIwMDIuOyAgY2l0YXRpb25fYXV0aG9ycz1HcmVlbndvb2QgIEI7IE11dGFiaW5nd2EgIFQ7ICBjaXRhdGlvbl9qb3VybmFsX3RpdGxlPU5hdHVyZS47ICBjaXRhdGlvbl95ZWFyPTIwMDI7ICBjaXRhdGlvbl92b2x1bWU9NDE1OyAgY2l0YXRpb25fcGFnZXM9NjcwLTY3Mi47ICIgLz48bWV0YSBuYW1lPSJjaXRhdGlvbl9yZWZlcmVuY2UiIGNvbnRlbnQ9ImNpdGF0aW9uX3RpdGxlPU1hbGFyaWEgaW4gdGhlIEFmcmljYW4gaGlnaGxhbmRzOiBwYXN0LCBwcmVzZW50IGFuZCBmdXR1cmUuOyAgY2l0YXRpb25fYXV0aG9ycz1MaW5kc2F5ICBTVzsgTWFydGVucyAgV0o7ICBjaXRhdGlvbl9qb3VybmFsX3RpdGxlPUJ1bGwgV29ybGQgSGVhbHRoIE9yZ2FuLjsgIGNpdGF0aW9uX3llYXI9MTk5ODsgIGNpdGF0aW9uX3ZvbHVtZT03NjsgIGNpdGF0aW9uX3BhZ2VzPTMzLTQ1LjsgIiAvPjxtZXRhIG5hbWU9ImNpdGF0aW9uX3JlZmVyZW5jZSIgY29udGVudD0iY2l0YXRpb25fdGl0bGU9Q2xpbWF0ZSBjaGFuZ2UgYW5kIGZ1dHVyZSBwb3B1bGF0aW9ucyBhdCByaXNrIG9mIG1hbGFyaWEuOyAgY2l0YXRpb25fYXV0aG9ycz1NYXJ0ZW5zICBQOyBLb3ZhdHMgIFJTOyBOaWpob2YgIFM7ICBjaXRhdGlvbl9qb3VybmFsX3RpdGxlPUdsb2IgRW52aXJvbiBDaGFuZ2UuOyAgY2l0YXRpb25feWVhcj0xOTk5OyAgY2l0YXRpb25fdm9sdW1lPTk7ICBjaXRhdGlvbl9wYWdlcz1TODktUzEwNy47ICIgLz48bWV0YSBuYW1lPSJjaXRhdGlvbl9yZWZlcmVuY2UiIGNvbnRlbnQ9ImNpdGF0aW9uX3RpdGxlPVRoZSBnbG9iYWwgc3ByZWFkIG9mIG1hbGFyaWEgaW4gYSBmdXR1cmUsIHdhcm1lciB3b3JsZC47ICBjaXRhdGlvbl9hdXRob3JzPVJvZ2VycyAgREo7IFJhbmRvbHBoICBTRTsgIGNpdGF0aW9uX2pvdXJuYWxfdGl0bGU9U2NpZW5jZS47ICBjaXRhdGlvbl95ZWFyPTIwMDA7ICBjaXRhdGlvbl92b2x1bWU9Mjg5OyAgY2l0YXRpb25fcGFnZXM9MTc2My0xNzY2LjsgIiAvPjxtZXRhIG5hbWU9ImNpdGF0aW9uX3JlZmVyZW5jZSIgY29udGVudD0iY2l0YXRpb25fdGl0bGU9UG90ZW50aWFsIGVmZmVjdCBvZiBjbGltYXRlIGNoYW5nZSBvbiBtYWxhcmlhIHRyYW5zbWlzc2lvbiBpbiBBZnJpY2EuOyAgY2l0YXRpb25fYXV0aG9ycz1UYW5zZXIgIEZDOyBTaGFycCAgQjsgbGUgU3VldXIgIEQ7ICBjaXRhdGlvbl9qb3VybmFsX3RpdGxlPUxhbmNldC47ICBjaXRhdGlvbl95ZWFyPTIwMDM7ICBjaXRhdGlvbl92b2x1bWU9MzYyOyAgY2l0YXRpb25fcGFnZXM9MTc5Mi0xNzk4LjsgIiAvPjxtZXRhIG5hbWU9ImNpdGF0aW9uX3JlZmVyZW5jZSIgY29udGVudD0iY2l0YXRpb25fdGl0bGU9RGVuZ3VlIGZldmVyIGVwaWRlbWljIHBvdGVudGlhbCBhcyBwcm9qZWN0ZWQgYnkgZ2VuZXJhbCBjaXJjdWxhdGlvbiBtb2RlbHMgb2YgZ2xvYmFsIGNsaW1hdGUgY2hhbmdlLjsgIGNpdGF0aW9uX2F1dGhvcnM9UGF0eiAgSkE7IE1hcnRlbnMgIFdKOyBGb2NrcyAgREE7IEpldHRlbiAgVEg7ICBjaXRhdGlvbl9qb3VybmFsX3RpdGxlPUVudmlyb24gSGVhbHRoIFBlcnNwZWN0LjsgIGNpdGF0aW9uX3llYXI9MTk5ODsgIGNpdGF0aW9uX3ZvbHVtZT0xMDY7ICBjaXRhdGlvbl9wYWdlcz0xNDctMTUzLjsgIiAvPjxtZXRhIG5hbWU9ImNpdGF0aW9uX3JlZmVyZW5jZSIgY29udGVudD0iY2l0YXRpb25fdGl0bGU9V2VzdCBOaWxlIHZpcnVzIGFuZCB0aGUgY2xpbWF0ZS47ICBjaXRhdGlvbl9hdXRob3I9RXBzdGVpbiAgUFI7ICBjaXRhdGlvbl9qb3VybmFsX3RpdGxlPUogVXJiYW4gSGVhbHRoLjsgIGNpdGF0aW9uX3llYXI9MjAwMTsgIGNpdGF0aW9uX3ZvbHVtZT03ODsgIGNpdGF0aW9uX3BhZ2VzPTM2Ny0zNzEuOyAiIC8+PG1ldGEgbmFtZT0iY2l0YXRpb25fcmVmZXJlbmNlIiBjb250ZW50PSJjaXRhdGlvbl90aXRsZT1JbXBhY3Qgb2YgY2xpbWF0aWMgY2hhbmdlIG9uIHRoZSBub3J0aGVybiBsYXRpdHVkZSBsaW1pdCBhbmQgcG9wdWxhdGlvbiBkZW5zaXR5IG9mIHRoZSBkaXNlYXNlLXRyYW5zbWl0dGluZyBFdXJvcGVhbiB0aWNrIGl4b2RlcyByaWNpbnVzLjsgIGNpdGF0aW9uX2F1dGhvcnM9TGluZGdyZW4gIEU7IFRhbGxla2xpbnQgIEw7IFBvbGZlbGR0ICBUOyAgY2l0YXRpb25fam91cm5hbF90aXRsZT1FbnZpcm9uIEhlYWx0aCBQZXJzcGVjdC47ICBjaXRhdGlvbl95ZWFyPTIwMDA7ICBjaXRhdGlvbl92b2x1bWU9MTA4OyAgY2l0YXRpb25fcGFnZXM9MTE5LTEyMy47ICIgLz48bWV0YSBuYW1lPSJjaXRhdGlvbl9yZWZlcmVuY2UiIGNvbnRlbnQ9ImNpdGF0aW9uX3RpdGxlPUZyYWdpbGUgdHJhbnNtaXNzaW9uIGN5Y2xlcyBvZiB0aWNrLWJvcm5lIGVuY2VwaGFsaXRpcyB2aXJ1cyBtYXkgYmUgZGlzcnVwdGVkIGJ5IHByZWRpY3RlZCBjbGltYXRlIGNoYW5nZS47ICBjaXRhdGlvbl9hdXRob3JzPVJhbmRvbHBoICBTRTsgUm9nZXJzICBESjsgIGNpdGF0aW9uX2pvdXJuYWxfdGl0bGU9UHJvYyBSIFNvYyBMb25kIEIgQmlvbCBTY2kuOyAgY2l0YXRpb25feWVhcj0yMDAwOyAgY2l0YXRpb25fdm9sdW1lPTI2NzsgIGNpdGF0aW9uX3BhZ2VzPTE3NDEtMTc0NC47ICIgLz48bWV0YSBuYW1lPSJjaXRhdGlvbl9yZWZlcmVuY2UiIGNvbnRlbnQ9ImNpdGF0aW9uX3RpdGxlPVRoZSBlY29sb2d5IG9mIGluZmVjdGlvdXMgZGlzZWFzZTogZWZmZWN0cyBvZiBob3N0IGRpdmVyc2l0eSBhbmQgY29tbXVuaXR5IGNvbXBvc2l0aW9uIG9uIEx5bWUgZGlzZWFzZSByaXNrLjsgIGNpdGF0aW9uX2F1dGhvcnM9TG9HaXVkaWNlICBLOyBPc3RmZWxkICBSUzsgU2NobWlkdCAgS0E7IEtlZXNpbmcgIEY7ICBjaXRhdGlvbl9qb3VybmFsX3RpdGxlPVByb2MgTmF0bCBBY2FkIFNjaSBVIFMgQS47ICBjaXRhdGlvbl95ZWFyPTIwMDM7ICBjaXRhdGlvbl92b2x1bWU9MTAwOyAgY2l0YXRpb25fcGFnZXM9NTY3LTU3MS47ICIgLz48bWV0YSBuYW1lPSJjaXRhdGlvbl9yZWZlcmVuY2UiIGNvbnRlbnQ9ImNpdGF0aW9uX3RpdGxlPVVzaW5nIHJlbW90ZWx5IHNlbnNlZCBkYXRhIHRvIGlkZW50aWZ5IGFyZWFzIGF0IHJpc2sgZm9yIGhhbnRhdmlydXMgcHVsbW9uYXJ5IHN5bmRyb21lLjsgIGNpdGF0aW9uX2F1dGhvcnM9R2xhc3MgIEdFOyBDaGVlayAgSkU7IFBhdHogIEpBOyAgY2l0YXRpb25fam91cm5hbF90aXRsZT1FbWVyZyBJbmZlY3QgRGlzLjsgIGNpdGF0aW9uX3llYXI9MjAwMDsgIGNpdGF0aW9uX3ZvbHVtZT02OyAgY2l0YXRpb25fcGFnZXM9MjM4LTI0Ny47ICIgLz48bWV0YSBuYW1lPSJjaXRhdGlvbl9yZWZlcmVuY2UiIGNvbnRlbnQ9ImNpdGF0aW9uX3RpdGxlPUVwaWRlbWljIGxlcHRvc3Bpcm9zaXMgYXNzb2NpYXRlZCB3aXRoIHB1bG1vbmFyeSBoZW1vcnJoYWdlOiBOaWNhcmFndWEsIDE5OTUuOyAgY2l0YXRpb25fYXV0aG9ycz1UcmV2ZWpvICBSVDsgUmlnYXUtUGVyZXogIEpHOyBBc2hmb3JkICBEQTsgIGNpdGF0aW9uX2pvdXJuYWxfdGl0bGU9SiBJbmZlY3QgRGlzLjsgIGNpdGF0aW9uX3llYXI9MTk5ODsgIGNpdGF0aW9uX3ZvbHVtZT0xNzg7ICBjaXRhdGlvbl9wYWdlcz0xNDU3LTE0NjMuOyAiIC8+PG1ldGEgbmFtZT0iY2l0YXRpb25fcmVmZXJlbmNlIiBjb250ZW50PSJjaXRhdGlvbl90aXRsZT1UaGUgV29ybGQncyBXYXRlcjogMTk5OC0xOTk5LjsgIGNpdGF0aW9uX2F1dGhvcj1HbGVpY2sgIFBIOyAgY2l0YXRpb25fdGV4dD1XYXNoaW5ndG9uLCBEQzogSXNsYW5kIFByZXNzOyAxOTk4LjsgIiAvPjxtZXRhIG5hbWU9ImNpdGF0aW9uX3JlZmVyZW5jZSIgY29udGVudD0iY2l0YXRpb25fdGl0bGU9VGhlIGFzc29jaWF0aW9uIGJldHdlZW4gZXh0cmVtZSBwcmVjaXBpdGF0aW9uIGFuZCB3YXRlcmJvcm5lIGRpc2Vhc2Ugb3V0YnJlYWtzIGluIHRoZSBVbml0ZWQgU3RhdGVzLCAxOTQ4LTE5OTQuOyAgY2l0YXRpb25fYXV0aG9ycz1DdXJyaWVybyAgRkM7IFBhdHogIEpBOyBSb3NlICBKQjsgTGVsZSAgUzsgIGNpdGF0aW9uX2pvdXJuYWxfdGl0bGU9QW0gSiBQdWJsaWMgSGVhbHRoLjsgIGNpdGF0aW9uX3llYXI9MjAwMTsgIGNpdGF0aW9uX3ZvbHVtZT05MTsgIGNpdGF0aW9uX3BhZ2VzPTExOTQtMTE5OS47ICIgLz48bWV0YSBuYW1lPSJjaXRhdGlvbl9yZWZlcmVuY2UiIGNvbnRlbnQ9ImNpdGF0aW9uX3RpdGxlPUVOU08gYW5kIGNob2xlcmE6IGEgbm9uc3RhdGlvbmFyeSBsaW5rIHJlbGF0ZWQgdG8gY2xpbWF0ZSBjaGFuZ2U/OyAgY2l0YXRpb25fYXV0aG9ycz1Sb2RvICBYOyBQYXNjdWFsICBNOyBGdWNocyAgRzsgRmFydXF1ZSAgQVM7ICBjaXRhdGlvbl9qb3VybmFsX3RpdGxlPVByb2MgTmF0bCBBY2FkIFNjaSBVIFMgQS47ICBjaXRhdGlvbl95ZWFyPTIwMDI7ICBjaXRhdGlvbl92b2x1bWU9OTk7ICBjaXRhdGlvbl9wYWdlcz0xMjkwMS0xMjkwNi47ICIgLz48bWV0YSBuYW1lPSJjaXRhdGlvbl9yZWZlcmVuY2UiIGNvbnRlbnQ9ImNpdGF0aW9uX3RpdGxlPUNsaW1hdGUgQ2hhbmdlIDIwMDE6IE1pdGlnYXRpb246IENvbnRyaWJ1dGlvbiBvZiBXb3JraW5nIEdyb3VwIElJSSB0byB0aGUgVGhpcmQgQXNzZXNzbWVudCBSZXBvcnQgb2YgdGhlIEludGVyZ292ZXJubWVudGFsIFBhbmVsIG9uIENsaW1hdGUgQ2hhbmdlLjsgIGNpdGF0aW9uX2F1dGhvcnM9TWV0eiAgQjsgRGF2aWRzb24gIE87IFN3YXJ0ICBSOyBQYW4gIEo7ICBjaXRhdGlvbl90ZXh0PUNhbWJyaWRnZSwgRW5nbGFuZDogQ2FtYnJpZGdlIFVuaXZlcnNpdHkgUHJlc3M7IDIwMDEuOyAiIC8+PG1ldGEgbmFtZT0iY2l0YXRpb25fcGRmX3VybCIgY29udGVudD0iaHR0cDovL2phbWEuamFtYW5ldHdvcmsuY29tL2RhdGEvam91cm5hbHMvamFtYS80OTEwL2pjdDMwMDA3LnBkZiIgLz5kAgYPFgIfAAV9PCEtLSBPcHRpbWl6ZWx5IHNjcmlwdCAtLT4gPHNjcmlwdCBzcmM9Imh0dHBzOi8vY2RuLm9wdGltaXplbHkuY29tL2pzLzI3ODU1MDE4MDYuanMiPjwvc2NyaXB0PiA8IS0tIEVuZCBPcHRpbWl6ZWx5IHNjcmlwdCAtLT5kAgEPFgIfAAWxBDwhLS0gR29vZ2xlIFRhZyBNYW5hZ2VyIC0tPjxub3NjcmlwdD48aWZyYW1lIHNyYz0iLy93d3cuZ29vZ2xldGFnbWFuYWdlci5jb20vbnMuaHRtbD9pZD1HVE0tV05LU05QIiBoZWlnaHQ9IjAiIHdpZHRoPSIwIiBzdHlsZT0iZGlzcGxheTpub25lO3Zpc2liaWxpdHk6aGlkZGVuIj48L2lmcmFtZT48L25vc2NyaXB0PjxzY3JpcHQ+KGZ1bmN0aW9uKHcsZCxzLGwsaSl7d1tsXT13W2xdfHxbXTt3W2xdLnB1c2goeydndG0uc3RhcnQnOiBuZXcgRGF0ZSgpLmdldFRpbWUoKSxldmVudDonZ3RtLmpzJ30pO3ZhciBmPWQuZ2V0RWxlbWVudHNCeVRhZ05hbWUocylbMF0sIGo9ZC5jcmVhdGVFbGVtZW50KHMpLGRsPWwhPSdkYXRhTGF5ZXInPycmbD0nK2w6Jyc7ai5hc3luYz10cnVlO2ouc3JjPScvL3d3dy5nb29nbGV0YWdtYW5hZ2VyLmNvbS9ndG0uanM/aWQ9JytpK2RsO2YucGFyZW50Tm9kZS5pbnNlcnRCZWZvcmUoaixmKTsgfSkod2luZG93LGRvY3VtZW50LCdzY3JpcHQnLCdkYXRhTGF5ZXInLCdHVE0tV05LU05QJyk7PC9zY3JpcHQ+PCEtLSBFbmQgR29vZ2xlIFRhZyBNYW5hZ2VyIC0tPmQCAg9kFggCAg9kFgICAQ9kFg5mDxYCHgtfIUl0ZW1Db3VudAIEFghmD2QWAmYPFgYeCWlubmVyaHRtbAUESG9tZR4EaHJlZgUkaHR0cDovL2phbWFuZXR3b3JrLmNvbS9qb3VybmFscy9qYW1hHgVjbGFzcwUEaG9tZWQCAQ9kFgJmDxYGHwIFCk5ldyBPbmxpbmUfAwUuaHR0cDovL2phbWFuZXR3b3JrLmNvbS9qb3VybmFscy9qYW1hL25ld29ubGluZR8EBQpuZXctb25saW5lZAICD2QWAmYPFgYfAgUNQ3VycmVudCBJc3N1ZR8DBTFodHRwOi8vamFtYW5ldHdvcmsuY29tL2pvdXJuYWxzL2phbWEvY3VycmVudGlzc3VlHwQFDWN1cnJlbnQtaXNzdWVkAgMPZBYCZg8WBh8CBQtGb3IgQXV0aG9ycx8DBTZodHRwOi8vamFtYW5ldHdvcmsuY29tL2pvdXJuYWxzL2phbWEvcGFnZXMvZm9yLWF1dGhvcnMfBAULZm9yLWF1dGhvcnNkAgEPFgIfAgUISm91cm5hbHNkAgIPFgIfAQINFhpmD2QWAmYPFgYfBAUKdGhlbWUtamFtYR8CBQRKQU1BHwMFJGh0dHA6Ly9qYW1hbmV0d29yay5jb20vam91cm5hbHMvamFtYWQCAQ9kFgJmDxYGHwQFFXRoZW1lLWphbWEtY2FyZGlvbG9neR8CBQ9KQU1BIENhcmRpb2xvZ3kfAwUuaHR0cDovL2phbWFuZXR3b3JrLmNvbS9qb3VybmFscy9qYW1hY2FyZGlvbG9neWQCAg9kFgJmDxYGHwQFFnRoZW1lLWphbWEtZGVybWF0b2xvZ3kfAgUQSkFNQSBEZXJtYXRvbG9neR8DBS9odHRwOi8vamFtYW5ldHdvcmsuY29tL2pvdXJuYWxzL2phbWFkZXJtYXRvbG9neWQCAw9kFgJmDxYGHwQFIXRoZW1lLWphbWEtZmFjaWFsLXBsYXN0aWMtc3VyZ2VyeR8CBRtKQU1BIEZhY2lhbCBQbGFzdGljIFN1cmdlcnkfAwU4aHR0cDovL2phbWFuZXR3b3JrLmNvbS9qb3VybmFscy9qYW1hZmFjaWFscGxhc3RpY3N1cmdlcnlkAgQPZBYCZg8WBh8EBRx0aGVtZS1qYW1hLWludGVybmFsLW1lZGljaW5lHwIFFkpBTUEgSW50ZXJuYWwgTWVkaWNpbmUfAwU0aHR0cDovL2phbWFuZXR3b3JrLmNvbS9qb3VybmFscy9qYW1haW50ZXJuYWxtZWRpY2luZWQCBQ9kFgJmDxYGHwQFFHRoZW1lLWphbWEtbmV1cm9sb2d5HwIFDkpBTUEgTmV1cm9sb2d5HwMFLWh0dHA6Ly9qYW1hbmV0d29yay5jb20vam91cm5hbHMvamFtYW5ldXJvbG9neWQCBg9kFgJmDxYGHwQFE3RoZW1lLWphbWEtb25jb2xvZ3kfAgUNSkFNQSBPbmNvbG9neR8DBSxodHRwOi8vamFtYW5ldHdvcmsuY29tL2pvdXJuYWxzL2phbWFvbmNvbG9neWQCBw9kFgJmDxYGHwQFGHRoZW1lLWphbWEtb3BodGhhbG1vbG9neR8CBRJKQU1BIE9waHRoYWxtb2xvZ3kfAwUxaHR0cDovL2phbWFuZXR3b3JrLmNvbS9qb3VybmFscy9qYW1hb3BodGhhbG1vbG9neWQCCA9kFgJmDxYGHwQFK3RoZW1lLWphbWEtb3RvbGFyeW5nb2xvZ3ktaGVhZC1uZWNrLXN1cmdlcnkfAgUtSkFNQSBPdG9sYXJ5bmdvbG9neeKAk0hlYWQgJmFtcDsgTmVjayBTdXJnZXJ5HwMFMmh0dHA6Ly9qYW1hbmV0d29yay5jb20vam91cm5hbHMvamFtYW90b2xhcnluZ29sb2d5ZAIJD2QWAmYPFgYfBAUVdGhlbWUtamFtYS1wZWRpYXRyaWNzHwIFD0pBTUEgUGVkaWF0cmljcx8DBS5odHRwOi8vamFtYW5ldHdvcmsuY29tL2pvdXJuYWxzL2phbWFwZWRpYXRyaWNzZAIKD2QWAmYPFgYfBAUVdGhlbWUtamFtYS1wc3ljaGlhdHJ5HwIFD0pBTUEgUHN5Y2hpYXRyeR8DBS5odHRwOi8vamFtYW5ldHdvcmsuY29tL2pvdXJuYWxzL2phbWFwc3ljaGlhdHJ5ZAILD2QWAmYPFgYfBAUSdGhlbWUtamFtYS1zdXJnZXJ5HwIFDEpBTUEgU3VyZ2VyeR8DBStodHRwOi8vamFtYW5ldHdvcmsuY29tL2pvdXJuYWxzL2phbWFzdXJnZXJ5ZAIMD2QWAmYPFgYfBAUxdGhlbWUtYXJjaGl2ZXMtb2YtbmV1cm9sb2d5LXBzeWNoaWF0cnktMTkxOS0xOTU5LR8CBTJBcmNoaXZlcyBvZiBOZXVyb2xvZ3kgJmFtcDsgUHN5Y2hpYXRyeSAoMTkxOS0xOTU5KR8DBSxodHRwOi8vamFtYW5ldHdvcmsuY29tL2pvdXJuYWxzL2FyY2huZXVycHN5Y2QCAw8WAh8BAgYWDGYPZBYCZg8WBh8EBRJpcy1iIGxpbmstbGVhcm5pbmcfAgUITGVhcm5pbmcfAwUfaHR0cDovL2phbWFuZXR3b3JrLmNvbS9sZWFybmluZ2QCAQ9kFgJmDxYIHwQFD2lzLWIgbGluay1zdG9yZR4GdGFyZ2V0BQZfYmxhbmsfAgUFU3RvcmUfAwUcaHR0cDovL3N0b3JlLmphbWFuZXR3b3JrLmNvbWQCAg9kFgJmDxYGHwQFDmlzLWIgbGluay1hcHBzHwIFBEFwcHMfAwUiaHR0cDovL2phbWFuZXR3b3JrLmNvbS9wYWdlcy9hcHBzL2QCAw9kFgJmDxYIHwQFDmlzLWIgbGluay1qb2JzHwUFBl9ibGFuax8CBQRKb2JzHwMFIGh0dHA6Ly93d3cuamFtYWNhcmVlcmNlbnRlci5jb20vZAIED2QWAmYPFgYfBAUhaXMtYiBsaW5rLWluc3RpdHV0aW9ucy1saWJyYXJpYW5zHwIFGUluc3RpdHV0aW9ucyAvIExpYnJhcmlhbnMfAwU4aHR0cDovL2phbWFuZXR3b3JrLmNvbS9wYWdlcy9pbnN0aXR1dGlvbnMtYW5kLWxpYnJhcmlhbnNkAgUPZBYCZg8WBh8EBR5pcy1iIGxpbmstcmVwcmludHMtcGVybWlzc2lvbnMfAgUaUmVwcmludHMgJmFtcDsgUGVybWlzc2lvbnMfAwU1aHR0cDovL2phbWFuZXR3b3JrLmNvbS9wYWdlcy9yZXByaW50cy1hbmQtcGVybWlzc2lvbnNkAg8PFgIfAgUhPHNwYW4gY2xhc3M9J25ldHdvcmsnPkpBTUE8L3NwYW4+ZAIQD2QWAmYPZBYKAgUPZBYEAgEPFgIfAwVzaHR0cDovL2phbWFuZXR3b3JrLmNvbS9vYXV0aHNpZ25pbj9yZXR1cm5fdXJsPWh0dHAlM2ElMmYlMmZqYW1hbmV0d29yay5jb20lMmZqb3VybmFscyUyZmphbWElMmZmdWxsYXJ0aWNsZSUyZjE5NzkxMWQCAg8WAh8DBbMBaHR0cHM6Ly9sb2dpbi5hbWEtYXNzbi5vcmcvYWNjb3VudC9zaWdudXA/YXBwSWQ9c2N3ZWImcmV0dXJudXJsPWh0dHA6Ly9qYW1hbmV0d29yay5jb20vb2F1dGhzaWduaW4/cmV0dXJuX3VybD1odHRwJTNhJTJmJTJmamFtYW5ldHdvcmsuY29tJTJmam91cm5hbHMlMmZqYW1hJTJmZnVsbGFydGljbGUlMmYxOTc5MTFkAgsPZBYEZg8PFgIeB1Zpc2libGVnZGQCAQ8PFgIfAAUdU3Vic2NyaWJlIHRvIHRoZSBKQU1BIGpvdXJuYWxkZAINDxYCHwZoZAIPDxYCHwZoZAIRDxYCHwZoFgJmDxYCHwMFeWh0dHA6Ly9qYW1hbmV0d29yay5jb20vb2F1dGhzaWdub3V0P3JldHVybl91cmw9aHR0cCUzYSUyZiUyZmphbWFuZXR3b3JrLmNvbSUyZmpvdXJuYWxzJTJmamFtYSUyZmFydGljbGUtYWJzdHJhY3QlMmYxOTc5MTFkAhEPEGQPFg9mAgECAgIDAgQCBQIGAgcCCAIJAgoCCwIMAg0CDhYPEAUISm91cm5hbHMFAkoqZxAFCExlYXJuaW5nBQJMKmcQBQRKQU1BBQNKNjdnEAUPSkFNQSBDYXJkaW9sb2d5BQRKMTg0ZxAFEEpBTUEgRGVybWF0b2xvZ3kFA0o2OGcQBRtKQU1BIEZhY2lhbCBQbGFzdGljIFN1cmdlcnkFA0o2OWcQBRZKQU1BIEludGVybmFsIE1lZGljaW5lBQNKNzFnEAUOSkFNQSBOZXVyb2xvZ3kFA0o3MmcQBQ1KQU1BIE9uY29sb2d5BQRKMTc0ZxAFEkpBTUEgT3BodGhhbG1vbG9neQUDSjczZxAFKUpBTUEgT3RvbGFyeW5nb2xvZ3nigJNIZWFkICYgTmVjayBTdXJnZXJ5BQNKNzRnEAUPSkFNQSBQZWRpYXRyaWNzBQNKNzVnEAUPSkFNQSBQc3ljaGlhdHJ5BQNKNzBnEAUMSkFNQSBTdXJnZXJ5BQNKNzZnEAUiQXJjaGl2ZXMgb2YgTmV1cm9sb2d5ICYgUHN5Y2hpYXRyeQUDSjkxZ2RkAgMPZBYCZg9kFgQCAw9kFgICAQ8WAh8DBXNodHRwOi8vamFtYW5ldHdvcmsuY29tL29hdXRoc2lnbmluP3JldHVybl91cmw9aHR0cCUzYSUyZiUyZmphbWFuZXR3b3JrLmNvbSUyZmpvdXJuYWxzJTJmamFtYSUyZmZ1bGxhcnRpY2xlJTJmMTk3OTExZAIHD2QWAgIBDxYCHwMFswFodHRwczovL2xvZ2luLmFtYS1hc3NuLm9yZy9hY2NvdW50L3NpZ251cD9hcHBJZD1zY3dlYiZyZXR1cm51cmw9aHR0cDovL2phbWFuZXR3b3JrLmNvbS9vYXV0aHNpZ25pbj9yZXR1cm5fdXJsPWh0dHAlM2ElMmYlMmZqYW1hbmV0d29yay5jb20lMmZqb3VybmFscyUyZmphbWElMmZmdWxsYXJ0aWNsZSUyZjE5NzkxMWQCBQ9kFgJmD2QWCAIBDxYCHwIFJFNpZ24gaW4gdG8gYWNjZXNzIHlvdXIgc3Vic2NyaXB0aW9uc2QCAw9kFgICAQ8WAh8DBXNodHRwOi8vamFtYW5ldHdvcmsuY29tL29hdXRoc2lnbmluP3JldHVybl91cmw9aHR0cCUzYSUyZiUyZmphbWFuZXR3b3JrLmNvbSUyZmpvdXJuYWxzJTJmamFtYSUyZmZ1bGxhcnRpY2xlJTJmMTk3OTExZAIFDxYCHwZoZAIHD2QWBAIBDxYCHwMFswFodHRwczovL2xvZ2luLmFtYS1hc3NuLm9yZy9hY2NvdW50L3NpZ251cD9hcHBJZD1zY3dlYiZyZXR1cm51cmw9aHR0cDovL2phbWFuZXR3b3JrLmNvbS9vYXV0aHNpZ25pbj9yZXR1cm5fdXJsPWh0dHAlM2ElMmYlMmZqYW1hbmV0d29yay5jb20lMmZqb3VybmFscyUyZmphbWElMmZmdWxsYXJ0aWNsZSUyZjE5NzkxMWQCAw8WAh8CBTp0byBhY2Nlc3MgeW91ciBzdWJzY3JpcHRpb25zLCBzaWduIHVwIGZvciBhbGVydHMsIGFuZCBtb3JlZAIHD2QWAmYPZBYEAgMPZBYCAgEPFgIfAwVzaHR0cDovL2phbWFuZXR3b3JrLmNvbS9vYXV0aHNpZ25pbj9yZXR1cm5fdXJsPWh0dHAlM2ElMmYlMmZqYW1hbmV0d29yay5jb20lMmZqb3VybmFscyUyZmphbWElMmZmdWxsYXJ0aWNsZSUyZjE5NzkxMWQCBw9kFgICAQ8WAh8DBbMBaHR0cHM6Ly9sb2dpbi5hbWEtYXNzbi5vcmcvYWNjb3VudC9zaWdudXA/YXBwSWQ9c2N3ZWImcmV0dXJudXJsPWh0dHA6Ly9qYW1hbmV0d29yay5jb20vb2F1dGhzaWduaW4/cmV0dXJuX3VybD1odHRwJTNhJTJmJTJmamFtYW5ldHdvcmsuY29tJTJmam91cm5hbHMlMmZqYW1hJTJmZnVsbGFydGljbGUlMmYxOTc5MTFkZK8QYsJzHSETMt9E5mE2+zYBrzD4" />
+</div>
+
+<script type="text/javascript">
+//<![CDATA[
+var theForm = document.forms['webform'];
+if (!theForm) {
+    theForm = document.webform;
+}
+function __doPostBack(eventTarget, eventArgument) {
+    if (!theForm.onsubmit || (theForm.onsubmit() != false)) {
+        theForm.__EVENTTARGET.value = eventTarget;
+        theForm.__EVENTARGUMENT.value = eventArgument;
+        theForm.submit();
+    }
+}
+//]]>
+</script>
+
+
+
+<script src="/WebResource.axd?d=rUrVk3y4W--u-NvW9ko7yKS83OK9kKrf5HFrFmLEyJs8j7JctvNQTguGr5f2zMzXMHHMQoW1xoOfFbDUC4-ufY7Rswc9vv5eN98KVLTfAk6dngu8PEYexnX465jes5zeQ5Iq58WBVZOXuLjDxXKU4T7HVVs1&amp;t=636292265605259889" type="text/javascript"></script>
+<div class="aspNetHidden">
+
+	<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="2FAFABAE" />
+	<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEdAB8Vv8SpefuClrSgm+Jqz9z9NS2zm+OxjCYYjvQ36mGgUkTBGkQQ1gEOuoEWbQhhTxdziuZNSHsD6vBL6Rd2v9PAii5nSjjEdpbh75Mf1Zbotxo1aCadrWnldcWJdnH7jpvqUjRABcdJpNqnb+6Wjbj2epwK6sK+gfOHf+fMzD3UHEDPXlv01hCy7yMkQxs8EdOz9Zc1UvOpkfrAQeKirNRMAL/SA2yFNeAnjiC/zoV/3nkYIm0ebIXLaoL937Q93xiRlaUoyyJ7h4LSmYuqhet6+cTjWql/ucxgPjYSENc/NFjm6lyMS2iE8Txm4hG4Wfp9G/C7cDdZeatj8CEyZr9gyfJV4LoVotajwWTN94sB9oXjib2QcjsBnjXQiLRRc+WC1ZePFAgLl0ZZV+TS7y8w3UP6LuqpdfI9MLZJg03K0wvAIo4zUrTvKmVQERgE5Up5hs9/KA43wUNQUKdM2G67s04zHL1GcuLTKAJvbZB2pBym4GowGnEntf3Sl2Q6CA79Vjo8hzoYSSFDnUJqShgNIRrqggQA7Z9Xmy6vOZYge0fs+UvEOY1O1+RV7AaBECJ7gPGQrVmIPB62W+mnoBcDxnzezZDkqvoaFbGClYfcJTvKSE6eWQ3jBLrogjo9F65mNmqZvVn/1uhjSr4zG6uKjXzqBj3HmVvBpcvIrlDK62lOwrQ=" />
+</div>
+        
+        <input id="hdnSiteID" type="hidden" value="3" />
+
+
+        
+        
+
+
+        
+        
+    
+    <script>
+        
+        var App = App || {};
+        App.suppressAds = !!document.getElementsByClassName('suppress-ads').length;
+    </script>
+
+
+    <section class="master-header">
+        
+<nav id="nav" class="nav">
+    <div class="nav-journal-level">
+        <a href="http://jamanetwork.com/journals/jama" id="BodyContent_Header_rptMicrositeHeaders_aItemResourceList_0" class="home">Home</a><a href="http://jamanetwork.com/journals/jama/newonline" id="BodyContent_Header_rptMicrositeHeaders_aItemResourceList_1" class="new-online">New Online</a><a href="http://jamanetwork.com/journals/jama/currentissue" id="BodyContent_Header_rptMicrositeHeaders_aItemResourceList_2" class="current-issue">Current Issue</a><a href="http://jamanetwork.com/journals/jama/pages/for-authors" id="BodyContent_Header_rptMicrositeHeaders_aItemResourceList_3" class="for-authors">For Authors</a>
+    </div>
+    <div class="nav-journals">
+        <h2 id="BodyContent_Header_JournalHeader" class="nav-heading">Journals</h2>
+       <a href="http://jamanetwork.com/journals/jama" id="BodyContent_Header_rptJournals_aItemResourceList_0" class="theme-jama">JAMA</a><a href="http://jamanetwork.com/journals/jamacardiology" id="BodyContent_Header_rptJournals_aItemResourceList_1" class="theme-jama-cardiology">JAMA Cardiology</a><a href="http://jamanetwork.com/journals/jamadermatology" id="BodyContent_Header_rptJournals_aItemResourceList_2" class="theme-jama-dermatology">JAMA Dermatology</a><a href="http://jamanetwork.com/journals/jamafacialplasticsurgery" id="BodyContent_Header_rptJournals_aItemResourceList_3" class="theme-jama-facial-plastic-surgery">JAMA Facial Plastic Surgery</a><a href="http://jamanetwork.com/journals/jamainternalmedicine" id="BodyContent_Header_rptJournals_aItemResourceList_4" class="theme-jama-internal-medicine">JAMA Internal Medicine</a><a href="http://jamanetwork.com/journals/jamaneurology" id="BodyContent_Header_rptJournals_aItemResourceList_5" class="theme-jama-neurology">JAMA Neurology</a><a href="http://jamanetwork.com/journals/jamaoncology" id="BodyContent_Header_rptJournals_aItemResourceList_6" class="theme-jama-oncology">JAMA Oncology</a><a href="http://jamanetwork.com/journals/jamaophthalmology" id="BodyContent_Header_rptJournals_aItemResourceList_7" class="theme-jama-ophthalmology">JAMA Ophthalmology</a><a href="http://jamanetwork.com/journals/jamaotolaryngology" id="BodyContent_Header_rptJournals_aItemResourceList_8" class="theme-jama-otolaryngology-head-neck-surgery">JAMA Otolaryngology–Head &amp; Neck Surgery</a><a href="http://jamanetwork.com/journals/jamapediatrics" id="BodyContent_Header_rptJournals_aItemResourceList_9" class="theme-jama-pediatrics">JAMA Pediatrics</a><a href="http://jamanetwork.com/journals/jamapsychiatry" id="BodyContent_Header_rptJournals_aItemResourceList_10" class="theme-jama-psychiatry">JAMA Psychiatry</a><a href="http://jamanetwork.com/journals/jamasurgery" id="BodyContent_Header_rptJournals_aItemResourceList_11" class="theme-jama-surgery">JAMA Surgery</a><a href="http://jamanetwork.com/journals/archneurpsyc" id="BodyContent_Header_rptJournals_aItemResourceList_12" class="theme-archives-of-neurology-psychiatry-1919-1959-">Archives of Neurology &amp; Psychiatry (1919-1959)</a>
+    </div>
+    <div class="nav-network-other">
+        <a href="http://jamanetwork.com/learning" id="BodyContent_Header_rptOtherResources_aItemResourceList_0" class="is-b link-learning">Learning</a><a href="http://store.jamanetwork.com" id="BodyContent_Header_rptOtherResources_aItemResourceList_1" class="is-b link-store" target="_blank">Store</a><a href="http://jamanetwork.com/pages/apps/" id="BodyContent_Header_rptOtherResources_aItemResourceList_2" class="is-b link-apps">Apps</a><a href="http://www.jamacareercenter.com/" id="BodyContent_Header_rptOtherResources_aItemResourceList_3" class="is-b link-jobs" target="_blank">Jobs</a><a href="http://jamanetwork.com/pages/institutions-and-librarians" id="BodyContent_Header_rptOtherResources_aItemResourceList_4" class="is-b link-institutions-librarians">Institutions / Librarians</a><a href="http://jamanetwork.com/pages/reprints-and-permissions" id="BodyContent_Header_rptOtherResources_aItemResourceList_5" class="is-b link-reprints-permissions">Reprints &amp; Permissions</a>
+    </div>
+    <div class="white text-xxs">
+        <div class="p05 ml4 mr3 mb1 mt10 flex hamburger-menu-legal">
+            <a href="/pages/conditions-of-use" class="p0">Terms of Use</a>
+            <span class="pl1 pr1"> | </span>
+            <a href="/pages/privacy-policy" class="p0">Privacy Policy</a>
+            <span class="pl1 pr1"> | </span>
+            <a href="/pages/accessibility-statement" class="p0">Accessibility Statement</a>
+        </div>
+        <div class="ta-c">
+            <span class="pb1">2016 American Medical Association. All Rights Reserved</span>
+        </div>
+    </div>
+</nav>
+
+<script type='text/javascript'>
+    var App = App || {};
+    App.LoginUserInfo = {
+        isInstLoggedIn: [0],
+        currentSessionId: 'dmdsmumkc2vlenecgsrcorms'
+    };
+</script>
+
+
+
+<input name="ctl00$ctl00$BodyContent$Header$hfGlobalSearchSiteURL" type="hidden" id="hfGlobalSearchSiteURL" value="http://jamanetwork.com/" />
+
+<input name="ctl00$ctl00$BodyContent$Header$hfAppIsPaidUser" type="hidden" id="hfAppIsPaidUser" value="false" />
+<input name="ctl00$ctl00$BodyContent$Header$hfAppIsMember" type="hidden" id="hfAppIsMember" value="false" />
+<input name="ctl00$ctl00$BodyContent$Header$hfAppSubscribedTo" type="hidden" id="hfAppSubscribedTo" />
+<input name="ctl00$ctl00$BodyContent$Header$hfAppIsIndividual" type="hidden" id="hfAppIsIndividual" value="false" />
+<input name="ctl00$ctl00$BodyContent$Header$hfAppHasAccess" type="hidden" id="hfAppHasAccess" value="false" />
+<input name="ctl00$ctl00$BodyContent$Header$hfAppIsReferredFromGoogle" type="hidden" id="hfAppIsReferredFromGoogle" value="False" />
+<input name="ctl00$ctl00$BodyContent$Header$hfSolrAutoSuggestMinimumCharactersLength" type="hidden" id="hfSolrAutoSuggestMinimumCharactersLength" value="2" />
+<input name="ctl00$ctl00$BodyContent$Header$hfSolrJournalName" type="hidden" id="hfSolrJournalName" value="JAMA" />
+<input name="ctl00$ctl00$BodyContent$Header$hfSolrJournalID" type="hidden" id="hfSolrJournalID" value="J67" />
+
+
+<div class="header-wrap">
+    <header class="header">
+        <div class="network-bar">
+            <a class="jama-network" href="/" title="JAMA Network Home"><img alt="JAMA Network Home" class="title-image" src="/UI/app/svg/Jama_Network_Logo.svg"> </a>
+            
+        </div>
+
+        <a class="nav-toggler" href="#nav">
+            <div class="nav-toggler-indicator">
+              <span class="indicator-stroke"></span>
+              <span class="indicator-stroke"></span>
+              <span class="indicator-stroke"></span>
+              <span class="indicator-stroke"></span>
+            </div>
+            <div class="nav-toggler-site" >
+                <span id="BodyContent_Header_siteFullNamenav" class="nav-toggler-microsite"><span class='network'>JAMA</span></span>
+            </div>
+        </a>
+
+
+        
+        <div id="BodyContent_Header_GlobalSignIn_auth" class="auth">
+            <a class="auth--trigger is-b is-a">
+                <span id="BodyContent_Header_GlobalSignIn_spnUserFullName" class="user-full-name">Sign In</span>
+            </a>
+
+            <div class="auth--dropdown">
+                
+                <div class="auth--option auth--ind">
+                    
+                    <div id="BodyContent_Header_GlobalSignIn_divUserFullName" class="auth--ind-user"></div>                    
+                    
+                    <div id="BodyContent_Header_GlobalSignIn_divIndSignIn" class="auth--ind-auth">
+                        <div class="auth--title">Individual Sign In</div>
+                        <a href="http://jamanetwork.com/oauthsignin?return_url=http%3a%2f%2fjamanetwork.com%2fjournals%2fjama%2ffullarticle%2f197911" id="BodyContent_Header_GlobalSignIn_oauthSignInLink" rel="nofollow" class="auth--ind-sign-in">Sign in</a><a href="https://login.ama-assn.org/account/signup?appId=scweb&returnurl=http://jamanetwork.com/oauthsignin?return_url=http%3a%2f%2fjamanetwork.com%2fjournals%2fjama%2ffullarticle%2f197911" id="BodyContent_Header_GlobalSignIn_oauthSignUpLink" rel="nofollow" class="auth--ind-create">Create an Account</a>
+                    </div>
+                </div>
+
+                
+                <div id="BodyContent_Header_GlobalSignIn_divInstSignIn" class="auth--option auth--inst">
+
+                    
+                    <div class="auth--inst-auth">
+                        <div class="auth--title">Institutional Sign In</div>
+                        <a id="BodyContent_Header_GlobalSignIn_openAthensSignIn_btnAthensLogin" class="auth--athens" rel="nofollow" href="javascript:__doPostBack(&#39;ctl00$ctl00$BodyContent$Header$GlobalSignIn$openAthensSignIn$btnAthensLogin&#39;,&#39;&#39;)">OpenAthens</a>
+                        <a rel="nofollow" class="auth--shib" href="/signinshibboleth">Shibboleth</a>
+                    </div>
+                </div>
+ 
+                                               
+                
+
+                
+                <div id="BodyContent_Header_GlobalSignIn_divPurchaseOptions" class="auth--option auth--purchase thm-bg">
+                    <div class="auth--title">Purchase Options:</div>
+                    <a id="BodyContent_Header_GlobalSignIn_btnBuyArticle" class="auth--buy" href="javascript:__doPostBack(&#39;ctl00$ctl00$BodyContent$Header$GlobalSignIn$btnBuyArticle&#39;,&#39;&#39;)">Buy this article</a>
+                        <div class="widget-ToolboxPermissions widget-instance-">
+            <a href="http://s100.copyright.com/AppDispatchServlet?publisherName=AMA&amp;publication=0098-7484&amp;title=Health+Effects+of+Climate+Change&amp;publicationDate=2004-01-07&amp;volumeNum=291&amp;issueNum=1&amp;author=Haines%2c+Andy%3b+Patz%2c+Jonathan+A.&amp;startPage=99&amp;endPage=103&amp;contentId=10.1001%2fjama.291.1.99&amp;oa=&amp;orderBeanReset=True&amp;rentalOnly=yes" rel="nofollow" id="GlobalSignIn_btnRentArticle" class="auth--shib" target="_blank">Rent this article</a>
+ 
+    </div>
+<a id="BodyContent_Header_GlobalSignIn_btnSubscribeJournal" class="auth--subscribe" href="javascript:__doPostBack(&#39;ctl00$ctl00$BodyContent$Header$GlobalSignIn$btnSubscribeJournal&#39;,&#39;&#39;)">Subscribe to the JAMA journal</a>
+                </div>
+
+                
+                
+
+                
+                
+                
+            </div>
+        </div>
+
+
+
+
+
+        
+        <a class="toolbar-search-trigger is-b" data-mobile-tog-target=".site-search"></a>
+
+        
+        <div id="site-search" class="site-search">
+            <div class="site-search-bar">
+                
+                <select name="ctl00$ctl00$BodyContent$Header$ddlForSearch" id="BodyContent_Header_ddlForSearch" class="cs-select cs-skin-border" title="Search Site Selector">
+	<option value="J*">Journals</option>
+	<option value="L*">Learning</option>
+	<option value="J67">JAMA</option>
+	<option value="J184">JAMA Cardiology</option>
+	<option value="J68">JAMA Dermatology</option>
+	<option value="J69">JAMA Facial Plastic Surgery</option>
+	<option value="J71">JAMA Internal Medicine</option>
+	<option value="J72">JAMA Neurology</option>
+	<option value="J174">JAMA Oncology</option>
+	<option value="J73">JAMA Ophthalmology</option>
+	<option value="J74">JAMA Otolaryngology–Head &amp; Neck Surgery</option>
+	<option value="J75">JAMA Pediatrics</option>
+	<option value="J70">JAMA Psychiatry</option>
+	<option value="J76">JAMA Surgery</option>
+	<option value="J91">Archives of Neurology &amp; Psychiatry</option>
+
+</select>
+
+                
+                <div class="search-input-container">
+                    
+                    <input id="search-term" class="search-term" type="text" placeholder="Enter Search Term" maxlength="255" title="Enter Search Term">
+                    
+                    
+                    <input class="searchTerm" type="text" id="umbrellaSiteSearchInputHint" autocomplete="off" class="search-input">
+                    
+                    <ul id ="umbrellaSiteAutoCompleteResults" class="term-list hidden"></ul>
+                 
+
+                </div><!-- /.search-input-container -->
+                
+                <a class="search-button is-b"></a>
+            </div>
+        </div>
+    </header>
+</div>
+
+
+
+
+
+<div class="editors-choice-header">
+</div>
+
+
+
+
+
+<div class="leader-ad desktop-only">
+    
+        <div class="widget-WidgetLoader widget-instance-AMA_AdTag_LeaderboardAd">
+        
+    <div class="SCM-SharedWidgets-AsyncAdLoader" data-url="/AMA/AdTag/AMA_AdTag_LeaderboardAd" data-params="{&quot;parameters&quot;:{&quot;siteName&quot;:&quot;jama&quot;,&quot;adDisplay&quot;:1,&quot;adSection&quot;:&quot;abstract&quot;,&quot;adPosition&quot;:&quot;atf&quot;,&quot;fromGoogle&quot;:false},&quot;dynamicParameters&quot;:{&quot;localParams&quot;:&quot;[REPLACE_WITH_LOCAL]&quot;}}"></div>
+ 
+    </div>
+
+</div>
+
+
+    </section>
+
+
+    <section class="master-main">
+        <a id="skip-to-content" class="hide">[Skip to Content Landing]</a>
+        
+    <span class="hide tagmanagervalue" data-attribute="articleTemplate" data-value="abstract" data-type="string"></span>
+    <div itemscope itemtype='http://schema.org/Article'>
+    <meta itemprop='inLanguage' content='en-US' />
+    <meta itemprop='name headline' content='Health Effects of Climate Change' />
+    <meta itemprop='description' content='Humans are now making unprecedented changes to the global environment. Economic development has been fostered by the use of fossil fuels but the accompanying accumulation of greenhouse gases, particularly carbon dioxide and methane, has implications for the world&#39;s climate ( Box ). 1 Since the 1850s when temperature records began,...' />
+    <meta itemprop='author' content='Andy Haines, MD, MBBS' />
+    <meta itemprop='url' content='http://jamanetwork.com/journals/jama/fullarticle/197911' />
+    <meta itemprop='datePublished' datetime='2004-01-07' content='2004-01-07' />
+        <meta itemprop='image' content='http://jamanetwork.com/data/Journals/JAMA/4910/jct30007f1.gif' />
+        <meta itemprop='image' content='http://jamanetwork.com/data/Journals/JAMA/4910/jct30007t1.png' />
+            <meta itemprop='articleSection' content='Box. Projected Changes During the 21st Century in Extreme Climate Phenomena and Their Likelihood*' />
+        <meta itemprop='articleSection' content='Thermal Stress' />
+        <meta itemprop='articleSection' content='Floods and Droughts' />
+        <meta itemprop='articleSection' content='El Ni&#241;o and Health' />
+        <meta itemprop='articleSection' content='Air Pollution' />
+        <meta itemprop='articleSection' content='Allergens' />
+        <meta itemprop='articleSection' content='Infectious Diseases' />
+        <meta itemprop='articleSection' content='Table. Potential Range of Effects of Climate on Vector-Borne and Rodent-Borne Disease Transmission*' />
+        <meta itemprop='articleSection' content='Dengue Fever and Other Arboviruses' />
+        <meta itemprop='articleSection' content='Leishmaniasis' />
+        <meta itemprop='articleSection' content='Tick-Borne Diseases' />
+        <meta itemprop='articleSection' content='Rodent-Borne Diseases' />
+        <meta itemprop='articleSection' content='Water-Related Diseases' />
+        <meta itemprop='articleSection' content='Malnutrition' />
+        <meta itemprop='articleSection' content='Mitigating Climate Change' />
+        <meta itemprop='articleSection' content='Conclusions' />
+        <meta itemprop='articleSection' content='References' />
+    <meta itemprop='keywords' content='' />
+</div>    <div class="widget-WidgetLoader widget-instance-AMA_AdTag_Interstitial">
+        
+    <div class="SCM-SharedWidgets-AsyncAdLoader" data-url="/AMA/AdTag/AMA_AdTag_Interstitial" data-params="{&quot;parameters&quot;:{&quot;siteName&quot;:&quot;jama&quot;,&quot;adDisplay&quot;:11,&quot;adSection&quot;:&quot;abstract&quot;,&quot;adPosition&quot;:&quot;interstitial&quot;,&quot;fromGoogle&quot;:false},&quot;dynamicParameters&quot;:{&quot;localParams&quot;:&quot;[REPLACE_WITH_LOCAL]&quot;}}"></div>
+ 
+    </div>
+    <div class="widget-UserContentAccessWrite widget-instance-AMA_UserContentAccessWrite_AbstractView">
+        <div class="SCM-SharedWidgets-LocalStorage-UserContentAccessWrite" data-values='{"id":"197911","type":"Article","date":"5/8/2017 6:01:23 PM"}'></div>
+ 
+    </div>
+
+    <div class="ymal--leader hide-small">
+            <div class="widget-WidgetLoader widget-instance-AMA_PersonalizedContent_AbstractView_Leaderboard">
+        <div class="SCM-SharedWidgets-AsyncWidgetLoader" data-url="/Personalization/PersonalizedContent/AMA_PersonalizedContent_AbstractView_Leaderboard" data-params="{&quot;parameters&quot;:{&quot;resourceIdToExclude&quot;:197911,&quot;resourceTypeToExclude&quot;:3},&quot;dynamicParameters&quot;:{&quot;localParams&quot;:&quot;[REPLACE_WITH_LOCAL]&quot;}}"></div>
+ 
+    </div>
+    
+    </div>
+    
+    <div class="content pb0">
+        <a id="top"></a>
+        
+        <div class="article-content">
+            <div class="social-share">
+                <a class="addthis_button_twitter toolbar-twitter toolbar-share is-b" rel="nofollow" data-utm-source="twitter"><span class="share-text">Twitter</span></a>
+                <a class="addthis_button_facebook toolbar-facebook toolbar-share is-b" rel="nofollow" data-utm-source="facebook"><span class="share-text">Facebook</span></a>
+                <a class="addthis_button_email toolbar-email toolbar-share is-b" rel="nofollow"><span class="share-text">Email</span></a>
+                <div class="toolbar-share-more">
+                    <a class="toolbar-google toolbar-share is-b" rel="nofollow" href="https://plus.google.com/share?url=http%3a%2f%2fjamanetwork.com%2fjournals%2fjama%2ffullarticle%2f197911" data-utm-source="googleplus"><span class="share-text"> </span></a>
+                    <a class="addthis_button_linkedin toolbar-linkedin toolbar-share is-b" rel="nofollow" data-utm-source="linkedin"><span class="share-text"> </span></a>
+                </div>
+                <a class="toolbar-share-more-link is-a" rel="nofollow" data-tog-target=".social-share .toolbar-share-more">More</a>
+            </div>
+            
+            
+                <div class="widget-ArticleLinks widget-instance-AMA_ErrataArticleLinks_Abstract">
+         
+    </div>
+    <div class="widget-ArticleLinks widget-instance-AMA_ArticleLinks_ToErrata_Abstract">
+        
+ 
+    </div>
+    <div class="widget-ArticleNavLinks widget-instance-AMA_ArticleNavLinks_Abstract">
+                <a class="toc-link btn" href="http://jamanetwork.com/journals/jama/issue/291/1">This Issue</a>
+ 
+    </div>
+<div id="BodyContent_PageContent_divArticleLevelMetrics" class="article-metrics-wrapper">
+                    <div class="widget-ArticleLevelMetrics widget-instance-AMA_ArticleMetrics">
+        
+
+    <div class="artmet-condensed-wrap clearfix">
+        <div class="artmet-condensed-stats clearfix">
+                            <div class="artmet-item artmet-citations">
+                        <a class="artmet-citations-link" href="http://gateway.webofknowledge.com/gateway/Gateway.cgi?GWVersion=2&amp;SrcApp=PARTNER_APP&amp;SrcAuth=LinksAMR&amp;KeyUT=WOS:000187836000033&amp;DestLinkType=CitingArticles&amp;DestApp=ALL_WOS&amp;UsrCustomerID=61f30d8ae69c46f86624c5f98a3bc13a" target="_blank">
+                            <span class="artmet-text">Citations</span>
+                            <span class="artmet-number">120</span>
+                        </a>
+                </div>
+                    </div>
+
+        <div class="artmet-modal-trigger-wrap">
+            <a class="artmet-modal-trigger" data-article-id="197911"><i class="icon-metrics"></i><span>View Metrics</span></a>
+        </div>
+    </div>
+
+ 
+    </div>
+</div>
+            
+
+            
+            <ul class="toolbar-trigger">
+              <li class="toolbar-pdf-wrap toolbar-tool-wrap">
+                  <a class="toolbar-tool toolbar-pdf is-b" data-trigger=".abstract-toolbar .toolbar-pdf"><span class="toolbar-pdf-text"><span class="toolbar-link-text-extra">Download </span><span class="toolbar-link-text">PDF</span></span></a>
+              </li>
+                <li class="toolbar-full-text-wrap toolbar-tool-wrap">
+                  <a class="toolbar-tool toolbar-full-text is-b" data-url="" data-article-id="197911" data-trigger=".abstract-toolbar .toolbar-full-text">Full Text</a>
+              </li>
+                
+    <li class="toolbar-cme-wrap toolbar-tool-wrap">
+            <a class="toolbar-tool toolbar-cme is-b" data-trigger=".abstract-toolbar .toolbar-cme"></a>
+    </li>
+
+
+
+
+
+
+              <li class="toolbar-share-wrap toolbar-tool-wrap">
+                <div class="toolbar-tool toolbar-share is-b">
+                  <a class="toolbar-share-more-link">Share</a>
+                  <div class="toolbar-share-more">
+                    <a class="toolbar-share toolbar-twitter is-b" rel="nofollow" data-trigger=".social-share .toolbar-twitter"><span class="share-text">Twitter</span></a>
+                    <a class="toolbar-share toolbar-facebook is-b" rel="nofollow" data-trigger=".social-share .toolbar-facebook"><span class="share-text">Facebook</span></a>
+                    <a class="toolbar-share toolbar-email is-b" rel="nofollow" data-trigger=".social-share .toolbar-email"><span class="share-text">Email</span></a>
+                    <a class="toolbar-share toolbar-google is-b" rel="nofollow" data-trigger=".social-share .toolbar-google"><span class="share-text">Google</span></a>
+                    <a class="toolbar-share toolbar-linkedin is-b" rel="nofollow" data-trigger=".social-share .toolbar-linkedin"><span class="share-text">LinkedIn</span></a>
+                  </div>
+                </div>
+              </li>
+              <li class="toolbar-citation-wrap toolbar-tool-wrap">
+                <a class="toolbar-tool toolbar-citation is-b" rel="nofollow" data-trigger=".abstract-toolbar .toolbar-citation"><span class="toolbar-link-text">Cite</span> <span class="toolbar-link-text-extra">This</span></a>
+              </li>
+              <li class="toolbar-permissions-wrap toolbar-tool-wrap">
+                <a class="toolbar-tool toolbar-permissions is-b" rel="nofollow" data-trigger=".abstract-toolbar .toolbar-permissions"><span class="toolbar-link-text">Permissions</span></a> 
+              </li>
+            </ul>
+            
+
+            
+                <div class="widget-ArticleTopInfo widget-instance-AMA_ArticleTop_Info_Widget">
+        
+
+
+
+            <span class="hide tagmanagervalue" data-attribute="articleId" data-value="197911" data-type="string"></span>
+            <span class="hide tagmanagervalue" data-attribute="arrArticleAuthor" data-value="Andy%20Haines%2C%20MD%2C%20MBBS,Jonathan%20A.%20Patz%2C%20MD%2C%20MPH" data-type="array"></span>
+            <span class="hide tagmanagervalue" data-attribute="articleDOI" data-value="10.1001/jama.291.1.99" data-type="string"></span>
+            <span class="hide tagmanagervalue" data-attribute="articleTitle" data-value="Health Effects of Climate Change" data-type="string"></span>
+            <span class="hide tagmanagervalue" data-attribute="articleType" data-value="Contempo Updates" data-type="string"></span>
+            <span class="hide tagmanagervalue" data-attribute="arrArticleSuperClass" data-value="Clinician&#39;s Corner" data-type="array"></span>
+            <span class="hide tagmanagervalue" data-attribute="issueVolume" data-value="291" data-type="string"></span>
+            <span class="hide tagmanagervalue" data-attribute="issueNo" data-value="1" data-type="string"></span>
+            <span class="hide tagmanagervalue" data-attribute="publishDate" data-value="January%207%2C%202004" data-type="string"></span>
+            <span class="hide tagmanagervalue" data-attribute="journalClub" data-value="No" data-type="string"></span>
+            <span class="hide tagmanagervalue" data-attribute="articleStatus" data-value="Locked" data-type="string"></span>
+            <span class="hide tagmanagervalue" data-attribute="articlePubState" data-value="Final" data-type="string"></span>
+
+
+        <div class="meta-article-type-wrap">
+            <div class="meta-article-type thm-col">Contempo Updates </div>
+                <div class="meta-super-class">Clinician's Corner</div>
+        </div>
+        <div class="meta-date">January 7, 2004</div>
+        <div class="meta-article-title-wrap">
+            
+            <h1 class="meta-article-title ">Health Effects of Climate Change</h1>
+
+            
+        </div>
+            <div class="meta-authors">
+                <span class="wi-fullname brand-fg"><a href="/searchresults?author=Andy+Haines&q=Andy+Haines" target="_blank">Andy Haines, MD, MBBS<sup></sup></a></span>; <span class="wi-fullname brand-fg"><a href="/searchresults?author=Jonathan+A.+Patz&q=Jonathan+A.+Patz" target="_blank">Jonathan A. Patz, MD, MPH<sup></sup></a></span>
+            </div>
+            <div class="meta-author">
+                <a class="meta-author-title is-b" data-tog-target=".meta-author-content">Author Affiliations</a>
+
+
+                <div class="meta-author-content">
+                                                                    <div class="meta-author-notes"><p class="para"><strong>Author Affiliations:</strong> London School of Hygiene and Tropical Medicine, London, England (Dr Haines); Department of Environmental Health Sciences, Johns Hopkins Bloomberg School of Public Health, Baltimore, Md (Dr Patz).</p></div>
+                            <div class="meta-author-notes"><a name="authorInformation"> </a><p><strong>Contempo Updates Section Editor:</strong> Sarah Pressman
+Lovinger, MD, Fishbein Fellow.</p></div>
+                </div>
+            </div>
+    <div class="meta-citation-wrap">
+        <span class="meta-citation-journal-name">JAMA. </span><span class="meta-citation"> 2004;291(1):99-103. doi:10.1001/jama.291.1.99</span>
+    </div>
+ 
+    </div>
+    <div class="widget-EditorsChoice widget-instance-AMA_EditorsChoice_Links">
+         
+    </div>
+    <div class="widget-LinkedContentToolbar widget-instance-AMA_LinkedContentToolbar">
+        
+<div class="linked-content-toolbar">
+    
+    <div class="linked-content-controls">
+        <a class="linked-content-trigger td-n" href="#editorial-comment-tab">
+            <i class="icon-document"><span class="sr-t">editorial comment icon</span></i>
+            <div class="trigger-text d-ib va-m ta-l fw-5">Editorial <div>Comment</div></div>
+        </a>
+        <a class="linked-content-trigger td-n" href="#related-articles-tab">
+            <i class="icon-related"><span class="sr-t">related articles icon</span></i>
+            <div class="trigger-text d-ib va-m ta-l fw-5">Related <div>Articles</div></div>
+        </a>
+        <a class="linked-content-trigger td-n" href="#author-interviews-tab">
+            <i class="icon-author_interview"><span class="sr-t">author interview icon</span></i>
+            <div class="trigger-text d-ib va-m ta-l fw-5">Author <div>Interview</div></div>
+        </a>
+        <a class="linked-content-trigger td-n" href="#more-multimedia-tab">
+            <i class="icon-multimedia"><span class="sr-t">multimedia icon</span></i>
+            <div class="trigger-text d-ib va-m ta-l fw-5">Multimedia</div>
+        </a>
+    </div>
+
+    
+    <div class="linked-content-tabs">
+        
+        <div id="editorial-comment-tab"  class="linked-content-tab editorial-comment-tab">
+    <div class="widget-ArticleLinks widget-instance-AMA_LinkedContentToolbar_EditorialComments">
+        
+ 
+    </div>
+
+        </div>
+
+        
+        <div id="related-articles-tab" class="linked-content-tab related-article-tab">
+    <div class="widget-ArticleLinks widget-instance-AMA_LinkedContentToolbar_RelatedArticle">
+        
+ 
+    </div>
+    <div class="widget-ArticleLinks widget-instance-AMA_LinkedContentToolbar_RelatedEditorsChoices">
+        
+ 
+    </div>
+
+        </div>
+
+        
+        <div id="author-interviews-tab" class="linked-content-tab linked-author-interviews-tab">
+
+        </div>
+
+        
+        <div id="more-multimedia-tab" class="linked-content-tab more-multimedia-tab">
+
+        </div>
+    </div>
+</div> 
+    </div>
+
+            
+            
+
+            
+            <a class="full-text-link is-b" data-url="" data-article-id="197911">
+                <div class="full-text-link--text"><span class="full-text-link--text-top">Full </span>Text</div>
+            </a>
+            
+            
+            <div class="abstract-content">
+                
+                    <div class="widget-ArticleFulltext widget-instance-AMA_Article_Abstract_Widget">
+        <div class="article-full-text" data-userHasAccess="False">
+    
+
+
+            <a class="article-section-id-anchor" id="25112642"></a>
+<p class="para">Humans are now making unprecedented changes to the global environment.
+Economic development has been fostered by the use of fossil fuels but the
+accompanying accumulation of greenhouse gases, particularly carbon dioxide
+and methane, has implications for the world's climate (<a href="#note-jct30007-1" class="relatedArticleLink">Box</a>).<sup><a href="#REF-JCT30007-1" class="ref-link section-jump-link" data-tab-toggle=".tab-nav-references">1</a></sup> Since the 1850s when
+temperature records began, the world has warmed by approximately 0.6°C,
+largely in the last 3 decades. The United Nations Intergovernmental Panel
+on Climate Change (IPCC) projects an increase of between 1.8°C and 5.8°C
+and an increase in sea levels between 9 and 88 cm during the next century.<sup><a href="#REF-JCT30007-1" class="ref-link section-jump-link" data-tab-toggle=".tab-nav-references">1</a></sup> Warming is likely to be greater at the poles than
+at the equator. The residence time in the atmosphere of carbon dioxide exceeds
+100 years; therefore, our actions affect the prospects of future generations.</p>            <div class="movable-ad-target bta"> </div>
+
+    
+
+
+</div> 
+    </div>
+    <div class="widget-ArticleLinks widget-instance-AMA_Abstract_EditorialComments">
+        
+ 
+    </div>
+    <div class="widget-FirstPagePreview widget-instance-AMA_FirstPagePreview_Abstract">
+        
+
+<div class="first-page-preview">
+    <div class="first-page-preview--header">
+        <span class="fw-5">First Page Preview</span>
+        <a id="aPreviewLarge" data-reveal-id="divFirstPagePreview" data-reveal class="right text-small">View Large</a>
+    </div>
+    
+    <div id="divThumbnailPreview" class="first-page-preview--thumbnail cur-p">
+        <img src="/data/Journals/JAMA/4910/JCT30007.pdf.gif" alt="First page PDF preview" data-reveal-id="divFirstPagePreview" />
+    </div>
+</div>
+
+
+
+<div id="divFirstPagePreview" class="reveal-modal first-page-preview--modal xlarge ta-c" data-reveal>
+    <img class="mw-100" src="/data/Journals/JAMA/4910/JCT30007.pdf.gif" alt="First page PDF preview"/>
+    <a class="close-reveal-modal icon-close"></a>
+</div>
+
+
+
+<script type="text/javascript">
+    var SCM = SCM || {};
+    SCM.FirstPagePreview = SCM.FirstPagePreview || {};
+    
+    SCM.FirstPagePreview.referredFromGoogle = 'false' === 'true';
+    SCM.FirstPagePreview.fromRedirectSite = 'false' === 'true';
+</script> 
+    </div>
+
+
+                
+                <a class="full-text-link is-b d-b bd-none ta-c fl-n radius mt1 mb1 m-auto" data-url="" data-article-id="197911">
+                    <div class="full-text-link--text fw-b"><span class="full-text-link--text-top">Full </span>Text</div>
+                </a>
+                
+                
+                    <div class="widget-WidgetLoader widget-instance-AMA_AdTag_abstract_bta_dual">
+        
+    <div class="SCM-SharedWidgets-AsyncAdLoader" data-url="/AMA/AdTag/AMA_AdTag_abstract_bta_dual" data-params="{&quot;parameters&quot;:{&quot;siteName&quot;:&quot;jama&quot;,&quot;adDisplay&quot;:6,&quot;adSection&quot;:&quot;abstract&quot;,&quot;adPosition&quot;:&quot;bta&quot;,&quot;fromGoogle&quot;:false},&quot;dynamicParameters&quot;:{&quot;localParams&quot;:&quot;[REPLACE_WITH_LOCAL]&quot;}}"></div>
+ 
+    </div>
+
+                
+            </div>
+            
+            
+                <div class="widget-RelatedTopics widget-instance-AMA_Related_Topics_Abstract">
+        
+ 
+    </div>
+
+        </div>
+
+        
+        <div class="sidebar">
+            <div class="branded-bar"></div>
+
+            <div class="abstract-toolbar">
+                            <a id="pdf-link" class="toolbar-tool toolbar-pdf al-link pdfaccess" data-article-id="197911" data-article-url="/journals/jama/data/journals/jama/4910/jct30007.pdf" data-ajax-url="/Content/CheckPdfAccess"><span class="toolbar-pdf-text"><span class="toolbar-link-text-extra">Download </span><span class="toolbar-link-text">PDF</span></span>
+            </a>
+
+                <a class="toolbar-tool toolbar-full-text is-b" data-url="" data-article-id="197911"><span class="toolbar-link-text-extra">Full</span> Text</a>
+                    <div class="widget-ToolboxGetCitation widget-instance-AMA_Get_Citation_Abstract">
+        <a class="toolbar-tool toolbar-citation is-b" rel="nofollow" data-reveal-id="get-citation" data-reveal><span class="toolbar-link-text">Cite</span> <span class="toolbar-link-text-extra">This</span></a>
+
+<div id="get-citation" class="reveal-modal get-citation" data-reveal>
+    <h3 class="get-citation-title">Citation</h3>
+    <p class="get-citation-citation">Haines A, Patz JA. Health Effects of Climate Change. <em>JAMA.</em> 2004;291(1):99-103. doi:10.1001/jama.291.1.99</p>
+    <h4 class="get-citation-download-heading">Download citation file:</h4>
+    <div class="get-citation-types">
+        <a class="get-citation-format" rel="nofollow" href="http://jamanetwork.com/journals/jama/downloadcitation/197911?format=ris">RIS (Zotero)</a>
+        <a class="get-citation-format" rel="nofollow" href="http://jamanetwork.com/journals/jama/downloadcitation/197911?format=ris">EndNote</a>
+        <a class="get-citation-format" rel="nofollow" href="http://jamanetwork.com/journals/jama/downloadcitation/197911?format=bibtex">BibTex</a>
+        <a class="get-citation-format" rel="nofollow" href="http://jamanetwork.com/journals/jama/downloadcitation/197911?format=txt">Medlars</a>
+        <a class="get-citation-format" rel="nofollow" href="http://jamanetwork.com/journals/jama/downloadcitation/197911?format=ris">ProCite</a>
+        <a class="get-citation-format" rel="nofollow" href="http://jamanetwork.com/journals/jama/downloadcitation/197911?format=txt">RefWorks</a>
+        <a class="get-citation-format" rel="nofollow" href="http://jamanetwork.com/journals/jama/downloadcitation/197911?format=ris">Reference Manager</a>
+        <a class="get-citation-format" rel="nofollow" href="http://jamanetwork.com/journals/jama/downloadcitation/197911?format=mendeley">Mendeley</a>
+    </div>
+
+    <p class="get-citation-copyright">&#169; 2017 </p>
+    <a class="close-reveal-modal icon-close" rel="nofollow"></a>
+</div> 
+    </div>
+    <div class="widget-ToolboxPermissions widget-instance-">
+            <a href="http://s100.copyright.com/AppDispatchServlet?publisherName=AMA&amp;publication=0098-7484&amp;title=Health+Effects+of+Climate+Change&amp;publicationDate=2004-01-07&amp;volumeNum=291&amp;issueNum=1&amp;author=Haines%2c+Andy%3b+Patz%2c+Jonathan+A.&amp;startPage=99&amp;endPage=103&amp;contentId=10.1001%2fjama.291.1.99&amp;oa=&amp;orderBeanReset=True" rel="nofollow" id="PermissionsLink" class="toolbar-tool toolbar-permissions is-b" target="_blank"><span class="toolbar-link-text">Permissions</span></a>
+ 
+    </div>
+
+            <a class="toolbar-tool toolbar-cme is-b" href="http://jamanetwork.com/learning/article-quiz/2160"></a>
+
+
+
+
+
+
+            </div>
+
+            
+            <div class="cme-promo ta-c">
+                <div id="BodyContent_PageContent_ssPromoteCmeToInstSubUsers">
+	<div class="selfServe">
+		<!--
+<script type="text/javascript">(function(){var a=document,b=a.createElement("script"),a=a.getElementsByTagName("script")[0];b.type="text/javascript";b.async=!0;b.src="http://s.moatads.com/jama862jVEB31/moatcontent.js";a.parentNode.insertBefore(b,a)})();</script>
+-->
+<!--
+<div style="border: 1px solid #000000; padding: 10px; margin: 0px !important; background-color: #ffffcc;">
+<p style="font-weight: 700; margin-bottom: 10px; padding: 0px !important; text-align: center;">* * MAINTENANCE NOTICE * *</p>
+<p style="margin: 0px !important; padding: 0px !important;">Maintenance will be performed tonight between 8<span style="font-variant: small-caps; margin-left: 1px;">pm</span>&ndash;2<span style="font-variant: small-caps; margin-left: 1px;">am</span> CST that should not affect site performance. Thank you for your patience.</p>
+</div>
+-->
+<!-- CONDITIONAL AD TAG FOR PROMOS ACROSS OLD AND NEW SITES: START -->
+<script type="text/javascript">
+
+  if (location.href.search(/aspx/) !== -1 && document.body.className.search(/SCM6/) !== -1) {
+    var jn_body_class = document.body.className;
+    var jn_site = jn_body_class.split(' ')[2];
+    console.log(jn_body_class);
+    document.write('<div class="jn-ss-ad-container"><object id="jn_promo_tag" data="http://jamanetwork.com/data/CSSUploads/at/templates/promo_ad_scm6.html?p=' + jn_site + '" type="text/html" style="width: 328px; height: 80px;"></object></div>');
+  }
+  if (location.href.search(/aspx/) === -1 && (document.body.className.search(/pg\_abstract/) !== -1 || document.body.className.search(/pg\_article/) !== -1)) {
+    var jn_site = document.body.dataset.sitename;
+    document.write('<div class="jn-ss-ad-container"><object id="jn_promo_tag" data="http://jamanetwork.com/data/CSSUploads/at/templates/promo_ad_scm7.html?p=' + jn_site + '" type="text/html" style="width: 340px; height: 128px" ></object></div>');
+  }
+</script>
+<!-- CONDITIONAL AD TAG FOR PROMOS ACROSS OLD AND NEW SITES: END -->
+<!-- START GRA TAG PLEASE DO NOT REMOVE -->
+<script type="text/javascript">
+/* <![CDATA[ */
+var google_conversion_id = 994279176;
+var google_custom_params = window.google_tag_params;
+var google_remarketing_only = true;
+/* ]]> */
+</script>
+<script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js">
+</script>
+<noscript>
+<!-- <div style="display:inline;"> -->
+<img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/994279176/?value=0&amp;guid=ON&amp;script=0"/>
+<!-- </div> -->
+</noscript>
+<!-- END GRA TAG -->
+<style>
+    .requireSsoRegistrationForFreePdfs {
+    display: none;
+    }
+</style>
+	</div>
+</div>
+            </div>
+
+            
+                <div class="widget-WidgetLoader widget-instance-AMA_PersonalizedContent_AbstractView_RightRail">
+        <div class="SCM-SharedWidgets-AsyncWidgetLoader" data-url="/AMA/PersonalizedContent_RightRail/AMA_PersonalizedContent_AbstractView_RightRail" data-params="{&quot;parameters&quot;:{&quot;resourceIdToExclude&quot;:197911,&quot;resourceTypeToExclude&quot;:3},&quot;dynamicParameters&quot;:{&quot;localParams&quot;:&quot;[REPLACE_WITH_LOCAL]&quot;}}"></div>
+ 
+    </div>
+    <div class="widget-WidgetLoader widget-instance-AMA_AdTag_abstract_mid_dual">
+        
+    <div class="SCM-SharedWidgets-AsyncAdLoader" data-url="/AMA/AdTag/AMA_AdTag_abstract_mid_dual" data-params="{&quot;parameters&quot;:{&quot;siteName&quot;:&quot;jama&quot;,&quot;adDisplay&quot;:5,&quot;adSection&quot;:&quot;abstract&quot;,&quot;adPosition&quot;:&quot;mid&quot;,&quot;fromGoogle&quot;:false},&quot;dynamicParameters&quot;:{&quot;localParams&quot;:&quot;[REPLACE_WITH_LOCAL]&quot;}}"></div>
+ 
+    </div>
+    <div class="widget-JobsAd widget-instance-AMA_JobsAd">
+        <div class="jobs-ad mb2 sugar-cookie">
+    <a href="http://jama.careers.adicio.com/jobs/search/results?locationType=text&amp;view=List_Brief&amp;sort=score+desc&amp;rows=15" target="_blank" class="td-n">
+        <div class="jobs-ad--icon">
+            <i class="icon-jobs white"><span class="sr-t">icon stethoscope</span></i>
+        </div>
+
+        <div class="jobs-ad--text">
+            <h6 class="tt-u mt0 black">Physician Jobs</h6>
+            <div class="jobs-ad--title black fw-b">Find Jobs Now</div>
+        </div>
+    </a>
+</div>
+
+ 
+    </div>
+
+        </div>
+    </div>
+
+    
+    <div class="ymal--footer">
+            <div class="widget-WidgetLoader widget-instance-AMA_PersonalizedContent_AbstractView_Footer">
+        <div class="SCM-SharedWidgets-AsyncWidgetLoader" data-url="/Personalization/PersonalizedContent/AMA_PersonalizedContent_AbstractView_Footer" data-params="{&quot;parameters&quot;:{&quot;resourceIdToExclude&quot;:197911,&quot;resourceTypeToExclude&quot;:3},&quot;dynamicParameters&quot;:{&quot;localParams&quot;:&quot;[REPLACE_WITH_LOCAL]&quot;}}"></div>
+ 
+    </div>
+
+    </div>
+
+    </section>
+
+
+    <section id="secFooterControl" class="master-footer">
+        
+
+        <script>
+            // --------------------
+            // Globals in the Global Namespace
+            var App = App || {};
+
+            // alias for getElementsByClassName
+            function scmByClass(className) {
+                return document.getElementsByClassName(className);
+            }
+
+            // alias for getElementById
+            function scmById(id) {
+                return document.getElementById(id);
+            }
+
+            // alias for querySelector
+            function scmquery(selector) {
+                return document.querySelector(selector);
+            }
+
+            // alias for querySelectorAll
+            function queryAll(selector) {
+                return document.querySelectorAll(selector);
+            }
+            
+            // is true string
+            function isTrueString(string) {
+                if (typeof string === 'string') {
+                    return string.toLowerCase() === 'true';
+                }
+
+                return undefined;
+            }
+
+            // Get viewport dimensions w/o the need for Modernizr or some other dependency
+            function updateViewportDimensions() {
+                var w = window, d = document, e = d.documentElement, g = d.getElementsByTagName('body')[0], x = w.innerWidth || e.clientWidth || g.clientWidth, y = w.innerHeight || e.clientHeight || g.clientHeight;
+                return { width: x, height: y };
+            }
+
+            // setting the viewport width
+            var viewport = updateViewportDimensions();
+
+            // Debounce function. Use this on resize to avoid taxing the browser.
+            var debounce = function (func, wait, immediate) {
+                var timeout;
+                return function () {
+                    var context = this, args = arguments;
+                    var later = function () {
+                        timeout = null;
+                        if (!immediate) func.apply(context, args);
+                    };
+                    var callNow = immediate && !timeout;
+                    clearTimeout(timeout);
+                    timeout = setTimeout(later, wait);
+                    if (callNow) func.apply(context, args);
+                };
+            };
+
+            // --------------------
+            // variables we can use throughout the application. e.g. if (App.isMobile), etc.
+            (function (App) {
+                // breakpoint variables
+                App.mobileUpperBreakpoint = 767;
+                App.mobileAltBreakpoint = 640;
+                App.tabletUpperBreakpoint = 1023;
+
+                function setVariables() {
+                    // variables that are dependent on viewport
+                    viewport = updateViewportDimensions();
+                    App.isMobile = (viewport.width <= App.mobileUpperBreakpoint);
+                    App.isMobileAlt = (viewport.width <= App.mobileAltBreakpoint);
+                    App.isTablet = (viewport.width > App.mobileUpperBreakpoint && viewport.width <= App.tabletUpperBreakpoint);
+                    App.isTabletDown = (viewport.width <= App.tabletUpperBreakpoint);
+                    App.isDesktop = (viewport.width > App.tabletUpperBreakpoint);
+                    App.activeViewport = App.isMobile ? 'small' : App.isTablet ? 'med' : 'large';
+                }
+
+                setVariables();
+
+                // other variables that are useful throughout the app
+                // The "pg_" value corresponds to the class name found in the aspx.cs file
+                // (i.e., "pg_learningsearchresults" corresponds to "public partial class LearningSearchResults...").
+                App.cachedViewport = App.isMobile ? 'small' : App.isTablet ? 'med' : 'large';
+                App.isAnyArticle = !!(scmByClass('widget-ArticleFullView').length || scmByClass('pg_abstract').length || scmByClass('widget-MagazineView').length);
+                App.isSplitScreen = !!scmByClass('widget-ArticleFullView').length;
+                App.isAbstract = !!scmByClass('pg_abstract').length;
+                App.isMag = !!scmByClass('widget-MagazineView').length;
+                App.isFreeArticle = !!(scmquery('.widget-ArticleTopInfo .free-access') ||
+                                        scmquery('.widget-ArticleTopInfo .open-access') ||
+                                        scmquery('.widget-ArticleTopInfo .icon-free'));
+                App.isIssue = !!scmByClass('pg_issue').length || !!scmByClass('pg_newonline').length || !!scmByClass('pg_currentissue').length || !!scmByClass('pg_pastissues').length;
+                App.isNewOnline = !!scmByClass('pg_newonline').length;
+                App.isCurrentIssue = !!scmByClass('pg_currentissue').length;
+                App.isPastIssues = !!scmByClass('pg_pastissues').length;
+                App.isJournal = !!scmByClass('pg_journal').length;
+                App.isNetworkHome = !!scmByClass('pg_index').length;
+                App.isSearch = !!scmByClass('pg_searchresults').length;
+                App.isAdvancedSearch = !!scmByClass('pg_advancedsearch').length;
+                App.isPlayer= !!scmByClass('pg_multimediaplayer').length;
+                App.isSelfServe = !!scmByClass('pg_sspage').length;
+                App.isMyAccount = !!scmByClass('pg_myaccount').length;
+                App.isLearning = !!scmByClass('pg_learning').length;
+                App.isLearningContent = !!scmByClass('pg_learning').length || !!scmByClass('pg_learningsearchresults').length || !!scmByClass('pg_quiz').length || !!scmByClass('pg_multimediaplayer').length || !!scmByClass('pg_journalarticlecme').length;
+
+                // Because we use one aspx page to display all self serve content, we really don't have a good way of
+                // determining whether we showing learning SS or not so we need to check the pathname.
+                App.isLearningSelfServe = window.location.pathname.indexOf("/learning/pages/") >= 0;
+
+                App.isLearningSearchResults = !!scmByClass('pg_learningsearchresults').length;
+                App.isQuiz = !!scmByClass('pg_quiz').length;
+                App.supportsFlexbox = !!scmByClass('flexbox').length;
+                App.isCollection = !!scmByClass('pg_collection').length;
+                App.isJournalArticleCme = !!scmByClass('pg_journalarticlecme').length;
+                App.isPaidUser = isTrueString(scmById('hfAppIsPaidUser').getAttribute('value'));
+                App.isMember = isTrueString(scmById('hfAppIsMember').getAttribute('value'));
+                App.isIndividual = isTrueString(scmById('hfAppIsIndividual').getAttribute('value'));
+                App.hasAccess = isTrueString(scmById('hfAppHasAccess').getAttribute('value'));
+                App.isReferredFromGoogle = isTrueString(scmById('hfAppIsReferredFromGoogle').getAttribute('value'));
+                var subscribedTo = scmById('hfAppSubscribedTo').getAttribute('value');
+                App.userSubscribedTo = subscribedTo ? subscribedTo.split(',') : undefined;
+
+                App.updateAppVariables = debounce(function () {
+                    setVariables();
+                }, 50, false);
+            })(App);
+        </script>
+        
+
+        
+<div class="footer-ad desktop-only">
+    
+        <div class="widget-WidgetLoader widget-instance-AMA_AdTag_AnchorboardAd_btf">
+        
+    <div class="SCM-SharedWidgets-AsyncAdLoader" data-url="/AMA/AdTag/AMA_AdTag_AnchorboardAd_btf" data-params="{&quot;parameters&quot;:{&quot;siteName&quot;:&quot;jama&quot;,&quot;adDisplay&quot;:9,&quot;adSection&quot;:&quot;abstract&quot;,&quot;adPosition&quot;:&quot;btf&quot;,&quot;fromGoogle&quot;:false},&quot;dynamicParameters&quot;:{&quot;localParams&quot;:&quot;[REPLACE_WITH_LOCAL]&quot;}}"></div>
+ 
+    </div>
+
+</div>
+
+
+<div class="ad-riser-wrap desktop-only">
+    <div class="ad-riser--dismiss t-c">X</div>
+        <div class="widget-WidgetLoader widget-instance-AMA_AdTag_Riser">
+        
+    <div class="SCM-SharedWidgets-AsyncAdLoader" data-url="/AMA/AdTag/AMA_AdTag_Riser" data-params="{&quot;parameters&quot;:{&quot;siteName&quot;:&quot;jama&quot;,&quot;adDisplay&quot;:10,&quot;adSection&quot;:&quot;abstract&quot;,&quot;adPosition&quot;:&quot;Riser&quot;,&quot;fromGoogle&quot;:false},&quot;dynamicParameters&quot;:{&quot;localParams&quot;:&quot;[REPLACE_WITH_LOCAL]&quot;}}"></div>
+ 
+    </div>
+
+</div>
+
+<div class="footer-wrap">
+    <footer class="footer">
+        
+        <div id="footer-microsite" class="footer-microsite">
+            <style type="text/css">
+    @media (min-width: 1024px) {.split-screen .footer-microsite-contents {border-bottom:0 !important;}}
+    .footer-microsite-contents {margin-bottom:1em;width:100%;}
+    .footer-network-other .link-apps:before {width: 23px;}
+    .footer-network-other .link-institutions-librarians:before {width: 23px;}
+    .jn-ss-footer-border-top {border-top:1px solid #555;padding-top:15px;}
+    .jn-ss-footer-border-bottom {border-bottom:1px solid #555;padding-bottom:10px;}
+</style>
+<div class="footer-heading-wrap">
+<h3 id="BodyContent_Footer_h3SiteName" class="footer-heading is-b footer-microsite-heading" data-mobile-tog-target=".footer-microsite-links-wrap">JAMA</h3>
+</div>
+<div class="footer-microsite-links-wrap">
+<div class="footer-microsite-contents  jn-ss-footer-border-bottom">
+<h4 id="BodyContent_Footer_ContentHeader" class="footer-subheading">Content</h4>
+<a href="/journals/jama">Home</a>
+<a href="/journals/jama/newonline">New Online</a>
+<a href="/journals/jama/currentissue">Current Issue</a>
+</div>
+<div class="footer-microsite-services cf">
+<h4 id="BodyContent_Footer_ServiceHeader" class="footer-subheading">Journal Information</h4>
+<a href="/journals/jama/pages/for-authors">For Authors</a>
+<a href="/journals/jama/editors-and-publishers">Editors &amp; Publishers</a>
+<a href="/pages/rss">RSS</a>
+<a href="/journals/jama/pages/contact-us">Contact Us</a>
+</div>
+<div class="footer-network-other  jn-ss-footer-border-bottom">
+<a href="/learning" class="link-network-other is-b link-learning">Learning</a>
+<a href="http://store.jamanetwork.com" class="link-network-other is-b link-store" target="_blank">Store</a>
+<a href="http://jamanetwork.com/pages/apps" class="link-network-other is-b link-mobile" target="_blank">Apps</a>
+<a href="http://www.jamacareercenter.com/" class="link-network-other is-b link-jobs" target="_blank">Jobs</a>
+<a href="/pages/institutions-and-librarians" class="link-network-other is-b link-institutions-librarians" target="_blank">Institutions</a>
+<a href="/pages/reprints-and-permissions" class="link-network-other is-b link-reprints-permissions">Reprints &amp; Permissions</a>
+</div>
+<div id="BodyContent_Footer_divSubscribe" class="footer-microsite-subscribe">
+<img src="//amaprod.silverchaircdn.com/UI/app/img/covers/jama.jpg" class="subscribe-image" alt="Journal Cover" />
+<div class="subscribe-meta">
+<h4 class="subscribe-heading footer-subheading">Subscribe</h4>
+<a href="http://store.jamanetwork.com/productDetails.aspx?productcodeID=64" class="subscribe-submit btn">Go</a>
+</div>
+</div>
+</div>
+        </div>
+
+        
+        <div id="footer-network" class="footer-network">
+            <style type="text/css">
+    .footer-network-sites {width: 62.85542%;}
+    .footer-network-info {width: 35.93976%}
+    .jn-ss-subheading-mt {margin-top: 1.5em;}
+    .jn-registered:after {content: "\00AE";font-size: 50%;vertical-align: top;}
+    .jn-trademark:after {content: "\2122";font-size: 50%;vertical-align: top;}
+</style>
+<div class="footer-heading-wrap">
+<h3 class="footer-heading is-b footer-network-heading" data-mobile-tog-target=".footer-network-links-wrap">The <strong>JAMA</strong> Network</h3>
+</div>
+<div class="footer-network-links-wrap">
+<div class="footer-network-sites">
+<div class="internal">
+<h4 id="BodyContent_Footer_JournalHeader" class="footer-subheading">Journals</h4>
+<a href="/journals/jama">JAMA</a>
+<a href="/journals/jamacardiology">JAMA Cardiology</a>
+<a href="/journals/jamadermatology">JAMA Dermatology</a>
+<a href="/journals/jamafacialplasticsurgery">JAMA Facial Plastic Surgery</a>
+<a href="/journals/jamainternalmedicine">JAMA Internal Medicine</a>
+<a href="/journals/jamaneurology">JAMA Neurology</a>
+<a href="/journals/jamaoncology">JAMA Oncology</a>
+<a href="/journals/jamaophthalmology">JAMA Ophthalmology</a>
+<a href="/journals/jamaotolaryngology">JAMA Otolaryngology&ndash;Head &amp; Neck Surgery</a>
+<a href="/journals/jamapediatrics">JAMA Pediatrics</a>
+<a href="/journals/jamapsychiatry">JAMA Psychiatry</a>
+<a href="/journals/jamasurgery">JAMA Surgery</a>
+<a href="/journals/archneurpsyc">Archives of Neurology &amp; Psychiatry (1919-1959)</a>
+</div>
+<div class="external">
+<h4 class="footer-subheading">Sites</h4>
+<div id="BodyContent_Footer_ssFooterSiteMenu">
+<div class="selfServe">
+<a target="_blank" href="http://www.amamanualofstyle.com/">AMA Manual of Style</a>
+<a target="_blank" href="http://sites.jamanetwork.com/art-and-images-in-psychiatry/">Art and Images in Psychiatry</a>
+<a target="_blank" href="http://sites.jamanetwork.com/breastcancerscreening/index.html">Breast Cancer Screening Guidelines</a>
+<a target="_blank" href="http://sites.jamanetwork.com/colon-cancer-screening/">Colorectal Screening Guidelines</a>
+<a target="_blank" href="http://sites.jamanetwork.com/declaration-of-helsinki/index.html">Declaration of Helsinki</a>
+<a target="_blank" href="http://sites.jamanetwork.com/depression-screening/">Depression Screening Guidelines</a>
+<a target="_blank" href="http://ebm.jamanetwork.com/index.html">Evidence-Based Medicine: An Oral History</a>
+<a target="_blank" href="http://sites.jamanetwork.com/health-disparities/">Health Disparities</a>
+<a target="_blank" href="http://sites.jamanetwork.com/jnc8/">Hypertension Guidelines</a>
+<a target="_blank" href="http://jamanetworkaudio.com">JAMA Network Audio</a>
+<a target="_blank" href="http://medmen.jamanetwork.com/">Med Men</a>
+<a target="_blank" href="http://sites.jamanetwork.com/jama-medical-education/">Medical Education</a>
+<a target="_blank" href="http://sites.jamanetwork.com/opioids/">Opioid Management Guidelines</a>
+<a target="_blank" href="http://peerreviewcongress.org/index.html">Peer Review Congress</a>
+<a target="_blank" href="http://sites.jamanetwork.com/sepsis/">Sepsis and Septic Shock</a>
+<a target="_blank" href="http://sites.jamanetwork.com/statins/">Statins and Dyslipidemia</a>
+<a target="_blank" href="http://jamanetwork.com/pages/collections">Topics and Collections</a>
+<h4 class="footer-subheading jn-ss-subheading-mt">Featured Articles</h4>
+<a href="/journals/jama/fullarticle/2463262">ACS Breast Cancer Screening Guideline</a>
+<a href="/journals/jama/fullarticle/2503508">CDC Guideline for Prescribing Opioids</a>
+<a href="/journals/jama/fullarticle/2492881">Consensus Definitions for Sepsis and Septic Shock</a>
+<a href="/journals/jama/fullarticle/2513561">Income and Life Expectancy in the US</a>
+<a href="/journals/jama/fullarticle/1791497">JNC 8 Guideline for Management of High Blood Pressure</a>
+<a href="/journals/jama/fullarticle/2533698">President Obama on US Health Care Reform</a>
+<a href="/journals/jama/fullarticle/2529486">Screening for Colorectal Cancer</a>
+<a href="/journals/jama/fullarticle/2484345">Screening for Depression in Adults</a>
+<a href="/journals/jama/fullarticle/2584058">Statins for Primary Prevention of Cardiovascular Disease</a>
+<a href="/journals/jama/fullarticle/1760318">WMA Declaration of Helsinki, 7th Revision</a>
+<h4 class="footer-subheading jn-ss-subheading-mt">Blogs</h4>
+<a target="_blank" href="https://newsatjama.jama.com/">The JAMA Forum</a>
+<a target="_blank" href="http://blogs.jamanetwork.com/topics-in-ophthalmology/">Topics in Ophthalmology </a>
+</div>
+</div>
+</div>
+</div>
+<div id="footer-network-info" class="footer-network-info">
+<div class="information-for-links">
+<h4 id="BodyContent_Footer_InfoHeader" class="footer-subheading">Information For</h4>
+<a href="/pages/for-authors">Authors</a>
+<a href="/pages/institutions-and-librarians">Institutions &amp; Librarians</a>
+<a href="/pages/advertisers">Advertisers</a>
+<a href="/pages/subscription-agents">Subscription Agents</a>
+<a href="http://www.jamacareercenter.com/" target="_blank">Employers &amp; Job Seekers</a>
+<a href="http://media.jamanetwork.com/" rel="nofollow" target="_blank">Media</a>
+</div>
+<div class="services-links">
+<h4 id="BodyContent_Footer_JAMANetworkProductsHeader" class="footer-subheading">JAMA Network Products</h4>
+<a href="http://www.amamanualofstyle.com/" class="footer-service-link" target="_blank">AMA Manual of Style</a>
+<a href="http://jamaevidence.mhmedical.com/" class="footer-service-link" target="_blank"><span class="jn-registered">JAMAevidence</span></a>
+<a href="http://jamanetwork.com/pages/clinical-challenge" class="footer-service-link" target="_blank"><span class="jn-trademark">JN Challenge</span></a>
+<a href="http://jamanetwork.com/pages/reader" class="footer-service-link" target="_blank"><span class="jn-trademark">JN Reader</span></a>
+<a href="http://www.peerreviewcongress.org/" class="footer-service-link" target="_blank">Peer Review Congress</a>
+</div>
+<div class="learning-links">
+<h4 id="BodyContent_Footer_LearningHeader" class="footer-subheading">Learning</h4>
+<a href="/learning">CME Quizzes</a>
+<a href="/learning/pages/about-cme">About CME &amp; MOC</a>
+<a target="_blank" href="http://moc-reporting.jamanetwork.com/">MOC Reporting Preferences</a>
+</div>
+</div>
+</div>
+        </div>
+
+        
+        <div id="footer-resources-wrap" class="footer-resources-wrap">
+            <style type="text/css">
+    .footer-resources-wrap .footer-subheading {color: grey;display:block !important;font-size: 1.17647em;font-weight: 400;text-transform: uppercase;}
+</style>
+<div class="footer-heading-wrap">
+<h3 class="footer-heading is-b footer-resources-heading" data-mobile-tog-target=".footer-resources">Help</h3>
+</div>
+<div class="footer-resources">
+<a href="http://store.jamanetwork.com" class="footer-service-link" target="_blank">Subscriptions &amp; Renewals</a>
+<a href="/myaccount#my-alerts" class="footer-service-link" rel="nofollow">Email Subscriptions</a>
+<a href="/myaccount#my-profile" class="footer-service-link" rel="nofollow">Update Your Address</a>
+<a href="http://sites.jamanetwork.com/help/" class="footer-service-link">Contact Us</a>
+<a href="http://sites.jamanetwork.com/help/" class="footer-service-link">Frequently Asked Questions</a>
+<h4 class="footer-subheading jn-ss-subheading-mt">JAMA Career Center</h4>
+<a href="http://www.jamacareercenter.com" class="footer-service-link" target="_blank">Physician Job Listings</a>
+</div><div id="BodyContent_Footer_divSocial" class="social-links footer-social-links">
+<a target="_blank" rel="nofollow" data-emailid="6d35777a-fc12-4d2d-9b49-81d031835d91" href="https://www.facebook.com/pages/JAMA-Journal-of-the-American-Medical-Association/87087958340" class="social-link is-b facebook"></a>
+<a target="_blank" rel="nofollow" data-emailid="6d35777a-fc12-4d2d-9b49-81d031835d91" href="https://twitter.com/JAMA_current" class="social-link is-b twitter"></a>
+<a target="_blank" rel="nofollow" data-emailid="6d35777a-fc12-4d2d-9b49-81d031835d91" href="https://www.linkedin.com/company/jama-network" class="social-link is-b linked-in"></a>
+<a target="_blank" rel="nofollow" data-emailid="6d35777a-fc12-4d2d-9b49-81d031835d91" href="https://plus.google.com/u/0/104285613971644324251" class="social-link is-b google-plus"></a>
+<a target="_blank" rel="nofollow" data-emailid="6d35777a-fc12-4d2d-9b49-81d031835d91" href="http://www.pinterest.com/thejamanetwork/" class="social-link is-b pinterest"></a>
+<a target="_blank" rel="nofollow" data-emailid="6d35777a-fc12-4d2d-9b49-81d031835d91" href="http://www.youtube.com/user/JAMAJournalVideo" class="social-link is-b you-tube"></a>
+<a target="_blank" rel="nofollow" data-emailid="6d35777a-fc12-4d2d-9b49-81d031835d91" href="/rss/site_3/67.xml" class="social-link is-b rss"></a>
+<a target="_blank" rel="nofollow" data-emailid="6d35777a-fc12-4d2d-9b49-81d031835d91" href="http://jamaeditorsaudiosummary.jamanetwork.libsynpro.com/rss" class="social-link is-b podcast"></a>
+</div><div id="BodyContent_Footer_divEmailUpdate" class="footer-email-updates">
+                
+                    <div class="widget-EmailListSignUp widget-instance-AMAv2_EmailListSignUp_Footer">
+        <div class="email-signup">
+    <div class="email-signup--text">Get the latest from JAMA</div>
+    <div class="email-signup--input-wrap is-b">
+        <input type="text" name="email" class="email-signup--input" placeholder="Email address" title="Email address" />
+    </div>
+
+    <a rel="nofollow" class="email-signup--submit btn">Sign Up</a>
+
+    <div class="email-signup--user-message"></div>
+</div> 
+    </div>
+</div>
+        </div>
+
+        
+        <div class="footer-bar" itemscope itemtype="http://schema.org/Organization">
+            <style type="text/css">
+    .jn-bottom-bar {color: #fff; float: left;font-size: 10px;padding: 13px 20px;width: 33.33%;}
+    .jn-bottom-bar p {line-height: 2;}
+    @media (max-width: 900px) {.jn-bottom-bar {float: none;width: 100%;}}
+    .jn-footer-copyright {font-size:12px;}
+    .jn-footer-pipe {margin:0 10px;}
+</style>
+<a class="footer-bar-jn-logo d-b no-mw mb1" href="/" title="JAMA Network Home"><img class="mw-100" src="//amaprod.silverchaircdn.com/UI/app/img/jn_sig_white.png" alt="Jama Network Logo" /></a>
+<div class="jn-bottom-bar">
+<p>
+<span class="jn-footer-copyright">&copy; 2017 American Medical Association. All Rights Reserved.</span><br />
+<a href="/pages/conditions-of-use" class="p0">Terms of Use</a><span class="jn-footer-pipe">|</span>
+<a href="/pages/privacy-policy" class="p0">Privacy Policy</a><span class="jn-footer-pipe">|</span>
+<a href="/pages/accessibility-statement" class="p0">Accessibility Statement</a>
+</p>
+</div>
+            <a class="footer-bar-sis no-mw relative nudge-down" href="http://www.silverchair.com" target="_blank"><img class="footer-bar-sis-img mt05 mw-100" src="//amaprod.silverchaircdn.com/UI/app/img/powered.png" alt="Silverchair Logo" /></a>
+        </div>
+    </footer>
+
+</div>
+
+
+    </section>
+
+
+
+        
+        
+        <div id="revealModal" class="reveal-modal" data-reveal>
+            <div id="revealContent"></div>
+            <a class="close-reveal-modal icon-close"></a>
+        </div>
+
+
+        
+        <div class="artmet-modal" id="MetricsModal">
+            <div class="artmet-modal-contents">
+                <a class="artmet-close-modal">&#215;</a>
+            </div>
+        </div>
+
+
+
+        
+        <div id="no-access-reveal" class="no-access reveal-modal login-modal medium modal" data-reveal>
+            
+            <div id="accessSignIn_SignInOptionsModal" class="modal--options">
+    <h4 class="signin-hed"><span id="accessSignIn_spnSignInHeader">Sign in to access your subscriptions</span></h4>
+
+	<div class="modal--option">
+	    
+	    <div id="accessSignIn_divIndSignIn" class="sign-in--personal">
+		<a href="http://jamanetwork.com/oauthsignin?return_url=http%3a%2f%2fjamanetwork.com%2fjournals%2fjama%2ffullarticle%2f197911" id="accessSignIn_oauthSignInLink" rel="nofollow" class="sign-in--personal-link">Sign in</a> to your personal account    
+	    </div>
+	    
+	    <div id="accessSignIn_divInstSignIn" class="sign-in--inst">
+		Institutional sign in: <a id="accessSignIn_openAthensSignIn_btnAthensLogin" class="auth--athens" rel="nofollow" href="javascript:__doPostBack(&#39;ctl00$ctl00$accessSignIn$openAthensSignIn$btnAthensLogin&#39;,&#39;&#39;)">OpenAthens</a> | <a rel="nofollow" class="sign-in--shib" href="/signinshibboleth">Shibboleth</a>
+	    </div>
+	</div>
+	<div id="accessSignIn_divIndSignUp" class="modal--option">
+	    <div class="sign-in--create">
+		<a href="https://login.ama-assn.org/account/signup?appId=scweb&returnurl=http://jamanetwork.com/oauthsignin?return_url=http%3a%2f%2fjamanetwork.com%2fjournals%2fjama%2ffullarticle%2f197911" id="accessSignIn_oauthSignUpLink" rel="nofollow" class="sign-in--create-link">Create a free personal account</a> <span id="accessSignIn_spnDownloadMessage">to download free article PDFs,
+		sign up for alerts, and more</span>
+	    </div>
+	</div>
+</div>
+
+            <div class="modal--box purchase-access">
+                <h4>Purchase access</h4>
+                <div class="modal--option"><a id="journalLinkToSubscribe" href="#">Subscribe</a> to the journal</div>
+                <div class="modal--option"><a id="articleLinkToPurchase" href="#" data-storeurl="http://store.jamanetwork.com">Buy</a> this article</div>
+                <div id="modal_rent_this_article" class="modal--option"><a id="rentThisArticleLink" href="#">Rent</a> this article</div>
+            </div>
+            <a class="close-reveal-modal icon-close"></a>
+        </div>
+        
+
+
+        
+        <div id="no-access-reveal-learning" class="no-access reveal-modal login-modal medium modal" data-reveal>
+            
+            <div id="SignInOptions_Learning_SignInOptionsModal" class="modal--options">
+    <h4 class="signin-hed"><span id="SignInOptions_Learning_spnSignInHeader">Sign in to access your subscriptions</span></h4>
+
+	<div class="modal--option">
+	    
+	    <div id="SignInOptions_Learning_divIndSignIn" class="sign-in--personal">
+		<a href="http://jamanetwork.com/oauthsignin?return_url=http%3a%2f%2fjamanetwork.com%2fjournals%2fjama%2ffullarticle%2f197911" id="SignInOptions_Learning_oauthSignInLink" rel="nofollow" class="sign-in--personal-link">Sign in</a> to your personal account    
+	    </div>
+	    
+	    
+	</div>
+	<div id="SignInOptions_Learning_divIndSignUp" class="modal--option">
+	    <div class="sign-in--create">
+		<a href="https://login.ama-assn.org/account/signup?appId=scweb&returnurl=http://jamanetwork.com/oauthsignin?return_url=http%3a%2f%2fjamanetwork.com%2fjournals%2fjama%2ffullarticle%2f197911" id="SignInOptions_Learning_oauthSignUpLink" rel="nofollow" class="sign-in--create-link">Create a free personal account</a> <span id="SignInOptions_Learning_spnDownloadMessage">to access your subscriptions, sign up for alerts, and more</span>
+	    </div>
+	</div>
+</div>
+
+            <div class="modal--box purchase-access">
+                    <h4>Purchase access</h4>
+                    <div class="modal--option"><a id="linkSubscribeLearning" href="http://store.jamanetwork.com/productDetails.aspx?productcodeId=194" target="_blank">Subscribe</a> to Learning for one year</div>
+                    <div id="divPuchaseActivity" class="modal--option"><a id="linkPurchaseActivity" target="_blank">Buy</a> this activity</div>
+            </div>
+            <a class="close-reveal-modal icon-close"></a>
+        </div>
+        
+
+
+        
+        <div id="register-free-pdf-reveal" class="reveal-modal modal register-free-pdf medium" data-reveal>
+            <h4 class="modal--title">Sign in to download free article PDFs</h4>
+            <div id="freePdfSignIn_SignInOptionsModal" class="modal--options">
+    <h4 class="signin-hed"><span id="freePdfSignIn_spnSignInHeader">Sign in to access your subscriptions</span></h4>
+
+	<div class="modal--option">
+	    
+	    <div id="freePdfSignIn_divIndSignIn" class="sign-in--personal">
+		<a href="http://jamanetwork.com/oauthsignin?return_url=http%3a%2f%2fjamanetwork.com%2fjournals%2fjama%2ffullarticle%2f197911" id="freePdfSignIn_oauthSignInLink" rel="nofollow" class="sign-in--personal-link">Sign in</a> to your personal account    
+	    </div>
+	    
+	    <div id="freePdfSignIn_divInstSignIn" class="sign-in--inst">
+		Institutional sign in: <a id="freePdfSignIn_openAthensSignIn_btnAthensLogin" class="auth--athens" rel="nofollow" href="javascript:__doPostBack(&#39;ctl00$ctl00$freePdfSignIn$openAthensSignIn$btnAthensLogin&#39;,&#39;&#39;)">OpenAthens</a> | <a rel="nofollow" class="sign-in--shib" href="/signinshibboleth">Shibboleth</a>
+	    </div>
+	</div>
+	<div id="freePdfSignIn_divIndSignUp" class="modal--option">
+	    <div class="sign-in--create">
+		<a href="https://login.ama-assn.org/account/signup?appId=scweb&returnurl=http://jamanetwork.com/oauthsignin?return_url=http%3a%2f%2fjamanetwork.com%2fjournals%2fjama%2ffullarticle%2f197911" id="freePdfSignIn_oauthSignUpLink" rel="nofollow" class="sign-in--create-link">Create a free personal account</a> <span id="freePdfSignIn_spnDownloadMessage">to download free article PDFs,
+		sign up for alerts, and more</span>
+	    </div>
+	</div>
+</div>
+
+            <div class="modal--box">
+                <h5 class="modal--subtitle">A free personal account provides</h5>
+                <ul>
+                    <li>Free current issues on <a href="http://app.jamanetwork.com" target="_blank">The JAMA Network Reader</a></li>
+                    <li>Free quizzes on <a href="http://mobile.jamanetwork.com/challenge.html" target="_blank">The JAMA Network Challenge</a></li>
+                    <li>Personalized alerts</li>
+                </ul>
+
+                <div class="no-access--alerts">
+                    <input id="no-access--alerts-input" class="no-access--alerts-input" type="checkbox" name="no-access-alerts-checkbox" checked="checked">
+                    <div class="no-access--alerts-content">
+                        <label for="no-access--alerts-input">Yes! Alert me when new content is published.</label>
+                        <div class="privacy-policy"><a href="/pages/privacy-policy">Privacy Policy</a></div>
+                    </div>
+                </div>
+            </div>
+
+            <a class="close-reveal-modal icon-close"></a>
+        </div>
+        
+        
+
+
+
+        
+        
+    
+    
+    <script src="//cdn.jsdelivr.net/chartist.js/latest/chartist.min.js" type="text/javascript"></script>
+
+    
+    <script src="//d1bxh8uas1mnw7.cloudfront.net/assets/embed.js" type="text/javascript"></script>
+
+    
+    <script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-53346900644c40ac"></script>
+
+    <script>
+        var addthis_share = {
+            // ... other options
+            title: 'Health Effects of Climate Change',
+            url_transforms: {
+                shorten: {
+                    twitter: 'bitly'
+                }
+            },
+            shorteners: {
+                bitly: {}
+            }
+        };
+    </script>
+
+
+    </form>
+    <script src="//amaprod.silverchaircdn.com/UI/app/dist/v-636292249253313141/app.min.js"></script>
+    
+</body>
+</html>
+

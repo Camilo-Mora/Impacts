@@ -1,0 +1,2204 @@
+<!DOCTYPE html>
+<!--[if IE 8 ]>    <html class="ie8"> <![endif]-->
+<!--[if IE 9 ]>    <html class="ie9"> <![endif]-->
+<!--[if (gt IE 9)|!(IE)]><!-->
+<html class="no-js" lang="en"> <!--<![endif]-->
+<head>
+ 
+<meta charset="utf-8"/>
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+<meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+<title>The Public Health Consequences of Disasters | Prehospital and Disaster Medicine | Cambridge Core</title>
+ 
+ 
+<link rel="icon" href="/core/cambridge-core/public/images/favicon.ico" type="image/x-icon"/>
+<link rel="shortcut icon" href="/core/cambridge-core/public/images/favicon.ico" type="image/x-icon"/>
+<link href='//fonts.googleapis.com/css?family=Noto+Sans:400,700,400italic,700italic' rel='stylesheet' type='text/css'>
+<link rel="stylesheet" type="text/css" href="//www.cambridge.org/packages/cambridge_themes/stylesheets/global_nav/v1.2.min.css">
+<!--[if (gte IE 10)|!(IE)]><!-->
+<link rel="stylesheet" href="/core/cambridge-core/public/css/app.css"/>
+<link rel="dns-prefetch" href="https://usage.prod.aop.cambridge.org/v1/events">
+<link rel="stylesheet" href="/core/cambridge-core/public/bower_components/font-awesome/css/font-awesome.min.css"/>
+<script src="/core/cambridge-core/public/bower_components/jquery/dist/jquery.min.js"></script>
+<!--<![endif]-->
+ 
+ 
+ 
+<!--[if lt IE 10]>
+    <link rel="stylesheet" href="/core/cambridge-core/public/css/ie-8-9.css" />
+    <script src="/core/cambridge-core/public/js/ie8-head.min.js"></script>
+    <script src="/core/cambridge-core/public/js/jquery-1.11.2.min.js"></script>
+    <![endif]-->
+<script src="/core/cambridge-core/public/bower_components/modernizr/modernizr.js"></script>
+<meta property="og:site_name" content="Cambridge Core"/>
+<meta property="og:type" content="website"/>
+<meta property="og:url" content="/core/journals/prehospital-and-disaster-medicine/article/div-classtitlethe-public-health-consequences-of-disastersdiv/02F6B8FEEAC2A36F13C0EC4A84710D73"/>
+<meta property="og:title" content="The Public Health Consequences of Disasters | Prehospital and Disaster Medicine | Cambridge Core"/>
+<meta property="og:description" content="&lt;div class=&quot;title&quot;&gt;The Public Health Consequences of Disasters&lt;/div&gt; - Volume 15 Issue 4 - Eric K. Noji"/>
+<meta property="og:image" content=""/>
+<meta name="description" content="The Public Health Consequences of Disasters - Volume 15 Issue 4 - Eric K. Noji">
+<link rel="canonical" href="https://www.cambridge.org/core/journals/prehospital-and-disaster-medicine/article/div-classtitlethe-public-health-consequences-of-disastersdiv/02F6B8FEEAC2A36F13C0EC4A84710D73">
+<meta name="citation_journal_title" content="Prehospital and Disaster Medicine">
+<meta name="citation_publisher" content="Cambridge University Press">
+<meta name="citation_title" content="The Public Health Consequences of Disasters">
+<meta name="citation_author" content="Eric K. Noji">
+<meta name="citation_publication_date" content="2000/12">
+<meta name="citation_online_date" content="2012/06/01">
+<meta name="citation_volume" content="15">
+<meta name="citation_issue" content="4">
+<meta name="citation_firstpage" content="21">
+<meta name="citation_lastpage" content="31">
+<meta name="citation_issn" content="1945-1938">
+<meta name="citation_issn" content="1049-023X">
+<meta name="citation_keywords" content="aid; assistance; consequences; corpses; decision-making; disasters; earthquakes; epidemics; events; floods; information; management; natural disasters; needs; public health; responses; supplies; surveillance; tornadoes; tropical cyclones; volcanic eruptions">
+<meta name="citation_doi" content="10.1017/S1049023X00025255">
+<meta name="citation_pdf_url" content="https://www.cambridge.org/core/services/aop-cambridge-core/content/view/02F6B8FEEAC2A36F13C0EC4A84710D73/S1049023X00025255a.pdf/div-class-title-the-public-health-consequences-of-disasters-div.pdf">
+<meta name="citation_reference" content="citation_title=Reducing the impact of natural disasters: why aren&amp;#39;t we better prepared?; citation_author=SAPIR, DEBARATI GUHA; citation_author=LECHAT, MICHEL F; citation_publication_date=1986; citation_journal_title=Health Policy and Planning; citation_volume=1; citation_issue=2; citation_firstpage=118; citation_lastpage=126; citation_doi=10.1093/heapol/1.2.118">
+<meta name="citation_reference" content="2.National Research Council: Confronting Natural Disasters: An International Decade for Natural Disaster Reduction. Washington, DC: National Academy Press. 1987.">
+<meta name="citation_reference" content="3.Office of US Foreign Disaster Assistance: Disaster History: Significant Data of Major Disasters Worldwide, 1900-Present. Washington, DC: Agency for International Development. 1999.">
+<meta name="citation_reference" content="4.IDNDR Secretariat: The International Decade for Natural Disaster Reduction: Action Plan for 1998–1999. Geneva: UN Office for the Coordination of Humanitarian Assistance. 1998: pp 1–2.">
+<meta name="citation_reference" content="5. K  Tatemachi  : Acute diseases during and after the Great Hanshin-Awaji earthquake. In: Proceedings of the WHO Symposium Earthquakes and People&amp;amp;apos;s Health, 27–30 January 1997. Kobe Japan: WHO Center for Health Development. 1997. pp 48–52.">
+<meta name="citation_reference" content="6. O  Kunii  ,  M  Akagi  ,  E  Kata  : Health consequences and medical and public health response to the Great Hanshin-Awaji Earthquake in Japan: A Case Study in Disaster Planning. Medicine and Global Survival 1995;2:32–45.">
+<meta name="citation_reference" content="citation_title=The Kobe earthquake: the system response. A disaster report from Japan; citation_author=TANAKA, K; citation_publication_date=1996; citation_journal_title=European Journal of Emergency Medicine; citation_volume=3; citation_issue=4; citation_firstpage=263; citation_lastpage=269; citation_doi=10.1097/00063110-199612000-00009">
+<meta name="citation_reference" content="citation_title=Crush Syndrome Sustained in the 1995 Kobe, Japan, Earthquake; Treatment and Outcome; citation_author=Oda, Yutaka; citation_author=Shindoh, Mitsuo; citation_author=Yukioka, Hidekazu; citation_author=Nishi, Shinichi; citation_author=Fujumori, Mitsugu; citation_author=Asada, Akira; citation_publication_date=1997; citation_journal_title=Annals of Emergency Medicine; citation_volume=30; citation_issue=4; citation_firstpage=507; citation_lastpage=512; citation_doi=10.1016/S0196-0644(97)70011-8">
+<meta name="citation_reference" content="9.Centers for Disease Control and Prevention: Morbidity surveillance following the Midwest flood — Missouri, 1993. MMWR 1993;42: 797–798.">
+<meta name="citation_reference" content="10.Centers for Disease Control and Prevention. Public health consequences of a flood disaster - Iowa, 1993. MMWR 1993;42:653–656.">
+<meta name="citation_reference" content="11.Centers for Disease Control and Prevention: Flood-related mortality — Missouri, 1993. MMWR. 1993;42:836–838.">
+<meta name="citation_reference" content="12. SE  Chartoff  ,  JM  Gren  : Survey of Iowa emergency medical services on the effects of the 1993 floods. Prehosp Disast Med 1997;12:210–214.">
+<meta name="citation_reference" content="13. G  Hagman  : Prevention Better than Cure. Stockholm: Swedish Red Cross. 1984.">
+<meta name="citation_reference" content="14. A  Wijkman  ,  L  Timberlake  : Natural Disasters: Acts of God or Acts of Man. New York: Earthscan. 1984.">
+<meta name="citation_reference" content="15.UN General Assembly: International Decade for Natural Disaster Reduction: Report of the Secretary-General. 43rd Session, Agenda Item 86. A/43/723. 18 October 1988. New York: United Nations. 1988.">
+<meta name="citation_reference" content="citation_title=The role of the epidemiologist in natural disasters; citation_author=Binder, Sue; citation_author=Sanderson, Lee M; citation_publication_date=1987; citation_journal_title=Annals of Emergency Medicine; citation_volume=16; citation_issue=9; citation_firstpage=1081; citation_lastpage=1084; citation_doi=10.1016/S0196-0644(87)80763-1">
+<meta name="citation_reference" content="17. WH  Foege  : Public health aspects of disaster management. In:  JM  Last   (ed): Public Health and Preventive Medicine, Norwalk, Conn: Appleton-Century-Crofts. 1986.">
+<meta name="citation_reference" content="18. K  Western  : The Epidemiology of Natural and Man-Made Disasters: The Present State of the Art. Dissertation for the Academic Diploma in Tropical Public Health, London School of Hygiene and Tropical Medicine, London: University of London. 1972.">
+<meta name="citation_reference" content="19. HK  Armenian  : Methodologie issues in the epidemiologie studies of disasters. In: Proceedings of the International Workshop on Earthquake Injury Epidemiology: Implications for Mitigation and Response, Baltimore: Johns Hopkins University, 1989. pp 95–106.">
+<meta name="citation_reference" content="citation_title=Information systems and needs assessment in natural disasters: An approach for better disaster relief management; citation_author=Guha-Sapir, Debarati; citation_author=Lechat, Michel F.; citation_publication_date=1986; citation_journal_title=Disasters; citation_volume=10; citation_issue=3; citation_firstpage=232; citation_lastpage=237; citation_doi=10.1111/j.1467-7717.1986.tb00594.x">
+<meta name="citation_reference" content="21. RI  Glass  ,  EK  Noji  : Epidemiologie surveillance following disasters. In:  WE  Halperin  ,  EL  Baker  ,  RR  Monson   (ed): Public Health Surveillance, New York: Van Nostrand Reinhold. 1992.">
+<meta name="citation_reference" content="citation_title=Injury prevention in natural disasters. A theoretical framework; citation_author=Noji, Eric K.; citation_author=Sivertson, Keith T.; citation_publication_date=1987; citation_journal_title=Disasters; citation_volume=11; citation_issue=4; citation_firstpage=290; citation_lastpage=296; citation_doi=10.1111/j.1467-7717.1987.tb00652.x">
+<meta name="citation_reference" content="23. H  Contzen  : Preparations in hospital for the treatment of mass casualties, Prehosp Disast Med 1985;1:118–73.">
+<meta name="citation_reference" content="24. LB  Katz  ,  EF  Pascarelli  : Planning and developing a community hospital disaster program. Emergency Medical Services, Sept/Oct 1978:70.">
+<meta name="citation_reference" content="citation_title=Disaster epidemiology: or why most international disaster relief is ineffective; citation_author=Seaman, J.; citation_publication_date=1990; citation_journal_title=Injury; citation_volume=21; citation_issue=1; citation_firstpage=5; citation_lastpage=8; citation_doi=10.1016/0020-1383(90)90143-I">
+<meta name="citation_reference" content="26.Pan-American Health Organization: Emergency Health Management after Natural Disaster. Scientific publication no. 407, Washington, DC: PAHO Office of Emergency Preparedness and Disaster Relief Coordination. 1981.">
+<meta name="citation_reference" content="27.World Health Organization: Emergency care in natural disasters: Views of an international seminar. WHO Chron 1980;34:96–100.">
+<meta name="citation_reference" content="28. AL  Jenkins  ,  JH  van de Leuv  : Disaster Planning in Emergency Department Organization and Management, 2 ed.St Louis: Mosby. 1978.">
+<meta name="citation_reference" content="29. WH  Foege  : Public health aspects of disaster management. In:  JM  Last   (ed), Public Health and Preventive Medicine, 11 ed, New York: Appleton-Century-Crofts. 1980.">
+<meta name="citation_reference" content="30. C  de Ville de Goyet  ,  E  Jeannee  : Epidemiological data on morbidity and mortality following the Guatemala earthquake. IRCS Med Sci Soc Med 1976;4:212.">
+<meta name="citation_reference" content="31. C  de Ville de Goyet  ,  E  del Cid  ,  A  Romero  , et al: Earthquake in Guatemala: Epidemiological evaluation of the relief effort. Pan Am Health Organ Bull 1976;10:95–109.">
+<meta name="citation_reference" content="32. P  Autier  ,  M  Ferir  ,  A  Hairapetian  , et al: Drug supply in the aftermath of the 1988 Armenian earthquake. Lancet 1990;335:1388–1390.">
+<meta name="citation_reference" content="33. MF  Lechat  : Updates: The epidemiology of health effects of disasters, Epidemiol Rev 1990;12:192–197.">
+<meta name="citation_reference" content="citation_title=The Historical Development of Public Health Responses to Disasters; citation_author=Noji, Eric K.; citation_author=Toole, Michael J.; citation_publication_date=1997; citation_journal_title=Disasters; citation_volume=21; citation_issue=4; citation_firstpage=366; citation_lastpage=376; citation_doi=10.1111/1467-7717.00068">
+<meta name="citation_reference" content="35. MJ  Toole  ,  M  Tailhades  : Disasters: What are the needs? How can they be assessed? Trop Doet 1991;219(suppl):18–23.">
+<meta name="citation_reference" content="36.World Health Organization: Rapid Health Assessment Protocols. Geneva: WHO. 1999.">
+<meta name="citation_reference" content="citation_title=Development of Rapid Epidemiologic Assessment Methods to Evaluate Health Status and Delivery of Health Service; citation_author=Smith, G. S; citation_publication_date=1989; citation_journal_title=International Journal of Epidemiology; citation_volume=18; citation_issue=Supplement 2; citation_firstpage=S2; citation_lastpage=S15; citation_doi=10.1093/ije/18.Supplement_2.S2">
+<meta name="citation_reference" content="38. D  Guha-Sapir  : Rapid needs assessment in mass emergencies: Review of current concepts and methods. World Health Stat Q 1991;44:171–181.">
+<meta name="citation_reference" content="39.Centers for Disease Control: Rapid health needs assessment following Hurricane Andrew in Florida and Louisiana, MMWR 1992;41:685–688.">
+<meta name="citation_reference" content="40. MRS  Surmieda  ,  G  Abad-Viola  ,  IP  Abellanosa  , et al: Surveillance in evacuation camps after the eruption of Mt. Pinatubo. MMWR Surveilance Summaries 1992;41(No. Ss-4):9–12.">
+<meta name="citation_reference" content="41. J  Orlowski  : Floods, hurricanes, and tsunamis. In:  P  Baskett  ,  R  Weller   (ed), Medicine for Disasters, London: Wright. 1988.">
+<meta name="citation_reference" content="42. JG  French  ,  R  Ing  ,  S  Von allmen  , et al: Mortality from flash flood: A review of National Weather Service Reports. Public Health Rep 1983;98:584–588.">
+<meta name="citation_reference" content="citation_title=Medical Consequences of Natural Disasters; citation_author=Beinin, Lazar; citation_publisher=Springer Berlin Heidelberg; citation_publication_date=1985">
+<meta name="citation_reference" content="44. J  Seaman  : Epidemiology of natural disasters. Contrib Epidemiol Biostat 1984;5:1–177.">
+<meta name="citation_reference" content="45. A  Sommer  ,  WH  Mosley  : East Bengal cyclone of November. Lancet 1970;1:1029–1036.">
+<meta name="citation_reference" content="46. JH  Ussher  : Philippine flood disaster, J Res Naval Med Serv 1973;59:81.">
+<meta name="citation_reference" content="citation_title=Health Assessment of the 1985 Flood Disaster in Puerto Rico; citation_author=DIETZ, VANCE J.; citation_author=RIGAU-PEREZ, JOSE G.; citation_author=SANDERSON, LEE; citation_author=DIAZ, LYDIA; citation_author=GUNN, ROBERT A.; citation_publication_date=1990; citation_journal_title=Disasters; citation_volume=14; citation_issue=2; citation_firstpage=164; citation_lastpage=170; citation_doi=10.1111/j.1467-7717.1990.tb01057.x">
+<meta name="citation_reference" content="48.Pan-American Health Organization: Assessing Needs in the Health Sector after Floods and Hurricanes, Technical paper no. 11. Washington, DC: The Organization. 1987.">
+<meta name="citation_reference" content="49. C  de Ville de Goyet  ,  JL  Zeballos  : Communicable diseases and epidemiological surveillance after sudden natural disasters. In:  P  Baskett  ,  R  Weller   (ed): Medicine for Disasters, London: Wright. 1988.">
+<meta name="citation_reference" content="50. J  Malilay  : Floods. In:  EK  Noji   (ed), The Public Health Consequences of Disasters, New York: Oxford University Press. 1997.">
+<meta name="citation_reference" content="51.Federal Emergency Management Agency: Principal Threats Facing Communities and Local Emergency Management Coordinators: A Report to the US Senate Committee on Appropriations. Washington, DC: FEMA Office of Emergency Management. 1992.">
+<meta name="citation_reference" content="citation_title=Hurricane Hugo-related Deaths: South Carolina and Puerto Rico, 1989; citation_author=PHILEN, ROSSANNE M.; citation_author=COMBS, DEBRA L.; citation_author=MILLER, LYNN; citation_author=SANDERSON, LEE M.; citation_author=PARRISH, R. GIBSON; citation_author=ING, ROY; citation_publication_date=1992; citation_journal_title=Disasters; citation_volume=16; citation_issue=1; citation_firstpage=53; citation_lastpage=59; citation_doi=10.1111/j.1467-7717.1992.tb00375.x">
+<meta name="citation_reference" content="53. EM  Gross  : The hurricane dilemma in the United States, Episodes: International Geoscience Newsmagazine 1991;14:36.">
+<meta name="citation_reference" content="54. RC  Sheets  : The United States Hurricane Problem: An Assessment for the 1990&amp;amp;apos;s. Miami: National Hurricane Center. 1994:1–45.">
+<meta name="citation_reference" content="55. RI  Glass  ,  C  Bern  ,  J  Sniezek  , et al: Health Effects of the 1991 Bangladesh Cyclone: Report of a UNICEF Evaluation Team. New York: UNICEF. 1992:153–165.">
+<meta name="citation_reference" content="citation_title=Perception of illusory movement; citation_author=Fraser, Alex; citation_author=Wilcox, Kimerly J.; citation_publication_date=1979; citation_journal_title=Nature; citation_volume=281; citation_issue=5732; citation_firstpage=565; citation_lastpage=566; citation_doi=10.1038/281565a0">
+<meta name="citation_reference" content="57. JG  French  : Hurricanes. In:  MB  Gregg   (ed), The Public Health Consequences of Disasters, Atlanta: Centers for Disease Control. 1989.">
+<meta name="citation_reference" content="58.Pan-American Health Organization: Report on Disasters and Emergency Preparedness for Jamaica, St. Vincent and Dominica, Disaster report no. 2. Washington, DC: The Organization. 1980.">
+<meta name="citation_reference" content="59.Centers for Disease Control: Medical examiner reports of deaths associated with Hurricane Andrew in Florida: Preliminary report. MMWR 1992;41:641–644.">
+<meta name="citation_reference" content="60. CH  Gurd  ,  A  Bromwich  ,  JV  Quinn  : The health management of Cyclone Tracy, Med J Aust 1975;1:641.">
+<meta name="citation_reference" content="61.Centers for Disease Control: Medical examiner/coroner reports of deaths associated with Hurricane Hugo, South Carolina. MMWR 1989;38:754–762.">
+<meta name="citation_reference" content="62.Centers for Disease Control: Update: Work-related electrocutions associated with Hurricane Hugo. MMWR 1989;38:718.">
+<meta name="citation_reference" content="citation_title=Disaster Medical Assistance Teams: Providing Health Care to a Community Struck by Hurricane Iniki; citation_author=Henderson, Alden K.; citation_author=Lillibridge, Scott R.; citation_author=Salinas, Conrad; citation_author=Graves, Roy W.; citation_author=Roth, Paul B.; citation_author=Noji, Eric K.; citation_publication_date=1994; citation_journal_title=Annals of Emergency Medicine; citation_volume=23; citation_issue=4; citation_firstpage=726; citation_lastpage=730; citation_doi=10.1016/S0196-0644(94)70306-X">
+<meta name="citation_reference" content="citation_title=The St Croix disaster and the national disaster medical system; citation_author=Roth, Paul B; citation_author=Vogel, Albert; citation_author=Key, George; citation_author=Hall, Deborah; citation_author=Stockhoff, Cy T; citation_publication_date=1991; citation_journal_title=Annals of Emergency Medicine; citation_volume=20; citation_issue=4; citation_firstpage=391; citation_lastpage=395; citation_doi=10.1016/S0196-0644(05)81661-0">
+<meta name="citation_reference" content="65. EK  Noji  : Analysis of medical needs in disasters caused by tropical cyclones: The need for a uniform injury reporting scheme. J Trop Med &amp;amp;amp;Hyg 1993;96:370–376.">
+<meta name="citation_reference" content="66. SP  Cohen  ,  CV  Raghavulu  : The Andora Pradesh Cyclone of 1977. New Delhi, India: Vikas. 1979.">
+<meta name="citation_reference" content="67.Centers for Disease Control and Prevention: Deaths associated with Hurricanes Marilyn and Opal — United States, September-October 1995. MMWR. 1996;45:32–38.">
+<meta name="citation_reference" content="citation_title=Morbidity of Hurricane Elena; citation_author=W. LONGMIRK., COL ATKINSON; citation_author=BURCH, JOHN; citation_author=BROOM, LETETIA A.; citation_author=Pascagoula,; citation_publication_date=1988; citation_journal_title=Southern Medical Journal; citation_volume=81; citation_issue=11; citation_firstpage=1343; citation_lastpage=1346; citation_doi=10.1097/00007611-198811000-00002">
+<meta name="citation_reference" content="citation_title=Morbidity of Hurricane Frederic; citation_author=Longmire, Atkinson W; citation_author=Ten Eyck, Raymond P; citation_publication_date=1984; citation_journal_title=Annals of Emergency Medicine; citation_volume=13; citation_issue=5; citation_firstpage=334; citation_lastpage=338; citation_doi=10.1016/S0196-0644(84)80115-8">
+<meta name="citation_reference" content="70.Pan American Health Organization: The Effects of Hurricane David, 1979, on the Population of Dominica, Disaster Report No. 1, Washington, DC: The Organization. 1979.">
+<meta name="citation_reference" content="71.Pan-American Health Organization: Hurricane Gilbert in Jamaica, September, 1988, Disaster Report No. 5, Washington, DC: The Organization. 1989.">
+<meta name="citation_reference" content="72.Centers for Disease Control: Surveillance of shelters after Hurricane Hugo in Puerto Rico. MMWR 1990;39:41.">
+<meta name="citation_reference" content="73.US Public Health Service: Hurricane Mitch. Situation Report No. 3. Rockville, Md: US Public Health Service. 1998.">
+<meta name="citation_reference" content="74. EK  Noji  : The Public Health Consequences of Disasters. New York and Oxford, Oxford University Press, 1997.">
+<meta name="citation_reference" content="citation_title=Delayed-impact infectious disease after a natural disaster; citation_author=Bissell, Richard A.; citation_publication_date=1983; citation_journal_title=The Journal of Emergency Medicine; citation_volume=1; citation_issue=1; citation_firstpage=59; citation_lastpage=66; citation_doi=10.1016/0736-4679(83)90010-0">
+<meta name="citation_reference" content="76. DR  Lillibridge  : Tornadoes. In:  EK  Noji   (ed): The Public Health Consequences of Disasters. New York: Oxford University Press. 1997.">
+<meta name="citation_reference" content="citation_title=Relationship of Tornado Deaths to Severe Weather Watch Areas; citation_author=Galway, Joseph G.; citation_publication_date=1975; citation_journal_title=Monthly Weather Review; citation_volume=103; citation_issue=8; citation_firstpage=737; citation_lastpage=741; citation_doi=10.1175/1520-0493(1975)103&amp;lt;0737:ROTDTS&amp;gt;2.0.CO;2">
+<meta name="citation_reference" content="78.National Oceanic and Atmospheric Administration, US Department of Commerce: Tornado. Washington, DC: US Government Printing Office. 1973.">
+<meta name="citation_reference" content="79. S  Kindel  : Penny-wise, pound-foolish, Forbes 1985;17:170.">
+<meta name="citation_reference" content="80. SA  Brenner  ,  EK  Noji  : Risk factors for death and injury in tornadoes: An epidemiologie approach. In:  C  Church  ,  D  Burgess  ,  C  Doswell  , et al (eds): The Tornado: Its Structure, Dynamics, Prediction, and Hazards, Washington, DC: American Geophysical Union. 1993.">
+<meta name="citation_reference" content="citation_title=Injuries from the Wichita Falls Tornado: Implications for Prevention; citation_author=Glass, R. I.; citation_author=Craven, R. B.; citation_author=Bregman, D. J.; citation_author=Stoll, B. J.; citation_author=Horowitz, N.; citation_author=Kerndt, P.; citation_author=Winkle, J.; citation_publication_date=1980; citation_journal_title=Science; citation_volume=207; citation_issue=4432; citation_firstpage=734; citation_lastpage=738; citation_doi=10.1126/science.207.4432.734">
+<meta name="citation_reference" content="82. PD  Gordon  : Special Statistical Summary of Deaths, Injuries and Property Loss by Type of Disaster, 1970–1980, Washington, DC: Federal Emergency Management Agency. 1982.">
+<meta name="citation_reference" content="citation_title=Head and neck injuries from 1990 Illinois tornado.; citation_author=Brenner, S A; citation_author=Noji, E K; citation_publication_date=1992; citation_journal_title=American Journal of Public Health; citation_volume=82; citation_issue=9; citation_firstpage=1296; citation_lastpage=1297; citation_doi=10.2105/AJPH.82.9.1296-a">
+<meta name="citation_reference" content="citation_title=MANAGEMENT OF TORNADO CASUALTIES; citation_author=MANDELBAUM, I.; citation_author=NAHRWOLD, D.; citation_author=BOYER, D. W.; citation_publication_date=1966; citation_journal_title=The Journal of Trauma: Injury, Infection, and Critical Care; citation_volume=6; citation_issue=3; citation_firstpage=353; citation_lastpage=361; citation_doi=10.1097/00005373-196605000-00005">
+<meta name="citation_reference" content="85. HJ  Bakst  : The Worcester County Tornado: Medical Study of the Disaster, Washington, DC: National Research Council, Committee on Disaster Studies. 1954.">
+<meta name="citation_reference" content="citation_title=Wound Infections After Tornadoes; citation_author=Brenner, Sue Anne; citation_author=Noji, Eric K.; citation_publication_date=1992; citation_journal_title=The Journal of Trauma: Injury, Infection, and Critical Care; citation_volume=33; citation_issue=4; citation_firstpage=643; citation_doi=10.1097/00005373-199210000-00024">
+<meta name="citation_reference" content="citation_title=Medical Aspects of the Worcester Tornado Disaster; citation_author=Hight, Donald; citation_author=Blodgett, James T.; citation_author=Groge, Edmund J.; citation_author=Horne, Elwood O.; citation_author=McKoan, John W.; citation_author=Whelan, Charles S.; citation_publication_date=1956; citation_journal_title=New England Journal of Medicine; citation_volume=254; citation_issue=6; citation_firstpage=267; citation_lastpage=271; citation_doi=10.1056/NEJM195602092540605">
+<meta name="citation_reference" content="citation_title=Microbiologic Study of Wound Infections; citation_author=Gilbert, David N.; citation_author=Sanford, Jay P.; citation_author=Kutscher, Earline; citation_author=Sanders, Charles V.; citation_author=Luby, James P.; citation_author=Barnett, Jack A.; citation_publication_date=1973; citation_journal_title=Archives of Environmental Health: An International Journal; citation_volume=26; citation_issue=3; citation_firstpage=125; citation_lastpage=130; citation_doi=10.1080/00039896.1973.10666239">
+<meta name="citation_reference" content="89. JH  Ivy  : Infections encountered in tornado and automobile accident victims. J Ind Med Assoc 1968;61:1657–1660.">
+<meta name="citation_reference" content="citation_title=Volcanic Hazards; citation_author=BLONG, R.J.; citation_publisher=Elsevier; citation_publication_date=1984; citation_firstpage=14; citation_lastpage=69">
+<meta name="citation_reference" content="91. RA  Bailey  : The Volcano Hazards Program: Objectives and long-range plans. US Geological Survey Open-File Report 83–400. 1983.">
+<meta name="citation_reference" content="citation_title=Chapter 1: Introduction to the Epidemiological Aspects of Explosive Volcanism; citation_author=Bernstein, Robert S.; citation_author=Baxter, Peter J.; citation_author=Buist, A. Sonia; citation_publication_date=1986; citation_journal_title=American Journal of Public Health; citation_volume=76; citation_issue=Suppl; citation_firstpage=3; citation_lastpage=9; citation_doi=10.2105/AJPH.76.Suppl.3">
+<meta name="citation_reference" content="93. F  Cuny  : Disasters and Development, Oxford, Eng: Oxford University Press. 1983.">
+<meta name="citation_reference" content="citation_title=Medical aspects of volcanic disasters: An outline of the hazards and emergency response measures; citation_author=Baxter, Peter J.; citation_author=Bernstein, Robert S.; citation_author=Falk, Henry; citation_author=French, Jean; citation_author=Ing, Roy; citation_publication_date=1982; citation_journal_title=Disasters; citation_volume=6; citation_issue=4; citation_firstpage=268; citation_lastpage=276; citation_doi=10.1111/j.1467-7717.1982.tb00549.x">
+<meta name="citation_reference" content="95. PJ  Baxter  : Volcanoes. In:  EK  Noji   (ed): The Public Health Consequences of Disasters, New York Oxford University Press. 1997.">
+<meta name="citation_reference" content="citation_title=Volcanic Hazards; citation_author=Walker, George P. L.; citation_publication_date=2013; citation_journal_title=Interdisciplinary Science Reviews; citation_volume=7; citation_issue=2; citation_firstpage=148; citation_lastpage=157; citation_doi=10.1179/030801882789801133">
+<meta name="citation_reference" content="citation_title=Volcanoes to Keep an Eye on: The western United States has scores of volcanoes likely to erupt in the future; some of them may be waking from long slumbers; citation_author=KERR, R. A.; citation_publication_date=1983; citation_journal_title=Science; citation_volume=221; citation_issue=4611; citation_firstpage=634; citation_lastpage=635; citation_doi=10.1126/science.221.4611.634">
+<meta name="citation_reference" content="citation_title=Volcanic disasters in Latin America and the 13th November 1985 eruption of Nevado del Ruiz volcano in Colombia; citation_author=Sigurdsson, Haraldur; citation_author=Carey, Steven; citation_publication_date=1986; citation_journal_title=Disasters; citation_volume=10; citation_issue=3; citation_firstpage=205; citation_lastpage=216; citation_doi=10.1111/j.1467-7717.1986.tb00590.x">
+<meta name="citation_reference" content="99. M  Othman-Chande  : The Cameroon volcanic gas disaster: An analysis of a makeshift response, Disasters 1987;2:96–102.">
+<meta name="citation_reference" content="citation_title=Gas Bursts from Cameroon Crater Lakes: A New Natural Hazard; citation_author=SIGURDSSON, HARALDUR; citation_publication_date=1988; citation_journal_title=Disasters; citation_volume=12; citation_issue=2; citation_firstpage=131; citation_lastpage=146; citation_doi=10.1111/j.1467-7717.1988.tb00661.x">
+<meta name="citation_reference" content="citation_title=Immediate public health concerns and actions in volcanic eruptions: lessons from the Mount St. Helens eruptions, May 18-October 18, 1980.; citation_author=Bernstein, R S; citation_author=Baxter, P J; citation_author=Falk, H; citation_author=Ing, R; citation_author=Foster, L; citation_author=Frost, F; citation_publication_date=1986; citation_journal_title=American Journal of Public Health; citation_volume=76; citation_issue=Suppl; citation_firstpage=25; citation_lastpage=37; citation_doi=10.2105/AJPH.76.Suppl.25">
+<meta name="citation_reference" content="citation_title=In the wake of Mount St Helens; citation_author=Nania, Jim; citation_author=Bruya, Timothy E.; citation_publication_date=1982; citation_journal_title=Annals of Emergency Medicine; citation_volume=11; citation_issue=4; citation_firstpage=184; citation_lastpage=191; citation_doi=10.1016/S0196-0644(82)80495-2">
+<meta name="citation_reference" content="103. CH  Rubin  ,  EK  Noji  : Impact of the eruption of Mt. Hudson on livestock in Argentina. Bull Global Volcanism Network 1991;16:5–6.">
+<meta name="citation_reference" content="104. C  Manni  ,  S  Magalini  ,  R  Proietti  : Volcanoes. In:  P  Baskett  ,  R  Weller   (ed): Medicine for Disasters, London: Wright. 1988.">
+<meta name="citation_reference" content="105. J  Malilay  : Volcanic Eruption of Cerro Negro, Nicaruagua, April, 1992. Report to the Pan American Health Organization (PAHO). Washington, DC: PAHO Emergency Preparedness and Disaster Relief Coordination Unit. 1992.">
+<meta name="citation_reference" content="citation_title=Deaths during the May 18, 1980, Eruption of Mount St. Helens; citation_author=Eisele, John W.; citation_author=O&amp;#39;Halloran, Ronald L.; citation_author=Reay, Donald T.; citation_author=Lindholm, George R.; citation_author=Lewman, Larry V.; citation_author=Brady, William J.; citation_publication_date=1981; citation_journal_title=New England Journal of Medicine; citation_volume=305; citation_issue=16; citation_firstpage=931; citation_lastpage=936; citation_doi=10.1056/NEJM198110153051606">
+<meta name="citation_reference" content="citation_title=Preventive health measures in volcanic eruptions.; citation_author=Baxter, P J; citation_author=Bernstein, R S; citation_author=Buist, A S; citation_publication_date=1986; citation_journal_title=American Journal of Public Health; citation_volume=76; citation_issue=Suppl; citation_firstpage=84; citation_lastpage=90; citation_doi=10.2105/AJPH.76.Suppl.84">
+<meta name="citation_reference" content="108. H  Falk  ,  PJ  Baxter  ,  R  Ing  : Mount St. Helens Volcano Health Report No 18, Atlanta: Centers for Disease Control.1980.">
+<meta name="citation_reference" content="109. H  Falk  ,  PJ  Baxter  ,  R  Ing  : Mount St. Helens Volcano Health Report No 19, Atlanta: Centers for Disease Control. 1980.">
+<meta name="citation_reference" content="110. MJ  Oxtoby  ,  CV  Broome  ,  MR  Pinzon  : Late mortality in Nevado del Ruiz victims. In: Disaster Chronicles No. 4, The Volcanic Eruption in Colombia, November 13, 1985. Washington, DC: Pan-American Health Organization. 1986.">
+<meta name="citation_reference" content="111. J  Malilay  : Medical and healthcare aspects of the 1992 earthquake in Egypt. In: Report of the Earthquake Engineering Research Institute Reconnaissance Team, Oakland: Earthquake Engineering Research Institute. 1992.">
+<meta name="citation_reference" content="citation_title=Injuries as a Result of California Earthquakes in the Past Decade; citation_author=Shoaf, Kimberley I.; citation_author=Sareen, Harvinder R.; citation_author=Nguyen, Loc H.; citation_author=Bourque, Linda B.; citation_publication_date=1998; citation_journal_title=Disasters; citation_volume=22; citation_issue=3; citation_firstpage=218; citation_lastpage=235; citation_doi=10.1111/1467-7717.00088">
+<meta name="citation_reference" content="113. C  Arnold  ,  M  Durkin  : Hospitals and the San Fernando Earthquake of 1971: The Operational Experience. San Mateo, Calif: Building Systems Development, Inc, 1983. p 1.">
+<meta name="citation_reference" content="114. EK  Noji  ,  NP  Jones  : Hospital preparedness for earthquakes. In:  KM  Tomasik   (ed) Emergency Preparedness: When Disaster Strikes. Plant, Technology &amp;amp;amp; Safety Management Series, Oakbrook Terrace, Ill: Joint Commission on the Accreditation of Healthcare Organizations. 1994.">
+<meta name="citation_reference" content="citation_title=How to prepare a hospital for an earthquake; citation_author=Reitherman, Robert; citation_publication_date=1986; citation_journal_title=The Journal of Emergency Medicine; citation_volume=4; citation_issue=2; citation_firstpage=119; citation_lastpage=131; citation_doi=10.1016/0736-4679(86)90075-2">
+<meta name="citation_reference" content="citation_title=Earthquake Injuries Related to Housing in a Guatemalan Village; citation_author=Glass, R. I.; citation_author=Urrutia, J. J.; citation_author=Sibony, S.; citation_author=Smith, H.; citation_author=Garcia, B.; citation_author=Rizzo, L.; citation_publication_date=1977; citation_journal_title=Science; citation_volume=197; citation_issue=4304; citation_firstpage=638; citation_lastpage=643; citation_doi=10.1126/science.197.4304.638">
+<meta name="citation_reference" content="citation_title=The 1988 earthquake in Soviet Armenia: A case study; citation_author=Noji, Eric K; citation_author=Kelen, Gabor D; citation_author=Armenian, Haroutune K; citation_author=Oganessian, Ashot; citation_author=Jones, Nicholas P; citation_author=Sivertson, Keith T; citation_publication_date=1990; citation_journal_title=Annals of Emergency Medicine; citation_volume=19; citation_issue=8; citation_firstpage=891; citation_lastpage=897; citation_doi=10.1016/S0196-0644(05)81563-X">
+<meta name="citation_reference" content="citation_title=The 1989 Loma Prieta earthquake: Impact on Hospital Patient Care; citation_author=Pointer, James E; citation_author=Michaelis, Janet; citation_author=Saunders, Charles; citation_author=Martchenke, Julie; citation_author=Barton, Christopher; citation_author=Palafox, Jorge; citation_author=Kleinrock, Marie; citation_author=Calabro, Joseph J; citation_publication_date=1992; citation_journal_title=Annals of Emergency Medicine; citation_volume=21; citation_issue=10; citation_firstpage=1228; citation_lastpage=1233; citation_doi=10.1016/S0196-0644(05)81751-2">
+<meta name="citation_reference" content="119. AW  Coburn  ,  RE  Hughes  : Fatalities, injury and rescue in earthquakes. In: 2nd Conference of the Development Studies Association, Manchester, Eng: University of Manchester. 1987.">
+<meta name="citation_reference" content="120. AW  Coburn  ,  HO  Murakami  ,  Y  Ohta  : Factors affecting fatalities and injury. In: Earthquakes: Engineering Seismology and Earthquake. Disaster Prevention Planning Internal Report. Hokkaido University, Hokkaido, Japan, 1987.">
+<meta name="citation_reference" content="121. OS  Better  ,  JH  Stein  : Early management of shock and prophylaxis of acute renal failure in traumatic rhabdomyolysis, N Engl J Med 1990:322:825–829.">
+<meta name="citation_reference" content="122. P  Safar  ,  EA  Pretto  ,  NG  Bircher  : Resuscitation medicine including the management of severe trauma. In  P  Baskett  ,  R  Weiler   (ed), Medicine for Disasters, London: Wright. 1988.">
+<meta name="citation_reference" content="123. EK  Noji  : Earthquakes. In:  EK  Noji   (ed): The Public Health Consequences of Disasters, New York: Oxford University Press. 1997.">
+<meta name="citation_reference" content="124. P  Memarzadeh  : The earthquake of August 31, 1968, in the South of Khorasan, Iran. In: Proceedings of the Joint IHF/IUA/UNDRO/WHO Seminar. Manila: World Health Organization Regional Office. 1978.">
+<meta name="citation_reference" content="citation_title=Issues of Rescue and Medical Care Following the 1988 Armenian Earthquake; citation_author=NOJI, ERIC K; citation_author=ARMENIAN, HAROUTUNE K; citation_author=OGANESSIAN, ASHOT; citation_publication_date=1993; citation_journal_title=International Journal of Epidemiology; citation_volume=22; citation_issue=6; citation_firstpage=1070; citation_lastpage=1076; citation_doi=10.1093/ije/22.6.1070">
+<meta name="citation_reference" content="126. CC  Thiel  : 911 EMS process in the Loma Prieta earthquake, Prehosp Disast Med 1992;7:348–358.">
+<meta name="citation_reference" content="citation_title=Acute Renal Failure in Natural Disasters; citation_author=Noji, Eric K.; citation_publication_date=2009; citation_journal_title=Renal Failure; citation_volume=14; citation_issue=3; citation_firstpage=245; citation_lastpage=249; citation_doi=10.3109/08860229209106625">
+<meta name="citation_reference" content="128. EK  Noji  : Prophylaxis of acute renal failure in traumatic rhabdomyoly-sis. N Engl J Med 1990;323:550. Letter.">
+<meta name="citation_reference" content="129. RA  Hingston  ,  L  Hingston  : Respiratory injuries in earthquakes in Latin America in the 1970s: a personal experience in Peru (1970); Nicaragua (1972–3); and Guatemala (1976). Disaster Med 1983;1:425–426.">
+<meta name="citation_reference" content="130. EK  Noji  : Medical consequences of earthquakes: Coordinating medical and rescue response. Disaster Management 1991;4:32–40.">
+<meta name="citation_reference" content="citation_title=The 1980 Earthquake in Southern Italy— Morbidity and Mortality; citation_author=BRUYCKER, MARC DE; citation_author=GRECO, DONATO; citation_author=LECHAT, MICHEL F; citation_publication_date=1985; citation_journal_title=International Journal of Epidemiology; citation_volume=14; citation_issue=1; citation_firstpage=113; citation_lastpage=117; citation_doi=10.1093/ije/14.1.113">
+<meta name="citation_reference" content="132 M  de Bruycker  ,  D  Greco  ,  I  Annino  , et al: The 1980 earthquake in southern Italy: Rescue of trapped victims and mortality. Bull WHO 1983;61:1021–1025.">
+<meta name="citation_reference" content="citation_title=A Medical Disaster Response to Reduce Immediate Mortality after an Earthquake; citation_author=Schultz, Carl H.; citation_author=Koenig, Kristi L.; citation_author=Noji, Eric K.; citation_publication_date=1996; citation_journal_title=New England Journal of Medicine; citation_volume=334; citation_issue=7; citation_firstpage=438; citation_lastpage=444; citation_doi=10.1056/NEJM199602153340706">
+<meta name="citation_reference" content="citation_title=Medical Support in the Tangshan Earthquake; citation_author=ZHI-YONG, SHENG; citation_publication_date=1987; citation_journal_title=The Journal of Trauma: Injury, Infection, and Critical Care; citation_volume=27; citation_issue=10; citation_firstpage=1130; citation_lastpage=1135; citation_doi=10.1097/00005373-198710000-00007">
+<meta name="citation_reference" content="citation_title=Earthquake-Related Stress and Cardiac Mortality; citation_author=KATSOUYANNI, KLEA; citation_author=KOGEVINAS, MANOLIS; citation_author=TRICHOPOULOS, MITRIOS; citation_publication_date=1986; citation_journal_title=International Journal of Epidemiology; citation_volume=15; citation_issue=3; citation_firstpage=326; citation_lastpage=330; citation_doi=10.1093/ije/15.3.326">
+<meta name="citation_reference" content="137. D  Trichopoulos  ,  K  Katsouyanni  ,  X  Zavitsanos  : Psychological stress and fatal heart attack: The Athens 1981 earthquake natural experiment. Lancet 1983;1:441–443.">
+<meta name="citation_reference" content="citation_title=Communicable disease epidemiology following disasters; citation_author=Toole, Michael J; citation_publication_date=1992; citation_journal_title=Annals of Emergency Medicine; citation_volume=21; citation_issue=4; citation_firstpage=418; citation_lastpage=420; citation_doi=10.1016/S0196-0644(05)82662-9">
+<meta name="citation_reference" content="citation_title=Infectious diseases following major disasters; citation_author=Aghababian, Richard V; citation_author=Teuscher, Josette; citation_publication_date=1992; citation_journal_title=Annals of Emergency Medicine; citation_volume=21; citation_issue=4; citation_firstpage=362; citation_lastpage=367; citation_doi=10.1016/S0196-0644(05)82651-4">
+<meta name="citation_reference" content="140.Centers for Disease Control: Outbreak of diarrheal illness associated with a natural disaster in Utah. MMWR 1986;35:662–664.">
+<meta name="citation_reference" content="141.Centers for Disease Control: Health assessment of the population affected by flood conditions in Khartoum, Sudan. MMWR 1989;38:785–788.">
+<meta name="citation_reference" content="142. M  Gregg  : Management of Surveillance Operations following a Disaster. Atlanta: Centers for Disease Control. 1979.">
+<meta name="citation_reference" content="citation_title=Disease Surveillance and Control After a Flood: Khartoum, Sudan, 1988; citation_author=WOODRUFF, BRADLEY A.; citation_author=TOOLE, MICHAEL J.; citation_author=RODRIGUE, DANIEL C.; citation_author=BRINK, EDWARD W.; citation_author=MAHGOUB, EL SADIG; citation_author=AHMED, MAGDA MOHAMED; citation_author=BABIKAR, ADAM; citation_publication_date=1990; citation_journal_title=Disasters; citation_volume=14; citation_issue=2; citation_firstpage=151; citation_lastpage=163; citation_doi=10.1111/j.1467-7717.1990.tb01056.x">
+<meta name="citation_reference" content="144.Centers for Disease Control: Current trends in flood disasters and immunization in California. MMWR 1983;32:171–172.">
+<meta name="citation_reference" content="citation_title=Fatality management in mass casualty incidents; citation_author=Hooft, Peter J.; citation_author=Noji, Eric K.; citation_author=Van De Voorde, Herman P.; citation_publication_date=1989; citation_journal_title=Forensic Science International; citation_volume=40; citation_issue=1; citation_firstpage=3; citation_lastpage=14; citation_doi=10.1016/0379-0738(89)90163-1">
+<meta name="citation_reference" content="citation_title=Progress in disaster management; citation_author=NOJI, E; citation_publication_date=1994; citation_journal_title=The Lancet; citation_volume=343; citation_issue=8908; citation_firstpage=1239; citation_lastpage=1240; citation_doi=10.1016/S0140-6736(94)92145-8">
+<meta name="citation_reference" content="citation_title=Disaster epidemiology; citation_publication_date=1990; citation_journal_title=The Lancet; citation_volume=336; citation_issue=8719; citation_firstpage=845; citation_lastpage=846; citation_doi=10.1016/0140-6736(90)92343-G">
+<meta name="citation_reference" content="148. Y  Chen  ,  KL  Tsoi  ,  F  Chen  , et al: The Great Tangshan Earthquake of 1976: An anatomy of disaster. Oxford (UK)Pergamon Press, 1988">
+<link rel="alternate" href="/core/journals/prehospital-and-disaster-medicine/article/div-classtitlethe-public-health-consequences-of-disastersdiv/02F6B8FEEAC2A36F13C0EC4A84710D73" hreflang="en"/> <script> (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function() { (i[r].q=i[r].q||[]).push(arguments)} ,i[r].l=1*new Date();a=s.createElement(o), m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m) })(window,document,'script','https://www.google-analytics.com/analytics.js','ga'); ga('create', 'UA-86516288-1', 'auto'); ga('send', 'pageview'); </script>
+</head>
+<body>
+<a id="skiptocontent" href="#maincontent">Skip to main content</a>
+<div class="cookie-message">
+<div class="row">
+<div class="small-11 columns">
+<p>We use cookies to distinguish you from other users and to provide you with a better experience on our websites. Close this message to accept cookies or find out how to <a href="http://www.cambridge.org/about-us/legal-notices/cookies-policy/" target="_blank">manage your cookie settings</a>.</p>
+</div>
+<div class="small-1 columns">
+<a href="#" onclick="closeMessage();" class="cookie-close">
+<!--[if IE 8 ]>
+                  <img alt = "Close cookie message" title = "Close cookie message" src = "/core/cambridge-core/public/images/icn_circle__btn_close_white.png">
+                  <![endif]-->
+<!--[if (gte IE 9)|!(IE)]><!-->
+<img alt="Close cookie message" title="Close cookie message" src="/core/cambridge-core/public/images/icn_circle__btn_close_white.svg">
+<!--<![endif]-->
+</a>
+</div>
+</div>
+</div>
+<script>
+  var cookieMessage = $('.cookie-message');
+  var cookieName = 'EULAW';
+  var closeMessage = function () {
+      $.cookie(cookieName, true, {expires: 365, path:'/'});
+      cookieMessage.slideUp().promise().done(function () {
+          cookieMessage.remove();
+      });
+  };
+  $(document).ready(function () {
+      if ($.cookie(cookieName) !== 'true') {
+          cookieMessage.slideDown();
+      }
+  });
+  </script>
+<div id="login-modal" class="reveal-modal small" data-reveal>
+<div class="wrapper large-margin-top-for-small-only">
+<div class="row margin-top">
+<div class="large-12 columns">
+<div class="panel callout message"></div>
+</div>
+</div>
+<div class="row margin-top">
+<div class="small-6 large-6 columns"><a href="#" onclick="$('#login-modal').foundation('reveal', 'close');return false;" class="right small button radius transparent cancel">Cancel</a></div>
+<div class="small-6 large-6 columns">
+<a href="/core/login?ref=%2Fcore%2Fjournals%2Fprehospital-and-disaster-medicine%2Farticle%2Fdiv-classtitlethe-public-health-consequences-of-disastersdiv%2F02F6B8FEEAC2A36F13C0EC4A84710D73" class="left small radius button blue confirm login">Log in</a>
+</div>
+</div>
+<a class="close-reveal-modal">&#215;</a>
+</div>
+</div>
+<header>
+<div class="contain-to-grid" id="mainWrapper">
+<!--[if IE 7]>
+    <div id="global-nav" style="display: none"></div>
+      <![endif]-->
+<!--[if gte IE 8]><!-->
+<div id="global-nav"></div>
+<!--<![endif]-->
+<div class="clear"></div>
+</div>
+</header>
+<div class="off-canvas-wrap desktop overflow-visible">
+<div class="inner-wrap">
+</div>
+</div>
+<div class="row print-only">
+<div class="small-12 columns">
+<img src="/core/cambridge-core/public/images/logo_core.png" class="core-logo" alt=""/>
+</div>
+</div>
+<section class="sub-header slide-up">
+<div class="row">
+<div class="column">
+<a href="/core/">
+<div class="logo-core"><span class="show-for-sr">Home</span></div>
+</a>
+<form class="subject-search search-form prevent-empty-search no-margin-right" action="/core/search" method="GET">
+<div class="row">
+<div class="row collapse postfix-radius">
+<div class="submit-in-field js-outglow-parent clearfix">
+<div class="small-10 columns">
+<input type="text" name="q" value="" autocomplete="off" class=" js-outglow prefix-radius" placeholder="Search all journal & book content" aria-label="Search all journal & book content">
+</div>
+<div class="small-2 columns">
+<input type="submit" value="Submit search" class="button postfix">
+</div>
+</div>
+ 
+<label class="accessible"><input type="checkbox" name="checkbox" value="value">Only search content I have access to</label>
+</div>
+</div>
+</form>
+</div>
+</div>
+</section>
+<section class="menu secondary">
+<div class="row wrapper">
+<div class="column">
+<ul>
+<li><a href="#" class="menu-icon"></a></li>
+</ul>
+<ul class="sub-nav  dropdown-menu-mobile" role="menu">
+<li class="show-for-small"><a href="/core/login?ref=">Log in</a></li>
+<li class="show-for-small"><a href="/core/register">Register</a></li>
+ 
+<li><a href="/core/browse-subjects" class="no-padding-left-for-large">Browse subjects</a></li>
+<li><a href="/core/what-we-publish">What we publish</a></li>
+<li><a href="/core/services">Services</a></li>
+<li><a href="/core/about">About Cambridge Core</a></li>
+</ul>
+<div class="right">
+<ul class="show-for-small-only profile-mobile">
+<li><a href="#" class="button transparent radius search-small"><span class="icon mobile-search grey"></span></a></li>
+ 
+</ul>
+<ul class="sub-nav dropdown-menu-mobile profile" role="menu">
+<li class="hide-for-personal institution-name">
+<a class="institution-login" href="//shibboleth.cambridge.org/CJOShibb2/index?app=https://www.cambridge.org/core/shibboleth?ref=/core" id="institution-current">Institution login</a>
+</li>
+<li class="divider"></li>
+<li class="hide-for-small register"><a href="/core/register?ref=%2Fcore%2Fjournals%2Fprehospital-and-disaster-medicine%2Farticle%2Fdiv-classtitlethe-public-health-consequences-of-disastersdiv%2F02F6B8FEEAC2A36F13C0EC4A84710D73" class="button small radius transparent">Register</a></li>
+<li><a href="/core/login?ref=%2Fcore%2Fjournals%2Fprehospital-and-disaster-medicine%2Farticle%2Fdiv-classtitlethe-public-health-consequences-of-disastersdiv%2F02F6B8FEEAC2A36F13C0EC4A84710D73" class="button small radius blue">Log in</a></li>
+</ul>
+</div>
+</div>
+</div>
+</section>
+<section class="breadcrumbs-wrapper smaller">
+<div class="row">
+<ul class="large-2 column backToSearch hide">
+<li>
+<a href="#">&lt; Back to search results</a>
+</li>
+</ul>
+<script type="text/javascript">
+        var searchResultKey = 'fromSearch';
+        var $backToSearch = $('.backToSearch');
+        var fromSearch = localStorage.getItem(searchResultKey);
+    
+        if (fromSearch) {
+            $backToSearch.find('li a').attr('href', fromSearch);
+            $backToSearch.removeClass('hide');
+            localStorage.removeItem(searchResultKey);
+        }
+    </script>
+<ul class="large-10 column breadcrumbs">
+<li><a href="/core/">Home</a></li><li><a href="/core/what-we-publish/journals">Journals</a></li><li><a href="/core/journals/prehospital-and-disaster-medicine">Prehospital and Disaster Medicine</a></li><li><a href="/core/journals/prehospital-and-disaster-medicine/issue/52F7EFE68A352322FC0A520AA6B25797">Volume 15 Issue 4: The Role of Public Health in Disaster Medicine</a></li><li class="current"><a href="#">The Public Health Consequences ...</a></li>
+</ul>
+</div>
+</section>
+<div class="flash-message-container">
+<div class="flash-message">
+<div data-alert class="alert-box alert">
+<div class="alert alert-danger">Unfortunately you do not have access to this content, please use the <strong>Get access</strong> link below for information on how to access this content.</div>
+<a href="#" class="close">&times;</a>
+</div>
+<div id="ajaxMessages" class="ajaxMessages"></div>
+</div>
+</div>
+<div class="article-wrapper">
+<section class="banner article small  society-logo-exists" style="background-image: url(/core/services/aop-file-manager/file/567928145cefc91d0c2d4062)">
+<div class="content">
+<div class="center-all-container">
+<div class="center-all">
+<div class="row">
+<div class="large-6 medium-6 small-12 column banner-title">
+<div class="title title-left white">Prehospital and Disaster&nbsp;Medicine</div>
+</div>
+<div class="large-2 medium-2 small-12 column society-logo">
+<a title="Published on behalf of World Association of Disaster and Emergency Medicine" href=" https://wadem.org/" target="_blank">
+<img title="Published on behalf of World Association of Disaster and Emergency Medicine" src="/core/services/aop-file-manager/file/574d83e8aba51c97509849d1" alt="World Association for Disaster and Emergency Medicine logo"/>
+</a>
+</div>
+<div class="large-4 medium-4 small-12 column hide-for-print">
+<form action="/core/journals/prehospital-and-disaster-medicine/listing" method="GET" class="search-form">
+<div class="row">
+<div class=" columns ">
+<div class="row collapse postfix-radius search-input js-outglow-parent">
+<div class="small-10 columns">
+<input type="text" name="q" value="" autocomplete="off" class=" js-outglow prefix-radius" placeholder="Search Prehospital and Disaster Medicine" aria-label="Search Prehospital and Disaster Medicine">
+<input type="hidden" name="searchWithinIds" id="searchWithinIds" value="8469968A8290DADF03863DDCD42A83CD"/>
+</div>
+<div class="small-2 columns">
+<input type="submit" value="Submit search" class="button postfix">
+</div>
+</div>
+</div>
+</div>
+</form>
+</div>
+</div>
+</div>
+</div>
+</div>
+</section>
+<div class="column large-12 page-tabs">
+<div class="row">
+<div class="tab-title current-mobile hide-for-large-up">
+<a href="">Article</a>
+<div class="blue-square"><a href="" class="icon arrow"></a></div>
+</div>
+<ul class="tabs" data-tab data-options="deep_linking:true; scroll_to_content:false">
+<li class="tab-title active"><a href="#information">Article</a></li>
+<li class="tab-title"><a href="#metrics">Metrics</a></li>
+</ul>
+<ul class="social white right hide-for-small hide-for-medium">
+<li><a href="#" data-hasqtip="Save to my bookmarks" aria-describedby="qtip-text" data-prod-id="02F6B8FEEAC2A36F13C0EC4A84710D73" data-prod-type="JOURNAL_ARTICLE" data-bookmark class="icon bookmark requires-login"></a></li>
+<li><a href="http://www.cambridge.org/academic/journals-content-alerts/" target="_blank" data-hasqtip="Set alert" aria-describedby="qtip-text" class="icon alert"></a>
+</li>
+<li>
+<a href="#" data-hasqtip="Share" aria-describedby="qtip-text" class="icon share"></a>
+</li>
+</ul>
+</div>
+</div>
+<div class="tabs-content" id="maincontent">
+<div class="content active" id="information">
+<section class="row">
+<div class="large-12 columns">
+<div class="split-panel opposite-cols">
+<div class="wrapper">
+<div class="page-operatives enable-full-width margin-top-for-small margin-top-for-medium">
+<div class="small-12 large-9 column main-column">
+</div>
+<div class="small-12 large-3 large-offset-9 narrow-column hide-for-medium hide-for-small">
+<ul class="text-resizer-controls left">
+<li>
+<ul id="text-resizer-controls" class="textresizer ">
+<li class="standard-text textresizer-active">Aa</li>
+<li class="large-text">Aa</li>
+</ul>
+</li>
+</ul>
+<ul class="right">
+<li class="icon toggle close"></li>
+</ul>
+</div>
+</div>
+<div class="panel large-9 small-12 column main-column article-page left">
+<ul class="social white left hide-for-large-up">
+<li><a href="#" data-hasqtip="Save to my bookmarks" aria-describedby="qtip-text" data-prod-id="02F6B8FEEAC2A36F13C0EC4A84710D73" data-prod-type="JOURNAL_ARTICLE" data-bookmark class="icon bookmark requires-login"></a></li>
+<li><a href="http://www.cambridge.org/academic/journals-content-alerts/" target="_blank" data-hasqtip="Set alert" aria-describedby="qtip-text" class="icon alert"></a>
+</li>
+<li>
+<a href="#" data-hasqtip="Share" aria-describedby="qtip-text" class="icon share"></a>
+</li>
+</ul>
+<div class="article-meta overview">
+<ul class="access">
+<li class="citation"></span>Cited by <a href="#" data-reveal-id="productCitations"><span class="number">31</span></a></li>
+<li>
+<div id="productCitations" class="reveal-modal medium" data-reveal>
+<div class="header">
+<div class="heading_07 margin-bottom">Cited by</div>
+</div>
+<div class="row collapse header margin-top productCitations-content">
+<ul class="small-12 small-centered columns citations">
+<li class="fade-in section-container active">
+<a href="#" class="section-button" data-id="crossref-citations">
+<div class="circular medium citation">
+<img src="https://assets.crossref.org/logo/crossref-logo-100.png" alt="Crossref logo">
+ 
+<span class="citation-count">31</span>
+</div>
+</a>
+</li>
+<li class="fade-in section-container">
+<a href="#" class="section-button" data-id="scholar-citations">
+<div class="circular medium citation">
+<img src="https://upload.wikimedia.org/wikipedia/commons/a/a9/Google_Scholar_logo_2015.PNG" alt="Google Scholar logo">
+</div>
+</a>
+</li>
+</ul>
+</div>
+<div class="row wrapper no-padding-top section-content">
+<div class="small-10 small-centered columns">
+<section class="content" id="crossref-citations">
+<div class="large-12 columns">
+<div class="panel margin-top-small citation-container">
+<div class="row">
+<div class="medium-12 columns">
+<div class="print-only print-heading margin-bottom-large">Crossref Citations</div>
+<div class="row margin-bottom">
+<div class="small-1 columns">
+<a href="http://www.crossref.org/citedby/index.html" target="_blank">
+<img src="http://assets.crossref.org/logo/crossref-logo-100.png" alt="Crossref logo">
+</a>
+</div>
+<div class="small-11 columns">
+<h5 class="heading_10">This article has been
+cited by the following publications. This list is generated based on data provided by <a href="http://www.crossref.org/citedby/index.html" target="_blank">CrossRef</a>.</h5>
+</div>
+</div>
+<hr/>
+ 
+<p class="reference-display">
+Cruz, Miguel A.
+Garcia, Stephanie
+Chowdhury, Muhammad A. B.
+Malilay, Josephine
+Perea, Nancy
+and
+Williams, O. Dale
+2017.
+Assessing the Congregate Disaster Shelter.
+<i>Journal of Public Health Management and Practice</i>,
+Vol. 23,
+Issue. 1,
+p.
+54.
+</p>
+<ul class="reference-list">
+<li><a href="https://doi.org/10.1097/PHH.0000000000000445" target="_blank">CrossRef</a></li>
+<li><a href="https://scholar.google.com/scholar_lookup?title=Assessing+the+Congregate+Disaster+Shelter&amp;author=Cruz+Miguel+A.+Garcia+Stephanie+Chowdhury+Muhammad+A.+B.+Malilay+Josephine+Perea+Nancy+Williams+O.+Dale&amp;publication_year=2017" target="_blank">Google Scholar</a></li>
+</ul>
+<hr/>
+ 
+<p class="reference-display">
+Benedict, Kaitlin
+and
+Brandt, Mary E.
+2016.
+<i>Environmental Mycology in Public Health</i>.
+</p>
+<ul class="reference-list">
+<li><a href="https://doi.org/10.1016/B978-0-12-411471-5.00015-6" target="_blank">CrossRef</a></li>
+<li><a href="https://scholar.google.com/scholar_lookup?title=Environmental+Mycology+in+Public+Health&amp;author=Benedict+Kaitlin+Brandt+Mary+E.&amp;publication_year=2016" target="_blank">Google Scholar</a></li>
+</ul>
+<hr/>
+ 
+<p class="reference-display">
+Gaythorpe, Katy
+and
+Adams, Ben
+2016.
+Disease and disaster: Optimal deployment of epidemic control facilities in a spatially heterogeneous population with changing behaviour.
+<i>Journal of Theoretical Biology</i>,
+Vol. 397,
+p.
+169.
+</p>
+<ul class="reference-list">
+<li><a href="https://doi.org/10.1016/j.jtbi.2016.03.006" target="_blank">CrossRef</a></li>
+<li><a href="https://scholar.google.com/scholar_lookup?title=Disease+and+disaster:+Optimal+deployment+of+epidemic+control+facilities+in+a+spatially+heterogeneous+population+with+changing+behaviour&amp;author=Gaythorpe+Katy+Adams+Ben&amp;publication_year=2016" target="_blank">Google Scholar</a></li>
+</ul>
+<hr/>
+ 
+<p class="reference-display">
+Stewart, Charles
+and
+Stewart, M. Kathleen
+2016.
+<i>Ciottone&#x27;s Disaster Medicine</i>.
+</p>
+<ul class="reference-list">
+<li><a href="https://doi.org/10.1016/B978-0-323-28665-7.00057-1" target="_blank">CrossRef</a></li>
+<li><a href="https://scholar.google.com/scholar_lookup?title=Ciottone&#x27;s+Disaster+Medicine&amp;author=Stewart+Charles+Stewart+M.+Kathleen&amp;publication_year=2016" target="_blank">Google Scholar</a></li>
+</ul>
+<hr/>
+ 
+<p class="reference-display">
+Meng, Yaobin
+Lu, Chao
+Yan, Yongjie
+Shi, Liangxia
+and
+Liu, Jifu
+2015.
+Method to analyze the regional life loss risk by airborne chemicals released after devastating earthquakes: A simulation approach.
+<i>Process Safety and Environmental Protection</i>,
+Vol. 94,
+p.
+366.
+</p>
+<ul class="reference-list">
+<li><a href="https://doi.org/10.1016/j.psep.2014.09.001" target="_blank">CrossRef</a></li>
+<li><a href="https://scholar.google.com/scholar_lookup?title=Method+to+analyze+the+regional+life+loss+risk+by+airborne+chemicals+released+after+devastating+earthquakes:+A+simulation+approach&amp;author=Meng+Yaobin+Lu+Chao+Yan+Yongjie+Shi+Liangxia+Liu+Jifu&amp;publication_year=2015" target="_blank">Google Scholar</a></li>
+</ul>
+<hr/>
+ 
+<p class="reference-display">
+Sato, Mari
+Atogami, Fumi
+Nakamura, Yasuka
+Kusaka, Yuko
+and
+Yoshizawa, Toyoko
+2015.
+Committed to Working for the Community: Experiences of a Public Health Nurse in a Remote Area During the Great East Japan Earthquake.
+<i>Health Care for Women International</i>,
+Vol. 36,
+Issue. 11,
+p.
+1224.
+</p>
+<ul class="reference-list">
+<li><a href="https://doi.org/10.1080/07399332.2014.942908" target="_blank">CrossRef</a></li>
+<li><a href="https://scholar.google.com/scholar_lookup?title=Committed+to+Working+for+the+Community:+Experiences+of+a+Public+Health+Nurse+in+a+Remote+Area+During+the+Great+East+Japan+Earthquake&amp;author=Sato+Mari+Atogami+Fumi+Nakamura+Yasuka+Kusaka+Yuko+Yoshizawa+Toyoko&amp;publication_year=2015" target="_blank">Google Scholar</a></li>
+</ul>
+<hr/>
+ 
+<p class="reference-display">
+Al-Dahash, Hajer
+Kulatunga, Udayangani
+and
+Amaratunga, Dilanthi
+2014.
+Evaluation of the System of Disaster Management Resulting from War Operations and Terrorism in Iraq.
+<i>Procedia Economics and Finance</i>,
+Vol. 18,
+p.
+900.
+</p>
+<ul class="reference-list">
+<li><a href="https://doi.org/10.1016/S2212-5671(14)01016-8" target="_blank">CrossRef</a></li>
+<li><a href="https://scholar.google.com/scholar_lookup?title=Evaluation+of+the+System+of+Disaster+Management+Resulting+from+War+Operations+and+Terrorism+in+Iraq&amp;author=Al-Dahash+Hajer+Kulatunga+Udayangani+Amaratunga+Dilanthi&amp;publication_year=2014" target="_blank">Google Scholar</a></li>
+</ul>
+<hr/>
+ 
+<p class="reference-display">
+Benedict, Kaitlin
+and
+Park, Benjamin J.
+2014.
+Invasive Fungal Infections after Natural Disasters.
+<i>Emerging Infectious Diseases</i>,
+Vol. 20,
+Issue. 3,
+p.
+349.
+</p>
+<ul class="reference-list">
+<li><a href="https://doi.org/10.3201/eid2003.131230" target="_blank">CrossRef</a></li>
+<li><a href="https://scholar.google.com/scholar_lookup?title=Invasive+Fungal+Infections+after+Natural+Disasters&amp;author=Benedict+Kaitlin+Park+Benjamin+J.&amp;publication_year=2014" target="_blank">Google Scholar</a></li>
+</ul>
+<hr/>
+ 
+<p class="reference-display">
+Mahapatra, Prasanta
+2014.
+The need for evidence-based public health response in disasters.
+<i>Journal of Evidence-Based Medicine</i>,
+Vol. 7,
+Issue. 4,
+p.
+238.
+</p>
+<ul class="reference-list">
+<li><a href="https://doi.org/10.1111/jebm.12129" target="_blank">CrossRef</a></li>
+<li><a href="https://scholar.google.com/scholar_lookup?title=The+need+for+evidence-based+public+health+response+in+disasters&amp;author=Mahapatra+Prasanta&amp;publication_year=2014" target="_blank">Google Scholar</a></li>
+</ul>
+<hr/>
+ 
+<p class="reference-display">
+Moosazadeh, Mahmood
+Zolala, Farzaneh
+Sheikhzadeh, Khodadad
+Safiri, Saeid
+and
+Amiresmaili, Mohammadreza
+2014.
+Response to the Bam Earthquake: A Qualitative Study on the Experiences of the Top and Middle Level Health Managers in Kerman, Iran.
+<i>Prehospital and Disaster Medicine</i>,
+Vol. 29,
+Issue. 04,
+p.
+388.
+</p>
+<ul class="reference-list">
+<li><a href="https://doi.org/10.1017/S1049023X14000727" target="_blank">CrossRef</a></li>
+<li><a href="https://scholar.google.com/scholar_lookup?title=Response+to+the+Bam+Earthquake:+A+Qualitative+Study+on+the+Experiences+of+the+Top+and+Middle+Level+Health+Managers+in+Kerman+Iran&amp;author=Moosazadeh+Mahmood+Zolala+Farzaneh+Sheikhzadeh+Khodadad+Safiri+Saeid+Amiresmaili+Mohammadreza&amp;publication_year=2014" target="_blank">Google Scholar</a></li>
+</ul>
+<hr/>
+ 
+<p class="reference-display">
+Plumlee, G.S.
+Morman, S.A.
+Meeker, G.P.
+Hoefen, T.M.
+Hageman, P.L.
+and
+Wolf, R.E.
+2014.
+<i>Treatise on Geochemistry</i>.
+</p>
+<ul class="reference-list">
+<li><a href="https://doi.org/10.1016/B978-0-08-095975-7.00907-4" target="_blank">CrossRef</a></li>
+<li><a href="https://scholar.google.com/scholar_lookup?title=Treatise+on+Geochemistry&amp;author=Plumlee+G.S.+Morman+S.A.+Meeker+G.P.+Hoefen+T.M.+Hageman+P.L.+Wolf+R.E.&amp;publication_year=2014" target="_blank">Google Scholar</a></li>
+</ul>
+<hr/>
+ 
+<p class="reference-display">
+Runkle, Jennifer R.
+Zhang, Hongmei
+Karmaus, Wilfried
+Brock-Martin, Amy
+and
+Svendsen, Erik R.
+2013.
+Long-Term Impact of Environmental Public Health Disaster on Health System Performance.
+<i>Southern Medical Journal</i>,
+Vol. 106,
+Issue. 1,
+p.
+74.
+</p>
+<ul class="reference-list">
+<li><a href="https://doi.org/10.1097/SMJ.0b013e31827c54fc" target="_blank">CrossRef</a></li>
+<li><a href="https://scholar.google.com/scholar_lookup?title=Long-Term+Impact+of+Environmental+Public+Health+Disaster+on+Health+System+Performance&amp;author=Runkle+Jennifer+R.+Zhang+Hongmei+Karmaus+Wilfried+Brock-Martin+Amy+Svendsen+Erik+R.&amp;publication_year=2013" target="_blank">Google Scholar</a></li>
+</ul>
+<hr/>
+ 
+<p class="reference-display">
+Aitken, Peter
+Leggat, Peter
+Harley, Hazel
+Speare, Richard
+and
+Leclercq, Muriel
+2012.
+Human resources issues and Australian Disaster Medical Assistance Teams: results of a national survey of team members.
+<i>Emerging Health Threats Journal</i>,
+Vol. 5,
+</p>
+<ul class="reference-list">
+<li><a href="https://doi.org/10.3402/ehtj.v5i0.18147" target="_blank">CrossRef</a></li>
+<li><a href="https://scholar.google.com/scholar_lookup?title=Human+resources+issues+and+Australian+Disaster+Medical+Assistance+Teams:+results+of+a+national+survey+of+team+members&amp;author=Aitken+Peter+Leggat+Peter+Harley+Hazel+Speare+Richard+Leclercq+Muriel&amp;publication_year=2012" target="_blank">Google Scholar</a></li>
+</ul>
+<hr/>
+ 
+<p class="reference-display">
+Runkle, Jennifer Davis
+Brock-Martin, Amy
+Karmaus, Wilfried
+and
+Svendsen, Erik R.
+2012.
+Secondary Surge Capacity: A Framework for Understanding Long-Term Access to Primary Care for Medically Vulnerable Populations in Disaster Recovery.
+<i>American Journal of Public Health</i>,
+Vol. 102,
+Issue. 12,
+p.
+e24.
+</p>
+<ul class="reference-list">
+<li><a href="https://doi.org/10.2105/AJPH.2012.301027" target="_blank">CrossRef</a></li>
+<li><a href="https://scholar.google.com/scholar_lookup?title=Secondary+Surge+Capacity:+A+Framework+for+Understanding+Long-Term+Access+to+Primary+Care+for+Medically+Vulnerable+Populations+in+Disaster+Recovery&amp;author=Runkle+Jennifer+Davis+Brock-Martin+Amy+Karmaus+Wilfried+Svendsen+Erik+R.&amp;publication_year=2012" target="_blank">Google Scholar</a></li>
+</ul>
+<hr/>
+ 
+<p class="reference-display">
+Shen, Ji
+Kang, Junxing
+Shi, Yingkang
+Li, Youping
+Li, Yuanfeng
+Su, Lin
+Wu, Jianlin
+Zheng, Shangwei
+Jiang, Jie
+Hu, Weijian
+Yang, Yong
+Tang, Xuefeng
+Wen, Jin
+Li, Ling
+Shen, Jiantong
+and
+Zhong, Dake
+2012.
+Lessons learned from the Wenchuan earthquake.
+<i>Journal of Evidence-Based Medicine</i>,
+Vol. 5,
+Issue. 2,
+p.
+75.
+</p>
+<ul class="reference-list">
+<li><a href="https://doi.org/10.1111/j.1756-5391.2012.01176.x" target="_blank">CrossRef</a></li>
+<li><a href="https://scholar.google.com/scholar_lookup?title=Lessons+learned+from+the+Wenchuan+earthquake&amp;author=Shen+Ji+Kang+Junxing+Shi+Yingkang+Li+Youping+Li+Yuanfeng+Su+Lin+Wu+Jianlin+Zheng+Shangwei+Jiang+Jie+Hu+Weijian+Yang+Yong+Tang+Xuefeng+Wen+Jin+Li+Ling+Shen+Jiantong+Zhong+Dake&amp;publication_year=2012" target="_blank">Google Scholar</a></li>
+</ul>
+<hr/>
+ 
+<p class="reference-display">
+Yatabe, Junichi
+Yatabe, Midori S.
+Taguchi, Fumie
+Izumi, Ishida
+Sato, Atsuko
+Hoshi, Mitsuko
+Kameda, Toshio
+Ueno, Shuichi
+Watanabe, Tsuyoshi
+and
+Sanada, Hironobu
+2012.
+Outcomes of Emergency Reduction of Tube Feeding in Hospitalized Elderly Adults During the Aftermath of the Great East Japan Earthquake.
+<i>Journal of the American Geriatrics Society</i>,
+Vol. 60,
+Issue. 4,
+p.
+804.
+</p>
+<ul class="reference-list">
+<li><a href="https://doi.org/10.1111/j.1532-5415.2011.03873.x" target="_blank">CrossRef</a></li>
+<li><a href="https://scholar.google.com/scholar_lookup?title=Outcomes+of+Emergency+Reduction+of+Tube+Feeding+in+Hospitalized+Elderly+Adults+During+the+Aftermath+of+the+Great+East+Japan+Earthquake&amp;author=Yatabe+Junichi+Yatabe+Midori+S.+Taguchi+Fumie+Izumi+Ishida+Sato+Atsuko+Hoshi+Mitsuko+Kameda+Toshio+Ueno+Shuichi+Watanabe+Tsuyoshi+Sanada+Hironobu&amp;publication_year=2012" target="_blank">Google Scholar</a></li>
+</ul>
+<hr/>
+ 
+<p class="reference-display">
+Allweiss, Pamela
+and
+Albright, Ann
+2011.
+Diabetes, disasters and decisions.
+<i>Diabetes Management</i>,
+Vol. 1,
+Issue. 4,
+p.
+369.
+</p>
+<ul class="reference-list">
+<li><a href="https://doi.org/10.2217/dmt.11.31" target="_blank">CrossRef</a></li>
+<li><a href="https://scholar.google.com/scholar_lookup?title=Diabetes+disasters+and+decisions&amp;author=Allweiss+Pamela+Albright+Ann&amp;publication_year=2011" target="_blank">Google Scholar</a></li>
+</ul>
+<hr/>
+ 
+<p class="reference-display">
+Du, Weiwei
+FitzGerald, Gerard Joseph
+Clark, Michele
+and
+Hou, Xiang-Yu
+2010.
+Health Impacts of Floods.
+<i>Prehospital and Disaster Medicine</i>,
+Vol. 25,
+Issue. 03,
+p.
+265.
+</p>
+<ul class="reference-list">
+<li><a href="https://doi.org/10.1017/S1049023X00008141" target="_blank">CrossRef</a></li>
+<li><a href="https://scholar.google.com/scholar_lookup?title=Health+Impacts+of+Floods&amp;author=Du+Weiwei+FitzGerald+Gerard+Joseph+Clark+Michele+Hou+Xiang-Yu&amp;publication_year=2010" target="_blank">Google Scholar</a></li>
+</ul>
+<hr/>
+ 
+<p class="reference-display">
+Lateef, Fatimah
+2010.
+Cyclone Nargis: A Wake Up Call.
+<i>Prehospital and Disaster Medicine</i>,
+Vol. 25,
+Issue. S1,
+p.
+S47.
+</p>
+<ul class="reference-list">
+<li><a href="https://doi.org/10.1017/S1049023X00022913" target="_blank">CrossRef</a></li>
+<li><a href="https://scholar.google.com/scholar_lookup?title=Cyclone+Nargis:+A+Wake+Up+Call&amp;author=Lateef+Fatimah&amp;publication_year=2010" target="_blank">Google Scholar</a></li>
+</ul>
+<hr/>
+ 
+<p class="reference-display">
+2010.
+PDM volume 25 issue 2 Back matter.
+<i>Prehospital and Disaster Medicine</i>,
+Vol. 25,
+Issue. 02,
+p.
+b1.
+</p>
+<ul class="reference-list">
+<li><a href="https://doi.org/10.1017/S1049023X00007779" target="_blank">CrossRef</a></li>
+</ul>
+<hr/>
+<div class="text-center">
+<a href="/core/services/aop-cambridge-core/download/cited-by?doi=10.1017/S1049023X00025255&amp;productType=JOURNAL_ARTICLE&amp;productId=02F6B8FEEAC2A36F13C0EC4A84710D73" class="small button radius transparent">Download full list</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+</section>
+<section style="display:none" class="content" id="scholar-citations">
+<div class="large-12 columns">
+<div class="panel margin-top-small citation-container">
+<div class="row">
+<div class="medium-12 columns">
+<div class="print-only print-heading margin-bottom-large">Google Scholar Citations</div>
+<p>View all <a href="https://scholar.google.com/scholar?hl=en&lr=&cites=https://doi.org/10.1017/S1049023X00025255" target="_blank">Google Scholar citations</a> for this article.</p>
+</div>
+</div>
+</div>
+</div>
+</section>
+<section style="display:none" class="content" id="scopus-citations">
+<div class="large-12 columns">
+<div class="panel margin-top-small citation-container">
+<div class="row">
+<div class="medium-12 columns">
+<div class="print-only print-heading margin-bottom-large">Scopus Citations</div>
+<p><a href="" target="_blank">View all citations for
+this article on Scopus</a></p>
+</div>
+</div>
+</div>
+</div>
+</section>
+</div>
+</div>
+<a class="close-reveal-modal">×</a>
+</div>
+<script>
+                                      $(document).ready(function () {
+                                        $('#productCitations .section-button').on('click', function (e) {
+                                          e.preventDefault();
+                                          var id = $(this).attr('data-id');
+                                          $('.section-content section').hide();
+                                          $('.section-container').removeClass('active');
+                                          $(this).parent('.section-container').addClass('active');
+                                          $('#' + id).show();
+                                        });
+                                      });
+                                    </script>
+<style>.productCitations-content li{}</style>
+</li>
+<li class="status get">
+<a href="#" class="get hasTooltipCustom-top" data-qtip-event="click">Get access</a>
+<div class="custom-tooltip custom-tooltip--buttons">
+<div class="grey-bg">
+<div class="row">
+<div class="column small-12 text-center tooltip-row">Check if you have access via personal or institutional login</div>
+</div>
+<div class="tooltip-row row text-center padding-bottom">
+<a href="/core/login?ref=%2Fcore%2Fjournals%2Fprehospital-and-disaster-medicine%2Farticle%2Fdiv-classtitlethe-public-health-consequences-of-disastersdiv%2F02F6B8FEEAC2A36F13C0EC4A84710D73" class="button small radius blue ">Log in</a>
+<a href="/core/register?ref=%2Fcore%2Fjournals%2Fprehospital-and-disaster-medicine%2Farticle%2Fdiv-classtitlethe-public-health-consequences-of-disastersdiv%2F02F6B8FEEAC2A36F13C0EC4A84710D73" class="button small radius blue ">Register</a>
+<a href="#" data-prod-id="02F6B8FEEAC2A36F13C0EC4A84710D73" class="button small radius blue margin-top-small recommend-product parent-product" data-cup-event='{"eventCode":"TA-EX","eventContext":"/core/journals/prehospital-and-disaster-medicine/article/div-classtitlethe-public-health-consequences-of-disastersdiv/02F6B8FEEAC2A36F13C0EC4A84710D73","usedIdentities":[],"eventType":"REC","searchScope":"PRODUCT","productId":"02F6B8FEEAC2A36F13C0EC4A84710D73"}'>
+Recommend to librarian
+</a>
+</div>
+</div>
+</div>
+</li>
+</ul>
+<ul class="title-volume-issue">
+<li class="title ">
+<a class="force-inline" title="Volume 15 " href="/core/journals/prehospital-and-disaster-medicine/volume/journal-pdm-volume-15/227893CDCC2F38A04940F6C2B81F5908">Volume 15</a>,
+<a class="force-inline" title="Issue 4 (The Role of Public Health in Disaster Medicine)" href="/core/journals/prehospital-and-disaster-medicine/issue/journal-pdm-volume-15-issue-4/52F7EFE68A352322FC0A520AA6B25797">Issue 4 (The Role of Public Health in Disaster Medicine)</a>
+</li>
+<li class="published">
+<span class="date">December 2000</span><span class="date">, pp. 21-31</span>
+</li>
+</ul>
+</div>
+<div id="Top" class="reading-width">
+<div class="article-page">
+<div class="overview no-margin-bottom">
+<div class="divider print-only margin-top-large"></div>
+<h1 class="article-title">The Public Health Consequences of Disasters</h1>
+<ul class="details no-padding-bottom">
+<li class="author">
+<a href="/core/search?filters%5BauthorTerms%5D=Eric K. Noji&eventCode=SE-AU" class="more-by-this-author ">Eric K. Noji</a> <sup data-affiliation-id="a1" class="">(a1)</sup>
+<i class="icon open-drawer small toggle-affiliations" aria-label="View all author information"></i>
+</li>
+<div id="author-affiliations" style="display:none" class="margin-bottom margin-top">
+<ul class="full-contributor-listing">
+<li id="a1" class="contributor-affiliation"><strong><sup>(a1)</sup></strong> <div><div class="aff"><addrLine>U.S. Center for Disease Control and Prevention</addrLine>, <addrLine>Atlanta</addrLine>, <addrLine>Georgia</addrLine>, <country>USA</country></div></div></li>
+</ul>
+</div>
+<script>
+                                                        $('.author i').on('click', function (e) {
+                                                            e.preventDefault();
+                                                            var $authorAffiliations = $('#author-affiliations');
+                                                            var $hiddenAuthors = $('.hidden-author');
+                                                            var $button = $(this);
+                                                            $authorAffiliations.toggle();
+                                                            $button.toggleClass('close');
+                                                            $hiddenAuthors.toggleClass('hide');
+                                                            if ($authorAffiliations.is(':visible')) {
+                                                                $button.attr('aria-label', 'Hide all author information');
+                                                            } else {
+                                                                $button.attr('aria-label', 'View all author information');
+                                                            }
+                                                        });
+                                                    </script>
+<li>
+<ul class="article-components">
+<li class="source">DOI: <a href="https://doi.org/10.1017/S1049023X00025255" target="_blank" class="url">https://doi.org/10.1017/S1049023X00025255</a></li>
+<li class="published">Published online: <span class="date">01 June 2012</li>
+</ul>
+</li>
+</ul>
+</div>
+<div class="overview article-overview">
+<div class="abstract-text">
+<div class="divider less-space"> </div>
+<div class="row">
+<div class="large-2 medium-2 small-12 columns abstract-title-wrapper">
+<div id="abstract" class="summary-title">Abstract</div>
+</div>
+<div class="large-10 medium-10 small-12 columns">
+<div class="description">
+<div class="abstract" data-abstract-type="normal"><title>Abstract</title><p>Although disasters have exacted a heavy toll of death and suffering, the future seems more frightening. Good disaster management must link data collection and analysis to the decision-making process. The overall objectives of disaster management from the viewpoint of public health are: 1) needs assessments; 2) matching available resources with defined needs; 3) prevention of further adverse health effects; 4) implementation of disease-control strategies; 5) evaluation of the effectiveness of the application of these strategies; and 6) improvement in contingency planning for future disasters.</p><p>The effects of sudden-onset, natural disasters on humans are quantifiable. Knowledge of the epidemiology of deaths, injuries, and illnesses is essential to determine effective responses; provide public education; establish priorities, planning, and training. In addition, the temporal patterns for the medical care required must be established so that the needs in future disasters can be anticipated.</p><p>This article discusses: 1) the nature of disasters due to sudden-onset, natural events; 2) the medical and health needs associated with such events and disasters; 3) practical issues of disaster responses; and 4) the advance organization and management of disasters. The discussion also includes: 1) discussions of past problems in disaster management including non-congruence between available supplies and the actual needs of the affected population; 2) information management; 3) needs assessments; 4) public health surveillance; and 5) linking information with decision-making. This discussion is followed by an analysis of what currently is known about the health-care needs during some specific types of sudden-onset, natural disasters: 1) floods; 2) tropical cyclones; 3) tornadoes; 4) volcanic eruptions; and 5) earthquakes. The article concludes with descriptions of some specific public-health problems associated with disasters including epidemics and disposition of corpses.</p><p>All natural disasters are unique in that the regions affected have different social, economic, and health backgrounds. But, many similarities exist, and knowledge about these can ensure that the health and emergency medical relief and limited resources are well-managed.</p></div>
+</div>
+<div class="abstract-translations">
+<div class="divider"> </div>
+<div class="description"><div class="abstract" data-abstract-type="normal"><title>Resumen</title><p>A pesar que los desastres han exigido una pesada carga de sufrimiento y muerte, el future parece ser mas atemorizador. El buen manejo de los dasastres debe unir la recolección y análisis de datos alproceso de toma de decisiones. Los objetivos generales del manejo de los desastres, desde el punto de vista de la salud .pública son 1) evaluación de necesidades, 2) aparear los recursos disponibles con las necesidades definidas, 3) prevenir efectos adversos adicionales sobre is salud, 4) implementar estrategias de control de enfermedades, 5) evaluar la effectividad de la aplicación de estas estrategias y 6) mejorar elplaneamiento de contingencia para desastres futuros.</p><p>Los efectos de los desastres naturales de aparición súbita sobre los humanos son cuantificables. El conocimiento de la epidemiologia de las muertes, lesiones, y enfermiedades es esencial para determinar respuestas efectivas, proveer educación pública, establecer prioridades, planificación y capacitación. Además. Se deben establecer los patrones temporales de atención médica requerida de modo que se puedan anticipar las necesidades en desastres futuros.</p><p>Este articulo discate 1) la naturaleza de los desastres debidos a eventos naturales de aparicón súbita, 2) las necesidades médicasy de salud asociadas con tales eventos y desastres, 3) aspectos prácticos de respuesta ante desastres, 4) la avanzada organización y manejo de desastres. La .discusión también incluye 1) discusiones de pasados problemas en el manejo de desastres, que incluyen la incongruencia entre los suministros disponibles y las necesidades reales de la pobiación afectada, 2) el manejo de la información, 3) la evaluación de necesidades, 4) la vigilancia de la salud pública, 5) el enlazar la información can la toma de decisiones. Esta discusión es seguida por un análisis de lo que actualinente se conoce sobre las necesidades de atención médica durante algunos tipos específicos do desastres naturales de inicio súbito 1) inundaciones, 2) ciclones tropicales, 3) tornados, 4) erupciones volcánicas y 5) terremotos. El artículo concluye con descripciones de algunos problemas de salud especificos asociados con los desastres incluyendo epidemias y disposición de cadáveres.</p><p>Todos los desastres naturales son úinicos en que las regiones afectadas tienen diferentes antecedentes sociales, económicos y de salud. Pero, exiisten muchas similitudes y el conocimiento de éstas puede asegurar que la salud y le ayuda médka y los limitados recursos sean bis manejados.</p></div></div>
+</div>
+<script>
+                                                                // Convert the translated title into sentence case, for page consistency.
+                                                                $(document).ready(function () {
+                                                                    $.each($('.abstract-translations title'), function (key, title) {
+                                                                       var sentenceCase = AOP.sentenceCase($(title).text());
+                                                                       if (sentenceCase) {
+                                                                          $(title).text(sentenceCase);
+                                                                       }
+                                                                    });
+                                                                });
+                                                            </script>
+</div>
+</div>
+<div class="divider less-space"> </div>
+<div class="article-actions">
+<div>
+<ul class="other-actions col-1">
+<a class="button small radius blue export-citation-product" data-prod-id="02F6B8FEEAC2A36F13C0EC4A84710D73">Export citation</a>
+<a href="https://s100.copyright.com/AppDispatchServlet?publisherName=CUP&amp;publication=PDM&amp;title=The%20Public%20Health%20Consequences%20of%20Disasters&amp;publicationDate=2012-6-1&amp;author=Eric%20K.%20Noji&amp;copyright=COPYRIGHT:%20%C2%A9%20World%20Association%20for%20Disaster%20and%20Emergency%20Medicine%202000&amp;contentID=10.1017/S1049023X00025255&amp;startPage=21&amp;endPage=31&amp;orderBeanReset=True&amp;volumeNum=15&amp;issueNum=4" target="_blank" class="button small transparent radius">Request permission</a>
+</ul>
+<ul class="other-actions col-2">
+</ul>
+</div>
+</div>
+<div class="divider"> </div>
+</div>
+<div class="overview article-overview">
+<div id="author" class="summary-title">Copyright</div>
+<div class="description">
+<div class="copyright">COPYRIGHT: © World Association for Disaster and Emergency Medicine 2000</div>
+</div>
+</div>
+<div class="divider"> </div>
+<div class="overview article-overview">
+<div id="author" class="summary-title">Corresponding author</div>
+<div class="description">
+<div class="corresp"><span class='label'>*</span><addrLine>National Center for Infectious Diseases</addrLine>, <addrLine>Centers for Disease Control &amp; Prevention (CDC)</addrLine>, <addrLine>Mail Stop C-18</addrLine>, <addrLine>1600 Clifton Road</addrLine>, <addrLine>Atlanta</addrLine>, <addrLine>GA 30333</addrLine>, E-mail: <email type='simple' href='enoji@cdc.gov'>enoji@cdc.gov</email></div>
+</div>
+</div>
+<div class="divider"> </div>
+<div class="overview article-overview">
+<div class="summary-title summary-title-reveal">Linked references</div>
+<dl class="accordion accordian-article" data-accordion>
+<dd class="accordion-navigation active">
+<a href="#references" class="right">
+<div class="icon open-drawer small">
+<span class="toggle-text">Hide</span>
+<span class="excerpt-type">All</span>
+</div>
+</a>
+<p class="paragraph_03">This list contains references from the content that can be linked to their source. For a full set of references and notes please see the PDF or HTML where available.</p>
+<div id="references" class="description content active">
+ 
+<div class="reference-display">
+<div class="cit-citation simple journal" data-magellan-destination="ref001" id="ref001"><span class="cit-label">1.</span><span class="cit-name"> <span class="cit-given-names">D</span> <span class="cit-surname">Guha-Sapir</span> </span>, <span class="cit-name"> <span class="cit-given-names">MF</span> <span class="cit-surname">Lechat</span> </span>: <span class="cit-article-title">Reducing the impact of natural disasters: Why aren&apos;t we better prepared?</span> <span class="cit-source">Health Policy and Planning</span> <span class="cit-year">1986</span>;<span class="cit-volume">1</span>:<span class="cit-fpage">118</span>–<span class="cit-lpage">126</span>.</div>
+</div>
+<ul class="reference-list">
+<li><a href="https://doi.org/10.1093/heapol/1.2.118" target="_blank">CrossRef</a></li>
+<li><a href="https://scholar.google.com/scholar_lookup?title=Reducing+the+impact+of+natural+disasters:+why+aren&#x27;t+we+better+prepared?&amp;author=SAPIR+DEBARATI+GUHA+LECHAT+MICHEL+F&amp;publication_year=1986" target="_blank">Google Scholar</a></li>
+</ul>
+<hr/>
+ 
+<div class="reference-display">
+<div class="cit-citation simple journal" data-magellan-destination="ref007" id="ref007"><span class="cit-label">7.</span><span class="cit-name"> <span class="cit-given-names">K</span> <span class="cit-surname">Tanaka</span> </span>: <span class="cit-article-title">The Kobe earthquake: The system response. A disaster report from Japan</span>. <span class="cit-source">Eur J Emerg Med</span> <span class="cit-year">1996</span>;<span class="cit-volume">3</span>:<span class="cit-fpage">263</span>–<span class="cit-lpage">269</span>.</div>
+</div>
+<ul class="reference-list">
+<li><a href="https://doi.org/10.1097/00063110-199612000-00009" target="_blank">CrossRef</a></li>
+<li><a href="https://scholar.google.com/scholar_lookup?title=The+Kobe+earthquake:+the+system+response.+A+disaster+report+from+Japan&amp;author=TANAKA+K&amp;publication_year=1996" target="_blank">Google Scholar</a></li>
+<li><a href="http://www.ncbi.nlm.nih.gov/pubmed/9056140?dopt=Abstract" target="_blank">PubMed</a></li>
+</ul>
+<hr/>
+ 
+<div class="reference-display">
+<div class="cit-citation simple journal" data-magellan-destination="ref008" id="ref008"><span class="cit-label">8.</span><span class="cit-name"> <span class="cit-given-names">Y</span> <span class="cit-surname">Oda</span> </span>, <span class="cit-name"> <span class="cit-given-names">M</span> <span class="cit-surname">Shindoh</span> </span>, <span class="cit-name"> <span class="cit-given-names">H</span> <span class="cit-surname">Yukioka</span> </span>, <span class="cit-italic">et al</span>: <span class="cit-article-title">Crush syndrome sustained in the 1995 Kobe, Japan earthquake: Treatment and outcome</span>. <span class="cit-source">Ann Emerg Med</span> <span class="cit-year">1997</span>;<span class="cit-volume">30</span>:<span class="cit-fpage">507</span>–<span class="cit-lpage">512</span>.</div>
+</div>
+<ul class="reference-list">
+<li><a href="https://doi.org/10.1016/S0196-0644(97)70011-8" target="_blank">CrossRef</a></li>
+<li><a href="https://scholar.google.com/scholar_lookup?title=Crush+Syndrome+Sustained+in+the+1995+Kobe+Japan+Earthquake;+Treatment+and+Outcome&amp;author=Oda+Yutaka+Shindoh+Mitsuo+Yukioka+Hidekazu+Nishi+Shinichi+Fujumori+Mitsugu+Asada+Akira&amp;publication_year=1997" target="_blank">Google Scholar</a></li>
+<li><a href="http://www.ncbi.nlm.nih.gov/pubmed/9326866?dopt=Abstract" target="_blank">PubMed</a></li>
+</ul>
+<hr/>
+ 
+<div class="reference-display">
+<div class="cit-citation simple journal" data-magellan-destination="ref016" id="ref016"><span class="cit-label">16.</span><span class="cit-name"> <span class="cit-given-names">S</span> <span class="cit-surname">Binder</span> </span>, <span class="cit-name"> <span class="cit-given-names">LM</span> <span class="cit-surname">Sanderson</span> </span>: <span class="cit-article-title">The role of the epidemiologist in natural disasters</span>, <span class="cit-source">Ann Emerg Med</span> <span class="cit-year">1987</span>;<span class="cit-volume">16</span>:<span class="cit-fpage">1081</span>–<span class="cit-lpage">1084</span>.</div>
+</div>
+<ul class="reference-list">
+<li><a href="https://doi.org/10.1016/S0196-0644(87)80763-1" target="_blank">CrossRef</a></li>
+<li><a href="https://scholar.google.com/scholar_lookup?title=The+role+of+the+epidemiologist+in+natural+disasters&amp;author=Binder+Sue+Sanderson+Lee+M&amp;publication_year=1987" target="_blank">Google Scholar</a></li>
+<li><a href="http://www.ncbi.nlm.nih.gov/pubmed/3631672?dopt=Abstract" target="_blank">PubMed</a></li>
+</ul>
+<hr/>
+ 
+<div class="reference-display">
+<div class="cit-citation simple journal" data-magellan-destination="ref020" id="ref020"><span class="cit-label">20.</span><span class="cit-name"> <span class="cit-given-names">D</span> <span class="cit-surname">Guha-Sapir</span> </span>, <span class="cit-name"> <span class="cit-given-names">MF</span> <span class="cit-surname">Lechat</span> </span>: <span class="cit-article-title">Information systems and needs assessment in natural disasters: An approach for better disaster relief management</span>, <span class="cit-source">Disasters</span> <span class="cit-year">1986</span>;<span class="cit-volume">10</span>:<span class="cit-fpage">232</span>–<span class="cit-lpage">237</span>.</div>
+</div>
+<ul class="reference-list">
+<li><a href="https://doi.org/10.1111/j.1467-7717.1986.tb00594.x" target="_blank">CrossRef</a></li>
+<li><a href="https://scholar.google.com/scholar_lookup?title=Information+systems+and+needs+assessment+in+natural+disasters:+An+approach+for+better+disaster+relief+management&amp;author=Guha-Sapir+Debarati+Lechat+Michel+F.&amp;publication_year=1986" target="_blank">Google Scholar</a></li>
+<li><a href="http://www.ncbi.nlm.nih.gov/pubmed/20958636?dopt=Abstract" target="_blank">PubMed</a></li>
+</ul>
+<hr/>
+ 
+<div class="reference-display">
+<div class="cit-citation simple journal" data-magellan-destination="ref022" id="ref022"><span class="cit-label">22.</span><span class="cit-name"> <span class="cit-given-names">EK</span> <span class="cit-surname">Noji</span> </span>, <span class="cit-name"> <span class="cit-given-names">KT</span> <span class="cit-surname">Sivertson</span> </span>: <span class="cit-article-title">Injury prevention in natural disasters: A theoretical framework</span>. <span class="cit-source">Disasters</span> <span class="cit-year">1987</span>;<span class="cit-volume">11</span>:<span class="cit-fpage">290</span>–<span class="cit-lpage">296</span>.</div>
+</div>
+<ul class="reference-list">
+<li><a href="https://doi.org/10.1111/j.1467-7717.1987.tb00652.x" target="_blank">CrossRef</a></li>
+<li><a href="https://scholar.google.com/scholar_lookup?title=Injury+prevention+in+natural+disasters.+A+theoretical+framework&amp;author=Noji+Eric+K.+Sivertson+Keith+T.&amp;publication_year=1987" target="_blank">Google Scholar</a></li>
+</ul>
+<hr/>
+ 
+<div class="reference-display">
+<div class="cit-citation simple journal" data-magellan-destination="ref025" id="ref025"><span class="cit-label">25.</span><span class="cit-name"> <span class="cit-given-names">J</span> <span class="cit-surname">Seaman</span> </span>: <span class="cit-article-title">Disaster epidemiology: Or why most international disaster relief is ineffective</span>. <span class="cit-source">Injury</span> <span class="cit-year">1990</span>;<span class="cit-volume">21</span>:<span class="cit-fpage">5</span>–<span class="cit-lpage">8</span>.</div>
+</div>
+<ul class="reference-list">
+<li><a href="https://doi.org/10.1016/0020-1383(90)90143-I" target="_blank">CrossRef</a></li>
+<li><a href="https://scholar.google.com/scholar_lookup?title=Disaster+epidemiology:+or+why+most+international+disaster+relief+is+ineffective&amp;author=Seaman+J.&amp;publication_year=1990" target="_blank">Google Scholar</a></li>
+<li><a href="http://www.ncbi.nlm.nih.gov/pubmed/2347634?dopt=Abstract" target="_blank">PubMed</a></li>
+</ul>
+<hr/>
+ 
+<div class="reference-display">
+<div class="cit-citation simple journal" data-magellan-destination="ref034" id="ref034"><span class="cit-label">34.</span><span class="cit-name"> <span class="cit-given-names">EK</span> <span class="cit-surname">Noji</span> </span>, <span class="cit-name"> <span class="cit-given-names">MJ</span> <span class="cit-surname">Toole</span> </span>: <span class="cit-article-title">Public health and disasters: The historical development of public health responses to disasters</span>. <span class="cit-source">Disasters.</span> <span class="cit-year">1997</span>;<span class="cit-volume">21</span>:<span class="cit-fpage">369</span>–<span class="cit-lpage">379</span>.</div>
+</div>
+<ul class="reference-list">
+<li><a href="https://doi.org/10.1111/1467-7717.00068" target="_blank">CrossRef</a></li>
+<li><a href="https://scholar.google.com/scholar_lookup?title=The+Historical+Development+of+Public+Health+Responses+to+Disasters&amp;author=Noji+Eric+K.+Toole+Michael+J.&amp;publication_year=1997" target="_blank">Google Scholar</a></li>
+</ul>
+<hr/>
+ 
+<div class="reference-display">
+<div class="cit-citation simple journal" data-magellan-destination="ref037" id="ref037"><span class="cit-label">37.</span><span class="cit-name"> <span class="cit-given-names">GS</span> <span class="cit-surname">Smith</span> </span>: <span class="cit-article-title">Development of rapid epidemiologic assessment methods to evaluate health status and delivery of health services</span>. <span class="cit-source">Int J Epidemiol</span> <span class="cit-year">1989</span>;<span class="cit-volume">18</span>(suppl):<span class="cit-fpage">S2</span>.</div>
+</div>
+<ul class="reference-list">
+<li><a href="https://doi.org/10.1093/ije/18.Supplement_2.S2" target="_blank">CrossRef</a></li>
+<li><a href="https://scholar.google.com/scholar_lookup?title=Development+of+Rapid+Epidemiologic+Assessment+Methods+to+Evaluate+Health+Status+and+Delivery+of+Health+Service&amp;author=Smith+G.+S&amp;publication_year=1989" target="_blank">Google Scholar</a></li>
+<li><a href="http://www.ncbi.nlm.nih.gov/pubmed/2695477?dopt=Abstract" target="_blank">PubMed</a></li>
+</ul>
+<hr/>
+ 
+<div class="reference-display">
+<div class="cit-citation simple book" data-magellan-destination="ref043" id="ref043"><span class="cit-label">43.</span><span class="cit-name"> <span class="cit-given-names">L</span> <span class="cit-surname">Beinin</span> </span>: <span class="cit-source">Medical Consequences of Natural Disasters</span>, <span class="cit-publisher-loc">Berlin</span>: <span class="cit-publisher-name">Springer-Verlag</span>. <span class="cit-year">1985</span>.</div>
+</div>
+<ul class="reference-list">
+<li><a href="https://doi.org/10.1007/978-3-642-70532-8" target="_blank">CrossRef</a></li>
+<li><a href="https://scholar.google.com/scholar_lookup?title=Medical+Consequences+of+Natural+Disasters&amp;author=Beinin+Lazar&amp;publication_year=1985" target="_blank">Google Scholar</a></li>
+</ul>
+<hr/>
+ 
+<div class="reference-display">
+<div class="cit-citation simple journal" data-magellan-destination="ref047" id="ref047"><span class="cit-label">47.</span><span class="cit-name"> <span class="cit-given-names">VJ</span> <span class="cit-surname">Dietz</span> </span>, <span class="cit-name"> <span class="cit-given-names">JG</span> <span class="cit-surname">Rigau-Perez</span> </span>, <span class="cit-name"> <span class="cit-given-names">L</span> <span class="cit-surname">Sanderson</span> </span>, <span class="cit-italic">et al</span>: <span class="cit-article-title">Health assessment of the 1985 Flood disaster in Puerto Rico</span>, <span class="cit-source">Disasters</span> <span class="cit-year">1990</span>;<span class="cit-volume">14</span>:<span class="cit-fpage">164</span>–<span class="cit-lpage">170</span>.</div>
+</div>
+<ul class="reference-list">
+<li><a href="https://doi.org/10.1111/j.1467-7717.1990.tb01057.x" target="_blank">CrossRef</a></li>
+<li><a href="https://scholar.google.com/scholar_lookup?title=Health+Assessment+of+the+1985+Flood+Disaster+in+Puerto+Rico&amp;author=DIETZ+VANCE+J.+RIGAU-PEREZ+JOSE+G.+SANDERSON+LEE+DIAZ+LYDIA+GUNN+ROBERT+A.&amp;publication_year=1990" target="_blank">Google Scholar</a></li>
+</ul>
+<hr/>
+ 
+<div class="reference-display">
+<div class="cit-citation simple journal" data-magellan-destination="ref052" id="ref052"><span class="cit-label">52.</span><span class="cit-name"> <span class="cit-given-names">RM</span> <span class="cit-surname">Philen</span> </span>, <span class="cit-name"> <span class="cit-given-names">DL</span> <span class="cit-surname">Combs</span> </span>, <span class="cit-name"> <span class="cit-given-names">L</span> <span class="cit-surname">Miller</span> </span>, <span class="cit-italic">et al</span>: <span class="cit-article-title">Hurricane Hugo related deaths: South Carolinea and Puerto Rico, 1989</span>. <span class="cit-source">Disasters.</span> <span class="cit-year">1992</span>;<span class="cit-volume">16</span>:<span class="cit-fpage">53</span>–<span class="cit-lpage">59</span>.</div>
+</div>
+<ul class="reference-list">
+<li><a href="https://doi.org/10.1111/j.1467-7717.1992.tb00375.x" target="_blank">CrossRef</a></li>
+<li><a href="https://scholar.google.com/scholar_lookup?title=Hurricane+Hugo-related+Deaths:+South+Carolina+and+Puerto+Rico+1989&amp;author=PHILEN+ROSSANNE+M.+COMBS+DEBRA+L.+MILLER+LYNN+SANDERSON+LEE+M.+PARRISH+R.+GIBSON+ING+ROY&amp;publication_year=1992" target="_blank">Google Scholar</a></li>
+</ul>
+<hr/>
+ 
+<div class="reference-display">
+<div class="cit-citation simple book" data-magellan-destination="ref056" id="ref056"><span class="cit-label">56.</span><span class="cit-name"> <span class="cit-given-names">K</span> <span class="cit-surname">Frazier</span> </span>: <span class="cit-source">The Violent Face of Nature: Severe Phenomena and Natural Disasters</span>, <span class="cit-publisher-loc">New York</span>: <span class="cit-publisher-name">William Morrow</span>. <span class="cit-year">1979</span>.</div>
+</div>
+<ul class="reference-list">
+<li><a href="https://doi.org/10.1038/281565a0" target="_blank">CrossRef</a></li>
+<li><a href="https://scholar.google.com/scholar_lookup?title=Perception+of+illusory+movement&amp;author=Fraser+Alex+Wilcox+Kimerly+J.&amp;publication_year=1979" target="_blank">Google Scholar</a></li>
+</ul>
+<hr/>
+ 
+<div class="reference-display">
+<div class="cit-citation simple journal" data-magellan-destination="ref063" id="ref063"><span class="cit-label">63.</span><span class="cit-name"> <span class="cit-given-names">AK</span> <span class="cit-surname">Henderson</span> </span>, <span class="cit-name"> <span class="cit-given-names">SR</span> <span class="cit-surname">Lillibridge</span> </span>, <span class="cit-name"> <span class="cit-given-names">C</span> <span class="cit-surname">Salinas</span> </span>, <span class="cit-name"> <span class="cit-given-names">RW</span> <span class="cit-surname">Graves</span> </span>, <span class="cit-name"> <span class="cit-given-names">PB</span> <span class="cit-surname">Roth</span> </span>, <span class="cit-name"> <span class="cit-given-names">EK</span> <span class="cit-surname">Noji</span> </span>: <span class="cit-article-title">Disaster medical assistance teams: Providing health care to a community struck by Hurricane Iniki</span>. <span class="cit-source">Ann Emerg Med</span> <span class="cit-volume">23</span>:<span class="cit-fpage">726</span>–<span class="cit-lpage">730</span>, <span class="cit-year">1994</span>.</div>
+</div>
+<ul class="reference-list">
+<li><a href="https://doi.org/10.1016/S0196-0644(94)70306-X" target="_blank">CrossRef</a></li>
+<li><a href="https://scholar.google.com/scholar_lookup?title=Disaster+Medical+Assistance+Teams:+Providing+Health+Care+to+a+Community+Struck+by+Hurricane+Iniki&amp;author=Henderson+Alden+K.+Lillibridge+Scott+R.+Salinas+Conrad+Graves+Roy+W.+Roth+Paul+B.+Noji+Eric+K.&amp;publication_year=1994" target="_blank">Google Scholar</a></li>
+<li><a href="http://www.ncbi.nlm.nih.gov/pubmed/8161039?dopt=Abstract" target="_blank">PubMed</a></li>
+</ul>
+<hr/>
+ 
+<div class="reference-display">
+<div class="cit-citation simple journal" data-magellan-destination="ref064" id="ref064"><span class="cit-label">64.</span><span class="cit-name"> <span class="cit-given-names">PB</span> <span class="cit-surname">Roth</span> </span>: <span class="cit-article-title">The St. Croix disaster and the National Disaster Medical System</span>. <span class="cit-source">Ann Emerg Med</span> <span class="cit-year">1991</span>;<span class="cit-volume">20</span>:<span class="cit-fpage">391</span>–<span class="cit-lpage">395</span>.</div>
+</div>
+<ul class="reference-list">
+<li><a href="https://doi.org/10.1016/S0196-0644(05)81661-0" target="_blank">CrossRef</a></li>
+<li><a href="https://scholar.google.com/scholar_lookup?title=The+St+Croix+disaster+and+the+national+disaster+medical+system&amp;author=Roth+Paul+B+Vogel+Albert+Key+George+Hall+Deborah+Stockhoff+Cy+T&amp;publication_year=1991" target="_blank">Google Scholar</a></li>
+<li><a href="http://www.ncbi.nlm.nih.gov/pubmed/2003668?dopt=Abstract" target="_blank">PubMed</a></li>
+</ul>
+<hr/>
+ 
+<div class="reference-display">
+<div class="cit-citation simple journal" data-magellan-destination="ref068" id="ref068"><span class="cit-label">68.</span><span class="cit-name"> <span class="cit-given-names">AW</span> <span class="cit-surname">Longmire</span> </span>, <span class="cit-name"> <span class="cit-given-names">J</span> <span class="cit-surname">Burch</span> </span>, <span class="cit-name"> <span class="cit-given-names">LA</span> <span class="cit-surname">Broom</span> </span>: <span class="cit-article-title">Morbidity of Hurricane Elena</span>, <span class="cit-source">South Med J</span> <span class="cit-year">1988</span>;<span class="cit-volume">81</span>:<span class="cit-fpage">1343</span>–<span class="cit-lpage">1345</span>.</div>
+</div>
+<ul class="reference-list">
+<li><a href="https://doi.org/10.1097/00007611-198811000-00002" target="_blank">CrossRef</a></li>
+<li><a href="https://scholar.google.com/scholar_lookup?title=Morbidity+of+Hurricane+Elena&amp;author=W.+LONGMIRK.+COL+ATKINSON+BURCH+JOHN+BROOM+LETETIA+A.+Pascagoula+&amp;publication_year=1988" target="_blank">Google Scholar</a></li>
+</ul>
+<hr/>
+ 
+<div class="reference-display">
+<div class="cit-citation simple journal" data-magellan-destination="ref069" id="ref069"><span class="cit-label">69.</span><span class="cit-name"> <span class="cit-given-names">AW</span> <span class="cit-surname">Longmire</span> </span>, <span class="cit-article-title">Ten Eyck RP: Morbidity of Hurricane Frederic</span>, <span class="cit-source">Ann Emerg Med</span> <span class="cit-year">1984</span>;<span class="cit-volume">13</span>:<span class="cit-fpage">334</span>–<span class="cit-lpage">335</span>.</div>
+</div>
+<ul class="reference-list">
+<li><a href="https://doi.org/10.1016/S0196-0644(84)80115-8" target="_blank">CrossRef</a></li>
+<li><a href="https://scholar.google.com/scholar_lookup?title=Morbidity+of+Hurricane+Frederic&amp;author=Longmire+Atkinson+W+Ten+Eyck+Raymond+P&amp;publication_year=1984" target="_blank">Google Scholar</a></li>
+<li><a href="http://www.ncbi.nlm.nih.gov/pubmed/6711929?dopt=Abstract" target="_blank">PubMed</a></li>
+</ul>
+<hr/>
+ 
+<div class="reference-display">
+<div class="cit-citation simple journal" data-magellan-destination="ref075" id="ref075"><span class="cit-label">75.</span><span class="cit-name"> <span class="cit-given-names">R</span> <span class="cit-surname">Bissell</span> </span>: <span class="cit-article-title">Delayed-impact infectious disease after a natural disaster</span>, <span class="cit-source">J Emerg Med</span> <span class="cit-year">1983</span>;<span class="cit-volume">1</span>:<span class="cit-fpage">59</span>–<span class="cit-lpage">67</span>.</div>
+</div>
+<ul class="reference-list">
+<li><a href="https://doi.org/10.1016/0736-4679(83)90010-0" target="_blank">CrossRef</a></li>
+<li><a href="https://scholar.google.com/scholar_lookup?title=Delayed-impact+infectious+disease+after+a+natural+disaster&amp;author=Bissell+Richard+A.&amp;publication_year=1983" target="_blank">Google Scholar</a></li>
+<li><a href="http://www.ncbi.nlm.nih.gov/pubmed/6436364?dopt=Abstract" target="_blank">PubMed</a></li>
+</ul>
+<hr/>
+ 
+<div class="reference-display">
+<div class="cit-citation simple journal" data-magellan-destination="ref077" id="ref077"><span class="cit-label">77.</span><span class="cit-name"> <span class="cit-given-names">G</span> <span class="cit-surname">Galway</span> </span>: <span class="cit-article-title">Relationship of tornado deaths to severe weather watch areas</span>, <span class="cit-source">Monogr Weather Rev</span> <span class="cit-year">1975</span>;<span class="cit-volume">103</span>:<span class="cit-fpage">737</span>–<span class="cit-lpage">755</span>.</div>
+</div>
+<ul class="reference-list">
+<li><a href="https://doi.org/10.1175/1520-0493(1975)103&lt;0737:ROTDTS&gt;2.0.CO;2" target="_blank">CrossRef</a></li>
+<li><a href="https://scholar.google.com/scholar_lookup?title=Relationship+of+Tornado+Deaths+to+Severe+Weather+Watch+Areas&amp;author=Galway+Joseph+G.&amp;publication_year=1975" target="_blank">Google Scholar</a></li>
+</ul>
+<hr/>
+ 
+<div class="reference-display">
+<div class="cit-citation simple journal" data-magellan-destination="ref081" id="ref081"><span class="cit-label">81.</span><span class="cit-name"> <span class="cit-given-names">RI</span> <span class="cit-surname">Glass</span> </span>, <span class="cit-name"> <span class="cit-given-names">RB</span> <span class="cit-surname">Craven</span> </span>, <span class="cit-name"> <span class="cit-given-names">DJ</span> <span class="cit-surname">Bregman</span> </span>: <span class="cit-article-title">Injuries from the Wichita Falls tornado: Implications for prevention</span>, <span class="cit-source">Science</span> <span class="cit-year">1980</span>;<span class="cit-volume">207</span>:<span class="cit-fpage">734</span>–<span class="cit-lpage">738</span>.</div>
+</div>
+<ul class="reference-list">
+<li><a href="https://doi.org/10.1126/science.207.4432.734" target="_blank">CrossRef</a></li>
+<li><a href="https://scholar.google.com/scholar_lookup?title=Injuries+from+the+Wichita+Falls+Tornado:+Implications+for+Prevention&amp;author=Glass+R.+I.+Craven+R.+B.+Bregman+D.+J.+Stoll+B.+J.+Horowitz+N.+Kerndt+P.+Winkle+J.&amp;publication_year=1980" target="_blank">Google Scholar</a></li>
+<li><a href="http://www.ncbi.nlm.nih.gov/pubmed/17795992?dopt=Abstract" target="_blank">PubMed</a></li>
+</ul>
+<hr/>
+ 
+<div class="reference-display">
+<div class="cit-citation simple journal" data-magellan-destination="ref083" id="ref083"><span class="cit-label">83.</span><span class="cit-name"> <span class="cit-given-names">SA</span> <span class="cit-surname">Brenner</span> </span>, <span class="cit-name"> <span class="cit-given-names">EK</span> <span class="cit-surname">Noji</span> </span>: <span class="cit-article-title">Head injuries and mortality in tornado disasters</span>. <span class="cit-source">Am J Public Health</span> <span class="cit-year">1992</span>;<span class="cit-volume">82</span>:<span class="cit-fpage">1296</span>. Letter.</div>
+</div>
+<ul class="reference-list">
+<li><a href="https://doi.org/10.2105/AJPH.82.9.1296-a" target="_blank">CrossRef</a></li>
+<li><a href="https://scholar.google.com/scholar_lookup?title=Head+and+neck+injuries+from+1990+Illinois+tornado.&amp;author=Brenner+S+A+Noji+E+K&amp;publication_year=1992" target="_blank">Google Scholar</a></li>
+<li><a href="http://www.ncbi.nlm.nih.gov/pubmed/1503179?dopt=Abstract" target="_blank">PubMed</a></li>
+</ul>
+<hr/>
+ 
+<div class="reference-display">
+<div class="cit-citation simple journal" data-magellan-destination="ref084" id="ref084"><span class="cit-label">84.</span><span class="cit-name"> <span class="cit-given-names">I</span> <span class="cit-surname">Mandelbaum</span> </span>, <span class="cit-name"> <span class="cit-given-names">D</span> <span class="cit-surname">Nahrwold</span> </span>, <span class="cit-name"> <span class="cit-given-names">DW</span> <span class="cit-surname">Boyer</span> </span>: <span class="cit-article-title">Management of tornado casualties</span>. <span class="cit-source">J Trauma</span> <span class="cit-year">1966</span>;<span class="cit-volume">6</span>:<span class="cit-fpage">353</span>–<span class="cit-lpage">357</span>.</div>
+</div>
+<ul class="reference-list">
+<li><a href="https://doi.org/10.1097/00005373-196605000-00005" target="_blank">CrossRef</a></li>
+<li><a href="https://scholar.google.com/scholar_lookup?title=MANAGEMENT+OF+TORNADO+CASUALTIES&amp;author=MANDELBAUM+I.+NAHRWOLD+D.+BOYER+D.+W.&amp;publication_year=1966" target="_blank">Google Scholar</a></li>
+<li><a href="http://www.ncbi.nlm.nih.gov/pubmed/5934279?dopt=Abstract" target="_blank">PubMed</a></li>
+</ul>
+<hr/>
+ 
+<div class="reference-display">
+<div class="cit-citation simple journal" data-magellan-destination="ref086" id="ref086"><span class="cit-label">86.</span><span class="cit-name"> <span class="cit-given-names">SA</span> <span class="cit-surname">Brenner</span> </span>, <span class="cit-name"> <span class="cit-given-names">EK</span> <span class="cit-surname">Noji</span> </span>: <span class="cit-article-title">Wound infections after tornadoes</span>. <span class="cit-source">J Trauma</span> <span class="cit-year">1992</span>;<span class="cit-volume">33</span>:<span class="cit-fpage">643</span>. Letter.</div>
+</div>
+<ul class="reference-list">
+<li><a href="https://doi.org/10.1097/00005373-199210000-00024" target="_blank">CrossRef</a></li>
+<li><a href="https://scholar.google.com/scholar_lookup?title=Wound+Infections+After+Tornadoes&amp;author=Brenner+Sue+Anne+Noji+Eric+K.&amp;publication_year=1992" target="_blank">Google Scholar</a></li>
+<li><a href="http://www.ncbi.nlm.nih.gov/pubmed/1433414?dopt=Abstract" target="_blank">PubMed</a></li>
+</ul>
+<hr/>
+ 
+<div class="reference-display">
+<div class="cit-citation simple journal" data-magellan-destination="ref087" id="ref087"><span class="cit-label">87.</span><span class="cit-name"> <span class="cit-given-names">D</span> <span class="cit-surname">Hight</span> </span>: <span class="cit-article-title">Medical aspects of the Worcester tornado disaster</span>. <span class="cit-source">N Engl J Med</span> <span class="cit-year">1956</span>;<span class="cit-volume">254</span>:<span class="cit-fpage">267</span>–<span class="cit-lpage">271</span>.</div>
+</div>
+<ul class="reference-list">
+<li><a href="https://doi.org/10.1056/NEJM195602092540605" target="_blank">CrossRef</a></li>
+<li><a href="https://scholar.google.com/scholar_lookup?title=Medical+Aspects+of+the+Worcester+Tornado+Disaster&amp;author=Hight+Donald+Blodgett+James+T.+Groge+Edmund+J.+Horne+Elwood+O.+McKoan+John+W.+Whelan+Charles+S.&amp;publication_year=1956" target="_blank">Google Scholar</a></li>
+<li><a href="http://www.ncbi.nlm.nih.gov/pubmed/13288774?dopt=Abstract" target="_blank">PubMed</a></li>
+</ul>
+<hr/>
+ 
+<div class="reference-display">
+<div class="cit-citation simple journal" data-magellan-destination="ref088" id="ref088"><span class="cit-label">88.</span><span class="cit-name"> <span class="cit-given-names">DN</span> <span class="cit-surname">Gilbert</span> </span>, <span class="cit-name"> <span class="cit-given-names">JP</span> <span class="cit-surname">Sanford</span> </span>, <span class="cit-name"> <span class="cit-surname">Kutscher</span> </span>, <span class="cit-italic">et al</span>: <span class="cit-article-title">Microbiologie study of wound infections in tornado casualties</span>. <span class="cit-source">Arch Environ Health</span> <span class="cit-year">1973</span>;<span class="cit-volume">26</span>:<span class="cit-fpage">125</span>–<span class="cit-lpage">130</span>.</div>
+</div>
+<ul class="reference-list">
+<li><a href="https://doi.org/10.1080/00039896.1973.10666239" target="_blank">CrossRef</a></li>
+<li><a href="https://scholar.google.com/scholar_lookup?title=Microbiologic+Study+of+Wound+Infections&amp;author=Gilbert+David+N.+Sanford+Jay+P.+Kutscher+Earline+Sanders+Charles+V.+Luby+James+P.+Barnett+Jack+A.&amp;publication_year=1973" target="_blank">Google Scholar</a></li>
+<li><a href="http://www.ncbi.nlm.nih.gov/pubmed/4569762?dopt=Abstract" target="_blank">PubMed</a></li>
+</ul>
+<hr/>
+ 
+<div class="reference-display">
+<div class="cit-citation simple book" data-magellan-destination="ref090" id="ref090"><span class="cit-label">90.</span><span class="cit-name"> <span class="cit-given-names">RJ</span> <span class="cit-surname">Blong</span> </span>: <span class="cit-source">Volcanic Hazards: A Sourcebook on the Effects of Eruptions</span>. <span class="cit-publisher-loc">North Ryde, Australia</span>: <span class="cit-publisher-name">Academic Press</span>. <span class="cit-year">1984</span>.</div>
+</div>
+<ul class="reference-list">
+<li><a href="https://doi.org/10.1016/B978-0-12-107180-6.50007-X" target="_blank">CrossRef</a></li>
+<li><a href="https://scholar.google.com/scholar_lookup?title=Volcanic+Hazards&amp;author=BLONG+R.J.&amp;publication_year=1984" target="_blank">Google Scholar</a></li>
+</ul>
+<hr/>
+ 
+<div class="reference-display">
+<div class="cit-citation simple journal" data-magellan-destination="ref092" id="ref092"><span class="cit-label">92.</span><span class="cit-name"> <span class="cit-given-names">RS</span> <span class="cit-surname">Bernstein</span> </span>, <span class="cit-name"> <span class="cit-given-names">PJ</span> <span class="cit-surname">Baxter</span> </span>, <span class="cit-name"> <span class="cit-given-names">AS</span> <span class="cit-surname">Buist</span> </span>: <span class="cit-article-title">Introduction to the epidemiological aspects of explosive volcanism</span>. <span class="cit-source">Am J Public Health</span> <span class="cit-year">1986</span>;<span class="cit-volume">76</span> (suppl):<span class="cit-fpage">3</span>–<span class="cit-lpage">9</span>.</div>
+</div>
+<ul class="reference-list">
+<li><a href="https://doi.org/10.2105/AJPH.76.Suppl.3" target="_blank">CrossRef</a></li>
+<li><a href="https://scholar.google.com/scholar_lookup?title=Chapter+1:+Introduction+to+the+Epidemiological+Aspects+of+Explosive+Volcanism&amp;author=Bernstein+Robert+S.+Baxter+Peter+J.+Buist+A.+Sonia&amp;publication_year=1986" target="_blank">Google Scholar</a></li>
+<li><a href="http://www.ncbi.nlm.nih.gov/pubmed/3511743?dopt=Abstract" target="_blank">PubMed</a></li>
+</ul>
+<hr/>
+ 
+<div class="reference-display">
+<div class="cit-citation simple journal" data-magellan-destination="ref094" id="ref094"><span class="cit-label">94.</span><span class="cit-name"> <span class="cit-given-names">PJ</span> <span class="cit-surname">Baxter</span> </span>, <span class="cit-name"> <span class="cit-given-names">RS</span> <span class="cit-surname">Bernstein</span> </span>, <span class="cit-name"> <span class="cit-surname">Falk</span> </span>, <span class="cit-italic">et al</span>: <span class="cit-article-title">Medical aspects of volcanic disasters: An outline of the hazards and emergency response measures</span>. <span class="cit-source">Disasters</span> <span class="cit-year">1982</span>;<span class="cit-volume">6</span>:<span class="cit-fpage">268</span>–<span class="cit-lpage">276</span>.</div>
+</div>
+<ul class="reference-list">
+<li><a href="https://doi.org/10.1111/j.1467-7717.1982.tb00549.x" target="_blank">CrossRef</a></li>
+<li><a href="https://scholar.google.com/scholar_lookup?title=Medical+aspects+of+volcanic+disasters:+An+outline+of+the+hazards+and+emergency+response+measures&amp;author=Baxter+Peter+J.+Bernstein+Robert+S.+Falk+Henry+French+Jean+Ing+Roy&amp;publication_year=1982" target="_blank">Google Scholar</a></li>
+</ul>
+<hr/>
+ 
+<div class="reference-display">
+<div class="cit-citation simple journal" data-magellan-destination="ref096" id="ref096"><span class="cit-label">96.</span><span class="cit-name"> <span class="cit-given-names">GPL</span> <span class="cit-surname">Walker</span> </span>: <span class="cit-article-title">Volcanic hazards</span>. <span class="cit-source">Interdisc Sci Rev</span> <span class="cit-year">1982</span>;<span class="cit-volume">7</span>:<span class="cit-fpage">148</span>–<span class="cit-lpage">153</span>.</div>
+</div>
+<ul class="reference-list">
+<li><a href="https://doi.org/10.1179/030801882789801133" target="_blank">CrossRef</a></li>
+<li><a href="https://scholar.google.com/scholar_lookup?title=Volcanic+Hazards&amp;author=Walker+George+P.+L.&amp;publication_year=2013" target="_blank">Google Scholar</a></li>
+</ul>
+<hr/>
+ 
+<div class="reference-display">
+<div class="cit-citation simple journal" data-magellan-destination="ref097" id="ref097"><span class="cit-label">97.</span><span class="cit-name"> <span class="cit-given-names">RA</span> <span class="cit-surname">Kerr</span> </span>: <span class="cit-article-title">Volcanoes to keep an eye on</span>. <span class="cit-source">Science</span> <span class="cit-year">1983</span>;<span class="cit-volume">221</span>:<span class="cit-fpage">634</span>–<span class="cit-lpage">637</span>.</div>
+</div>
+<ul class="reference-list">
+<li><a href="https://doi.org/10.1126/science.221.4611.634" target="_blank">CrossRef</a></li>
+<li><a href="https://scholar.google.com/scholar_lookup?title=Volcanoes+to+Keep+an+Eye+on:+The+western+United+States+has+scores+of+volcanoes+likely+to+erupt+in+the+future;+some+of+them+may+be+waking+from+long+slumbers&amp;author=KERR+R.+A.&amp;publication_year=1983" target="_blank">Google Scholar</a></li>
+<li><a href="http://www.ncbi.nlm.nih.gov/pubmed/17787726?dopt=Abstract" target="_blank">PubMed</a></li>
+</ul>
+<hr/>
+ 
+<div class="reference-display">
+<div class="cit-citation simple journal" data-magellan-destination="ref098" id="ref098"><span class="cit-label">98.</span><span class="cit-name"> <span class="cit-given-names">H</span> <span class="cit-surname">Sigurdsson</span> </span>, <span class="cit-name"> <span class="cit-given-names">S</span> <span class="cit-surname">Carey</span> </span>: <span class="cit-article-title">Volcanic disasters in Latin America and the 13th November 1985 eruption of Nevado del Ruiz volcano in Colombia</span>. <span class="cit-source">Disasters</span> <span class="cit-year">1986</span>;<span class="cit-volume">10</span>:<span class="cit-fpage">205</span>–<span class="cit-lpage">210</span>.</div>
+</div>
+<ul class="reference-list">
+<li><a href="https://doi.org/10.1111/j.1467-7717.1986.tb00590.x" target="_blank">CrossRef</a></li>
+<li><a href="https://scholar.google.com/scholar_lookup?title=Volcanic+disasters+in+Latin+America+and+the+13th+November+1985+eruption+of+Nevado+del+Ruiz+volcano+in+Colombia&amp;author=Sigurdsson+Haraldur+Carey+Steven&amp;publication_year=1986" target="_blank">Google Scholar</a></li>
+<li><a href="http://www.ncbi.nlm.nih.gov/pubmed/20958632?dopt=Abstract" target="_blank">PubMed</a></li>
+</ul>
+<hr/>
+ 
+<div class="reference-display">
+<div class="cit-citation simple journal" data-magellan-destination="ref100" id="ref100"><span class="cit-label">100.</span><span class="cit-name"> <span class="cit-given-names">H</span> <span class="cit-surname">Sigurdsson</span> </span>: <span class="cit-article-title">Gas bursts from Cameroon crater lakes: A new natural hazard</span>. <span class="cit-source">Disasters</span> <span class="cit-year">1988</span>;<span class="cit-volume">12</span>:<span class="cit-fpage">131</span>–<span class="cit-lpage">134</span>.</div>
+</div>
+<ul class="reference-list">
+<li><a href="https://doi.org/10.1111/j.1467-7717.1988.tb00661.x" target="_blank">CrossRef</a></li>
+<li><a href="https://scholar.google.com/scholar_lookup?title=Gas+Bursts+from+Cameroon+Crater+Lakes:+A+New+Natural+Hazard&amp;author=SIGURDSSON+HARALDUR&amp;publication_year=1988" target="_blank">Google Scholar</a></li>
+<li><a href="http://www.ncbi.nlm.nih.gov/pubmed/20958652?dopt=Abstract" target="_blank">PubMed</a></li>
+</ul>
+<hr/>
+ 
+<div class="reference-display">
+<div class="cit-citation simple journal" data-magellan-destination="ref101" id="ref101"><span class="cit-label">101.</span><span class="cit-name"> <span class="cit-given-names">RS</span> <span class="cit-surname">Bernstein</span> </span>, <span class="cit-name"> <span class="cit-given-names">PJ</span> <span class="cit-surname">Baxter</span> </span>, <span class="cit-name"> <span class="cit-given-names">H</span> <span class="cit-surname">Falk</span> </span>, <span class="cit-italic">et al</span>: <span class="cit-article-title">Immediate public health concerns and actions in volcanic eruptions: Lessons from the Mt. St. Helens eruptions, May 18-October 18, 1980</span>. <span class="cit-source">Am J Public Health</span> <span class="cit-year">1986</span>:<span class="cit-volume">76</span>(suppl):<span class="cit-fpage">25</span>–<span class="cit-lpage">37</span>.</div>
+</div>
+<ul class="reference-list">
+<li><a href="https://doi.org/10.2105/AJPH.76.Suppl.25" target="_blank">CrossRef</a></li>
+<li><a href="https://scholar.google.com/scholar_lookup?title=Immediate+public+health+concerns+and+actions+in+volcanic+eruptions:+lessons+from+the+Mount+St.+Helens+eruptions+May+18-October+18+1980.&amp;author=Bernstein+R+S+Baxter+P+J+Falk+H+Ing+R+Foster+L+Frost+F&amp;publication_year=1986" target="_blank">Google Scholar</a></li>
+<li><a href="http://www.ncbi.nlm.nih.gov/pubmed/3946727?dopt=Abstract" target="_blank">PubMed</a></li>
+</ul>
+<hr/>
+ 
+<div class="reference-display">
+<div class="cit-citation simple journal" data-magellan-destination="ref102" id="ref102"><span class="cit-label">102.</span><span class="cit-name"> <span class="cit-given-names">J</span> <span class="cit-surname">Nania</span> </span>, <span class="cit-name"> <span class="cit-given-names">TE</span> <span class="cit-surname">Bruya</span> </span>: <span class="cit-article-title">In the wake of Mount St. Helens</span>. <span class="cit-source">Ann Emerg Med</span> <span class="cit-year">1982</span>;<span class="cit-volume">11</span>:<span class="cit-fpage">184</span>–<span class="cit-lpage">187</span>.</div>
+</div>
+<ul class="reference-list">
+<li><a href="https://doi.org/10.1016/S0196-0644(82)80495-2" target="_blank">CrossRef</a></li>
+<li><a href="https://scholar.google.com/scholar_lookup?title=In+the+wake+of+Mount+St+Helens&amp;author=Nania+Jim+Bruya+Timothy+E.&amp;publication_year=1982" target="_blank">Google Scholar</a></li>
+</ul>
+<hr/>
+ 
+<div class="reference-display">
+<div class="cit-citation simple journal" data-magellan-destination="ref106" id="ref106"><span class="cit-label">106.</span><span class="cit-name"> <span class="cit-given-names">JW</span> <span class="cit-surname">Eisele</span> </span>: <span class="cit-article-title">Death during the May 18, 1980, eruption of Mount St. Helens</span>. <span class="cit-source">N Engl J Med</span> <span class="cit-year">1981</span>;<span class="cit-volume">305</span>:<span class="cit-fpage">931</span>–<span class="cit-lpage">936</span>.</div>
+</div>
+<ul class="reference-list">
+<li><a href="https://doi.org/10.1056/NEJM198110153051606" target="_blank">CrossRef</a></li>
+<li><a href="https://scholar.google.com/scholar_lookup?title=Deaths+during+the+May+18+1980+Eruption+of+Mount+St.+Helens&amp;author=Eisele+John+W.+O&#x27;Halloran+Ronald+L.+Reay+Donald+T.+Lindholm+George+R.+Lewman+Larry+V.+Brady+William+J.&amp;publication_year=1981" target="_blank">Google Scholar</a></li>
+<li><a href="http://www.ncbi.nlm.nih.gov/pubmed/7278897?dopt=Abstract" target="_blank">PubMed</a></li>
+</ul>
+<hr/>
+ 
+<div class="reference-display">
+<div class="cit-citation simple journal" data-magellan-destination="ref107" id="ref107"><span class="cit-label">107.</span><span class="cit-name"> <span class="cit-given-names">PJ</span> <span class="cit-surname">Baxter</span> </span>, <span class="cit-name"> <span class="cit-given-names">RS</span> <span class="cit-surname">Bernstein</span> </span>, <span class="cit-name"> <span class="cit-given-names">AS</span> <span class="cit-surname">Buist</span> </span>: <span class="cit-article-title">Preventive health measures in volcanic eruptions</span>. <span class="cit-source">Am J Public Health</span> <span class="cit-year">1986</span>;<span class="cit-volume">76</span>(suppl):<span class="cit-fpage">84</span>–<span class="cit-lpage">90</span>.</div>
+</div>
+<ul class="reference-list">
+<li><a href="https://doi.org/10.2105/AJPH.76.Suppl.84" target="_blank">CrossRef</a></li>
+<li><a href="https://scholar.google.com/scholar_lookup?title=Preventive+health+measures+in+volcanic+eruptions.&amp;author=Baxter+P+J+Bernstein+R+S+Buist+A+S&amp;publication_year=1986" target="_blank">Google Scholar</a></li>
+<li><a href="http://www.ncbi.nlm.nih.gov/pubmed/3946731?dopt=Abstract" target="_blank">PubMed</a></li>
+</ul>
+<hr/>
+ 
+<div class="reference-display">
+<div class="cit-citation simple journal" data-magellan-destination="ref112" id="ref112"><span class="cit-label">112.</span><span class="cit-name"> <span class="cit-given-names">KI</span> <span class="cit-surname">Shoaf</span> </span>, <span class="cit-name"> <span class="cit-given-names">LH</span> <span class="cit-surname">Nguyen</span> </span>, <span class="cit-name"> <span class="cit-given-names">HR</span> <span class="cit-surname">Sareen</span> </span>, <span class="cit-name"> <span class="cit-given-names">LB</span> <span class="cit-surname">Bourque</span> </span>: <span class="cit-article-title">Injuries as a result of California earthquakes in the past decade</span>. <span class="cit-source">Disasters</span> <span class="cit-year">1998</span>;<span class="cit-volume">22</span>:<span class="cit-fpage">218</span>–<span class="cit-lpage">235</span>.</div>
+</div>
+<ul class="reference-list">
+<li><a href="https://doi.org/10.1111/1467-7717.00088" target="_blank">CrossRef</a></li>
+<li><a href="https://scholar.google.com/scholar_lookup?title=Injuries+as+a+Result+of+California+Earthquakes+in+the+Past+Decade&amp;author=Shoaf+Kimberley+I.+Sareen+Harvinder+R.+Nguyen+Loc+H.+Bourque+Linda+B.&amp;publication_year=1998" target="_blank">Google Scholar</a></li>
+<li><a href="http://www.ncbi.nlm.nih.gov/pubmed/9753812?dopt=Abstract" target="_blank">PubMed</a></li>
+</ul>
+<hr/>
+ 
+<div class="reference-display">
+<div class="cit-citation simple journal" data-magellan-destination="ref115" id="ref115"><span class="cit-label">115.</span><span class="cit-name"> <span class="cit-given-names">R</span> <span class="cit-surname">Reitherman</span> </span>: <span class="cit-article-title">How to prepare a hospital for an earthquake</span>, <span class="cit-source">J Emerg Med</span> <span class="cit-year">1986</span>;<span class="cit-volume">4</span>:<span class="cit-fpage">119</span>–<span class="cit-lpage">131</span>.</div>
+</div>
+<ul class="reference-list">
+<li><a href="https://doi.org/10.1016/0736-4679(86)90075-2" target="_blank">CrossRef</a></li>
+<li><a href="https://scholar.google.com/scholar_lookup?title=How+to+prepare+a+hospital+for+an+earthquake&amp;author=Reitherman+Robert&amp;publication_year=1986" target="_blank">Google Scholar</a></li>
+<li><a href="http://www.ncbi.nlm.nih.gov/pubmed/3794271?dopt=Abstract" target="_blank">PubMed</a></li>
+</ul>
+<hr/>
+ 
+<div class="reference-display">
+<div class="cit-citation simple journal" data-magellan-destination="ref116" id="ref116"><span class="cit-label">116.</span><span class="cit-name"> <span class="cit-given-names">RI</span> <span class="cit-surname">Glass</span> </span>, <span class="cit-name"> <span class="cit-given-names">JJ</span> <span class="cit-surname">Urrutia</span> </span>, <span class="cit-name"> <span class="cit-given-names">S</span> <span class="cit-surname">Sibony</span> </span>: <span class="cit-article-title">Earthquake injuries related to housing in a Guatemalan village</span>. <span class="cit-source">Science</span> <span class="cit-year">1977</span>;<span class="cit-volume">197</span>:<span class="cit-fpage">638</span>–<span class="cit-lpage">643</span>.</div>
+</div>
+<ul class="reference-list">
+<li><a href="https://doi.org/10.1126/science.197.4304.638" target="_blank">CrossRef</a></li>
+<li><a href="https://scholar.google.com/scholar_lookup?title=Earthquake+Injuries+Related+to+Housing+in+a+Guatemalan+Village&amp;author=Glass+R.+I.+Urrutia+J.+J.+Sibony+S.+Smith+H.+Garcia+B.+Rizzo+L.&amp;publication_year=1977" target="_blank">Google Scholar</a></li>
+<li><a href="http://www.ncbi.nlm.nih.gov/pubmed/17776257?dopt=Abstract" target="_blank">PubMed</a></li>
+</ul>
+<hr/>
+ 
+<div class="reference-display">
+<div class="cit-citation simple journal" data-magellan-destination="ref117" id="ref117"><span class="cit-label">117.</span><span class="cit-name"> <span class="cit-given-names">EK</span> <span class="cit-surname">Noji</span> </span>, <span class="cit-name"> <span class="cit-given-names">GD</span> <span class="cit-surname">Kelen</span> </span>, <span class="cit-name"> <span class="cit-given-names">HK</span> <span class="cit-surname">Armenian</span> </span>, <span class="cit-italic">et al</span>: <span class="cit-article-title">The 1988 earthquake in Soviet Armenia: A case study</span>, <span class="cit-source">Ann Emerg Med</span> <span class="cit-year">1990</span>;<span class="cit-volume">19</span>:<span class="cit-fpage">891</span>.</div>
+</div>
+<ul class="reference-list">
+<li><a href="https://doi.org/10.1016/S0196-0644(05)81563-X" target="_blank">CrossRef</a></li>
+<li><a href="https://scholar.google.com/scholar_lookup?title=The+1988+earthquake+in+Soviet+Armenia:+A+case+study&amp;author=Noji+Eric+K+Kelen+Gabor+D+Armenian+Haroutune+K+Oganessian+Ashot+Jones+Nicholas+P+Sivertson+Keith+T&amp;publication_year=1990" target="_blank">Google Scholar</a></li>
+<li><a href="http://www.ncbi.nlm.nih.gov/pubmed/2142590?dopt=Abstract" target="_blank">PubMed</a></li>
+</ul>
+<hr/>
+ 
+<div class="reference-display">
+<div class="cit-citation simple journal" data-magellan-destination="ref118" id="ref118"><span class="cit-label">118.</span><span class="cit-name"> <span class="cit-given-names">JE</span> <span class="cit-surname">Pointer</span> </span>: <span class="cit-article-title">The 1989 Loma Prieta earthquake: Impact on hospital care</span>, <span class="cit-source">Ann Emerg Med</span> <span class="cit-year">1992</span>;<span class="cit-volume">21</span>: <span class="cit-fpage">1228</span>–<span class="cit-lpage">1233</span>.</div>
+</div>
+<ul class="reference-list">
+<li><a href="https://doi.org/10.1016/S0196-0644(05)81751-2" target="_blank">CrossRef</a></li>
+<li><a href="https://scholar.google.com/scholar_lookup?title=The+1989+Loma+Prieta+earthquake:+Impact+on+Hospital+Patient+Care&amp;author=Pointer+James+E+Michaelis+Janet+Saunders+Charles+Martchenke+Julie+Barton+Christopher+Palafox+Jorge+Kleinrock+Marie+Calabro+Joseph+J&amp;publication_year=1992" target="_blank">Google Scholar</a></li>
+<li><a href="http://www.ncbi.nlm.nih.gov/pubmed/1416302?dopt=Abstract" target="_blank">PubMed</a></li>
+</ul>
+<hr/>
+ 
+<div class="reference-display">
+<div class="cit-citation simple journal" data-magellan-destination="ref125" id="ref125"><span class="cit-label">125.</span><span class="cit-name"> <span class="cit-given-names">EK</span> <span class="cit-surname">Noji</span> </span>, <span class="cit-name"> <span class="cit-given-names">HK</span> <span class="cit-surname">Armenian</span> </span>, <span class="cit-name"> <span class="cit-given-names">A</span> <span class="cit-surname">Oganessian</span> </span>: <span class="cit-article-title">Issues of rescue and medical care following the 1988 Armenian earthquake</span>. <span class="cit-source">Int J Epidemiol.</span> <span class="cit-year">1993</span>;<span class="cit-volume">22</span>:<span class="cit-fpage">1070</span>–<span class="cit-lpage">1076</span>.</div>
+</div>
+<ul class="reference-list">
+<li><a href="https://doi.org/10.1093/ije/22.6.1070" target="_blank">CrossRef</a></li>
+<li><a href="https://scholar.google.com/scholar_lookup?title=Issues+of+Rescue+and+Medical+Care+Following+the+1988+Armenian+Earthquake&amp;author=NOJI+ERIC+K+ARMENIAN+HAROUTUNE+K+OGANESSIAN+ASHOT&amp;publication_year=1993" target="_blank">Google Scholar</a></li>
+<li><a href="http://www.ncbi.nlm.nih.gov/pubmed/8144288?dopt=Abstract" target="_blank">PubMed</a></li>
+</ul>
+<hr/>
+ 
+<div class="reference-display">
+<div class="cit-citation simple journal" data-magellan-destination="ref127" id="ref127"><span class="cit-label">127.</span><span class="cit-name"> <span class="cit-given-names">EK</span> <span class="cit-surname">Noji</span> </span>: <span class="cit-article-title">Acute renal failure in natural disasters</span>. <span class="cit-source">Renal Failure</span> <span class="cit-year">1992</span>;<span class="cit-volume">14</span>:<span class="cit-fpage">245</span>–<span class="cit-lpage">246</span>.</div>
+</div>
+<ul class="reference-list">
+<li><a href="https://doi.org/10.3109/08860229209106625" target="_blank">CrossRef</a></li>
+<li><a href="https://scholar.google.com/scholar_lookup?title=Acute+Renal+Failure+in+Natural+Disasters&amp;author=Noji+Eric+K.&amp;publication_year=2009" target="_blank">Google Scholar</a></li>
+<li><a href="http://www.ncbi.nlm.nih.gov/pubmed/1509156?dopt=Abstract" target="_blank">PubMed</a></li>
+</ul>
+<hr/>
+ 
+<div class="reference-display">
+<div class="cit-citation simple journal" data-magellan-destination="ref131" id="ref131"><span class="cit-label">131.</span><span class="cit-name"> <span class="cit-given-names">M</span> <span class="cit-surname">de Bruycker</span> </span>, <span class="cit-name"> <span class="cit-given-names">D</span> <span class="cit-surname">Greco</span> </span>, <span class="cit-name"> <span class="cit-given-names">MF</span> <span class="cit-surname">Lechat</span> </span>: <span class="cit-article-title">The 1980 earthquake in southern Italy: Morbidity and mortality</span>. <span class="cit-source">Int J Epidemiol</span> <span class="cit-year">1985</span>;<span class="cit-volume">14</span>:<span class="cit-fpage">113</span>–<span class="cit-lpage">117</span>.</div>
+</div>
+<ul class="reference-list">
+<li><a href="https://doi.org/10.1093/ije/14.1.113" target="_blank">CrossRef</a></li>
+<li><a href="https://scholar.google.com/scholar_lookup?title=The+1980+Earthquake+in+Southern+Italy—+Morbidity+and+Mortality&amp;author=BRUYCKER+MARC+DE+GRECO+DONATO+LECHAT+MICHEL+F&amp;publication_year=1985" target="_blank">Google Scholar</a></li>
+<li><a href="http://www.ncbi.nlm.nih.gov/pubmed/3988425?dopt=Abstract" target="_blank">PubMed</a></li>
+</ul>
+<hr/>
+ 
+<div class="reference-display">
+<div class="cit-citation simple journal" data-magellan-destination="ref134" id="ref134"><span class="cit-label">134.</span><span class="cit-name"> <span class="cit-given-names">CH</span> <span class="cit-surname">Schultz</span> </span>, <span class="cit-name"> <span class="cit-given-names">KL</span> <span class="cit-surname">Koenig</span> </span>, <span class="cit-name"> <span class="cit-given-names">EK</span> <span class="cit-surname">Noji</span> </span>. <span class="cit-article-title">A medical disaster response to reduce immediate mortality after an earthquake</span>. <span class="cit-source">N Eng J Med</span> <span class="cit-year">1996</span>;<span class="cit-volume">334</span>:<span class="cit-fpage">438</span>–<span class="cit-lpage">444</span>.</div>
+</div>
+<ul class="reference-list">
+<li><a href="https://doi.org/10.1056/NEJM199602153340706" target="_blank">CrossRef</a></li>
+<li><a href="https://scholar.google.com/scholar_lookup?title=A+Medical+Disaster+Response+to+Reduce+Immediate+Mortality+after+an+Earthquake&amp;author=Schultz+Carl+H.+Koenig+Kristi+L.+Noji+Eric+K.&amp;publication_year=1996" target="_blank">Google Scholar</a></li>
+</ul>
+<hr/>
+ 
+<div class="reference-display">
+<div class="cit-citation simple journal" data-magellan-destination="ref135" id="ref135"><span class="cit-label">135.</span><span class="cit-name"> <span class="cit-given-names">S</span> <span class="cit-surname">Yong</span> </span>: <span class="cit-article-title">Medical support in the Tangshan earthquake: A review of the management of mass casualties and certain major injuries</span>. <span class="cit-source">J Trauma</span> <span class="cit-year">1987</span>;<span class="cit-volume">27</span>:<span class="cit-fpage">1130</span>–<span class="cit-lpage">1135</span>.</div>
+</div>
+<ul class="reference-list">
+<li><a href="https://doi.org/10.1097/00005373-198710000-00007" target="_blank">CrossRef</a></li>
+<li><a href="https://scholar.google.com/scholar_lookup?title=Medical+Support+in+the+Tangshan+Earthquake&amp;author=ZHI-YONG+SHENG&amp;publication_year=1987" target="_blank">Google Scholar</a></li>
+<li><a href="http://www.ncbi.nlm.nih.gov/pubmed/3312621?dopt=Abstract" target="_blank">PubMed</a></li>
+</ul>
+<hr/>
+ 
+<div class="reference-display">
+<div class="cit-citation simple journal" data-magellan-destination="ref136" id="ref136"><span class="cit-label">136.</span><span class="cit-name"> <span class="cit-given-names">K</span> <span class="cit-surname">Katsouyanni</span> </span>, <span class="cit-name"> <span class="cit-given-names">M</span> <span class="cit-surname">Kogevinas</span> </span>, <span class="cit-name"> <span class="cit-given-names">D</span> <span class="cit-surname">Trichopoulos</span> </span>: <span class="cit-article-title">Earthquake-related stress and cardiac mortality</span>. <span class="cit-source">Int J Epidemiol</span> <span class="cit-year">1986</span>;<span class="cit-volume">15</span>:<span class="cit-fpage">326</span>–<span class="cit-lpage">330</span>.</div>
+</div>
+<ul class="reference-list">
+<li><a href="https://doi.org/10.1093/ije/15.3.326" target="_blank">CrossRef</a></li>
+<li><a href="https://scholar.google.com/scholar_lookup?title=Earthquake-Related+Stress+and+Cardiac+Mortality&amp;author=KATSOUYANNI+KLEA+KOGEVINAS+MANOLIS+TRICHOPOULOS+MITRIOS&amp;publication_year=1986" target="_blank">Google Scholar</a></li>
+<li><a href="http://www.ncbi.nlm.nih.gov/pubmed/3771068?dopt=Abstract" target="_blank">PubMed</a></li>
+</ul>
+<hr/>
+ 
+<div class="reference-display">
+<div class="cit-citation simple journal" data-magellan-destination="ref138" id="ref138"><span class="cit-label">138.</span><span class="cit-name"> <span class="cit-given-names">MJ</span> <span class="cit-surname">Toole</span> </span>: <span class="cit-article-title">Communicable disease epidemiology following disasters</span>. <span class="cit-source">Ann Emerg Med</span> <span class="cit-year">1992</span>;<span class="cit-volume">21</span>:<span class="cit-fpage">418</span>–<span class="cit-lpage">420</span>.</div>
+</div>
+<ul class="reference-list">
+<li><a href="https://doi.org/10.1016/S0196-0644(05)82662-9" target="_blank">CrossRef</a></li>
+<li><a href="https://scholar.google.com/scholar_lookup?title=Communicable+disease+epidemiology+following+disasters&amp;author=Toole+Michael+J&amp;publication_year=1992" target="_blank">Google Scholar</a></li>
+<li><a href="http://www.ncbi.nlm.nih.gov/pubmed/1554181?dopt=Abstract" target="_blank">PubMed</a></li>
+</ul>
+<hr/>
+ 
+<div class="reference-display">
+<div class="cit-citation simple journal" data-magellan-destination="ref139" id="ref139"><span class="cit-label">139.</span><span class="cit-name"> <span class="cit-given-names">RV</span> <span class="cit-surname">Aghababian</span> </span>, <span class="cit-name"> <span class="cit-given-names">J</span> <span class="cit-surname">Teuscher</span> </span>: <span class="cit-article-title">Infectious diseases following major disasters</span>. <span class="cit-source">Ann Emerg Med</span> <span class="cit-year">1992</span>;<span class="cit-volume">21</span>:<span class="cit-fpage">362</span>–<span class="cit-lpage">367</span>.</div>
+</div>
+<ul class="reference-list">
+<li><a href="https://doi.org/10.1016/S0196-0644(05)82651-4" target="_blank">CrossRef</a></li>
+<li><a href="https://scholar.google.com/scholar_lookup?title=Infectious+diseases+following+major+disasters&amp;author=Aghababian+Richard+V+Teuscher+Josette&amp;publication_year=1992" target="_blank">Google Scholar</a></li>
+<li><a href="http://www.ncbi.nlm.nih.gov/pubmed/1554171?dopt=Abstract" target="_blank">PubMed</a></li>
+</ul>
+<hr/>
+ 
+<div class="reference-display">
+<div class="cit-citation simple journal" data-magellan-destination="ref143" id="ref143"><span class="cit-label">143.</span><span class="cit-name"> <span class="cit-given-names">B</span> <span class="cit-surname">Woodruff</span> </span>, <span class="cit-name"> <span class="cit-given-names">JM</span> <span class="cit-surname">Toole</span> </span>, <span class="cit-name"> <span class="cit-given-names">DC</span> <span class="cit-surname">Rodriguez</span> </span>, <span class="cit-italic">et al</span>: <span class="cit-article-title">Disease surveillance and control after a flood in Khartoum, Sudan, 1988</span>, <span class="cit-source">Disasters</span> <span class="cit-year">1990</span>; <span class="cit-volume">14</span>:<span class="cit-fpage">151</span>–<span class="cit-lpage">163</span>.</div>
+</div>
+<ul class="reference-list">
+<li><a href="https://doi.org/10.1111/j.1467-7717.1990.tb01056.x" target="_blank">CrossRef</a></li>
+<li><a href="https://scholar.google.com/scholar_lookup?title=Disease+Surveillance+and+Control+After+a+Flood:+Khartoum+Sudan+1988&amp;author=WOODRUFF+BRADLEY+A.+TOOLE+MICHAEL+J.+RODRIGUE+DANIEL+C.+BRINK+EDWARD+W.+MAHGOUB+EL+SADIG+AHMED+MAGDA+MOHAMED+BABIKAR+ADAM&amp;publication_year=1990" target="_blank">Google Scholar</a></li>
+</ul>
+<hr/>
+ 
+<div class="reference-display">
+<div class="cit-citation simple journal" data-magellan-destination="ref145" id="ref145"><span class="cit-label">145.</span><span class="cit-name"> <span class="cit-given-names">PJ</span> <span class="cit-surname">Hooft</span> </span>, <span class="cit-name"> <span class="cit-given-names">EK</span> <span class="cit-surname">Noji</span> </span>, <span class="cit-name"> <span class="cit-given-names">HP</span> <span class="cit-surname">Van de Voorde</span> </span>: <span class="cit-article-title">Fatality management in mass-casualty incidents</span>. <span class="cit-source">Forensic Sei Int</span> <span class="cit-year">1989</span>;<span class="cit-volume">40</span>:<span class="cit-fpage">3</span>–<span class="cit-lpage">14</span>.</div>
+</div>
+<ul class="reference-list">
+<li><a href="https://doi.org/10.1016/0379-0738(89)90163-1" target="_blank">CrossRef</a></li>
+<li><a href="https://scholar.google.com/scholar_lookup?title=Fatality+management+in+mass+casualty+incidents&amp;author=Hooft+Peter+J.+Noji+Eric+K.+Van+De+Voorde+Herman+P.&amp;publication_year=1989" target="_blank">Google Scholar</a></li>
+</ul>
+<hr/>
+ 
+<div class="reference-display">
+<div class="cit-citation simple journal" data-magellan-destination="ref146" id="ref146"><span class="cit-label">146.</span><span class="cit-name"> <span class="cit-given-names">EK</span> <span class="cit-surname">Noji</span> </span>: <span class="cit-article-title">Progress in disaster management</span>. <span class="cit-source">Lancet</span> <span class="cit-year">1994</span>;<span class="cit-volume">343</span>: <span class="cit-fpage">1239</span>–<span class="cit-lpage">1240</span>.</div>
+</div>
+<ul class="reference-list">
+<li><a href="https://doi.org/10.1016/S0140-6736(94)92145-8" target="_blank">CrossRef</a></li>
+<li><a href="https://scholar.google.com/scholar_lookup?title=Progress+in+disaster+management&amp;author=NOJI+E&amp;publication_year=1994" target="_blank">Google Scholar</a></li>
+<li><a href="http://www.ncbi.nlm.nih.gov/pubmed/7910269?dopt=Abstract" target="_blank">PubMed</a></li>
+</ul>
+<hr/>
+ 
+<div class="reference-display">
+<div class="cit-citation simple journal" data-magellan-destination="ref147" id="ref147"><span class="cit-label">147.</span><span class="cit-collab simple">Editorial</span>: <span class="cit-article-title">Disaster epidemiology</span>. <span class="cit-source">Lancet</span> <span class="cit-year">1990</span>;<span class="cit-volume">336</span>:<span class="cit-fpage">845</span>–<span class="cit-lpage">846</span>.</div>
+</div>
+<ul class="reference-list">
+<li><a href="https://doi.org/10.1016/0140-6736(90)92343-G" target="_blank">CrossRef</a></li>
+<li><a href="http://www.ncbi.nlm.nih.gov/pubmed/1976879?dopt=Abstract" target="_blank">PubMed</a></li>
+</ul>
+<hr/>
+</div>
+</dd>
+</dl>
+</div>
+</div>
+</div>
+</div>
+<div id="recommendProduct" class="reveal-modal large" data-reveal>
+<div id="type-display">
+<div class="header">
+<div class="heading_07">Recommend this journal</div>
+<p>Email your librarian or administrator to recommend adding this journal to your organisation's collection.</p>
+</div>
+<div class="row book-title">
+<div class="small-12 columns">
+<div class="heading_08">Prehospital and Disaster Medicine</div>
+</div>
+</div>
+<div class="row book-details book-overview">
+<div class="small-12 columns">
+<ul>
+<li class="meta-info issn">ISSN: 1049-023X<li>
+<li class="meta-info eissn">EISSN: 1945-1938<li>
+<li class="meta-info url">URL: /core/journals/prehospital-and-disaster-medicine<li>
+</ul>
+</div>
+</div>
+</div>
+<div class="row wrapper no-padding-top">
+<div class="small-12 columns">
+<div class="flash-message-container">
+<div class="flash-message">
+<div data-alert class="alert-box alert">
+<div class="alert alert-danger">Unfortunately you do not have access to this content, please use the <strong>Get access</strong> link below for information on how to access this content.</div>
+<a href="#" class="close">&times;</a>
+</div>
+<div id="ajaxMessages" class="ajaxMessages"></div>
+</div>
+</div>
+<div class="row margin-top">
+<div class="large-12 columns">
+<form id="recommend" action="/core/services/aop-cambridge-core/recommend/send" method="post" data-abide="ajax">
+<input type="hidden" name="_csrf" value="msDwtBja-i-wxdspWPAgXipXJg2n_tBmw8co">
+<div id="inputs">
+<input type="hidden" name="productType" value="journal">
+<input type="hidden" name="productLink" value="">
+<input type="hidden" name="productID" value="8469968A8290DADF03863DDCD42A83CD">
+<input type="hidden" name="productTitle" value="Prehospital and Disaster Medicine">
+<input type="hidden" name="productIssn" value="1049023X">
+<input type="hidden" name="productEissn" value="19451938">
+</div>
+<input type="hidden" name="yourNamePrefill" value="">
+<input type="hidden" name="yourEmailPrefill" value="">
+<div class="row">
+<div class="large-6 medium-12 small-12 columns">
+<div class="row">
+<div class="small-12 columns">
+<label>
+Your name *
+<input name="yourName" id="yourName" type="text" required="required" maxlength="100" placeholder="Enter your name"/>
+</label>
+<small class="error">Please enter your name</small>
+</div>
+</div>
+</div>
+<div class="large-6 medium-12 small-12 columns">
+<div class="row">
+<div class="small-12 columns">
+<label>
+Your email address *
+<input name="yourEmail" id="yourEmail" type="text" required="required" pattern="email" maxlength="100" placeholder="Enter your email address"/>
+</label>
+<small class="error">Please enter a valid email address</small>
+</div>
+</div>
+</div>
+</div>
+<div class="row">
+<div class="small-12 large-12 columns">
+<fieldset>
+<legend>Who would you like to send this to? *</legend>
+<div class="row">
+<div class="small-12 large-6 columns no-padding-left margin-top-for-medium no-margin-top">
+<div id="administrator-email" class="small-12 columns">
+<label class="organisation-option" for="administratorEmail"><span>Your administrator's email <span data-dropdown="administratorEmailInfo" aria-controls="administratorEmailInfo" aria-expanded="false" class="icon info tooltip-icon"></span></span><div id="administratorEmailInfo" data-dropdown-content class="f-dropdown content medium" aria-hidden="true" tabindex="-1"><p class="text-left">You can enter one or more administrator email addresses.</p></div></label>
+<div class="row collapse postfix-radius">
+<div class="large-10 small-10 columns">
+<input type="hidden" id="selected-values" name="selectedAdministratorEmails" value=""/>
+<input id="administratorEmail" name="administratorEmail" type="text" placeholder="Enter an email address" autocomplete="off"/>
+<span id="emailaddress-invalid" class="error" style="display:none">Please enter a valid email address</span>
+<span id="emailaddress-added" class="error" style="display:none">Email already added</span>
+</div>
+<div class="large-2 small-2 columns">
+<input type="submit" value="Add" id="add-administrator" class="button radius postfix" aria-label="Add administrator email">
+</div>
+</div>
+<div class="row">
+<div class="small-12 large-12 columns">
+<div id="selected-administrator-emails" class="margin-top" style="display:none"></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</fieldset>
+</div>
+</div>
+<div class="row">
+<div class="small-12 medium-6 columns">
+<div class="small-12 medium-12 large-6 columns">
+<label>Optional message
+<textarea name="message" id="message" rows="3" maxlength="250" placeholder="Enter a message for your libarian or administrator"></textarea>
+</label>
+</div>
+</div>
+<div class="small-12 medium-6 columns">
+<link rel="stylesheet" href="/core/captcha/public/bower_components/visualcaptcha.jquery/visualcaptcha.src.css"/>
+<link rel="stylesheet" href="/core/captcha/public/captcha.css"/>
+<div class="wrap">
+<div class="pre-captcha-wrapper">
+<div class="captcha-wrapper">
+<h2>CAPTCHA *</h2>
+<a id="captcha-skip-to-audio" href="#captcha-audio-challenge" aria-hidden="false">Skip to the audio challenge</a>
+<div id="sample-captcha"></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</form>
+<div class="row margin-top">
+<div class="small-6 large-6 columns">
+<button href="#" onclick="$('#recommendProduct').foundation('reveal', 'close');return false;" class="button radius transparent right">Cancel</button>
+</div>
+<div class="small-6 large-6 columns">
+<button type="submit" onclick="$('form#recommend').submit();" id="recommend-submit" class="button blue radius left">Send</button>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<a class="close-reveal-modal">×</a>
+</div>
+<script>
+                                  $('.icon.toggle.close').on('click', function () {
+                                      $('.article-meta').toggleClass('reading-width');
+                                  });
+                              </script>
+</div>
+<div class="panel large-3 small-12 narrow-column article-page chapter right">
+<div class="actions article">
+<div class="header">
+<div class="header left">
+<div class="left title-underline">
+<h3>Keywords:</h3>
+<div class="border"></div>
+</div>
+</div>
+</div>
+<ul class="button-group inline clearfix">
+<li>
+<a href="/core/search?filters[keywords]=aid" class="button small radius grey">aid</a></li>
+<li>
+<a href="/core/search?filters[keywords]=assistance" class="button small radius grey">assistance</a></li>
+<li>
+<a href="/core/search?filters[keywords]=consequences" class="button small radius grey">consequences</a></li>
+<li>
+<a href="/core/search?filters[keywords]=corpses" class="button small radius grey">corpses</a></li>
+<li>
+<a href="/core/search?filters[keywords]=decision-making" class="button small radius grey">decision-making</a></li>
+<li>
+<a href="/core/search?filters[keywords]=disasters" class="button small radius grey">disasters</a></li>
+<li>
+<a href="/core/search?filters[keywords]=earthquakes" class="button small radius grey">earthquakes</a></li>
+<li>
+<a href="/core/search?filters[keywords]=epidemics" class="button small radius grey">epidemics</a></li>
+<li>
+<a href="/core/search?filters[keywords]=events" class="button small radius grey">events</a></li>
+<li>
+<a href="/core/search?filters[keywords]=floods" class="button small radius grey">floods</a></li>
+<li>
+<a href="/core/search?filters[keywords]=information" class="button small radius grey">information</a></li>
+<li>
+<a href="/core/search?filters[keywords]=management" class="button small radius grey">management</a></li>
+<li>
+<a href="/core/search?filters[keywords]=natural%20disasters" class="button small radius grey">natural disasters</a></li>
+<li>
+<a href="/core/search?filters[keywords]=needs" class="button small radius grey">needs</a></li>
+<li>
+<a href="/core/search?filters[keywords]=public%20health" class="button small radius grey">public health</a></li>
+<li style="display: none;">
+<a href="/core/search?filters[keywords]=responses" class="button small radius grey">responses</a></li>
+<li style="display: none;">
+<a href="/core/search?filters[keywords]=supplies" class="button small radius grey">supplies</a></li>
+<li style="display: none;">
+<a href="/core/search?filters[keywords]=surveillance" class="button small radius grey">surveillance</a></li>
+<li style="display: none;">
+<a href="/core/search?filters[keywords]=tornadoes" class="button small radius grey">tornadoes</a></li>
+<li style="display: none;">
+<a href="/core/search?filters[keywords]=tropical%20cyclones" class="button small radius grey">tropical cyclones</a></li>
+<li style="display: none;">
+<a href="/core/search?filters[keywords]=volcanic%20eruptions" class="button small radius grey">volcanic eruptions</a></li>
+</ul>
+<div class="clearfix explore-all padding-top right" data-limit="15">
+<a href="#explore">
+<div class="icon open-drawer small open-drawer--bold">
+<span class="toggle-text">Show</span>
+<span class="excerpt-type">all</span>
+</div>
+</a>
+</div>
+</div>
+<script>
+                                  $(document).ready(function () {
+                                    $('texmath, .tex-math, .mathJaxTex').hide();
+                                  });
+                                </script>
+</div>
+</div>
+</div>
+</div>
+</section>
+</div>
+<div class="content" id="contents">
+</div>
+<div class="content" id="references">
+</div>
+<div class="content" id="metrics">
+<script type="text/javascript">
+            $(document).ready(function () {
+          
+              var fullTextViews = {
+                total: '60',
+                data: [],
+                containerId: 'article-months-chart-fulltext-views'
+              };
+                fullTextViews.data.push([
+                  {v: 'Sep 2016'},
+                  43
+                ]);
+                fullTextViews.data.push([
+                  {v: 'Oct 2016'},
+                  49
+                ]);
+                fullTextViews.data.push([
+                  {v: 'Nov 2016'},
+                  54
+                ]);
+                fullTextViews.data.push([
+                  {v: 'Dec 2016'},
+                  54
+                ]);
+                fullTextViews.data.push([
+                  {v: 'Jan 2017'},
+                  57
+                ]);
+                fullTextViews.data.push([
+                  {v: 'Feb 2017'},
+                  59
+                ]);
+                fullTextViews.data.push([
+                  {v: 'Mar 2017'},
+                  60
+                ]);
+          
+              var abstractViews = {
+                total: '239',
+                data: [],
+                containerId: 'article-months-chart-abstract-views'
+              };
+                abstractViews.data.push([
+                  {v: 'Sep 2016'},
+                  29
+                ]);
+                abstractViews.data.push([
+                  {v: 'Oct 2016'},
+                  72
+                ]);
+                abstractViews.data.push([
+                  {v: 'Nov 2016'},
+                  103
+                ]);
+                abstractViews.data.push([
+                  {v: 'Dec 2016'},
+                  129
+                ]);
+                abstractViews.data.push([
+                  {v: 'Jan 2017'},
+                  166
+                ]);
+                abstractViews.data.push([
+                  {v: 'Feb 2017'},
+                  204
+                ]);
+                abstractViews.data.push([
+                  {v: 'Mar 2017'},
+                  239
+                ]);
+          
+              var chartsToRender = [
+                {
+                  containerId: fullTextViews.containerId,
+                  chartType: 'LineChart',
+                  data: fullTextViews.data,
+                  total: fullTextViews.total,
+                  columns: [
+                    ['string', 'Month'],
+                    ['number', 'Full text views']
+                  ],
+                  chartOptions: {
+                    hAxis: {
+                      title: 'Months'
+                    },
+                    vAxis: {
+                      title: 'Cumulative views',
+                      format: 0
+                    },
+                    legend: 'none',
+                    lineWidth: 3,
+                    pointSize: 5
+                  }
+                },
+                {
+                  containerId: abstractViews.containerId,
+                  data: abstractViews.data,
+                  total: abstractViews.total,
+                  chartType: 'LineChart',
+                  columns: [
+                    ['string', 'Month'],
+                    ['number', 'Abstract views']
+                  ],
+                  chartOptions: {
+                    hAxis: {
+                      title: 'Months'
+                    },
+                    vAxis: {
+                      title: 'Cumulative views',
+                      format: 0
+                    },
+                    legend: 'none',
+                    lineWidth: 3,
+                    pointSize: 5
+                  }
+                }
+              ];
+          
+              AOP.metrics.init({
+                chartsToRender: chartsToRender,
+                limitSingleChartWidth: true
+              });
+          
+            });
+          
+          </script>
+<section class="row metrics">
+<div class="large-12 columns">
+<div class="split-panel opposite-cols">
+<div class="wrapper">
+<div class="panel small-12 column main-column">
+<div class="reading-width">
+<h2 class="heading_03">Metrics</h2>
+<div class="divider"></div>
+<div class="metrics-section full-text-views ">
+<h2 class="heading_06">Full text views<span> <span data-dropdown="full-text-view-info" aria-controls="full-text-view-info" aria-expanded="false" class="icon info tooltip-icon"></span></span><div id="full-text-view-info" data-dropdown-content class="f-dropdown content medium" aria-hidden="true" tabindex="-1"><p class="text-left">Full text views reflects the number of PDF downloads, PDFs sent to Google Drive, Dropbox and Kindle and HTML full text views.</p></div></h2>
+<div class="summary">
+<div>Total number of HTML views: <span>0</span></div>
+<div>Total number of PDF views: <span>60</span> *</div>
+</div>
+<div class="clear"></div>
+<div class="chart">
+<div class="loader">
+<div>
+<img src="/core/system/public/img/ajax_loader_gray_256.gif" alt=""><span>Loading metrics...</span>
+</div>
+</div>
+<div class="row">
+<div class="large-12 columns">
+<div id="article-months-chart-fulltext-views"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="divider"></div>
+<div class="metrics-section abstract-views ">
+<h2 class="heading_06">Abstract views<span> <span data-dropdown="abstract-view-info" aria-controls="abstract-view-info" aria-expanded="false" class="icon info tooltip-icon"></span></span><div id="abstract-view-info" data-dropdown-content class="f-dropdown content medium" aria-hidden="true" tabindex="-1"><p class="text-left">Abstract views reflect the number of visits to the article landing page.</p></div></h2>
+<div class="summary">
+<div>
+Total abstract views: <span>239</span> *
+</div>
+</div>
+<div class="clear"></div>
+<div class="chart">
+<div class="loader">
+<div>
+<img src="/core/system/public/img/ajax_loader_gray_256.gif" alt=""><span>Loading metrics...</span>
+</div>
+</div>
+<div class="row">
+<div class="large-12 columns">
+<div id="article-months-chart-abstract-views"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="margin-top"><p>* Views captured on Cambridge Core between September 2016 - 19th March 2017. This data will be updated every 24 hours.</p></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</section>
+</div>
+<div class="content" id="errata">
+<section class="row">
+<div class="large-12 columns">
+<div class="split-panel opposite-cols">
+<div class="wrapper">
+<div class="panel small-12 column main-column">
+<div class="reading-width">
+</div>
+</div>
+</div>
+</div>
+</div>
+</section>
+</div>
+</div>
+</div>
+<script>
+          $(document).ready(function () {
+              AOP.loadScript('//s7.addthis.com/js/300/addthis_widget.js#async=1', function () {
+                  var addthis_config = addthis_config || {};
+                  var addthis_share = addthis_share || {};
+                  addthis_config.pubid = 'ra-554b7ca6217c131b';
+                  addthis_config.ui_click = true;
+
+
+                  // Initialise the addthis service
+                  addthis.init();
+                  // Apply config & share options to any share button on screen.
+                  addthis.button('.share', addthis_config, addthis_share);
+              });
+          });
+      </script>
+<footer>
+<div class="top menu centered">
+<div id="services" class="content">
+<ul class="tabs">
+<li class="tab-title"><a href="/core/services/librarians">Librarians</a></li>
+<li class="tab-title"><a href="/core/services/authors">Authors</a></li>
+<li class="tab-title"><a href="/core/services/publishing-partners">Publishing partners</a></li>
+<li class="tab-title"><a href="/core/services/agents">Agents</a></li>
+<li class="tab-title"><a href="/core/services/corporates">Corporates</a></li>
+</ul>
+</div>
+</div>
+<div class="mid">
+<div class="row">
+<ul class="accordion" data-accordion>
+<li class="accordion-navigation">
+<a href="#additional" class="accordion-expander">Additional Information<span class="icon tablet open-drawer"></span></a>
+<div id="additional" class="content">
+<div class="large-9 column menu">
+<ul class="sub-nav site-map margin-top">
+<li><a href="/core/accessibility">Accessibility</a></li>
+<li><a href="http://blog.journals.cambridge.org/" target="_blank">Our blog</a></li>
+<li><a href="/core/news">News</a></li>
+<li><a href="/core/contact">Contact us</a></li>
+<li><a href="/core/help/FAQs">Help</a></li>
+<li><a href="/core/terms">Cambridge Core terms of use</a></li>
+<li><a href="http://www.cambridge.org/about-us/feedback">Feedback</a></li>
+<li><a href="/core/sitemap">Sitemap</a></li>
+</ul>
+</div>
+<div class="large-3 column">
+<div class="social-container">
+<div class="title">Join us online</div>
+<ul class="social">
+<li><a href="https://www.facebook.com/CambridgeCore" target="_blank" class="icon fb"></a></li>
+<li><a href="https://twitter.com/CambridgeCore" target="_blank" class="icon tw"></a></li>
+<li><a href="https://plus.google.com/114953848908220702663/posts" target="_blank" class="icon gp"></a></li>
+<li><a href="https://www.youtube.com/user/CambridgeJournals" target="_blank" class="icon yt"></a></li>
+</ul>
+</div>
+</div>
+</div>
+</li>
+</ul>
+</div>
+</div>
+<div class="bottom">
+<div class="row menu">
+<ul class="column accordion" data-accordion>
+<li class="accordion-navigation">
+<a href="#legal" class="accordion-expander">Legal Information<span class="icon tablet open-drawer"></span></a>
+<div id="legal" class="content">
+<ul class="title-area">
+<li class="logo">
+<div itemscope itemtype="http://schema.org/Organization">
+<a itemprop="url" href="http://www.cambridge.org">
+<img itemprop="logo" src="/core/cambridge-core/public/images/cambridge_logo.png" alt="Cambridge University Press">
+</a>
+</div>
+</li>
+</ul>
+<ul class="sub-nav">
+<li><a href="http://www.cambridge.org/about-us/rights-permissions/">Rights & Permissions</a></li>
+<li><a href="http://www.cambridge.org/about-us/legal-notices/copyright/">Copyright</a></li>
+<li><a href="http://www.cambridge.org/about-us/legal-notices/privacy-policy/">Privacy Policy</a></li>
+<li><a href="http://www.cambridge.org/about-us/legal-notices/terms-use">Terms of use</a></li>
+<li><a href="http://www.cambridge.org/about-us/legal-notices/cookies-policy/">Cookies Policy</a></li>
+<li class="copyright hide-for-medium hide-for-small">
+<a href="#">&#169; Cambridge University Press 2017</a>
+</li>
+<li class="back-to-top hide-for-large-up"><a href="#">Back to top</a></li>
+</ul>
+</div>
+</li>
+</ul>
+</div>
+</div>
+<div class="mid hide-for-large-up">
+<div class="row">
+<ul class="tablet-footer-actions clearfix">
+<li class="copyright">
+<a href="#">&#169; Cambridge University Press 2017</a>
+</li>
+<li class="back-to-top right"><a href="#">Back to top</a></li>
+</ul>
+</div>
+</div>
+</footer>
+<script src="/core/cambridge-core/public/bower_components/foundation/js/foundation.js"></script>
+<script src="/core/cambridge-core/public/js/plugins/jquery.autocomplete.min.js"></script>
+<script src="/core/cambridge-core/public/js/plugins/slick.min.js"></script>
+<script src="/core/cambridge-core/public/js/plugins/jquery.qtip.min.js"></script>
+<script src="/core/cambridge-core/public/js/plugins/foggy.min.js"></script>
+<script src="/core/cambridge-core/public/js/plugins/jquery.cookie.js"></script>
+<script src="/core/cambridge-core/public/js/plugins/jquery.textresizer.min.js"></script>
+<script src="/core/cambridge-core/public/js/plugins/chosen.jquery.min.js"></script>
+<script src="/core/cambridge-core/public/js/plugins/jquery.sticky.js"></script>
+<script type="text/javascript">
+        var AOP = AOP || {};
+        AOP.konakart = AOP.konakart || {
+                kkRoot: '',
+                storeId: 'store_b2b_self_service',
+                kkCatalogId: '',
+                kkCurrencyId: ''
+            };
+
+    </script>
+ 
+ 
+<script type="text/javascript" language="javascript">
+      window.AOP = window.AOP || {};
+      window.AOP.pageId = '';
+      window.AOP.baseUrl = '/core';
+      window.AOP.env = 'prod';
+      window.AOP.webTrendsFpcdom = '.www.cambridge.org';
+      window.AOP.webtrendsSourceId = 'dcs2229lnlwr3lqf1qfic2m50_4k5s';
+      window.AOP.shouldUseCitationTool = true;
+    </script>
+<script src="/core/system/public/js/foundationUtils.js" language="javascript" type="text/javascript"></script>
+<script src="/core/system/public/js/confirmModal.js" language="javascript" type="text/javascript"></script>
+<script src="/core/system/public/js/trimWhitespace.js" language="javascript" type="text/javascript"></script>
+<script src="/core/system/public/js/loadScript.js" language="javascript" type="text/javascript"></script>
+<script src="/core/aop-shared-components/public/isArray.js"></script>
+<script src="/core/aop-shared-components/public/parseQuerystring.js"></script>
+<script src="/core/aop-shared-components/public/createAlertBox.js"></script>
+<script src="/core/aop-shared-components/public/webtrends.load.js"></script>
+<div id="confirmModalWrapper">
+<div id="confirm-modal" class="reveal-modal small" data-reveal>
+<div class="wrapper">
+<div class="title"></div>
+<div class="row">
+<div class="large-12 columns">
+<div class="panel callout message">
+</div>
+</div>
+</div>
+<div class="row margin-top">
+<div class="small-6 large-6 columns"><a class="right small button radius transparent cancel">Cancel</a></div>
+<div class="small-6 large-6 columns"><a href="#" class="left small radius button blue confirm">Confirm</a></div>
+</div>
+<a class="close-reveal-modal">&#215;</a>
+</div>
+</div>
+</div>
+ 
+<script src="/core/cambridge-core/public/js/validation.js" language="javascript"></script>
+<script src="/core/cambridge-core/public/js/selected-actions.js" language="javascript"></script>
+<script src="/core/easybib/public/js/app.js" language="javascript"></script>
+<script src="https://www.gstatic.com/charts/loader.js" language="javascript"></script>
+<script src="/core/cambridge-core/public/js/charts.js" language="javascript"></script>
+<script src="/core/cambridge-core/public/js/metrics.js" language="javascript"></script>
+<script src="/core/cambridge-core/public/js/recommend.js" language="javascript"></script>
+<script src="/core/captcha/public/bower_components/visualcaptcha.jquery/visualcaptcha.jquery.js" language="javascript"></script>
+<script src="/core/captcha/public/captcha.js" language="javascript"></script>
+<script src="/core/cambridge-core/public/js/bookmark.js" language="javascript"></script>
+<script src="/core/cambridge-core/public/js/journals/journals.js" language="javascript"></script>
+<script src="/core/system/public/js/validation.js" language="javascript" type="text/javascript"></script>
+ 
+<script src="/core/cambridge-core/public/js/jquery-extend.js"></script>
+<script src="/core/cambridge-core/public/js/additional.js"></script>
+<script type="text/javascript" src="//www.cambridge.org/packages/cambridge_themes/javascripts/global_navbar/v1.2.min.js"></script>
+<!--[if lt IE 9]>
+        <script src="/core/cambridge-core/public/js/plugins/rem.min.js"></script>
+    <![endif]-->
+<script src="/core/cambridge-core/public/js/app.js"></script>
+<script src="/core/cambridge-core/public/js/analytics/events.js"></script>
+<script src="/core/cambridge-core/public/js/analytics/listeners/counter.js"></script>
+<script language="javascript" type="text/javascript">
+        $(document).cupEvent();
+
+        AOP.initCounterReporter({
+            apiKey: 'qzD90fb0r257ZKVtGSFnG3UucyyMdgvu8u250Fa0',
+            apiUrl: 'https://usage.prod.aop.cambridge.org/v1/events',
+            applicationId: '8a94020952a738f80152b223c992000b',
+            identities: [],
+            sessionId: 'VwS0Ddmv510boXR1VUUcoTHY7Z02I9N0',
+            eventContext: '/core/journals/prehospital-and-disaster-medicine/article/div-classtitlethe-public-health-consequences-of-disastersdiv/02F6B8FEEAC2A36F13C0EC4A84710D73'
+        })
+    </script>
+</body>
+</html>

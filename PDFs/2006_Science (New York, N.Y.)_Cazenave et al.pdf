@@ -1,0 +1,1026 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE html>
+<html class="pl"
+  lang="en"
+  dir="ltr" version="HTML+RDFa+MathML 1.1"
+  xmlns="http://www.w3.org/1999/xhtml"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:dc="http://purl.org/dc/terms/"
+  xmlns:foaf="http://xmlns.com/foaf/0.1/"
+  xmlns:og="http://ogp.me/ns#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:sioc="http://rdfs.org/sioc/ns#"
+  xmlns:sioct="http://rdfs.org/sioc/types#"
+  xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+  xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+  xmlns:mml="http://www.w3.org/1998/Math/MathML">
+  <head prefix="og: http://ogp.me/ns# article: http://ogp.me/ns/article# book: http://ogp.me/ns/book#">
+    <link type="text/css" rel="stylesheet" href="https://d2ufo47lrtsv5s.cloudfront.net/sites/default/files/advagg_css/css__F4-OCWbNhE6xeJ7aSfPhPCmzR85_Y1I0voq8bwkMa20__1jxTpcj5NWSdqQ09H7yUQheT6XEP_NHSmMGfz213u_s__9vwtUNyDJIG9C8InBsH5NurSNmZLFxSBT6unAs5euwI.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://d2ufo47lrtsv5s.cloudfront.net/sites/all/modules/highwire/highwire/highwire.style.highwire.css?olung9" media="all" />
+<link type="text/css" rel="stylesheet" href="https://d2ufo47lrtsv5s.cloudfront.net/sites/default/files/advagg_css/css__KPgiwEdjo5O9HdRryHqQs1TpsV-PeBb9B7sGBvwM9FQ__opzZWgPNgQzoEgfATRS5qCKwBw_6XcNjDHoDVOzQv8M__9vwtUNyDJIG9C8InBsH5NurSNmZLFxSBT6unAs5euwI.css" media="all" />
+<link type="text/css" rel="stylesheet" href="//cdn.jsdelivr.net/qtip2/2.2.1/jquery.qtip.min.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://d2ufo47lrtsv5s.cloudfront.net/sites/default/files/advagg_css/css__5suXwU_SJe7VPma83xRwHLg69Fcty3o8yBjXtDu_W2I__SpUzi9k7Ohvwy-Q47rDj-K-vMAxmv0V4sMy2iLLy-8g__9vwtUNyDJIG9C8InBsH5NurSNmZLFxSBT6unAs5euwI.css" media="all" />
+    <title>Recent Climate Observations Compared to Projections | Science</title>
+    <!--[if IE]><![endif]-->
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="dns-prefetch" href="//api.pre-val.org" />
+<link rel="dns-prefetch" href="//stats.g.doubleclick.net" />
+<link rel="dns-prefetch" href="//www.google-analytics.com" />
+<meta name="issue_cover_image" content="https://d2ufo47lrtsv5s.cloudfront.net/sites/default/files/highwire/sci/316/5825.cover.gif" />
+<meta name="type" content="article" />
+<meta name="category" content="other" />
+<meta name="HW.identifier" content="/sci/316/5825/709.atom" />
+<meta name="HW.pisa" content="sci;316/5825/709" />
+<meta name="DC.Format" content="text/html" />
+<meta name="DC.Language" content="en" />
+<meta name="DC.Title" content="Recent Climate Observations Compared to Projections" />
+<meta name="DC.Identifier" content="10.1126/science.1136843" />
+<meta name="DC.Date" content="2007-05-04" />
+<meta name="DC.Publisher" content="American Association for the Advancement of Science" />
+<meta name="DC.Rights" content="American Association for the Advancement of Science" />
+<meta name="DC.AccessRights" content="restricted" />
+<meta name="DC.Description" content="We present recent observed climate trends for carbon dioxide concentration, global mean air temperature, and global sea level, and we compare these trends to previous model projections as summarized in the 2001 assessment report of the Intergovernmental Panel on Climate Change (IPCC). The IPCC scenarios and projections start in the year 1990, which is also the base year of the Kyoto protocol, in which almost all industrialized nations accepted a binding commitment to reduce their greenhouse gas emissions. The data available for the period since 1990 raise concerns that the climate system, in particular sea level, may be responding more quickly to climate change than our current generation of models indicates." />
+<meta name="DC.Contributor" content="Stefan Rahmstorf" />
+<meta name="DC.Contributor" content="Anny Cazenave" />
+<meta name="DC.Contributor" content="John A. Church" />
+<meta name="DC.Contributor" content="James E. Hansen" />
+<meta name="DC.Contributor" content="Ralph F. Keeling" />
+<meta name="DC.Contributor" content="David E. Parker" />
+<meta name="DC.Contributor" content="Richard C. J. Somerville" />
+<meta name="og:title" content="Recent Climate Observations Compared to Projections" />
+<meta name="og:url" content="http://science.sciencemag.org/content/316/5825/709" />
+<meta name="og:site_name" content="Science" />
+<meta name="og:image" content="http://science.sciencemag.org/content/316/5825/F1.medium.gif" />
+<meta name="og:description" content="We present recent observed climate trends for carbon dioxide concentration, global mean air temperature, and global sea level, and we compare these trends to previous model projections as summarized in the 2001 assessment report of the Intergovernmental Panel on Climate Change (IPCC). The IPCC scenarios and projections start in the year 1990, which is also the base year of the Kyoto protocol, in which almost all industrialized nations accepted a binding commitment to reduce their greenhouse gas emissions. The data available for the period since 1990 raise concerns that the climate system, in particular sea level, may be responding more quickly to climate change than our current generation of models indicates." />
+<meta name="og:type" content="article" />
+<meta name="article:published_time" content="2007-05-04" />
+<meta name="article:section" content="Brevia" />
+<meta name="citation_journal_title" content="Science" />
+<meta name="citation_publisher" content="American Association for the Advancement of Science" />
+<meta name="citation_title" content="Recent Climate Observations Compared to Projections" />
+<meta name="citation_publication_date" content="2007/05/04" />
+<meta name="citation_mjid" content="sci;316/5825/709" />
+<meta name="citation_id" content="316/5825/709" />
+<meta name="citation_public_url" content="http://science.sciencemag.org/content/316/5825/709" />
+<meta name="citation_abstract_html_url" content="http://science.sciencemag.org/content/316/5825/709.abstract" />
+<meta name="citation_full_html_url" content="http://science.sciencemag.org/content/316/5825/709.full" />
+<meta name="citation_pdf_url" content="http://science.sciencemag.org/content/sci/316/5825/709.full.pdf" />
+<meta name="citation_issn" content="0036-8075" />
+<meta name="citation_issn" content="1095-9203" />
+<meta name="citation_doi" content="10.1126/science.1136843" />
+<meta name="citation_pmid" content="17272686" />
+<meta name="citation_volume" content="316" />
+<meta name="citation_issue" content="5825" />
+<meta name="citation_article_type" content="Other" />
+<meta name="citation_section" content="Brevia" />
+<meta name="citation_firstpage" content="709" />
+<meta name="citation_lastpage" content="709" />
+<meta name="citation_author" content="Stefan Rahmstorf" />
+<meta name="citation_author_institution" content="Potsdam Institute for Climate Impact Research, 14482 Potsdam, Germany." />
+<meta name="citation_author" content="Anny Cazenave" />
+<meta name="citation_author_institution" content="Laboratoire d'Etudes en Géophysique et Océanographie Spatiales, 31400 Toulouse, France." />
+<meta name="citation_author" content="John A. Church" />
+<meta name="citation_author_institution" content="Marine and Atmospheric Research and Antarctic Climate and Ecosystems Cooperative Research Centre, Commonwealth Scientific and Industrial Research Organisation, Hobart Tasmania, 7001, Australia." />
+<meta name="citation_author" content="James E. Hansen" />
+<meta name="citation_author_institution" content="NASA Goddard Institute for Space Studies (GISS), New York, NY 10025, USA." />
+<meta name="citation_author" content="Ralph F. Keeling" />
+<meta name="citation_author_institution" content="Scripps Institution of Oceanography, University of California, San Diego, La Jolla, CA 92093, USA." />
+<meta name="citation_author" content="David E. Parker" />
+<meta name="citation_author_institution" content="Hadley Centre, Met Office, Exeter EX1 3PB, UK." />
+<meta name="citation_author" content="Richard C. J. Somerville" />
+<meta name="citation_author_institution" content="Scripps Institution of Oceanography, University of California, San Diego, La Jolla, CA 92093, USA." />
+<meta name="citation_reference" content="citation_journal_title=Climate Change 2001: The Scientific Basis;citation_year=2001" />
+<meta name="citation_reference" content="citation_journal_title=Geophys. Res. Lett.;citation_pages=L01602;citation_volume=33;citation_year=2006;citation_doi=10.1029/2005GL024826" />
+<meta name="citation_reference" content="citation_journal_title=Rev. Geophys.;citation_title=REV GEOPHYS;citation_pages=20;citation_volume=42;citation_year=2004" />
+<meta name="citation_reference" content="citation_journal_title=J. Geophys. Res.;citation_pages=C12036;citation_volume=109;citation_year=2004;citation_doi=10.1029/2003JC002260" />
+<meta name="citation_reference" content="citation_journal_title=Science;citation_volume=314;citation_year=2006;citation_pmid=17053111;citation_doi=10.1126/science.1133325" />
+<meta name="citation_reference" content="citation_journal_title=Eos;citation_title=EOS;citation_pages=226;citation_volume=86;citation_year=2005" />
+<link rel="shortcut icon" href="https://d2ufo47lrtsv5s.cloudfront.net/sites/all/themes/shared/science_jcore/favicon.ico" type="image/vnd.microsoft.icon" />
+<link rel="alternate" type="text/plain" title="Full Text (Plain)" href="/content/316/5825/709.full.txt" />
+<meta http-equiv="x-dns-prefetch-control" content="on" />
+<meta name="Generator" content="Drupal 7 (http://drupal.org)" />
+<link rel="dns-prefetch" href="//d2ufo47lrtsv5s.cloudfront.net" />
+<link rel="canonical" href="http://science.sciencemag.org/content/316/5825/709" />
+<link rel="alternate" type="application/pdf" title="Full Text (PDF)" href="/content/316/5825/709.full.pdf" />
+<link rel="alternate" type="application/vnd.ms-powerpoint" title="Powerpoint" href="/content/316/5825/709.ppt" />
+    <meta name="MobileOptimized" content="width">
+    <meta name="HandheldFriendly" content="true">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta http-equiv="cleartype" content="on">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <script src="/sites/all/themes/shared/science_jcore/js/modernizr.js?version=3.3.1"></script>
+    <script type="text/javascript" src="//assets.adobedtm.com/926659a1689cc9fca96760b67cca714ae48f0584/satelliteLib-a9d46808a35b7b8034adfab1d8207407222304d5.js"></script>
+    <link rel="preload" href="/sites/all/themes/shared/science_jcore/library/css/style-jcore.css" as="style" onload="this.rel='stylesheet'">
+    <noscript>
+      <link rel="stylesheet" href="/sites/all/themes/shared/science_jcore/library/css/style-jcore.css">
+    </noscript>
+    <script id="loadcss">
+      /*! loadCSS: load a CSS file asynchronously. [c]2016 @scottjehl, Filament Group, Inc. Licensed MIT */
+(function(w){
+  "use strict";
+  /* exported loadCSS */
+  var loadCSS = function( href, before, media ){
+    // Arguments explained:
+    // `href` [REQUIRED] is the URL for your CSS file.
+    // `before` [OPTIONAL] is the element the script should use as a reference for injecting our stylesheet <link> before
+      // By default, loadCSS attempts to inject the link after the last stylesheet or script in the DOM. However, you might desire a more specific location in your document.
+    // `media` [OPTIONAL] is the media type or query of the stylesheet. By default it will be 'all'
+    var doc = w.document;
+    var ss = doc.createElement( "link" );
+    var ref;
+    if( before ){
+      ref = before;
+    }
+    else {
+      var refs = ( doc.body || doc.getElementsByTagName( "head" )[ 0 ] ).childNodes;
+      ref = refs[ refs.length - 1];
+    }
+
+    var sheets = doc.styleSheets;
+    ss.rel = "stylesheet";
+    ss.href = href;
+    // temporarily set media to something inapplicable to ensure it'll fetch without blocking render
+    ss.media = "only x";
+
+    // wait until body is defined before injecting link. This ensures a non-blocking load in IE11.
+    function ready( cb ){
+      if( doc.body ){
+        return cb();
+      }
+      setTimeout(function(){
+        ready( cb );
+      });
+    }
+    // Inject link
+      // Note: the ternary preserves the existing behavior of "before" argument, but we could choose to change the argument to "after" in a later release and standardize on ref.nextSibling for all refs
+      // Note: `insertBefore` is used instead of `appendChild`, for safety re: http://www.paulirish.com/2011/surefire-dom-element-insertion/
+    ready( function(){
+      ref.parentNode.insertBefore( ss, ( before ? ref : ref.nextSibling ) );
+    });
+    // A method (exposed on return object for external use) that mimics onload by polling document.styleSheets until it includes the new sheet.
+    var onloadcssdefined = function( cb ){
+      var resolvedHref = ss.href;
+      var i = sheets.length;
+      while( i-- ){
+        if( sheets[ i ].href === resolvedHref ){
+          return cb();
+        }
+      }
+      setTimeout(function() {
+        onloadcssdefined( cb );
+      });
+    };
+
+    function loadCB(){
+      if( ss.addEventListener ){
+        ss.removeEventListener( "load", loadCB );
+      }
+      ss.media = media || "all";
+    }
+
+    // once loaded, set link's media back to `all` so that the stylesheet applies once it loads
+    if( ss.addEventListener ){
+      ss.addEventListener( "load", loadCB);
+    }
+    ss.onloadcssdefined = onloadcssdefined;
+    onloadcssdefined( loadCB );
+    return ss;
+  };
+  // commonjs
+  if( typeof exports !== "undefined" ){
+    exports.loadCSS = loadCSS;
+  }
+  else {
+    w.loadCSS = loadCSS;
+  }
+}( typeof global !== "undefined" ? global : this ));
+      /*! CSS rel=preload polyfill. Depends on loadCSS function. [c]2016 @scottjehl, Filament Group, Inc. Licensed MIT  */
+(function( w ){
+  // rel=preload support test
+  if( !w.loadCSS ){
+    return;
+  }
+  var rp = loadCSS.relpreload = {};
+  rp.support = function(){
+    try {
+      return w.document.createElement( "link" ).relList.supports( "preload" );
+    } catch (e) {
+      return false;
+    }
+  };
+
+  // loop preload links and fetch using loadCSS
+  rp.poly = function(){
+    var links = w.document.getElementsByTagName( "link" );
+    for( var i = 0; i < links.length; i++ ){
+      var link = links[ i ];
+      if( link.rel === "preload" && link.getAttribute( "as" ) === "style" ){
+        w.loadCSS( link.href, link );
+        link.rel = null;
+      }
+    }
+  };
+
+  // if link[rel=preload] is not supported, we must fetch the CSS manually using loadCSS
+  if( !rp.support() ){
+    rp.poly();
+    var run = w.setInterval( rp.poly, 300 );
+    if( w.addEventListener ){
+      w.addEventListener( "load", function(){
+        w.clearInterval( run );
+      } );
+    }
+    if( w.attachEvent ){
+      w.attachEvent( "onload", function(){
+        w.clearInterval( run );
+      } )
+    }
+  }
+}( this ));
+    </script>
+  </head>
+  <body class="not-front no-sidebars node-type-highwire-article path-content-316-5825-709"  id="page-top">
+    <a href="#main-content" class="element-invisible element-focusable">Skip to main content</a>
+        <header class="sticky-header sticky-header-is-hidden">
+  <div class="sticky-header__logo sticky-header--science">
+    <a href="/" class="sticky-header__link" data-icon-position="" data-hide-link-title="0"><img src="https://d2ufo47lrtsv5s.cloudfront.net/sites/all/themes/shared/science_jcore/library/images/logo-science.svg" alt="Science Logo" /></a>  </div>
+    <nav class="sticky-header__nav">
+    <ul class="sticky-header__navlist"><li class="sticky-header__navitem"><a href="http://www.sciencemag.org/" data-hide-link-title="0" data-is-collapsible="0" data-is-collapsed="1" class="" data-icon-position="">Home</a></li><li class="sticky-header__navitem"><a href="http://www.sciencemag.org/news" data-hide-link-title="0" data-is-collapsible="0" data-is-collapsed="1" class="" data-icon-position="">News</a></li><li class="sticky-header__navitem"><a href="http://www.sciencemag.org/journals" data-hide-link-title="0" data-is-collapsible="0" data-is-collapsed="1" class="sci scitransmed sigtrans advances" data-icon-position="">Journals</a></li><li class="sticky-header__navitem"><a href="http://www.sciencemag.org/topics" data-hide-link-title="0" data-is-collapsible="0" data-is-collapsed="1" class="" data-icon-position="">Topics</a></li><li class="sticky-header__navitem"><a href="http://www.sciencemag.org/careers" data-hide-link-title="0" data-is-collapsible="0" data-is-collapsed="1" class="" data-icon-position="">Careers</a></li></ul>  </nav>
+        <form class="highwire-quicksearch form-search--sticky form-inline" action="/content/316/5825/709" method="post" id="highwire-search-quicksearch-form--2" accept-charset="UTF-8"><form class="highwire-quicksearch form-search--sticky form-inline" action="/content/316/5825/709" method="post" id="highwire-search-quicksearch-form--2" accept-charset="UTF-8"><div class="field-container--inline">  <label class="element-invisible" for="edit-keywords--2">Search</label>
+ <input placeholder="Search" class="search-field form-text" type="text" id="edit-keywords--2" name="keywords" value="" maxlength="128" />
+<button data-font-icon="icon-search" data-icon-position="after" class="btn search-submit" type="submit" id="edit-submit--6" name="op" value="&lt;i class=&quot;fa fa-search&quot;&gt;&lt;/i&gt;&lt;span class=&quot;element-invisible&quot;&gt;Search&lt;/span&gt;"><i class="fa fa-search"></i><span class="element-invisible">Search</span></button><input type="hidden" name="form_build_id" value="form-VpRoYzGU75wbV8Q_fqT1rW9Hecond6UTry4c7X8r5AA" />
+<input type="hidden" name="form_id" value="highwire_search_quicksearch_form" />
+</div></form></form>    <a href="#page-top" class="btn--uptoggle">
+    <i class="fa fa-long-arrow-up"></i>
+    <span class="element-invisible">Go to top of page</span>
+  </a>
+  <label class="menu-toggler__trigger" for="menu-toggler">
+    <i class="fa fa-bars"></i>
+    <span class="element-invisible">Toggle menu</span>
+  </label>
+</header>
+<input type="checkbox" id="menu-toggler" class="menu-toggler" />
+
+<header class="row row--header">
+  <div class="container container--header">
+      <div  class="region region-header-leaderboard header--leaderboard">
+    <div  class="leaderboard__banner" id="block-panels-mini-science-leaderboard-banner">
+      
+    <div id='aaas-oas_Top'></div></div><div  class="leaderboard__sitelicense" id="block-panels-mini-science-leaderboard-site-license">
+      
+    <div class="panel-pane pane-panels-mini pane-jnl-sci-uid-strng user-block">
+  
+        
+        <nav class="panel-pane pane-block pane-system-user-menu pane-system user-block__nav">
+  
+        
+      <ul><li><a href="/user/login?destination=/front" data-hide-link-title="0" data-is-collapsible="0" data-is-collapsed="1" class="" data-icon-position="">Log in </a></li>
+<li><a href="http://www.sciencemag.org/subscribe/my-account" data-hide-link-title="0" data-is-collapsible="0" data-is-collapsed="1" class="" data-icon-position="">My account</a></li>
+<li><a href="http://www.sciencemag.org/about/contact-us" data-hide-link-title="0" data-is-collapsible="0" data-is-collapsed="1" class="" data-icon-position="">Contact Us</a></li>
+</ul>  
+</nav>
+  
+</div>
+</div><div  class="leaderboard__promo" id="block-panels-mini-jnl-sci-promo-subscribe">
+      
+    <div class="promo-subscribe"><div class="promo__mag">
+  
+        
+      <div class="highwire-article-citation highwire-citation-type-highwire-issue" data-pisa="sci;355/6328" data-pisa-master="sci;355/6328" data-apath="/sci/355/6328.atom" id="sci3556328atom"><img class="promo__mag__cover" src="https://d2ufo47lrtsv5s.cloudfront.net/sites/default/files/styles/sci_footer_promo_cover/public/externals/c303c6d9bdd4358b63699b3d8ddb3aeb.gif?itok=C1c2-cqP" alt="Magazine Cover" /></div>  
+</div>
+<div class="panel-pane pane-block pane-menu-menu-subscribe pane-menu promo__offers">
+  
+        
+      <ul><li class="expanded"><h3><a href="https://www.aaas.org/membercentral/join-aaas?intcmp=science-headlink-join&amp;dmc=P6FODA" data-hide-link-title="0" data-is-collapsible="0" data-is-collapsed="1" class="" data-icon-position="">Become a member</a></h3> <ul><li><a href="https://pubs.aaas.org/MembershipRenewal/new_ren_setup_rd.asp" data-hide-link-title="0" data-is-collapsible="0" data-is-collapsed="1" class="" data-icon-position="">Renew my subscription</a></li>
+<li><a href="http://www.sciencemag.org/subscribe/get-our-newsletters" data-hide-link-title="0" data-is-collapsible="0" data-is-collapsed="1" class="" data-icon-position="">Sign up for newsletters</a></li>
+</ul></li>
+</ul>  
+</div>
+</div></div>  </div>
+    <div  class="region region-header-primary header--primary">
+  <div class="header__header">
+    <div class="site-logo--header site-logo--science">
+      <a href="/" class="link--journal" data-icon-position="" data-hide-link-title="0"><img src="https://d2ufo47lrtsv5s.cloudfront.net/sites/all/themes/shared/science_jcore/library/images/logo-science.svg" alt="Science Logo" /></a>      <a href="http://aaas.org/" class="link--aaas" data-icon-position="" data-hide-link-title="0"><img class="logo--aaas" src="https://d2ufo47lrtsv5s.cloudfront.net/sites/all/themes/shared/science_jcore/library/images/logo-aaas.svg" alt="AAAS Logo" /></a>    </div>
+    <div class="menu-toggler">.</div>
+  </div>
+      <div  class="header__aux" id="block-panels-mini-jnl-science-header-aux">
+      
+    <div class="social">
+  
+        
+      <ul class="social__list"><li><a href="https://www.facebook.com/ScienceMagazine" data-is-collapsible="0" data-is-collapsed="1" title="Facebook" class="social__icon link-icon-only link-icon" target="_blank"><i class="fa fa-facebook fa-lg"></i> <span class="title element-invisible">Facebook</span></a></li>
+<li><a href="https://twitter.com/sciencemagazine" title="Science Magazine on Twitter" class="social__icon link-icon-only link-icon" target="_blank"><i class="fa fa-twitter fa-lg"></i> <span class="title element-invisible">Twitter</span></a></li>
+<li><a href="https://plus.google.com/104077269810469435941/posts" data-is-collapsible="0" data-is-collapsed="1" title="Google+" class="social__icon link-icon-only link-icon" target="_blank"><i class="fa fa-google-plus fa-lg"></i> <span class="title element-invisible">Google+</span></a></li>
+<li><a href="http://www.sciencemag.org/about/email-alerts-and-rss-feeds" class="social__icon link-icon-only link-icon"><i class="fa fa-rss fa-lg"></i> <span class="title element-invisible">Rss</span></a></li>
+</ul>  
+</div>
+<nav class="auxnav">
+  
+        
+      <ul class="auxnav__list"><li><a href="http://www.sciencemag.org/authors/contributing-science-family-journals" data-hide-link-title="0" data-is-collapsible="0" data-is-collapsed="1" class="" data-icon-position="">Authors</a></li>
+<li><a href="http://www.sciencemag.org/members" data-hide-link-title="0" data-is-collapsible="0" data-is-collapsed="1" class="" data-icon-position="">Members</a></li>
+<li><a href="http://www.sciencemag.org/librarian" data-hide-link-title="0" data-is-collapsible="0" data-is-collapsed="1" class="" data-icon-position="">Librarians</a></li>
+<li><a href="http://www.sciencemag.org/advertisers" data-hide-link-title="0" data-is-collapsible="0" data-is-collapsed="1" class="" data-icon-position="">Advertisers</a></li>
+</ul>  
+</nav>
+</div><div  class="header--nav" id="block-panels-mini-jnl-science-header-nav">
+      
+    <nav class="nav-primary">
+  
+        
+      <ul class="topnav topnav--option-3"><li class="topnav__item"><a href="http://www.sciencemag.org/" data-hide-link-title="0" data-is-collapsible="0" data-is-collapsed="1" class="" data-icon-position="">Home</a><ul class="subnav"><li class="subnav__item"><a href="http://www.sciencemag.org/videos" data-hide-link-title="0" data-is-collapsible="0" data-is-collapsed="1" class="" data-icon-position="">Recent Videos</a></li><li class="subnav__item"><a href="http://www.sciencemag.org/podcasts" data-hide-link-title="0" data-is-collapsible="0" data-is-collapsed="1" class="" data-icon-position="">Latest Podcasts</a></li><li class="subnav__item"><a href="http://www.sciencemag.org/slideshow" data-hide-link-title="0" data-is-collapsible="0" data-is-collapsed="1" class="" data-icon-position="">Photo Galleries</a></li><li class="subnav__item"><a href="http://www.sciencemag.org/projects/dance-your-phd" data-hide-link-title="0" data-is-collapsible="0" data-is-collapsed="1" class="" data-icon-position="">Dance Your Ph.D. Contest</a></li><li class="subnav__item"><a href="http://www.sciencemag.org/projects/data-stories" class="" data-icon-position="" data-hide-link-title="0">Data Stories Contest</a></li></ul></li><li class="topnav__item"><a href="http://www.sciencemag.org/news" data-hide-link-title="0" data-is-collapsible="0" data-is-collapsed="1" class="" data-icon-position="">News</a><ul class="subnav"><li class="subnav__item"><a href="http://www.sciencemag.org/news/latest-news" data-hide-link-title="0" data-is-collapsible="0" data-is-collapsed="1" class="" data-icon-position="">Latest News</a></li><li class="subnav__item"><a href="http://www.sciencemag.org/news/scienceinsider" data-hide-link-title="0" data-is-collapsible="0" data-is-collapsed="1" class="" data-icon-position="">ScienceInsider</a></li><li class="subnav__item"><a href="http://www.sciencemag.org/news/scienceshots" data-hide-link-title="0" data-is-collapsible="0" data-is-collapsed="1" class="" data-icon-position="">ScienceShots</a></li><li class="subnav__item"><a href="http://www.sciencemag.org/news/sifter" data-hide-link-title="0" data-is-collapsible="0" data-is-collapsed="1" class="" data-icon-position="">Sifter</a></li><li class="subnav__item"><a href="/" data-hide-link-title="0" data-is-collapsible="0" data-is-collapsed="1" class="" data-icon-position="">From the Magazine</a></li><li class="subnav__item"><a href="http://www.sciencemag.org/news/about-news-science" data-hide-link-title="0" data-is-collapsible="0" data-is-collapsed="1" class="" data-icon-position="">About News</a></li><li class="subnav__item"><a href="http://www.sciencemag.org/news/quiz" data-hide-link-title="0" data-is-collapsible="0" data-is-collapsed="1" class="" data-icon-position="">Quizzes</a></li></ul></li><li class="current topnav__item"><a href="http://www.sciencemag.org/journals" data-hide-link-title="0" data-is-collapsible="0" data-is-collapsed="1" class="sci scitransmed sigtrans advances" data-icon-position="">Journals</a><ul class="subnav"><li class="current subnav__item"><a href="/" data-hide-link-title="0" data-is-collapsible="0" data-is-collapsed="1" class="sci" data-icon-position="">Science</a></li><li class="subnav__item"><a href="http://advances.sciencemag.org/" data-hide-link-title="0" data-is-collapsible="0" data-is-collapsed="1" class="advances" data-icon-position="">Science Advances</a></li><li class="subnav__item"><a href="http://immunology.sciencemag.org/" class="" data-icon-position="" data-hide-link-title="0">Science Immunology</a></li><li class="subnav__item"><a href="http://robotics.sciencemag.org" data-hide-link-title="0" data-is-collapsible="0" data-is-collapsed="1" class="" data-icon-position="">Science Robotics</a></li><li class="subnav__item"><a href="http://stke.sciencemag.org/" data-hide-link-title="0" data-is-collapsible="0" data-is-collapsed="1" class="sigtrans" data-icon-position="">Science Signaling</a></li><li class="subnav__item"><a href="http://stm.sciencemag.org/" data-hide-link-title="0" data-is-collapsible="0" data-is-collapsed="1" class="scitransmed" data-icon-position="">Science Translational Medicine</a></li></ul></li><li class="topnav__item"><a href="http://www.sciencemag.org/topics" data-hide-link-title="0" data-is-collapsible="0" data-is-collapsed="1" class="" data-icon-position="">Topics</a><ul class="subnav"><li class="subnav__item"><a href="http://www.sciencemag.org/topics" data-hide-link-title="0" data-is-collapsible="0" data-is-collapsed="1" class="" data-icon-position="">All Topics</a></li><li class="subnav__item"><a href="http://www.sciencemag.org/journals/science-special-issues" data-hide-link-title="0" data-is-collapsible="0" data-is-collapsed="1" class="" data-icon-position="">Special Issues</a></li><li class="subnav__item"><a href="http://www.sciencemag.org/custom-publishing" data-hide-link-title="0" data-is-collapsible="0" data-is-collapsed="1" class="" data-icon-position="">Custom Publishing</a></li></ul></li><li class="topnav__item"><a href="http://www.sciencemag.org/careers" data-hide-link-title="0" data-is-collapsible="0" data-is-collapsed="1" class="" data-icon-position="">Careers</a><ul class="subnav"><li class="subnav__item"><a href="http://www.sciencemag.org/careers/articles" data-hide-link-title="0" data-is-collapsible="0" data-is-collapsed="1" class="" data-icon-position="">Articles</a></li><li class="subnav__item"><a href="http://jobs.sciencecareers.org/?_ga=1.155765947.1469154522.1409920411" data-hide-link-title="0" data-is-collapsible="0" data-is-collapsed="1" class="" data-icon-position="">Find Jobs</a></li><li class="subnav__item"><a href="http://www.sciencemag.org/careers/career-resources" data-hide-link-title="0" data-is-collapsible="0" data-is-collapsed="1" class="" data-icon-position="">Career Resources</a></li><li class="subnav__item"><a href="http://scforum.sciencecareers.org/?_ga=1.121809803.1469154522.1409920411" data-hide-link-title="0" data-is-collapsible="0" data-is-collapsed="1" class="" data-icon-position="">Forum</a></li><li class="subnav__item"><a href="http://www.sciencemag.org/careers/for-employers" data-hide-link-title="0" data-is-collapsible="0" data-is-collapsed="1" class="" data-icon-position="">For Employers</a></li><li class="subnav__item"><a href="http://www.sciencemag.org/careers/employers" data-hide-link-title="0" data-is-collapsible="0" data-is-collapsed="1" class="" data-icon-position="">Employer Profiles</a></li><li class="subnav__item"><a href="http://www.sciencemag.org/careers/graduate-programs" data-hide-link-title="0" data-is-collapsible="0" data-is-collapsed="1" class="" data-icon-position="">Graduate Programs</a></li><li class="subnav__item"><a href="http://www.sciencemag.org/careers/booklets" data-hide-link-title="0" data-is-collapsible="0" data-is-collapsed="1" class="" data-icon-position="">Booklets</a></li><li class="subnav__item"><a href="http://www.sciencemag.org/careers/articles-custom-publishing" data-hide-link-title="0" data-is-collapsible="0" data-is-collapsed="1" class="" data-icon-position="">Careers Features</a></li><li class="subnav__item"><a href="http://www.sciencemag.org/careers/about-science-careers" data-hide-link-title="0" data-is-collapsible="0" data-is-collapsed="1" class="" data-icon-position="">About Careers</a></li></ul></li><li class="topnav__item"><form class="highwire-quicksearch form-search--nav form-inline" action="/content/316/5825/709" method="post" id="highwire-search-quicksearch-form" accept-charset="UTF-8"><form class="highwire-quicksearch form-search--nav form-inline" action="/content/316/5825/709" method="post" id="highwire-search-quicksearch-form" accept-charset="UTF-8"><div class="field-container--inline">  <label class="element-invisible" for="edit-keywords">Search</label>
+ <input placeholder="Search" class="search-field form-text" type="text" id="edit-keywords" name="keywords" value="" maxlength="128" />
+<button data-font-icon="icon-search" data-icon-position="after" class="btn search-submit" type="submit" id="edit-submit--5" name="op" value="&lt;i class=&quot;fa fa-search&quot;&gt;&lt;/i&gt;&lt;span class=&quot;element-invisible&quot;&gt;Search&lt;/span&gt;"><i class="fa fa-search"></i><span class="element-invisible">Search</span></button><input type="hidden" name="form_build_id" value="form-r5tiaGplUc35HSnwJD958Dyq8bXAjHgN-08ts_GUcQU" />
+<input type="hidden" name="form_id" value="highwire_search_quicksearch_form" />
+</div></form></form></li></ul>  
+</nav>
+</div>  </div>
+  </div>
+</header>
+<div role="main">
+          <div  class="region region-content content">
+    <a id="main-content"></a>
+    <div  class="" id="block-system-main">
+      
+  <div class="row">
+  <div class="container container--content">
+    <div class="tertiary">
+      <div class="social-sidebar fixedsticky">
+  
+            <h4 class="share-title">
+          share        </h4>
+          
+      <ul class="socialshares"><li class="first"><a href="http://www.facebook.com/sharer/sharer.php?u=http://science.sciencemag.org/content/316/5825/709" class="social__icon" target="_blank" data-icon-position="" data-hide-link-title="0"><i class="fa fa-facebook fa-lg"></i></a><span class="social__count facebook__count"></span></a></li>
+<li><a href="https://twitter.com/share?url=http://science.sciencemag.org/content/316/5825/709&amp;text=Recent Climate Observations Compared to Projections" class="social__icon" target="_blank" data-icon-position="" data-hide-link-title="0"><i class="fa fa-twitter fa-lg"></i></a><span class="social__count"></span></a></li>
+<li class="last"><a href="https://plus.google.com/share?url=http://science.sciencemag.org/content/316/5825/709" class="social__icon" target="_blank" data-icon-position="" data-hide-link-title="0"><i class="fa fa-google-plus fa-lg"></i></a><span class="social__count googleplus__count"></span></a></li>
+</ul>  
+</div>
+    </div>
+    <article class="primary primary--content">
+      <div class="panel-pane pane-highwire-article-citation" id="sci-article-author-list">
+  
+      
+  
+  <div class="pane-content">
+    <div class="highwire-article-citation highwire-citation-type-highwire-article" data-node-nid="417218" id="node417218" data-pisa="sci;316/5825/709" data-pisa-master="sci;1136843" data-apath="/sci/316/5825/709.atom" data-hw-author-tooltip-instance="highwire_author_tooltip"><div class="highwire-cite highwire-cite-highwire-article highwire-citation-jnl-sci-article clearfix has-author-tooltip">
+  <header class="article__header">
+        <div class="overline">Brevia</div>
+            <h1 class="article__headline"><div class="highwire-cite-title">Recent Climate Observations Compared to Projections</div></h1>
+            <div class="article__expandable-area collapsed">
+      <div class="article byline byline--article"><div class="highwire-markup"><div xmlns="http://www.w3.org/1999/xhtml" id="content-block-markup" xmlns:xhtml="http://www.w3.org/1999/xhtml"><div xmlns:xhtml="http://www.w3.org/1999/xhtml" class="contributors"><ol class="contributor-list" id="contrib-group-1"><li class="contributor" id="contrib-1"><span class="name">Stefan Rahmstorf</span><a id="xref-aff-1-1" class="xref-aff" href="#aff-1">1</a>, </li><li class="contributor" id="contrib-2"><span class="name">Anny Cazenave</span><a id="xref-aff-2-1" class="xref-aff" href="#aff-2">2</a>, </li><li class="contributor" id="contrib-3"><span class="name">John A. Church</span><a id="xref-aff-3-1" class="xref-aff" href="#aff-3">3</a>, </li><li class="contributor" id="contrib-4"><span class="name">James E. Hansen</span><a id="xref-aff-4-1" class="xref-aff" href="#aff-4">4</a>, </li><li class="contributor" id="contrib-5"><span class="name">Ralph F. Keeling</span><a id="xref-aff-5-1" class="xref-aff" href="#aff-5">5</a>, </li><li class="contributor" id="contrib-6"><span class="name">David E. Parker</span><a id="xref-aff-6-1" class="xref-aff" href="#aff-6">6</a>, </li><li class="last" id="contrib-7"><span class="name">Richard C. J. Somerville</span><a id="xref-aff-5-2" class="xref-aff" href="#aff-5">5</a></li></ol><ol class="affiliation-list"><li class="aff"><a id="aff-1" name="aff-1"></a><address><sup>1</sup> Potsdam Institute for Climate Impact Research, 14482 Potsdam, Germany.</address></li><li class="aff"><a id="aff-2" name="aff-2"></a><address><sup>2</sup> Laboratoire d'Etudes en Géophysique et Océanographie Spatiales, 31400 Toulouse, France.</address></li><li class="aff"><a id="aff-3" name="aff-3"></a><address><sup>3</sup> Marine and Atmospheric Research and Antarctic Climate and Ecosystems Cooperative Research Centre, Commonwealth Scientific and Industrial Research Organisation, Hobart Tasmania, 7001, Australia.</address></li><li class="aff"><a id="aff-4" name="aff-4"></a><address><sup>4</sup> NASA Goddard Institute for Space Studies (GISS), New York, NY 10025, USA.</address></li><li class="aff"><a id="aff-5" name="aff-5"></a><address><sup>5</sup> Scripps Institution of Oceanography, University of California, San Diego, La Jolla, CA 92093, USA.</address></li><li class="aff"><a id="aff-6" name="aff-6"></a><address><sup>6</sup> Hadley Centre, Met Office, Exeter EX1 3PB, UK.</address></li></ol></div></div></div></div>
+    </div>
+    <p class="contributor-list__reveal">
+      <span class="contributor-list__toggler"><b>+</b> See all authors and affiliations</span>
+    </p>
+      </header>
+
+  <div class="meta-line">
+    <cite>Science&nbsp;</cite> 04 May 2007:<br />Vol. 316, Issue 5825, pp. 709<br />DOI: 10.1126/science.1136843      </div>
+</div>
+<div id="hw-article-author-popups-node417218" style="display: none;"><div class="author-tooltip-0"><div class="author-tooltip-name">Stefan Rahmstorf</div><div class="author-tooltip-affiliation"><span class="author-tooltip-text"><span class="nlm-aff"> Potsdam Institute for Climate Impact Research, 14482 Potsdam, Germany.</span></span></div><ul class="author-tooltip-find-more"><li class="author-tooltip-gs-link first"><a href="/lookup/google-scholar?link_type=googlescholar&amp;gs_type=author&amp;author[0]=S.%2BRahmstorf" target="_blank" class="" data-icon-position="" data-hide-link-title="0">Find this author on Google Scholar</a></li>
+<li class="author-tooltip-pubmed-link"><a href="/lookup/external-ref?access_num=Rahmstorf%20S&amp;link_type=AUTHORSEARCH" target="_blank" class="" data-icon-position="" data-hide-link-title="0">Find this author on PubMed</a></li>
+<li class="author-site-search-link last"><a href="/search/author1%3AStefan%2BRahmstorf" class="" data-icon-position="" data-hide-link-title="0">Search for this author on this site</a></li>
+</ul></div><div class="author-tooltip-1"><div class="author-tooltip-name">Anny Cazenave</div><div class="author-tooltip-affiliation"><span class="author-tooltip-text"><span class="nlm-aff"> Laboratoire d'Etudes en Géophysique et Océanographie Spatiales, 31400 Toulouse, France.</span></span></div><ul class="author-tooltip-find-more"><li class="author-tooltip-gs-link first"><a href="/lookup/google-scholar?link_type=googlescholar&amp;gs_type=author&amp;author[0]=A.%2BCazenave" target="_blank" class="" data-icon-position="" data-hide-link-title="0">Find this author on Google Scholar</a></li>
+<li class="author-tooltip-pubmed-link"><a href="/lookup/external-ref?access_num=Cazenave%20A&amp;link_type=AUTHORSEARCH" target="_blank" class="" data-icon-position="" data-hide-link-title="0">Find this author on PubMed</a></li>
+<li class="author-site-search-link last"><a href="/search/author1%3AAnny%2BCazenave" class="" data-icon-position="" data-hide-link-title="0">Search for this author on this site</a></li>
+</ul></div><div class="author-tooltip-2"><div class="author-tooltip-name">John A. Church</div><div class="author-tooltip-affiliation"><span class="author-tooltip-text"><span class="nlm-aff"> Marine and Atmospheric Research and Antarctic Climate and Ecosystems Cooperative Research Centre, Commonwealth Scientific and Industrial Research Organisation, Hobart Tasmania, 7001, Australia.</span></span></div><ul class="author-tooltip-find-more"><li class="author-tooltip-gs-link first"><a href="/lookup/google-scholar?link_type=googlescholar&amp;gs_type=author&amp;author[0]=J.%20A.%2BChurch" target="_blank" class="" data-icon-position="" data-hide-link-title="0">Find this author on Google Scholar</a></li>
+<li class="author-tooltip-pubmed-link"><a href="/lookup/external-ref?access_num=Church%20JA&amp;link_type=AUTHORSEARCH" target="_blank" class="" data-icon-position="" data-hide-link-title="0">Find this author on PubMed</a></li>
+<li class="author-site-search-link last"><a href="/search/author1%3AJohn%2BA.%2BChurch" class="" data-icon-position="" data-hide-link-title="0">Search for this author on this site</a></li>
+</ul></div><div class="author-tooltip-3"><div class="author-tooltip-name">James E. Hansen</div><div class="author-tooltip-affiliation"><span class="author-tooltip-text"><span class="nlm-aff"> NASA Goddard Institute for Space Studies (GISS), New York, NY 10025, USA.</span></span></div><ul class="author-tooltip-find-more"><li class="author-tooltip-gs-link first"><a href="/lookup/google-scholar?link_type=googlescholar&amp;gs_type=author&amp;author[0]=J.%20E.%2BHansen" target="_blank" class="" data-icon-position="" data-hide-link-title="0">Find this author on Google Scholar</a></li>
+<li class="author-tooltip-pubmed-link"><a href="/lookup/external-ref?access_num=Hansen%20JE&amp;link_type=AUTHORSEARCH" target="_blank" class="" data-icon-position="" data-hide-link-title="0">Find this author on PubMed</a></li>
+<li class="author-site-search-link last"><a href="/search/author1%3AJames%2BE.%2BHansen" class="" data-icon-position="" data-hide-link-title="0">Search for this author on this site</a></li>
+</ul></div><div class="author-tooltip-4"><div class="author-tooltip-name">Ralph F. Keeling</div><div class="author-tooltip-affiliation"><span class="author-tooltip-text"><span class="nlm-aff"> Scripps Institution of Oceanography, University of California, San Diego, La Jolla, CA 92093, USA.</span></span></div><ul class="author-tooltip-find-more"><li class="author-tooltip-gs-link first"><a href="/lookup/google-scholar?link_type=googlescholar&amp;gs_type=author&amp;author[0]=R.%20F.%2BKeeling" target="_blank" class="" data-icon-position="" data-hide-link-title="0">Find this author on Google Scholar</a></li>
+<li class="author-tooltip-pubmed-link"><a href="/lookup/external-ref?access_num=Keeling%20RF&amp;link_type=AUTHORSEARCH" target="_blank" class="" data-icon-position="" data-hide-link-title="0">Find this author on PubMed</a></li>
+<li class="author-site-search-link last"><a href="/search/author1%3ARalph%2BF.%2BKeeling" class="" data-icon-position="" data-hide-link-title="0">Search for this author on this site</a></li>
+</ul></div><div class="author-tooltip-5"><div class="author-tooltip-name">David E. Parker</div><div class="author-tooltip-affiliation"><span class="author-tooltip-text"><span class="nlm-aff"> Hadley Centre, Met Office, Exeter EX1 3PB, UK.</span></span></div><ul class="author-tooltip-find-more"><li class="author-tooltip-gs-link first"><a href="/lookup/google-scholar?link_type=googlescholar&amp;gs_type=author&amp;author[0]=D.%20E.%2BParker" target="_blank" class="" data-icon-position="" data-hide-link-title="0">Find this author on Google Scholar</a></li>
+<li class="author-tooltip-pubmed-link"><a href="/lookup/external-ref?access_num=Parker%20DE&amp;link_type=AUTHORSEARCH" target="_blank" class="" data-icon-position="" data-hide-link-title="0">Find this author on PubMed</a></li>
+<li class="author-site-search-link last"><a href="/search/author1%3ADavid%2BE.%2BParker" class="" data-icon-position="" data-hide-link-title="0">Search for this author on this site</a></li>
+</ul></div><div class="author-tooltip-6"><div class="author-tooltip-name">Richard C. J. Somerville</div><div class="author-tooltip-affiliation"><span class="author-tooltip-text"><span class="nlm-aff"> Scripps Institution of Oceanography, University of California, San Diego, La Jolla, CA 92093, USA.</span></span></div><ul class="author-tooltip-find-more"><li class="author-tooltip-gs-link first"><a href="/lookup/google-scholar?link_type=googlescholar&amp;gs_type=author&amp;author[0]=R.%20C.%2BSomerville" target="_blank" class="" data-icon-position="" data-hide-link-title="0">Find this author on Google Scholar</a></li>
+<li class="author-tooltip-pubmed-link"><a href="/lookup/external-ref?access_num=Somerville%20RC&amp;link_type=AUTHORSEARCH" target="_blank" class="" data-icon-position="" data-hide-link-title="0">Find this author on PubMed</a></li>
+<li class="author-site-search-link last"><a href="/search/author1%3ARichard%2BC.%2BJ.%2BSomerville" class="" data-icon-position="" data-hide-link-title="0">Search for this author on this site</a></li>
+</ul></div></div></div>  </div>
+
+  
+  </div>
+<div class="panel-pane pane-highwire-article-preval">
+  
+      
+  
+  <div class="pane-content">
+    <div class="highwire-prelocation" data-doi="10.1126/science.1136843" data-logo-type="mediumcolor" data-mouseover="true"></div>  </div>
+
+  
+  </div>
+<div class="panel-pane pane-highwire-panel-tabs pane-panels-ajax-tab-tabs tabbed tabbed--article">
+  
+        
+      <ul class="tabs inline panels-ajax-tab tabbed__list"><li class="first"><a href="/content/316/5825/709" class="panels-ajax-tab-tab" data-panel-name="jnl_sci_tab_art" data-target-id="highwire_article_tabs" data-entity-context="node:417218" data-trigger="" data-url-enabled="1">Article</a><a href="/panels_ajax_tab/jnl_sci_tab_art/node:417218/1" rel="nofollow" style="display:none" class="js-crawler-link"></a></li>
+<li><a href="/content/316/5825/709/tab-figures-data" class="panels-ajax-tab-tab" data-panel-name="jnl_sci_tab_data" data-target-id="highwire_article_tabs" data-entity-context="node:417218" data-trigger="tab-figures-data" data-url-enabled="1">Figures & Data</a><a href="/panels_ajax_tab/jnl_sci_tab_data/node:417218/1" rel="nofollow" style="display:none" class="js-crawler-link"></a></li>
+<li><a href="/content/316/5825/709/tab-article-info" class="panels-ajax-tab-tab" data-panel-name="jnl_sci_tab_info" data-target-id="highwire_article_tabs" data-entity-context="node:417218" data-trigger="tab-article-info" data-url-enabled="1">Info & Metrics</a><a href="/panels_ajax_tab/jnl_sci_tab_info/node:417218/1" rel="nofollow" style="display:none" class="js-crawler-link"></a></li>
+<li><a href="/content/316/5825/709/tab-e-letters" class="panels-ajax-tab-tab" data-panel-name="article_tab_eletters" data-target-id="highwire_article_tabs" data-entity-context="node:417218" data-trigger="tab-e-letters" data-url-enabled="1">eLetters</a><a href="/panels_ajax_tab/article_tab_eletters/node:417218/1" rel="nofollow" style="display:none" class="js-crawler-link"></a></li>
+<li class="last"><a href="/content/316/5825/709/tab-pdf" class="panels-ajax-tab-tab" data-panel-name="jnl_sci_tab_pdf" data-target-id="highwire_article_tabs" data-entity-context="node:417218" data-trigger="tab-pdf" data-url-enabled="1"><i class="fa fa-file-pdf-o"></i> PDF</a><a href="/panels_ajax_tab/jnl_sci_tab_pdf/node:417218/1" rel="nofollow" style="display:none" class="js-crawler-link"></a></li>
+</ul>  
+</div>
+<div class="panel-pane pane-highwire-panel-tabs-container article__body">
+  
+      
+  
+  <div class="pane-content">
+    <div data-panels-ajax-tab-preloaded="jnl_sci_tab_art" id="panels-ajax-tab-container-highwire_article_tabs" class="panels-ajax-tab-container"><div class="panels-ajax-tab-loading" style ="display:none"><img class="loading" src="https://d2ufo47lrtsv5s.cloudfront.net/sites/all/modules/contrib/panels_ajax_tab/images/loading.gif" alt="Loading" title="Loading" /></div><div class="panels-ajax-tab-wrap-jnl_sci_tab_art"><div class="panel-display panel-1col clearfix" >
+  <div class="panel-panel panel-col">
+    <div><div class="cta">
+  
+        
+        <div class="cta__body"><p>You are currently viewing the abstract.</p>
+<a href="#login-pane" class="btn--cta btn--cta--large" data-click-to-toggle="#login-pane" data-icon-position="" data-hide-link-title="0">View Full Text</a></div><div class="panel-pane pane-panels-mini pane-jnl-sci-challenge-pane cta__extra toggleable is-visually-hidden" id="login-pane">
+  
+        
+        <div><div class="panel-pane pane-jnl-sci-sso-link">
+  
+      
+  
+  <div class="pane-content">
+    <div class="login--sso"><form action="https://signin.aaas.org/oxauth/seam/resource/restv1/oxauth/authorize" class="login__link"><input type="hidden" name="response_type" value="code" /><input type="hidden" name="client_id" value="@!DF52.8A2B.1610.1D59!0001!F186.A7D4!0008!AB98.2411" /><input type="hidden" name="redirect_uri" value="http://classic.sciencemag.org/oauth2/code/" /><input type="hidden" name="scope" value="openid org.aaas" /><input type="hidden" name="state" value="http://science.sciencemag.org/content/316/5825/709?sso=1&sso_redirect_count=1" /><input type="submit" value="via AAAS ID" /></form><div class="login__text">As a service to the community this article is available to view for free. Use your <a href="https://signin.aaas.org/oxauth/seam/resource/restv1/oxauth/authorize?response_type=code&amp;client_id=%40%21DF52.8A2B.1610.1D59%210001%21F186.A7D4%210008%21AB98.2411&amp;redirect_uri=http%3A%2F%2Fclassic.sciencemag.org%2Foauth2%2Fcode%2F&amp;scope=openid+org.aaas&amp;state=http%3A%2F%2Fscience.sciencemag.org%2Fcontent%2F316%2F5825%2F709%3Fsso%3D1%26sso_redirect_count%3D1" class="login-link-highlight" data-icon-position="" data-hide-link-title="0">via AAAS ID</a> to log in or <a href="https://pubs.aaas.org/Promo/promo_setup_rd.asp?dmc=P0RFA1">register</a> for a free account
+</div></div>  </div>
+
+  
+  </div>
+<div class="panel-pane pane-highwire-opportunity-challenge hide-h3">
+  
+        <h2 class="pane-title">Via your Institution</h2>
+    
+  
+  <div class="pane-content">
+    <div class='opportunity-challenge-institution'><h3>Log in through your institution</h3><div class="openathens-login-link clearfix"><form action="https://openathens.highwire.org/initiate-login"><input type="hidden" name="returnURL" value="http://science.sciencemag.org/content/316/5825/709" /><input type="hidden" name="subcode" value="sci" /><input type="submit" value="via OpenAthens" /></form><div class="openathens-login-desc">If your organization uses OpenAthens, you can log in using your OpenAthens username and password. <span class="openathens-sites">To check if your institution is supported, please see <a href="http://auth.athensams.net/orglist.php">this list</a>.</span> Contact your library for more details. </div></div></div>  </div>
+
+  
+  </div>
+<div class="panel-pane pane-highwire-opportunity-challenge hide-h3">
+  
+      
+  
+  <div class="pane-content">
+    <div class='opportunity-challenge-institution'><h3>Log in through your institution</h3><div class="shib-login-link clearfix"><form action="/login/shibboleth"><input type="hidden" name="subcode" value="sci" /><input type="hidden" name="env" value="prod" /><input type="hidden" name="uri" value="http://science.sciencemag.org/content/316/5825/709" /><input type="submit" value="via Institution" /></form><div class="shib-login-desc">You may be able to gain access using your login credentials for your institution. Contact your library if you do not have a username and password.</div></div></div>  </div>
+
+  
+  </div>
+<hr /><div class="panel-pane pane-sci-challenge-links">
+  
+        
+      <ul class="list-simple"><li class="register first"><a href="https://pubs.aaas.org/Promo/promo_setup_rd.asp?dmc=P0RFB1" class="" data-icon-position="" data-hide-link-title="0">Register for Free</a></li>
+<li class="subscribe"><a href="http://www.aaas.org/membercentral/join-aaas?dmc=P1XTZ" class="" data-icon-position="" data-hide-link-title="0">Join/Subscribe</a></li>
+<li class="recommend-subscription"><a href="http://www.sciencemag.org/site/subscriptions/recommend_sub.xhtml?ccode=PPW" class="" data-icon-position="" data-hide-link-title="0">Recommend a subscription to your library</a></li>
+<li class="librarian-help last"><a href="http://www.sciencemag.org/site/help/librarians" class="" data-icon-position="" data-hide-link-title="0">Help for librarians</a></li>
+</ul>  
+</div>
+<div class="panel-pane pane-snippet pane-jnl-sci-challenge-footer">
+  
+        <h2 class="pane-title">Free with registration</h2>
+    
+  
+  <div class="pane-content">
+    <div class="jnl-sci-challenge-footer" id="jnl-sci-challenge-footer">
+  
+      
+  <div class="snippet-content">
+    <p>Science research is available free with registration one year&nbsp;after initial publication. To get your free access please visit our <a href="https://pubs.aaas.org/Promo/promo_setup_rd.asp?dmc=P0RFA1">registration form</a>.</p>
+  </div>
+
+</div>
+  </div>
+
+  
+  </div>
+</div>  
+</div>
+  
+</div>
+<div class="panel-separator"></div><div class="panel-pane pane-highwire-markup">
+  
+      
+  
+  <div class="pane-content">
+    <div class="highwire-markup"><div xmlns="http://www.w3.org/1999/xhtml" id="content-block-markup" data-highwire-cite-ref-tooltip-instance="highwire_reflinks_tooltip" data-highwire-glossary-tooltip-instance="highwire_reflinks_tooltip" xmlns:xhtml="http://www.w3.org/1999/xhtml"><div class="article abstract-view"><span class="highwire-journal-article-marker-start"></span><div class="section abstract" id="abstract-1"><h2>Abstract</h2>
+        <p id="p-1">We present recent observed climate trends for carbon dioxide concentration, global mean air temperature, and global sea level, and we compare these trends to previous model projections as summarized in the 2001 assessment report of the Intergovernmental Panel on Climate Change (IPCC). The IPCC scenarios and projections start in the year 1990, which is also the base year of the Kyoto protocol, in which almost all industrialized nations accepted a binding commitment to reduce their greenhouse gas emissions. The data available for the period since 1990 raise concerns that the climate system, in particular sea level, may be responding more quickly to climate change than our current generation of models indicates.</p>
+      </div><span class="highwire-journal-article-marker-end"></span></div><span id="related-urls"></span></div><a href="http://science.sciencemag.org/content/316/5825/709.full" class="hw-link hw-link-article-full-text" data-icon-position="" data-hide-link-title="0">View Full Text</a></div>  </div>
+
+  
+  </div>
+</div>
+  </div>
+</div>
+</div></div>  </div>
+
+  
+  </div>
+    </article>
+        <div class="secondary">
+      <div id='aaas-util-side-1'></div><div class="panel-pane pane-panels-mini pane-jnl-sci-art-issue box-standout priority-2">
+  
+        
+        <div class="panel-pane pane-highwire-article-citation">
+  
+      
+  
+  <div class="pane-content">
+    <div class="highwire-article-citation highwire-citation-type-highwire-issue" data-node-nid="224749" id="node224749" data-pisa="sci;316/5825" data-pisa-master="sci;316/5825" data-apath="/sci/316/5825.atom"><article class="highwire-cite highwire-cite-highwire-issue highwire-citation-jnl-sci-issue clearfix media media--var">
+      <div class="highwire-cite-highlight media__icon"><a href="/content/316/5825"  class="highlight-image-linked"><img class="highlight-image" src="https://d2ufo47lrtsv5s.cloudfront.net/sites/default/files/styles/sci_issue_archive_cover/public/highwire/sci/316/5825.cover.gif?itok=bxVDcrEa" alt="Science: 316 (5825)" /></a></div>
+    <div class="media__body">
+        <h3 class="highwire-cite-title-wrapper media__headline"><a href="/content/316/5825" class="highwire-cite-linked-title" data-icon-position="" data-hide-link-title="0"><span class="highwire-cite-title">Science</span></a></h3>
+                <p  class="highwire-cite-metadata minor">Vol 316, Issue 5825<br />04 May 2007 </p>
+                <ul class="priority-2 variant-list"><li class="toc first last"><a href="/content/316/5825.toc" class="highwire-variant-link variant-toc " title="Table of Contents" rel="alternate" type="text/html" data-icon-position="" data-hide-link-title="0">Table of Contents </a></li>
+</ul>  </div>
+</article></div>  </div>
+
+  
+  </div>
+  
+</div>
+<div class="panel-pane pane-panels-mini pane-jnl-sci-art-tools nav-interior">
+  
+            <h3 class="overline">
+          Article Tools        </h3>
+          
+        <ul class="article__tools"><li class="first"><div class="panel-pane pane-minipanel-dialog-link pane-jnl-sci-art-email">
+  
+      
+  
+  <div class="pane-content">
+    <div class='minipanel-dialog-wrapper'><div class='minipanel-dialog-link-link'><a href="/" oncontextmenu="javascript: return false;" class="minipanel-dialog-link-trigger link-icon" title="Email This Article"><i class="fa fa-lg fa-envelope"></i> <span class="title">Email</span></a></div><div class='minipanel-dialog-link-mini' style='display:none'><div class="empty_placeholder ui-helper-hidden-accessible"><input autofocus="autofocus" type="hidden"/></div>
+<div class="panel-display panel-1col clearfix" id="mini-panel-jnl_sci_art_email">
+  <div class="panel-panel panel-col">
+    <div><div class="panel-pane pane-block pane-forward-form pane-forward">
+  
+      
+  
+  <div class="pane-content">
+    <form action="/content/316/5825/709" method="post" id="forward-form" accept-charset="UTF-8"><div id="edit-instructions" class="form-item form-type-item">
+ <p>Thank you for your interest in spreading the word about Science.</p><p>NOTE: We only request your email address so that the person you are recommending the page to knows that you wanted them to see it, and that it is not junk mail. We do not capture any email address.</p>
+</div>
+<div class="form-item field-container form-type-textfield form-item-email form-required">
+  <label class="required" for="edit-email">Your Email</label>
+ <input type="text" id="edit-email" name="email" value="" size="58" maxlength="256" class="form-text required" />
+</div>
+<div class="form-item field-container form-type-textfield form-item-name form-required">
+  <label class="required" for="edit-name">Your Name</label>
+ <input type="text" id="edit-name" name="name" value="" size="58" maxlength="256" class="form-text required" />
+</div>
+<div class="form-item form-type-textarea form-item-recipients form-required">
+  <label class="required" for="edit-recipients">Send To</label>
+ <div class="form-textarea-wrapper resizable"><textarea id="edit-recipients" name="recipients" cols="50" rows="5" class="form-textarea required"></textarea></div>
+
+<small class="description">Enter multiple addresses on separate lines or separate them with commas.</small>
+</div>
+<div id="edit-page" class="form-item form-type-item">
+  <label for="edit-page">You are going to email the following</label>
+ <a href="/content/316/5825/709" class="active" data-icon-position="" data-hide-link-title="0">Recent Climate Observations Compared to Projections</a>
+</div>
+<div id="edit-subject" class="form-item form-type-item">
+  <label for="edit-subject">Message Subject</label>
+ (Your Name) has forwarded a page to you from Science
+</div>
+<div id="edit-body" class="form-item form-type-item">
+  <label for="edit-body">Message Body</label>
+ (Your Name) thought you would like to see this page from the Science web site.
+</div>
+<div class="form-item form-type-textarea form-item-message">
+  <label for="edit-message--2">Your Personal Message</label>
+ <div class="form-textarea-wrapper resizable"><textarea id="edit-message--2" name="message" cols="50" rows="10" class="form-textarea"></textarea></div>
+</div>
+<input type="hidden" name="path" value="node/417218" />
+<input type="hidden" name="path_cid" value="" />
+<input type="hidden" name="forward_footer" value=" " />
+<input type="hidden" name="form_build_id" value="form-xFSy8plgLSn38sLerqxzuFGrHkUo492p7_70N1DIH94" />
+<input type="hidden" name="form_id" value="forward_form" />
+<div class="form-actions form-wrapper" id="edit-actions"><button type="submit" id="edit-submit" name="op" value="Send Message">Send Message</button></div></form>  </div>
+
+  
+  </div>
+</div>
+  </div>
+</div>
+</div></div>  </div>
+
+  
+  </div>
+</li>
+<li><div class="panel-pane pane-highwire-variant-link">
+  
+      
+  
+  <div class="pane-content">
+    <a href="/content/316/5825/709.powerpoint" class="link-icon"><i class="fa fa-lg fa-download"></i> <span class="title">Download Powerpoint</span></a>  </div>
+
+  
+  </div>
+</li>
+<li><div class="panel-pane pane-highwire-variant-link">
+  
+      
+  
+  <div class="pane-content">
+    <a href="/content/316/5825/709.full-text.pdf" target="_blank" class="link-icon"><i class="fa fa-lg fa-print"></i> <span class="title">Print</span></a>  </div>
+
+  
+  </div>
+</li>
+<li><div class="panel-pane pane-add-member">
+  
+      
+  
+  <div class="pane-content">
+    <a href="/highwire/folders/save_to_folders/atom%3A/sci/316/5825/709.atom?destination=content/316/5825/709" id="atom-sci-316-5825-709atom" class="highwire-save-to-folders highwire_saved_search_link_ajax link-icon"><i class="fa fa-lg fa-folder-open-o"></i> <span class="title">Save to my folders</span></a><div style="display:none" id="atom-sci-316-5825-709atom" class="highwire_saved_folder_form_ajax_atom-sci-316-5825-709atom"><div id="folder-form-wrapper"><form action="/content/316/5825/709" method="post" id="highwire-user-opportunity-login" accept-charset="UTF-8"><div class="form-item field-container form-type-textfield form-item-name form-required">
+  <label class="required" for="edit-name--2">User Name</label>
+ <input type="text" id="edit-name--2" name="name" value="" size="60" maxlength="128" class="form-text required" />
+</div>
+<div class="form-item field-container form-type-password form-item-pass form-required">
+  <label class="required" for="edit-pass">Password</label>
+ <input type="password" id="edit-pass" name="pass" size="60" maxlength="128" class="form-text required" />
+</div>
+<div class="form-item form-type-checkbox form-item-remember">
+<label for="edit-remember"><input type="checkbox" id="edit-remember" name="remember" value="1" class="form-checkbox" /> Remember my user name &amp; password.</label>
+
+</div>
+<button type="submit" id="edit-submit--3" name="op" value="Submit">Submit</button><input type="hidden" name="form_build_id" value="form--v5it79eVcQ-y2ReCu7La2UEXsoW8MPYjutT4bmooPc" />
+<input type="hidden" name="form_id" value="highwire_folders_select_folder_form" />
+<input type="hidden" name="current_path" value="content/316/5825/709" />
+</form></div></div>  </div>
+
+  
+  </div>
+</li>
+<li><div class="panel-pane pane-minipanel-dialog-link pane-jnl-sci-art-alert">
+  
+      
+  
+  <div class="pane-content">
+    <div class='minipanel-dialog-wrapper'><div class='minipanel-dialog-link-link'><a href="/" oncontextmenu="javascript: return false;" class="minipanel-dialog-link-trigger link-icon" title="Alerts"><i class="fa fa-lg fa-bullhorn"></i> <span class="title">Alerts</span></a></div><div class='minipanel-dialog-link-mini' style='display:none'><div class="empty_placeholder ui-helper-hidden-accessible"><input autofocus="autofocus" type="hidden"/></div>
+  <div class="panel-pane pane-custom pane-1">
+  
+      
+  
+  <div class="pane-content">
+    <p>Please log in to add an alert for this article.</p>  </div>
+
+  
+  </div>
+<div class="panel-separator"></div><div class="panel-pane pane-user-login-form">
+  
+      
+  
+  <div class="pane-content">
+    <form action="/content/316/5825/709" method="post" id="user-login" accept-charset="UTF-8"><div class="form-item field-container form-type-textfield form-item-name form-required">
+  <label class="required" for="edit-name--3">Username</label>
+ <input type="text" id="edit-name--3" name="name" value="" size="60" maxlength="60" class="form-text required" />
+
+<small class="description">Enter your <a href="http://www.sciencemag.org/" class="" data-icon-position="" data-hide-link-title="0">Sciencemag.org</a> username.</small>
+</div>
+<div class="form-item field-container form-type-password form-item-pass form-required">
+  <label class="required" for="edit-pass--2">Password</label>
+ <input type="password" id="edit-pass--2" name="pass" size="60" maxlength="128" class="form-text required" />
+
+<small class="description">Enter the password that accompanies your username.</small>
+</div>
+<input type="hidden" name="form_build_id" value="form-6VF-PzhEDmg63sZK4orS18XiFnb69dO81o1QwhjwsD8" />
+<input type="hidden" name="form_id" value="user_login" />
+<div class="field-container form-actions form-wrapper" id="edit-actions--2"><button class="btn--submit" type="submit" id="edit-submit--4" name="op" value="Log in">Log in</button></div></form>  </div>
+
+  
+  </div>
+</div></div>  </div>
+
+  
+  </div>
+</li>
+<li><div class="panel-pane pane-panels-ajax-pane-content">
+  
+        <h2 class="pane-title"><span class='panels-ajax-pane-title' data-pid='new-40'></span></h2>
+    
+  
+  <div class="pane-content">
+    <div class='panels-ajax-pane panels-ajax-pane-new-40' data-pid='new-40'></div>  </div>
+
+  
+  </div>
+</li>
+<li><div class="panel-pane pane-minipanel-dialog-link pane-jnl-sci-cite-tool">
+  
+      
+  
+  <div class="pane-content">
+    <div class='minipanel-dialog-wrapper'><div class='minipanel-dialog-link-link'><a href="/" oncontextmenu="javascript: return false;" class="minipanel-dialog-link-trigger link-icon" title="Citation Tools"><i class="fa fa-lg fa-globe"></i> <span class="title">Citation tools</span></a></div><div class='minipanel-dialog-link-mini' style='display:none'><div class="empty_placeholder ui-helper-hidden-accessible"><input autofocus="autofocus" type="hidden"/></div>
+  <div class="panel-pane pane-highwire-citation-export">
+  
+      
+  
+  <div class="pane-content">
+    <div>  
+  <div class="highwire-citation-info">
+      <div class="highwire-article-citation highwire-citation-type-highwire-article" data-node-nid="417218" id="node417218--2" data-pisa="sci;316/5825/709" data-pisa-master="sci;1136843" data-apath="/sci/316/5825/709.atom"><article class="highwire-cite highwire-cite-highwire-article highwire-citation-jnl-sci-toc clearfix media media--citation">
+    <div class="media__body">
+        <h3 class="highwire-cite-title-wrapper media__headline"><div class="highwire-cite-title media__headline__title">Recent Climate Observations Compared to Projections</div></h3>
+            <p  class="highwire-cite-authors byline">By <span  class="highwire-citation-authors"><span class="highwire-citation-author first" data-delta="0">Stefan Rahmstorf</span>, <span class="highwire-citation-author" data-delta="1">Anny Cazenave</span>, <span class="highwire-citation-author" data-delta="2">John A. Church</span>, <span class="highwire-citation-author" data-delta="3">James E. Hansen</span>, <span class="highwire-citation-author" data-delta="4">Ralph F. Keeling</span>, <span class="highwire-citation-author" data-delta="5">David E. Parker</span>, <span class="highwire-citation-author" data-delta="6">Richard C. J. Somerville</span></span></p>
+            <p  class="highwire-cite-metadata byline"><em>Science</em><time>04 May 2007</time> : 709 </p>
+                <div class="highwire-cite-snippet media__deck">
+      <div class="highwire-markup"><div xmlns="http://www.w3.org/1999/xhtml" class="section precis" id="abstract-2" xmlns:xhtml="http://www.w3.org/1999/xhtml"><p id="p-2">Sea level and global mean air temperatures have risen more since 1990 than climate models used in the IPCC predicted, and IPCC projections may underestimate future sea levels.</p></div></div>    </div>
+          </div>
+</article></div>  </div>
+  <div class="highwire-citation-formats">
+  	      <h2>Citation Manager Formats</h2>
+        <div class="highwire-citation-formats-links">
+      <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.spage=709&amp;rft.epage=709&amp;rft.atitle=Recent%20Climate%20Observations%20Compared%20to%20Projections&amp;rft.volume=316&amp;rft.issue=5825&amp;rft.date=2007-05-04%2000%3A00%3A00&amp;rft.stitle&amp;rft.jtitle=Science&amp;rft.au=Rahmstorf%2C+Stefan&amp;rft.au=Cazenave%2C+Anny&amp;rft.au=Church%2C+John+A.&amp;rft.au=Hansen%2C+James+E.&amp;rft.au=Keeling%2C+Ralph+F.&amp;rft.au=Parker%2C+David+E.&amp;rft.au=Somerville%2C+Richard+C.+J."></span><ul class="hw-citation-links inline"><li class="bibtext first"><a href="/highwire/citation/417218/bibtext" class="" data-icon-position="" data-hide-link-title="0">BibTeX</a></li>
+<li class="bookends"><a href="/highwire/citation/417218/bookends" class="" data-icon-position="" data-hide-link-title="0">Bookends</a></li>
+<li class="easybib"><a href="/highwire/citation/417218/easybib" class="" data-icon-position="" data-hide-link-title="0">EasyBib</a></li>
+<li class="endnote-tagged"><a href="/highwire/citation/417218/endnote-tagged" class="" data-icon-position="" data-hide-link-title="0">EndNote (tagged)</a></li>
+<li class="endnote-8-xml"><a href="/highwire/citation/417218/endnote-8-xml" class="" data-icon-position="" data-hide-link-title="0">EndNote 8 (xml)</a></li>
+<li class="medlars"><a href="/highwire/citation/417218/medlars" class="" data-icon-position="" data-hide-link-title="0">Medlars</a></li>
+<li class="mendeley"><a href="/highwire/citation/417218/mendeley" class="" data-icon-position="" data-hide-link-title="0">Mendeley</a></li>
+<li class="papers"><a href="/highwire/citation/417218/papers" class="" data-icon-position="" data-hide-link-title="0">Papers</a></li>
+<li class="refworks-tagged"><a href="/highwire/citation/417218/refworks-tagged" class="" data-icon-position="" data-hide-link-title="0">RefWorks Tagged</a></li>
+<li class="reference-manager"><a href="/highwire/citation/417218/reference-manager" class="" data-icon-position="" data-hide-link-title="0">Ref Manager</a></li>
+<li class="ris"><a href="/highwire/citation/417218/ris" class="" data-icon-position="" data-hide-link-title="0">RIS</a></li>
+<li class="zotero last"><a href="/highwire/citation/417218/zotero" class="" data-icon-position="" data-hide-link-title="0">Zotero</a></li>
+</ul>    </div>
+  </div>
+</div>
+  </div>
+
+  
+  </div>
+</div></div>  </div>
+
+  
+  </div>
+</li>
+<li class="last"><div class="panel-pane pane-panels-mini pane-jnl-sci-share">
+  
+      
+  
+  <div class="pane-content">
+      <div class="panel-pane pane-highwire-share-link highwire_clipboard_link_ajax" id="shareit">
+  
+      
+  
+  <div class="pane-content">
+    <a href="/" class="link-icon"><i class="fa fa-lg fa-share"></i> <span class="title">Share</span></a>  </div>
+
+  
+  </div>
+  <div class="highwire_clipboard_form_ajax_shareit"><div class="panel-pane pane-highwire-article-citation">
+  
+      
+  
+  <div class="pane-content">
+    <div class="highwire-article-citation highwire-citation-type-highwire-article" data-node-nid="417218" id="node417218--2" data-pisa="sci;316/5825/709" data-pisa-master="sci;1136843" data-apath="/sci/316/5825/709.atom"><article class="highwire-cite highwire-cite-highwire-article highwire-citation-jnl-sci-toc clearfix media media--citation">
+    <div class="media__body">
+        <h3 class="highwire-cite-title-wrapper media__headline"><div class="highwire-cite-title media__headline__title">Recent Climate Observations Compared to Projections</div></h3>
+            <p  class="highwire-cite-authors byline">By <span  class="highwire-citation-authors"><span class="highwire-citation-author first" data-delta="0">Stefan Rahmstorf</span>, <span class="highwire-citation-author" data-delta="1">Anny Cazenave</span>, <span class="highwire-citation-author" data-delta="2">John A. Church</span>, <span class="highwire-citation-author" data-delta="3">James E. Hansen</span>, <span class="highwire-citation-author" data-delta="4">Ralph F. Keeling</span>, <span class="highwire-citation-author" data-delta="5">David E. Parker</span>, <span class="highwire-citation-author" data-delta="6">Richard C. J. Somerville</span></span></p>
+            <p  class="highwire-cite-metadata byline"><em>Science</em><time>04 May 2007</time> : 709 </p>
+                <div class="highwire-cite-snippet media__deck">
+      <div class="highwire-markup"><div xmlns="http://www.w3.org/1999/xhtml" class="section precis" id="abstract-2" xmlns:xhtml="http://www.w3.org/1999/xhtml"><p id="p-2">Sea level and global mean air temperatures have risen more since 1990 than climate models used in the IPCC predicted, and IPCC projections may underestimate future sea levels.</p></div></div>    </div>
+          </div>
+</article></div>  </div>
+
+  
+  </div>
+<div class="panel-pane pane-highwire-article-clipboard-copy">
+  
+      
+  
+  <div class="pane-content">
+    <div class = "clipboard-copy">
+  <span class="label-url">Permalink:</span>
+  <span class="input-text-url">
+    <input type="text" id="dynamic" value="http://science.sciencemag.org/content/316/5825/709" size="50"/>  </span>
+  <span class="copy-button button">
+    <button id="copy-dynamic" class="clipboardjs-button" data-clipboard-target="#dynamic" data-clipboard-alert-style="tooltip" data-clipboard-alert-text="Copied!">Copy</button>
+  </span>
+</div>  </div>
+
+  
+  </div>
+<div class="panel-pane pane-service-links">
+  
+      
+  
+  <div class="pane-content">
+    <div class="service-links"><a href="http://www.citeulike.org/posturl?url=http%3A//science.sciencemag.org/content/316/5825/709&amp;title=Recent%20Climate%20Observations%20Compared%20to%20Projections" id="citeulike" title="Share on CiteULike" class="service-links-citeulike" rel="nofollow" target="_blank" data-icon-position="" data-hide-link-title="0"><img src="https://d2ufo47lrtsv5s.cloudfront.net/sites/all/modules/highwire/highwire/images/citeyoulike.png" alt="CiteULike logo" /></a> <a href="http://www.connotea.org/add?uri=http%3A//science.sciencemag.org/content/316/5825/709&amp;title=Recent%20Climate%20Observations%20Compared%20to%20Projections" id="connotea" title="Share on connotea" class="service-links-connotea" rel="nofollow" target="_blank" data-icon-position="" data-hide-link-title="0"><img src="https://d2ufo47lrtsv5s.cloudfront.net/sites/all/modules/highwire/highwire/images/connotea.png" alt="Connotea logo" /></a> <a href="http://del.icio.us/post?url=http%3A//science.sciencemag.org/content/316/5825/709&amp;title=Recent%20Climate%20Observations%20Compared%20to%20Projections" id="delicious" title="Bookmark this post on del.icio.us" class="service-links-delicious" rel="nofollow" target="_blank" data-icon-position="" data-hide-link-title="0"><img src="https://d2ufo47lrtsv5s.cloudfront.net/sites/all/modules/highwire/highwire/images/delicious-32.png" alt="del.icio.us logo" /></a> <a href="http://digg.com/submit?phase=2&amp;url=http%3A//science.sciencemag.org/content/316/5825/709&amp;title=Recent%20Climate%20Observations%20Compared%20to%20Projections" id="digg" title="Digg this post on digg.com" class="service-links-digg" rel="nofollow" target="_blank" data-icon-position="" data-hide-link-title="0"><img src="https://d2ufo47lrtsv5s.cloudfront.net/sites/all/modules/highwire/highwire/images/digg.png" alt="Digg logo" /></a> <a href="http://www.facebook.com/sharer.php?u=http%3A//science.sciencemag.org/content/316/5825/709&amp;t=Recent%20Climate%20Observations%20Compared%20to%20Projections" id="facebook" title="Share on Facebook" class="service-links-facebook" rel="nofollow" target="_blank" data-icon-position="" data-hide-link-title="0"><img src="https://d2ufo47lrtsv5s.cloudfront.net/sites/all/modules/highwire/highwire/images/fb-blue.png" alt="Facebook logo" /></a> <a href="http://www.google.com/bookmarks/mark?op=add&amp;bkmk=http%3A//science.sciencemag.org/content/316/5825/709&amp;title=Recent%20Climate%20Observations%20Compared%20to%20Projections" id="google" title="Bookmark this post on Google" class="service-links-google" rel="nofollow" target="_blank" data-icon-position="" data-hide-link-title="0"><img src="https://d2ufo47lrtsv5s.cloudfront.net/sites/all/modules/highwire/highwire/images/google-32.png" alt="Google logo" /></a> <a href="http://www.mendeley.com/import/?url=http%3A//science.sciencemag.org/content/316/5825/709&amp;title=Recent%20Climate%20Observations%20Compared%20to%20Projections" id="mendeley" title="Share on Mendeley" class="service-links-mendeley" rel="nofollow" target="_blank" data-icon-position="" data-hide-link-title="0"><img src="https://d2ufo47lrtsv5s.cloudfront.net/sites/all/modules/highwire/highwire/images/mendeley.png" alt="Mendeley logo" /></a> <a href="http://reddit.com/submit?url=http%3A//science.sciencemag.org/content/316/5825/709&amp;title=Recent%20Climate%20Observations%20Compared%20to%20Projections" id="reddit" title="Submit this post on reddit.com" class="service-links-reddit" rel="nofollow" target="_blank" data-icon-position="" data-hide-link-title="0"><img src="https://d2ufo47lrtsv5s.cloudfront.net/sites/all/modules/highwire/highwire/images/reddit.png" alt="Reddit logo" /></a> <a href="http://twitter.com/share?url=http%3A//science.sciencemag.org/content/316/5825/709&amp;text=Recent%20Climate%20Observations%20Compared%20to%20Projections" id="twitter" title="Share this on Twitter" class="service-links-twitter" rel="nofollow" target="_blank" data-icon-position="" data-hide-link-title="0"><img src="https://d2ufo47lrtsv5s.cloudfront.net/sites/all/modules/highwire/highwire/images/twitter.png" alt="Twitter logo" /></a></div>  </div>
+
+  
+  </div>
+</div>  </div>
+
+  
+  </div>
+</li>
+</ul>  
+</div>
+<div id='aaas-util-side-2'></div><div id='aaas-oas_Right2'></div><div id='aaas-util-side-3'></div><div class="panel-pane pane-panels-ajax-pane-content pane-list">
+  
+            <h3 class="overline">
+          Related Content        </h3>
+          
+      <div class='panels-ajax-pane panels-ajax-pane-new-23' data-pid='new-23'></div>  
+</div>
+<div class="panel-pane pane-panels-ajax-pane-content nav-interior">
+  
+            <h3 class="overline">
+          Similar Articles in:        </h3>
+          
+      <div class='panels-ajax-pane panels-ajax-pane-new-24' data-pid='new-24'></div>  
+</div>
+<div class="ctools-collapsible-container ctools-collapsed pane-list"><h2 class="pane-title ctools-collapsible-handle"><span class='panels-ajax-pane-title' data-pid='new-26'></span></h2><div class="ctools-collapsible-content"><div class='panels-ajax-pane panels-ajax-pane-new-26' data-pid='new-26'></div></div></div><div class="panel-pane pane-panels-ajax-pane-content nav-interior">
+  
+            <h3 class="overline">
+          Citing Articles in:        </h3>
+          
+      <div class='panels-ajax-pane panels-ajax-pane-new-27' data-pid='new-27'></div>  
+</div>
+<div class="panel-pane pane-sci-collection-to-jobs nav-interior">
+  
+            <h3 class="overline">
+          Related Jobs from ScienceCareers        </h3>
+          
+      <div class="highwire-article-collections"><ul class="highwire-article-collection-term-list highwire-list"><li class="first last odd"><span class="highwire-article-collection-term"><a href="http://jobs.sciencecareers.org/jobs/oceanography" class="" data-icon-position="" data-hide-link-title="0">Oceanography</a></span></li></ul></div>  
+</div>
+<div id='aaas-oas_x51'></div>    </div>
+      </div>
+</div></div>  </div>
+  </div>
+<div class="row row--alt row--promo">
+    <div  class="region region-pre-footer pre--footer container--promo container">
+    
+  <div class="primary"><h2 class="subsection-title heading--block"><a href="https://pubs.aaas.org/Promo/promo_setup_rd.asp?dmc=P5XPZ" target="_blank">Science</a></h2>  <div class="primary__main promo-foot--mag"><div class="promo-foot--current">
+  
+        
+      <div class="highwire-article-citation highwire-citation-type-highwire-issue" data-pisa="sci;355/6328" data-pisa-master="sci;355/6328" data-apath="/sci/355/6328.atom" id="sci3556328atom"><h3>3 March 2017</h3>
+<p class="promo-foot__meta">Vol 355, Issue 6328</p>
+<a href="https://pubs.aaas.org/Promo/promo_setup_rd.asp?dmc=P5XPZ" target="_blank" class="" data-icon-position="" data-hide-link-title="0"><img class="promo-foot__cover" src="https://d2ufo47lrtsv5s.cloudfront.net/sites/default/files/styles/sci_footer_promo_cover/public/externals/c303c6d9bdd4358b63699b3d8ddb3aeb.gif?itok=C1c2-cqP" alt="Magazine Cover" /></a></div>  
+</div>
+<div class="promo-foot--heds">
+  
+        
+      <ul class="media-grid media-grid--2 media-grid--minor"><li class="first"><div class="highwire-article-citation highwire-citation-type-highwire-article" data-pisa="sci;355/6328/900" data-pisa-master="sci;355/6328/900" data-apath="/sci/355/6328/900.atom" id="sci3556328900atom"><h3 class="overline">Feature</h3>
+  <a href="/content/355/6328/900" class="highwire-cite-linked-title" data-icon-position="" data-hide-link-title="0"><span class="highwire-cite-title">Into the Twilight Zone</span></a></div></li>
+<li><div class="highwire-article-citation highwire-citation-type-highwire-article" data-pisa="sci;355/6328/914" data-pisa-master="sci;355/6328/914" data-apath="/sci/355/6328/914.atom" id="sci3556328914atom"><h3 class="overline">Political Science</h3>
+  <a href="/content/355/6328/914" class="highwire-cite-linked-title" data-icon-position="" data-hide-link-title="0"><span class="highwire-cite-title">The need for a translational science of democracy</span></a></div></li>
+<li><div class="highwire-article-citation highwire-citation-type-highwire-article" data-pisa="sci;355/6328/916" data-pisa-master="sci;355/6328/916" data-apath="/sci/355/6328/916.atom" id="sci3556328916atom"><h3 class="overline">Exhibition</h3>
+  <a href="/content/355/6328/916" class="highwire-cite-linked-title" data-icon-position="" data-hide-link-title="0"><span class="highwire-cite-title">Deep exposures</span></a></div></li>
+<li><div class="highwire-article-citation highwire-citation-type-highwire-article" data-pisa="sci;355/6328/890" data-pisa-master="sci;355/6328/890" data-apath="/sci/355/6328/890.atom" id="sci3556328890atom"><h3 class="overline">SCI COMMUN</h3>
+  <a href="/content/355/6328/890" class="highwire-cite-linked-title" data-icon-position="" data-hide-link-title="0"><span class="highwire-cite-title">News at a glance</span></a></div></li>
+<li><div class="highwire-article-citation highwire-citation-type-highwire-article" data-pisa="sci;355/6328/906" data-pisa-master="sci;355/6328/906" data-apath="/sci/355/6328/906.atom" id="sci3556328906atom"><h3 class="overline">Plant Pathogens</h3>
+  <a href="/content/355/6328/906" class="highwire-cite-linked-title" data-icon-position="" data-hide-link-title="0"><span class="highwire-cite-title">Durable resistance to rice blast</span></a></div></li>
+<li class="last"><div class="highwire-article-citation highwire-citation-type-highwire-article" data-pisa="sci;355/6328/986" data-pisa-master="sci;355/6328/986" data-apath="/sci/355/6328/986.atom" id="sci3556328986atom"><h3 class="overline">Working Life</h3>
+  <a href="/content/355/6328/986" class="highwire-cite-linked-title" data-icon-position="" data-hide-link-title="0"><span class="highwire-cite-title">Sailing through uncertainty</span></a></div></li>
+</ul><p><a href="http://science.sciencemag.org/content/355/6328" class="btn--cta btn--cta--small" data-icon-position="" data-hide-link-title="0">Table of Contents</a></p>  
+</div>
+</div><div class="primary__secondary">
+  
+        
+      <div id='aaas-util-foot-1'></div>  
+</div>
+</div>  <div class="secondary"><div id='aaas-util-foot-2'></div></div>  </div>
+</div>
+
+  <div class="row row--footnav">
+      <div  class="region region-footer-nav footer--nav container">
+    <footer  class="site-footer" id="block-menu-menu-footer-nav" role="contentinfo">
+      
+  <ul class="nav-footer"><li class="expanded"><a href="http://www.sciencemag.org/about/about-us" data-hide-link-title="0" data-is-collapsible="0" data-is-collapsed="1" class="" data-icon-position="">About us</a><ul class="nav-footer__subnav"><li><a href="http://www.sciencemag.org/journals/" data-hide-link-title="0" data-is-collapsible="0" data-is-collapsed="1" class="" data-icon-position="">Journals</a></li>
+<li><a href="http://www.sciencemag.org/about/leadership" data-hide-link-title="0" data-is-collapsible="0" data-is-collapsed="1" class="" data-icon-position="">Leadership</a></li>
+<li><a href="http://www.sciencemag.org/about/team-members" data-hide-link-title="0" data-is-collapsible="0" data-is-collapsed="1" class="" data-icon-position="">Team members</a></li>
+<li><a href="http://www.aaas.org/page/employment-aaas" data-hide-link-title="0" data-is-collapsible="0" data-is-collapsed="1" class="" data-icon-position="">Work at AAAS</a></li>
+</ul></li>
+<li class="expanded"><a href="http://www.sciencemag.org/advertisers" data-hide-link-title="0" data-is-collapsible="0" data-is-collapsed="1" class="" data-icon-position="">Advertise</a><ul class="nav-footer__subnav"><li><a href="http://www.sciencemag.org/advertisers" data-hide-link-title="0" data-is-collapsible="0" data-is-collapsed="1" class="" data-icon-position="">Advertising kits</a></li>
+<li><a href="http://www.sciencemag.org/custom-publishing" data-hide-link-title="0" data-is-collapsible="0" data-is-collapsed="1" class="" data-icon-position="">Custom publishing</a></li>
+</ul></li>
+<li class="expanded"><a href="http://www.sciencemag.org/subscribers" data-hide-link-title="0" data-is-collapsible="0" data-is-collapsed="1" class="" data-icon-position="">For subscribers</a><ul class="nav-footer__subnav"><li><a href="http://www.sciencemag.org/librarian" data-hide-link-title="0" data-is-collapsible="0" data-is-collapsed="1" class="" data-icon-position="">Site license info</a></li>
+<li><a href="http://www.sciencemag.org/members" data-hide-link-title="0" data-is-collapsible="0" data-is-collapsed="1" class="" data-icon-position="">For members</a></li>
+</ul></li>
+<li class="expanded"><a href="http://www.sciencemag.org/about/international-versions" data-hide-link-title="0" data-is-collapsible="0" data-is-collapsed="1" class="" data-icon-position="">International</a><ul class="nav-footer__subnav"><li><a href="http://www.sciencemagchina.cn/" class="" data-icon-position="" data-hide-link-title="0">Chinese</a></li>
+<li><a href="http://www.sciencemag.jp/" class="" data-icon-position="" data-hide-link-title="0">Japanese</a></li>
+</ul></li>
+<li class="expanded"><a href="http://www.sciencemag.org/help" class="" data-icon-position="" data-hide-link-title="0">Help</a><ul class="nav-footer__subnav"><li><a href="http://www.sciencemag.org/subscriptions" class="" data-icon-position="" data-hide-link-title="0">Access &amp; subscriptions</a></li>
+<li><a href="http://www.sciencemag.org/help/reprints-and-permissions" class="" data-icon-position="" data-hide-link-title="0">Reprints &amp; permissions</a></li>
+<li><a href="http://www.sciencemag.org/about/contact-us" data-hide-link-title="0" data-is-collapsible="0" data-is-collapsed="1" class="" data-icon-position="">Contact us</a></li>
+<li><a href="http://www.sciencemag.org/about/accessibility" data-hide-link-title="0" data-is-collapsible="0" data-is-collapsed="1" class="" data-icon-position="">Accessibility</a></li>
+</ul></li>
+<li class="expanded"><a href="http://www.sciencemag.org/about/email-alerts-and-rss-feeds" data-hide-link-title="0" class="" data-icon-position="">Stay Connected</a><ul class="social__list"><li><a href="https://www.facebook.com/ScienceMagazine" title="Facebook" class="social__icon link-icon-only link-icon" target="_blank"><i class="fa fa-facebook fa-lg"></i> <span class="title element-invisible">Facebook</span></a></li>
+<li><a href="https://twitter.com/sciencemagazine" title="Twitter" class="social__icon link-icon-only link-icon" target="_blank"><i class="fa fa-twitter fa-lg"></i> <span class="title element-invisible">Twitter</span></a></li>
+<li><a href="https://plus.google.com/104077269810469435941/posts" title="Google+" class="social__icon link-icon-only link-icon" target="_blank"><i class="fa fa-google-plus fa-lg"></i> <span class="title element-invisible">GooglePlus</span></a></li>
+<li><a href="http://www.sciencemag.org/about/email-alerts-and-rss-feeds" data-is-collapsible="0" data-is-collapsed="1" title="RSS Feeds" class="social__icon link-icon-only link-icon"><i class="fa fa-rss fa-lg"></i> <span class="title element-invisible">RSS Feeds</span></a></li>
+</ul></li>
+</ul></footer>  </div>
+  </div>
+
+<div id="sci-footer-end" class="row row--footer">
+  <div class="container container--footer">
+  <div class="footer__header">
+    <div class="site-logo--footer">
+      <a href="http://sciencemag.org" class="" data-icon-position="" data-hide-link-title="0"><img src="https://d2ufo47lrtsv5s.cloudfront.net/sites/all/themes/shared/science_jcore/library/images/logo-aaas.svg" alt="Science/AAAS" /></a>    </div>
+  </div>
+      <div  class="footer__body" id="block-panels-mini-science-footer-body">
+      
+    <p class="copyright-statement">&copy; 2017 <a href="http://www.aaas.org/">American Association for the Advancement of Science</a>. All rights Reserved. AAAS is a partner of <a href="http://www.who.int/hinari/en/">HINARI</a>, <a href="http://www.aginternetwork.org/en/">AGORA</a> <a href="http://www.unep.org/oare/">OARE</a>, <a href="http://www.patientinform.org/">PatientInform, </a> <a href="http://www.chorusaccess.org">CHORUS, </a> <a href="http://www.clockss.org">CLOCKSS, </a> <a href="http://www.crossref.org/">CrossRef</a> and <a href="http://www.projectcounter.org/">COUNTER</a>. <cite>Science</cite> ISSN 1095-9203.</p>
+<div class="">
+  
+        
+      <ul class="footlinks"><li><a href="http://www.sciencemag.org/about/terms-service" class="" data-icon-position="" data-hide-link-title="0">Terms of Service</a></li>
+<li><a href="http://www.sciencemag.org/about/privacy-policy" class="" data-icon-position="" data-hide-link-title="0">Privacy Policy</a></li>
+<li><a href="http://www.sciencemag.org/about/contact-us" class="" data-icon-position="" data-hide-link-title="0">Contact Us</a></li>
+</ul>  
+</div>
+<div id='aaas-oas_x30'></div></div>  </div></div>
+    <script type="text/javascript" src="https://d2ufo47lrtsv5s.cloudfront.net/sites/all/modules/contrib/jquery_update/replace/jquery/1.8/jquery.min.js?v=1.8.2"></script>
+<script type="text/javascript" src="https://d2ufo47lrtsv5s.cloudfront.net/misc/jquery.once.js?v=1.2"></script>
+<script type="text/javascript" src="https://d2ufo47lrtsv5s.cloudfront.net/misc/drupal.js?olung9"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+var _prum=[['id', '568d96eaabe53dc70c276890'], ['mark', 'firstbyte',
+      (new Date()).getTime()]]; (function() {
+      var s=document.getElementsByTagName('script')[0],
+      p=document.createElement('script');
+      p.async='async'; p.src='//rum-static.pingdom.net/prum.min.js';s.parentNode.insertBefore(p,s);})();
+//--><!]]>
+</script>
+<script type="text/javascript" src="https://d2ufo47lrtsv5s.cloudfront.net/sites/all/modules/contrib/jquery_update/replace/ui/ui/minified/jquery.ui.core.min.js?v=1.10.2"></script>
+<script type="text/javascript" src="https://d2ufo47lrtsv5s.cloudfront.net/sites/all/modules/contrib/jquery_update/replace/ui/ui/minified/jquery.ui.widget.min.js?v=1.10.2"></script>
+<script type="text/javascript" src="https://d2ufo47lrtsv5s.cloudfront.net/sites/all/modules/contrib/jquery_update/replace/ui/ui/minified/jquery.ui.button.min.js?v=1.10.2"></script>
+<script type="text/javascript" src="https://d2ufo47lrtsv5s.cloudfront.net/sites/all/modules/contrib/jquery_update/replace/ui/ui/minified/jquery.ui.mouse.min.js?v=1.10.2"></script>
+<script type="text/javascript" src="https://d2ufo47lrtsv5s.cloudfront.net/sites/all/modules/contrib/jquery_update/replace/ui/ui/minified/jquery.ui.draggable.min.js?v=1.10.2"></script>
+<script type="text/javascript" src="https://d2ufo47lrtsv5s.cloudfront.net/sites/all/modules/contrib/jquery_update/replace/ui/ui/minified/jquery.ui.position.min.js?v=1.10.2"></script>
+<script type="text/javascript" src="https://d2ufo47lrtsv5s.cloudfront.net/sites/all/modules/contrib/jquery_update/replace/ui/ui/minified/jquery.ui.resizable.min.js?v=1.10.2"></script>
+<script type="text/javascript" src="https://d2ufo47lrtsv5s.cloudfront.net/sites/all/modules/contrib/jquery_update/replace/ui/ui/minified/jquery.ui.dialog.min.js?v=1.10.2"></script>
+<script type="text/javascript" src="https://d2ufo47lrtsv5s.cloudfront.net/sites/all/modules/contrib/jquery_update/replace/ui/external/jquery.cookie.js?v=67fb34f6a866c40d0570"></script>
+<script type="text/javascript" src="https://d2ufo47lrtsv5s.cloudfront.net/sites/all/modules/contrib/jquery_update/replace/misc/jquery.form.min.js?v=2.69"></script>
+<script type="text/javascript" src="https://d2ufo47lrtsv5s.cloudfront.net/sites/all/modules/contrib/jquery_update/replace/ui/ui/minified/jquery.ui.tooltip.min.js?v=1.10.2"></script>
+<script type="text/javascript" src="//science.sciencemag.org/misc/ajax.js?v=7.53"></script>
+<script type="text/javascript" src="https://d2ufo47lrtsv5s.cloudfront.net/sites/all/modules/contrib/jquery_update/js/jquery_update.js?v=0.0.1"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+document.createElement( "picture" );
+//--><!]]>
+</script>
+<script type="text/javascript" src="https://d2ufo47lrtsv5s.cloudfront.net/sites/all/modules/highwire/highwire/js/highwire.equal-heights.js?olung9"></script>
+<script type="text/javascript" src="https://d2ufo47lrtsv5s.cloudfront.net/sites/all/modules/highwire/highwire/js/highwire.panels-ajax-tab.js?olung9"></script>
+<script type="text/javascript" src="https://d2ufo47lrtsv5s.cloudfront.net/sites/all/modules/shared/jnl_sci_styles/js/jnl_sci_script.js?olung9"></script>
+<script type="text/javascript" src="https://d2ufo47lrtsv5s.cloudfront.net/sites/all/libraries/colorbox/jquery.colorbox-min.js?olung9"></script>
+<script type="text/javascript" src="https://d2ufo47lrtsv5s.cloudfront.net/sites/all/modules/contrib/colorbox/js/colorbox.js?olung9"></script>
+<script type="text/javascript" src="https://d2ufo47lrtsv5s.cloudfront.net/sites/all/modules/contrib/colorbox/styles/default/colorbox_style.js?olung9"></script>
+<script type="text/javascript" src="https://d2ufo47lrtsv5s.cloudfront.net/sites/all/modules/highwire/highwire/highwire_log/highwire_log.js?olung9"></script>
+<script type="text/javascript" src="https://d2ufo47lrtsv5s.cloudfront.net/sites/all/modules/highwire/highwire/highwire_user/js/highwire_user_meta.js?olung9"></script>
+<script type="text/javascript" src="https://d2ufo47lrtsv5s.cloudfront.net/sites/all/modules/contrib/panels/js/panels.js?olung9"></script>
+<script type="text/javascript" src="https://d2ufo47lrtsv5s.cloudfront.net/sites/all/modules/contrib/panels_ajax_tab/js/panels_ajax_tab.js?olung9"></script>
+<script type="text/javascript" src="https://d2ufo47lrtsv5s.cloudfront.net/sites/all/modules/shared/jnl_sci_styles/js/jnl_sci_styles_toggleable.js?olung9"></script>
+<script type="text/javascript" src="//cdn.jsdelivr.net/qtip2/2.2.1/jquery.qtip.min.js"></script>
+<script type="text/javascript" src="//science.sciencemag.org/sites/all/modules/highwire/highwire/plugins/highwire_markup_process/js/highwire_article_reference_popup.js?olung9"></script>
+<script type="text/javascript" src="//science.sciencemag.org/sites/all/modules/highwire/highwire/plugins/highwire_markup_process/js/highwire_at_symbol.js?olung9"></script>
+<script type="text/javascript" src="//science.sciencemag.org/sites/all/modules/highwire/highwire/plugins/highwire_markup_process/js/highwire_article_glossary_popup.js?olung9"></script>
+<script type="text/javascript" src="https://d2ufo47lrtsv5s.cloudfront.net/sites/all/themes/shared/science_jcore/library/js/swfobject.js?olung9"></script>
+<script type="text/javascript" src="https://d2ufo47lrtsv5s.cloudfront.net/misc/textarea.js?v=7.53"></script>
+<script type="text/javascript" src="https://d2ufo47lrtsv5s.cloudfront.net/sites/all/modules/highwire/highwire/js/highwire.article-citation-author-tooltip.js?olung9"></script>
+<script type="text/javascript" src="https://d2ufo47lrtsv5s.cloudfront.net/sites/all/modules/highwire/highwire/highwire_folders/plugins/content_types/js/highwire_save_to_folders.js?olung9"></script>
+<script type="text/javascript" src="https://d2ufo47lrtsv5s.cloudfront.net/misc/progress.js?v=7.53"></script>
+<script type="text/javascript" src="https://d2ufo47lrtsv5s.cloudfront.net/sites/all/modules/highwire/highwire/highwire_citation/plugins/content_types/js/highwire_citation_export.js?olung9"></script>
+<script type="text/javascript" src="https://d2ufo47lrtsv5s.cloudfront.net/sites/all/modules/highwire/highwire/plugins/content_types/js/minipanel_dialog_link.js?olung9"></script>
+<script type="text/javascript" src="https://d2ufo47lrtsv5s.cloudfront.net/sites/all/modules/highwire/highwire/plugins/content_types/js/highwire_share_dialog.js?olung9"></script>
+<script type="text/javascript" src="https://d2ufo47lrtsv5s.cloudfront.net/sites/all/modules/highwire/highwire/plugins/content_types/js/clipboard.min.js?olung9"></script>
+<script type="text/javascript" src="https://d2ufo47lrtsv5s.cloudfront.net/sites/all/modules/highwire/highwire/plugins/content_types/js/highwire_clipboard.js?olung9"></script>
+<script type="text/javascript" src="https://d2ufo47lrtsv5s.cloudfront.net/sites/all/modules/contrib/ctools/js/collapsible-div.js?olung9"></script>
+<script type="text/javascript" src="https://d2ufo47lrtsv5s.cloudfront.net/sites/all/modules/shared/jnl_sci_styles/js/jnl_sci_social_icons.js?olung9"></script>
+<script type="text/javascript" src="https://d2ufo47lrtsv5s.cloudfront.net/sites/all/modules/contrib/google_analytics/googleanalytics.js?olung9"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+(function(i,s,o,g,r,a,m){i["GoogleAnalyticsObject"]=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,"script","//www.google-analytics.com/analytics.js","ga");ga("create", "UA-189672-10", {"cookieDomain":"auto"});ga("set", "anonymizeIp", true);ga("send", "pageview");
+//--><!]]>
+</script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+oas_tag.query = 'subject=OCEANS';
+//--><!]]>
+</script>
+<script type="text/javascript" src="https://d2ufo47lrtsv5s.cloudfront.net/sites/all/modules/shared/jnl_sci_styles/js/jnl_sci_user_data.js?olung9"></script>
+<script type="text/javascript" src="https://d2ufo47lrtsv5s.cloudfront.net/sites/all/modules/contrib/panels_ajax_pane/panels_ajax_pane.js?olung9"></script>
+<script type="text/javascript" src="https://d2ufo47lrtsv5s.cloudfront.net/sites/all/themes/shared/science_jcore/library/js/jquery.sticky.js?olung9"></script>
+<script type="text/javascript" src="https://d2ufo47lrtsv5s.cloudfront.net/sites/all/themes/shared/science_jcore/library/js/jquery.stickyHeader.js?olung9"></script>
+<script type="text/javascript" src="https://d2ufo47lrtsv5s.cloudfront.net/sites/all/themes/shared/science_jcore/library/js/jquery.switchPng.js?olung9"></script>
+<script type="text/javascript" src="https://d2ufo47lrtsv5s.cloudfront.net/sites/all/themes/shared/science_jcore/library/js/mediaelement-and-player.min.js?olung9"></script>
+<script type="text/javascript" src="https://d2ufo47lrtsv5s.cloudfront.net/sites/all/themes/shared/science_jcore/library/js/respondTable.js?olung9"></script>
+<script type="text/javascript" src="https://d2ufo47lrtsv5s.cloudfront.net/sites/all/themes/shared/science_jcore/js/script.js?olung9"></script>
+<script type="text/javascript" src="https://d2ufo47lrtsv5s.cloudfront.net/sites/all/modules/highwire/highwire/highwire_responsive/js/highwire-mediaqueries.js?olung9"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"science_jcore","theme_token":"tap7CDGjjxvOwZwl33LLNH-z9KzHLR65i-8Nihkcc1A","jquery_version":"1.8","css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"misc\/ui\/jquery.ui.core.css":1,"misc\/ui\/jquery.ui.theme.css":1,"misc\/ui\/jquery.ui.button.css":1,"misc\/ui\/jquery.ui.resizable.css":1,"misc\/ui\/jquery.ui.dialog.css":1,"misc\/ui\/jquery.ui.tooltip.css":1,"sites\/all\/modules\/contrib\/date\/date_api\/date.css":1,"sites\/all\/modules\/contrib\/date\/date_popup\/themes\/datepicker.1.7.css":1,"modules\/field\/theme\/field.css":1,"sites\/all\/modules\/highwire\/highwire\/highwire_draw\/css\/highwire-draw.css":1,"sites\/all\/modules\/highwire\/highwire\/highwire_folders\/highwire_folders.css":1,"sites\/all\/modules\/highwire\/highwire\/highwire_responsive\/css\/highwire-responsive.css":1,"sites\/all\/modules\/highwire\/highwire\/highwire_saved_searches\/highwire_saved_searches.css":1,"sites\/all\/modules\/highwire\/highwire\/highwire_user\/highwire_user.css":1,"sites\/all\/modules\/shared\/jnl_sci_styles\/css\/jnl_sci_styles.css":1,"modules\/node\/node.css":1,"sites\/all\/modules\/contrib\/picture\/picture_wysiwyg.css":1,"modules\/search\/search.css":1,"modules\/user\/user.css":1,"sites\/all\/modules\/contrib\/views\/css\/views.css":1,"sites\/all\/modules\/contrib\/ckeditor\/css\/ckeditor.css":1,"sites\/all\/modules\/contrib\/colorbox\/styles\/default\/colorbox_style.css":1,"sites\/all\/modules\/contrib\/ctools\/css\/ctools.css":1,"sites\/all\/modules\/highwire\/highwire\/highwire.style.highwire.css":1,"sites\/all\/modules\/highwire\/highwire\/css\/nlm-elements.css":1,"sites\/all\/modules\/contrib\/panels\/css\/panels.css":1,"public:\/\/ctools\/css\/263bfdb18936424f0ade19d6bd885f37.css":1,"sites\/all\/modules\/contrib\/panels_ajax_tab\/css\/panels_ajax_tab.css":1,"\/\/cdn.jsdelivr.net\/qtip2\/2.2.1\/jquery.qtip.min.css":1,"sites\/all\/modules\/highwire\/highwire\/highwire.style.markup.css":1,"sites\/all\/modules\/contrib\/panels\/plugins\/layouts\/onecol\/onecol.css":1,"sites\/all\/modules\/contrib\/forward\/forward.css":1,"sites\/all\/modules\/highwire\/highwire\/plugins\/content_types\/css\/highwire_share_link.css":1,"sites\/all\/modules\/highwire\/highwire\/plugins\/content_types\/css\/highwire_copy_permalink.css":1,"sites\/all\/modules\/contrib\/ctools\/css\/collapsible-div.css":1,"sites\/all\/modules\/highwire\/highwire\/highwire_theme_tools\/css\/font-hwicons.css":1,"sites\/all\/modules\/highwire\/highwire\/highwire_theme_tools\/css\/font-hwicons-glyphs.css":1,"sites\/all\/modules\/highwire\/highwire\/plugins\/content_types\/css\/highwire_corrections.css":1,"sites\/all\/themes\/shared\/science_jcore\/library\/css\/critical-jcore.css":1,"sites\/all\/themes\/shared\/science_jcore\/library\/css\/drupal-specific.css":1,"sites\/all\/themes\/shared\/science_jcore\/css\/global.css":1,"sites\/all\/themes\/shared\/science_jcore\/css\/temp.css":1,"sites\/all\/themes\/shared\/science_jcore\/system.theme.css":1,"sites\/all\/themes\/shared\/science_jcore\/system.base.css":1,"sites\/all\/themes\/shared\/science_jcore\/system.menus.css":1,"sites\/all\/themes\/shared\/science_jcore\/system.messages.css":1,"sites\/all\/themes\/shared\/science_jcore\/field.css":1,"sites\/all\/themes\/shared\/science_jcore\/date.css":1,"sites\/all\/themes\/shared\/science_jcore\/datepicker.1.7.css":1,"sites\/all\/themes\/shared\/science_jcore\/search_api_page.css":1,"sites\/all\/themes\/shared\/science_jcore\/jquery.ui.theme.min.css":1,"sites\/all\/themes\/shared\/science_jcore\/highwire_lens.css":1,"sites\/all\/themes\/shared\/science_jcore\/highwire_issue_archive.css":1,"sites\/all\/themes\/shared\/science_jcore\/highwire-article-citation-list.css":1,"sites\/all\/themes\/shared\/science_jcore\/highwire_search.css":1,"sites\/all\/themes\/shared\/science_jcore\/highwire_search_results_tool.css":1,"sites\/all\/themes\/shared\/science_jcore\/highwire_user.css":1,"sites\/all\/themes\/shared\/science_jcore\/highwire_folders.css":1,"sites\/all\/modules\/highwire\/highwire\/css\/highwire-forms.css":1},"js":{"sites\/all\/libraries\/enquire.js\/enquire.min.js":1,"sites\/all\/modules\/contrib\/picture\/picturefill2\/picturefill.min.js":1,"sites\/all\/modules\/contrib\/picture\/picture.min.js":1,"https:\/\/api.pre-val.org\/pre-api\/Scripts\/PreProductAPI.js":1,"sites\/all\/modules\/highwire\/highwire\/plugins\/content_types\/js\/highwire_article_preval.js":1,"sites\/all\/modules\/highwire\/highwire\/plugins\/content_types\/js\/highwire_panels_ajax_tab.js":1,"sites\/all\/modules\/highwire\/highwire\/plugins\/highwire_markup_process\/js\/highwire_google_scholar_sprinkle.js":1,"sites\/all\/modules\/highwire\/highwire\/plugins\/highwire_markup_process\/js\/highwire_openurl.js":1,"sites\/all\/modules\/contrib\/jquery_update\/replace\/jquery\/1.8\/jquery.min.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"sites\/all\/modules\/contrib\/jquery_update\/replace\/ui\/ui\/minified\/jquery.ui.core.min.js":1,"sites\/all\/modules\/contrib\/jquery_update\/replace\/ui\/ui\/minified\/jquery.ui.widget.min.js":1,"sites\/all\/modules\/contrib\/jquery_update\/replace\/ui\/ui\/minified\/jquery.ui.button.min.js":1,"sites\/all\/modules\/contrib\/jquery_update\/replace\/ui\/ui\/minified\/jquery.ui.mouse.min.js":1,"sites\/all\/modules\/contrib\/jquery_update\/replace\/ui\/ui\/minified\/jquery.ui.draggable.min.js":1,"sites\/all\/modules\/contrib\/jquery_update\/replace\/ui\/ui\/minified\/jquery.ui.position.min.js":1,"sites\/all\/modules\/contrib\/jquery_update\/replace\/ui\/ui\/minified\/jquery.ui.resizable.min.js":1,"sites\/all\/modules\/contrib\/jquery_update\/replace\/ui\/ui\/minified\/jquery.ui.dialog.min.js":1,"sites\/all\/modules\/contrib\/jquery_update\/replace\/ui\/external\/jquery.cookie.js":1,"sites\/all\/modules\/contrib\/jquery_update\/replace\/misc\/jquery.form.min.js":1,"sites\/all\/modules\/contrib\/jquery_update\/replace\/ui\/ui\/minified\/jquery.ui.tooltip.min.js":1,"misc\/ajax.js":1,"sites\/all\/modules\/contrib\/jquery_update\/js\/jquery_update.js":1,"sites\/all\/modules\/highwire\/highwire\/js\/highwire.equal-heights.js":1,"sites\/all\/modules\/highwire\/highwire\/js\/highwire.panels-ajax-tab.js":1,"sites\/all\/modules\/shared\/jnl_sci_styles\/js\/jnl_sci_script.js":1,"sites\/all\/libraries\/colorbox\/jquery.colorbox-min.js":1,"sites\/all\/modules\/contrib\/colorbox\/js\/colorbox.js":1,"sites\/all\/modules\/contrib\/colorbox\/styles\/default\/colorbox_style.js":1,"sites\/all\/modules\/highwire\/highwire\/highwire_log\/highwire_log.js":1,"sites\/all\/modules\/highwire\/highwire\/highwire_user\/js\/highwire_user_meta.js":1,"sites\/all\/modules\/contrib\/panels\/js\/panels.js":1,"sites\/all\/modules\/contrib\/panels_ajax_tab\/js\/panels_ajax_tab.js":1,"sites\/all\/modules\/shared\/jnl_sci_styles\/js\/jnl_sci_styles_toggleable.js":1,"\/\/cdn.jsdelivr.net\/qtip2\/2.2.1\/jquery.qtip.min.js":1,"sites\/all\/modules\/highwire\/highwire\/plugins\/highwire_markup_process\/js\/highwire_article_reference_popup.js":1,"sites\/all\/modules\/highwire\/highwire\/plugins\/highwire_markup_process\/js\/highwire_at_symbol.js":1,"sites\/all\/modules\/highwire\/highwire\/plugins\/highwire_markup_process\/js\/highwire_article_glossary_popup.js":1,"sites\/all\/themes\/shared\/science_jcore\/library\/js\/swfobject.js":1,"misc\/textarea.js":1,"sites\/all\/modules\/highwire\/highwire\/js\/highwire.article-citation-author-tooltip.js":1,"sites\/all\/modules\/highwire\/highwire\/highwire_folders\/plugins\/content_types\/js\/highwire_save_to_folders.js":1,"misc\/progress.js":1,"sites\/all\/modules\/highwire\/highwire\/highwire_citation\/plugins\/content_types\/js\/highwire_citation_export.js":1,"sites\/all\/modules\/highwire\/highwire\/plugins\/content_types\/js\/minipanel_dialog_link.js":1,"sites\/all\/modules\/highwire\/highwire\/plugins\/content_types\/js\/highwire_share_dialog.js":1,"sites\/all\/modules\/highwire\/highwire\/plugins\/content_types\/js\/clipboard.min.js":1,"sites\/all\/modules\/highwire\/highwire\/plugins\/content_types\/js\/highwire_clipboard.js":1,"sites\/all\/modules\/contrib\/ctools\/js\/collapsible-div.js":1,"sites\/all\/modules\/shared\/jnl_sci_styles\/js\/jnl_sci_social_icons.js":1,"sites\/all\/modules\/contrib\/google_analytics\/googleanalytics.js":1,"sites\/all\/modules\/shared\/jnl_sci_styles\/js\/jnl_sci_user_data.js":1,"sites\/all\/modules\/contrib\/panels_ajax_pane\/panels_ajax_pane.js":1,"sites\/all\/themes\/shared\/science_jcore\/library\/js\/jquery.sticky.js":1,"sites\/all\/themes\/shared\/science_jcore\/library\/js\/jquery.stickyHeader.js":1,"sites\/all\/themes\/shared\/science_jcore\/library\/js\/jquery.switchPng.js":1,"sites\/all\/themes\/shared\/science_jcore\/library\/js\/mediaelement-and-player.min.js":1,"sites\/all\/themes\/shared\/science_jcore\/library\/js\/respondTable.js":1,"sites\/all\/themes\/shared\/science_jcore\/js\/script.js":1,"sites\/all\/modules\/highwire\/highwire\/highwire_responsive\/js\/highwire-mediaqueries.js":1}},"colorbox":{"opacity":"0.85","current":"{current} of {total}","previous":"\u00ab Prev","next":"Next \u00bb","close":"Close","maxWidth":"98%","maxHeight":"98%","fixed":true,"mobiledetect":true,"mobiledevicewidth":"480px"},"highwire":{"nid":"417218","apath":"\/sci\/316\/5825\/709.atom","pisa":"sci;316\/5825\/709","markup":[{"requested":"short","variant":"abstract","view":"abstract","pisa":"sci;316\/5825\/709"},{"requested":"long","variant":"abstract","view":"abstract","pisa":"sci;316\/5825\/709"},{"requested":"precis-abstract","variant":"precis-abstract","view":"precis","pisa":"sci;316\/5825\/709"},{"requested":"precis-abstract","variant":"precis-abstract","view":"precis","pisa":"sci;316\/5825\/709"}],"ac":{"sci;316\/5825\/709":{"access":{"abstract":true,"full":false},"pisa_id":"sci;316\/5825\/709","apath":"","jcode":"sci"}},"modal_window_width":"560","share_modal_width":"560","share_modal_title":"Share this Article","digitalData":"{\u0022page\u0022:{\u0022pageInfo\u0022:{\u0022pageID\u0022:\u002210.1126\\\/science.1136843\u0022,\u0022pageName\u0022:\u0022Recent Climate Observations Compared to Projections\u0022,\u0022destinationURL\u0022:\u0022http:\\\/\\\/science.sciencemag.org\\\/content\\\/316\\\/5825\\\/709\u0022,\u0022author\u0022:\u0022Stefan Rahmstorf,Anny Cazenave,John A. Church,James E. Hansen,Ralph F. Keeling,David E. Parker,Richard C. J. Somerville\u0022,\u0022issueDate\u0022:\u00222007-05-04\u0022},\u0022category\u0022:{\u0022primaryCategory\u0022:\u0022other\u0022},\u0022attributes\u0022:{\u0022Access_type\u0022:\u0022Paywall\u0022,\u0022Access_method\u0022:\u0022Guest\u0022,\u0022Open_access\u0022:\u0022no\u0022,\u0022ISSN_online\u0022:\u00221095-9203\u0022,\u0022ISSN_print\u0022:\u00220036-8075\u0022,\u0022Volume\u0022:\u0022316\u0022,\u0022Issue\u0022:\u00225825\u0022,\u0022Field_code\u0022:\u0022subject=OCEANS;\u0022,\u0022Overline\u0022:\u0022other\u0022,\u0022OAS_subject\u0022:\u0022subject=OCEANS;\u0022},\u0022member\u0022:{\u0022memberID\u0022:\u0022\u0022,\u0022groupName\u0022:\u0022Guest\u0022}}}"},"jcarousel":{"ajaxPath":"\/jcarousel\/ajax\/views"},"panels_ajax_pane":{"new-23":"{\u0022encrypted\u0022:\u0022{\\\u0022encrypted\\\u0022:\\\u0022E8H\\\\\\\/ElHAb0S7USkFrFiL47QqWzLKMRjC8mI5sG8WQSTrWy\\\\\\\/g4gMai5iF9UVZC\\\\\\\/i46PUISe\\\\\\\/ZtrXlD7NUiFklQgkKktMZ6sptzUC3azqJXfrA2EAZlwv\\\\\\\/9vO5zaEF28miuihOZR+OJT0OHvSjQF2zCPdpZEpwq3DmjW4Nc3fkAbH9p8\\\\\\\/PNS484JuX9+T3xUCUTWHq8KXzFpCaBdoYaQY9YFqea+7iEp58VV94HvMzsJssjFLeB4ry0Z6Zfxc2u2XHBbeoiUmqPFg6IkdTJehFtyre2nrLmc8FH6n2J+cXbw9C4UzSG5s04Th4Re23de+WNp+e9YNR+Qp5VvZepUKt40gb1h0p6UZfZLRH6JbOOp+I2WajY2Htdr3MBI42eP4EBwXp2TR7Fzo0TaRTDHNgxsjYs2E9+2obbRPofGtXGIXIvrvQIjMV4pEt6Eu59WIHAOWnTzeuWHXor0KH+\\\\\\\/ifw6VElLacEC5SKEuj+lKKk12WaC3GEyOH6DeDmQL08hgiOTZ1e575yV0HxeP8kZFI0TyBxjT00IL4PUTwbAHmm0d2maeGe\\\\\\\/9D7fM6bQ0zWQHxF2L9l9K\\\\\\\/rbE6wyimGiSPDVxjg2IlH\\\\\\\/EmmIQ6BCIIc9nL\\\\\\\/ZB+4PeOQ7nhwigjatRWy3sW5xOfP0gjyq2aYvPe09XR5OjwHDcrZKQIe4M+cM\\\\\\\/pGo\\\\\\\/kLfhHcHxbR2hTHG\\\\\\\/pC689JsFGjTDTUDnWmRd7lePj3ybz3S34Mm23z04\\\\\\\/6oOkRkgL\\\\\\\/vJI+sPuSxjRR4t6lgnLzle21xJvxe4Lfi8oFegYsiEhomTq9wjm3OttBdIZEaywBpDt0Ls8xdNQC5u4wc\\\\\\\/jTfc7Yn0JJx3L6ZNFkr9\\\\\\\/iTrSFnZ6YBXVjDG99egZPoQGkKi5kVZOAZED4CxQz4Oj8551eEZLqGzpvpwxQEd+nZAF93lW8q18MdyydHY04xNKsIKTQ8hfrovf9fob7emDVycBXtRUCsNXQL8VebEgeh1FsyCdy7R1Y3HZJCz4m145eV5qRMOUFmyaOnkzgLt+1Y13VWfRv\\\\\\\/A8yG1h95k5UFOPivVA3GMl2Cv0ArfrgvDacz7vC8KxRWs1Lesffu+ZHB5Dzd7X73JcxJM969jGzflTqAkc\\\\\\\/PzD091DonhigJ3vUJoW91poSd4jKiMBBrjS6q0cuXF6mXlQRUqtgyqMNxozu9knjlAXXA905uz6HrHQnJY0qVi0Ksu1KS3puenx5CdymEEZgzU8qvXf5TKCUp6yjFYQdgmZiPBjS8s1DuQbtW0VvcmUvR5HGzGXzKpRdKK+SHh2gxhsCYYBWgnMEHmSrNFuQLjQ89FjbqbupP5Oh3FfMOzdvFw17TuMl0zDprFGBjuYLJ5W38ilJLTtbwURMBS5lfkFwzdNMVRWSFfQNNrBJIHE5GIfJj5yZTjOVpGwPEijs0mdQZqxap3xTB\\\\\\\/tdKy+NtirG4s2h\\\\\\\/+7+UgFgvVWKyZWvrXx8C7e6E9wulm0peIwZdohoodkFD2gDsNGHeB0txoLyu6vIZAheDjun1fBXab5tilU\\\\\\\/yQxKEPUWUHnlChrVFJCf4Ut3dhhJ\\\\\\\/NFOo5Du4nvEoesEAXU2XZjsI9flykzbRi9tIqe9VEZlBMZVoeTPVcflmZ9t\\\\\\\/Ced9cw86mauJTBtTXNnU127PSah0GHU60dNlwrD5FC2iq2HJJgBCjUOh6uOOHfY\\\\\\\/SiBL7Vepgm\\\\\\\/hDSo8EPUCC\\\\\\\/CubtMs12RRSAgDpOYUy5Vhcm7IGyaFSsZA9DbOLblwPRVlRMZIXi6c0+0LghRuTNIhOY4RKdqiu0E7cA+jbbFWn3h+D1aPlrtX2XvbAIE6N4ewcK4K7KKFpt2WfWfF5+Zavxrvc3pVY8r01xhWMXJ81KyoeVLl+mrP+kPf9CxCfln\\\\\\\/Kw+GkiSh7bAzhA9Tc\\\\\\\/8vFEsnwD8VNzyIJykjJvy1lhCkrXQ6w7BjSGcZ\\\\\\\/orADfcvug4SJvOGrEsD7TpUz5nL5BzxoSj+w8RFy7e4f4kkANkkW9uiIhIq17hWSjjmbS1V\\\\\\\/FHmLp2E+4Pb1hcwLWJweytUIcPDOdNgBxHyqrl8feBU7t2mhg9KZHSWtRQzxBJcIfV644VTNjPj6XrbjSdmUyWXtMJR1uJ0dF13MvK+pGJAP4lvYC2MxKBqFlayGpwQg0xOMoDqlBeGY8XKapxxGpQmCy5NeJubxVCrPE2G\\\\\\\/EAdUQ1KJPqe35bAF8rLYreWlBSjfypaANeCvBGhwKWPvakwgihBPvslaPl86qqe9UjuH5+EXcjhROxsQlcT4PxCQAJS\\\\\\\/RlomQwsiJM9DmeER6FgZwTyHe0ya4\\\\\\\/FJ4OziCNd8JeB+b7mAZVyZ8g4ugIQXHThPz4dQ2Yja4m6PCOpua4mkuDBCW+dIUMx0as1o3qvgiPBJXdi6Amyx\\\\\\\/a+dLHCT+HYyGe6vsZ4Y6od6uzrBSgrgydU6Fobl7uHOozxM1wtCjkEofAzAK1yAtwOHEbxrneCBiqne\\\\\\\/Pcon4KuM8FRQeLuHXSzr1dZWw0f9TAlJ0j\\\\\\\/gRp4YfhWK58XqvDrC2p10WlE6uO\\\\\\\/Z\\\\\\\/CeQst+POzqvmhc+n1nfJ3pCjjzXfCpvjr4VRTnFewYXC0lzIeAGp3nJPaSwt0mvW4s8\\\\\\\/9tZ3wybwLHON4Z27TQMqFrWd1Xc0QUeuOPMBKLhmx2VjcP6Fc7RbR7qXYZCwAmwMQNzTR9O5yf9ASQ4Ccnofh7nzK0Kq7Ov7fOcCl6kS27E+0rhx9TVawghCOgSe26VJHZcOpqyncaPlFCO4FhLOEJkYj8qYcbRsJ05Wf9OmdCs9\\\\\\\/nkHHOVnvxxCwQGMwP9m70p5x+Yd6YCiPsRPPhNP1NYxF1rDy+XRAnlEI1Xh7HT\\\\\\\/dEUMIBNH89aZNRsd0zkvtR07tJfIUtcFiKWsls7OFsYBbyfpbV8aZ6fWGo29kgs3gT\\\\\\\/kEIVaX6A7Z8RhT+kgelCysxDS4xOy3suZTg6qnDiHGdYvzQg8tm+6BPLIEcniGBYTvlgVZFkLkJP7OYnNoBAXzcnAL6DRA+OMMamzdqpXR1Hpl0y5Dkk2IigJNSWmCT1QSAyC9C7xUkRYrIcE8BiSEERqy0Rpe8+XqYScKXN0p0O7nb8SnEeIGIU\\\\\\\/KacfKyxH6SAzNX4t3OZVea4Uw0XZNmRCpFJAcMYyed17r4OZlLU7DSbH9Sj\\\\\\\/aShiBMw40SI2+KoXUrOsRkB8RWhMEhE3xnd6dTig1eTAOgQDsxgSuPrnTw9jNfVPxBKpoyS\\\\\\\/Cj8uA5WhGoYIIeHJmfwPnfjKhQh3hvfL6n+leaDnHZB7YkKIGa1j9YlH49fr44cj2jA\\\\\\\/YmpHzfi6iXIqHkwl5DiriwcWlNu71sN2VPOWD25\\\\\\\/nkvoQRkN\\\\\\\/UwFi2TvQKzezzKPw6VWPOhxCSKD+3Osz3KNayxIxIFBZlvG3L9CTNwLndh5OxydXiHU22vCKRlQFGHXsdxZ8jZZIb\\\\\\\/Bf2IblyqwQasyh0ma35l2QV3KSIGSq+XqRwnbLxYEuK73NS0r1qhThlUDpdpmsMBA\\\\\\\/V26wNz2n8gMAJVye6h0moxe8hSlbh5JD7yNNWSseTFPnMneioJN2307sKIwzoqjD\\\\\\\/LIY92li+7Fbo2+KJjv8nmc9+QiYiyg7q1dYuuVIaV+A7+N9yizEIEHC2gvqM8voGXbaRMSRzaJ4sKQ7QMW6WwhsjlGqT+8y0Qf39yQdZlj0gXZvohFhxLKpjylK72oWucxjmr7Q\\\\\\\/i23dKS8gkDyE7DO6oaGNxGZC9ILB9vyTCNgRTaPz1mpqBJLTdcmsJzq4Un8axcxPwiEZAnbdpOFD2fvir2hNB+xFli2tCzUYGLNFjq1NMLAVKwd5XsSWn+ne+H1W3qEAV+uX7Xc12vWuffR5IZEfrbkoFGGGLwJlPQfoTqVtMb2pQKaw6qpqV6QzeYoVvAegklY6MXew\\\\\\\/enUAtaHHIf4WoMVF5cg2z091k+VCQTq8uJGB3EDG3BTjZsCfV4H7rHuXeUUvEIumbsHnWO3xXXXSBNMNEXcIuSN1wm0f3JlUmyJQX\\\\\\\/X6QlMLe+nuFCPgPpzsMQ0eXJFcHxQ1wmiWx4JZ8srmBiwL3yE4vP3TgD8s7bGOyMKAvoIowayieHIWSP360OPzezEUyxGhsusCji+I0GmzsId5hXqyU1HqfkXdAV5MIhKBV5eycv4kbE79ZWsBkLAf4eFHsjD0jUGaxuBRZMGU3u32UWa3CaXfoVYyw1Fr+x17AGPVEqbolY6kEJJCYdIO89vOuUJZcEu\\\\\\\/MGFPo5MzxH\\\\\\\/fwezvfOz1Pp5r0XeOMiu9UBPOeS0ZARIcnLIbyfoOW7cYmkdLAbWPHpD7GMJKRL\\\\\\\/si9Wbhj718tWGSMwPY2tf6knCiSVhhKd\\\\\\\/vRQUnPJT2Qc+lDvjkOm24\\\\\\\/UYHgkO9dSAu3dhFCV6mEts\\\\\\\/i2WWUCyFegpVAnqwSR3jL1jIQvE1FROgTUQCHE4e0k13+2Zd52iZUy58mmtvsXvrEcxe1Gn74rq7d+vQhReh1C0GB2BhTlWV422SVCxQ2ZecF\\\\\\\/DvoJrqq4kdgv1wNGoUst1eCu2358\\\\\\\/Z2sLqfK9SlkevQKB7HYLABY8tDZWKVOYDOGMMZ1wc2OkqZunn7A0AmH1fTW8P2CzFaIC58jcuKDwXyI73S4n9qQLj6wxx2ZpR0nP4NplRpjXPMJVnQtEF7Pda\\\\\\\/pcXoUFHOatDF+CUjESqkQ2zyfG2Em5YDerBT40MXvOMv6p5haDz+ln9hopXEDJzLfsgnDgiKxYgBnjbl1VgQdXYdGjdfkIfbPNi\\\\\\\/FO4\\\\\\\/SYLLa6SCZp4ygTQbJpmmuZzSe203Fjh71HQkNwP+6m+23heNydZe2+bHGINEdxf7hPedm8+Jjbu8XOzC6tCBxKPjc8PXcJ6QfmS6b7RXJYbuOle+fVf5RLtTypuiik4ZHGLpDYdSwXwnlTGgzBbkdhQRePHUVgf9XT\\\\\\\/mg++lWjouJswmWP2DaSQkGREzoe+01Lhmcs0VenEX8NupPKhd77PnlfUx36AHl\\\\\\\/RGKQfCBPCUJO1sSdLKEvtIt+xCeXOTGH784bi0XFxpeayRJCp8RAogLwwvXhQQJI4eYcLlgGUEjJcFvCSvQuWyKfo5sCW8LQYhNN4zElnK2pPiAkB90BpS+hj19f8Cf84ZYQSgKH9XJLP6F4pikdT1s4Jsxt\\\\\\\/AA5fQ9hxGUprymO+sBMDugubWhIy88U3dE3liqEigVGLLgVJzxi\\\\\\\/xMYLtsZIo8TKe8Ziv96J3eRve\\\\\\\/bzIw+MKRZIMxux1swRJiuLvln\\\\\\\/GOcUS7Nz2B8C4RTNtOHQYgPGV05PPhfsrpLvTE\\\\\\\/Vjy+WC3Kg\\\\\\\/Au3fiKORu6bDaNbn8qwUK4C\\\\\\\/NKmvGL+aMqnU3WpNyKbiYF4F1gJkeMTijaJhy7N16yQxuzBhnpEe7YhThx2qoS4eac22uI7cTIyhkyCgr45TLGH5TWNd1Wy00ZjC6+t0CoRCg0PdZErcXj+eULPjNMKVn7BZ34HUaWSggl6eVCXaC1erWLjXD++PUKFoN4LR7Ce0Huhbe+i4LumIjK5BkLFSAiHxyRkBVAMAMwDK1pexxLCRMXgz+xFSSRMh1BV3uMPdQx8T1UYZbp5NBuTaxHGGtN65kvuz4nBAw46yB1zamrJVp08BTe1fW6hw9tDrQSjlwDB27c857W4rSz9prflt3F078AalCct1bGX\\\\\\\/\\\\\\\/fPyMo5Cv3zp0ux5NBV721Ld2DPQ5cUyjj+XRkK9mtSUYRbNCXgOhZcjUz+P1D5OYz7tAluEN727jdCrM1CiuE6k2sBB82hOWfZa4k0ib+38yRKW+K3uwa\\\\\\\/QZa6yJKl8zKe7B6SP+vHbj4E78AYtjcDaQeX+VyRaPXp25E9nSRJkbtlf7SWPq7MyiiRef5W2EamGPIeRhWD+7KnJ71F2VRBj+JXly35\\\\\\\/9if0CFsoNeBZTkrnPVj6+s8NWOyz9hCAoaC2LiFzJ+mwhtt7VetijKPf+inhOW18y09Hrl41Yc\\\\\\\/kPOQYW62P+2Rt1omsu7o3AZH68dnFOOB1x\\\\\\\/f9cfOH\\\\\\\/yPadj7aA6hguAdUNL74tRl7gH5aCWxYQZjyyettZp7MqUCGSOT4xuj1VPxmXYVUxjkqBnLCP\\\\\\\/FE2htlZX93CrKgmyw+GaYIqSN+z4+PgJz7VjFe1PpEFjs5JHPAQWzp4iv3kps+8mJgCjB18Ml5LLx4857ncc\\\\\\\/1XWvoaHscyMCx8eynH3y6AVxlXH8X4bABw0\\\\\\\/6VJCQF54RMiKsWCtTcQULekq54dXzelg0iJCS80Eg2bt\\\\\\\/LmrU1RAQup0\\\\\\\/iBIG5iwnIXw5HHfOOvhp9lUXuPoah\\\\\\\/+pRrEdwIN9CZOp0FA\\\\\\\/yHaiPu4kHUW+Cx81pU+lxshaeygomTz8QIO4hPUCkPkBU4LI1XL5N8FlPxbxs1YTkwrSFKQ0jBUbLs2wVpQIo3ltFB4d4SQnjoDQKRnkE9Fqxpht1Gksz\\\\\\\/jNbfd3haJwqBIg9tFUfvPVzfytuvamxcbmEpeQ6xAxgH4KoC1N3KcZK51JuYJJFWghCuoy4ZGDJ0Sq5H6YwnzzCfNXMbsapUiQ9STnSFfD9l7jIhEGPJlbVrGMb\\\\\\\/JIgmsz4qmNoiEMNi+IzJc5W0wHELtYNMs38YGsMGHmxJzjLgu0ul5DpcE\\\\\\\/+zq0xTuf7GZT5xOFbhc6+83VXjxvlwP5XscjtZiHidoaGeL1a0qZmtDXEONlnc5NBBk8NOdY08ejxgjLfhYYJzRDkHfM+LwNTbOEXzDRq7TGSrfOR18fzpTC6z4qG5Da2cjKSuKUZBrt4BNHt6lroI5uxW6IztSLuRkiGTcNRBz3pYEJqTUMzBke1AQvVLO7uiefQmnd73PrHvCUN19jWTQQo6SfrZLAO8wLeOVB8Ki6E0\\\\\\\/xqLVZaRQVDeDtnf3Ei+WkA0H1RKu\\\\\\\/xlYpUfwBi1IjBcxiXrV8KG7sD7E7EGtYmJ6iGkQj\\\\\\\/xs3vlR2tX3Sh\\\\\\\/05ldxx15UKSNXX6xcFZTkVBlFDDHmFQ22uEHpWwrF7bI2i25Ue3wG3LNqDtatXIGSV+pYqq+cp4hDybltL4\\\\\\\/uT+Rp8JMGgl7JK6rIhoA4ywtGsy2l\\\\\\\/wRo3hs3QGBhAc\\\\\\\/qcwlWn2aFHb3ERvn+Ob1NB7nfw1I6NmeYxRVbdp+G\\\\\\\/7hZtrUohjR\\\\\\\/y0nrNm3wiPTyGD0nvtXJL1JezxlHjJkUDAqHQ70YkxCI1liVcSpvwN\\\\\\\/ZKiN+x7R5l2ApnwlOgp7w+QAf9+LZ3WrpEue4os+XtqYq\\\\\\\/rTtqnj1ZBGf+eL71IMbW08VPjl9LSwCfjwJfLGufdWcdtxl1c8PT8TL0GkEvkYt0EaCMQbEPHW254CSFpkGVspQNP5ltsmBQNdXcK7+xmx+5H44I+XOmTErwByypSCcsvaXE6acjz7PkEpikPKUnvjEy0mVprIE1pW04\\\\\\\/lXC\\\\\\\/xiRZBFnbNaDHpIi8nV3v\\\\\\\/FPZ6x\\\\\\\/9WP2Wwpn\\\\\\\/12Szw9NS7g+PfFGkCUB9jiz9zLPRCPMttoo\\\\\\\/s\\\\\\\/x8iJg8wjDsRXgaYXq43A7C+F9i8+6WWbsiEBcrmQucbyAbQ0TnHRwFJEAUYCtegSsiwKuSLmsuLw5jqgKB9O4SfHdmZWy55C2c8QH5Y3SO\\\\\\\/Nluw0G6dY675xGobevkWF8D\\\\\\\/0LF2x0XPBqeoV6uToDzDhXzxWqL\\\\\\\/mIo\\\\\\\/1BM1cA2O0Zzd+\\\\\\\/9qlg6ee5HqHPQc5PZRKwWDFUQLe5iJ3v\\\\\\\/finNFrLmXNQAoiY24X95eygT5e5GnqCNlZhUMPNgQppQqn7Z1vn6UNZc1E0ByQkpEyR4l6+cVtgjAD8Bqk02JkKIhKXHf6rw5qsp9yRnmbfEeb\\\\\\\/tuqatsZsdysVb3sq2PdPIWMa1r7A3ZZUrM4NPED7MLsdJ3r6l3WuToGRiuyFxR+2VAk+LulMfMj0ifaUbdaBOZnuQ4rJccF+vCBKb8IwPGP9P\\\\\\\/0aTDSahuwhPnlW4mQWRIVC1jFeBhFaT+z\\\\\\\/dQNbhYcPba1mpF+EmiKqKrPn2G+EJMxgXel9kdTeFp\\\\\\\/M\\\\\\\/6471UhcjS\\\\\\\/PJre9E0uiDS3j7ZupCfNIk\\\\\\\/5FW0cr0q3GcDUmpSV236hW97zqx+dIQJaQ610Nv2wO3Os7xZlAYPRk4fEPHoCTOGP7KldcaGceEgbTdwPLGR6\\\\\\\/faK8BF2w0iAUOmaPaRX5xl2BMjoOdGgfA4R7Mycp9yUWnY8FfKakL7TJp3mpb\\\\\\\/5SjiHTKur6onhuL5w8QF4O5XBf5R9apw8zo65zZf1JOL4sE\\\\\\\/YqU82VPyf7xfNeayxf3YFSwUaKD1cNLMz1iI0RcJBixyioLH03Yj3MKVZ5DWvre0fK8VMFUimpLaprvzITkdN\\\\\\\/0S9xlmn08zMzrNv2K7jvMC3WyxT697XFO6gDeezW4++z2DgCx\\\\\\\/UraqbVkdaaTt+\\\\\\\/5vwe\\\\\\\/3X8GaONT8WA3ROsidxSnLdhMQs0shrHeSyr1gtW17tuW1yYwl+k6mVMA+kC+NMe8AVVl7sLgtYwzwbwHi7vHqay7qGKKK3AiGtkkhi6fVm7xE6Xoh1Xh1WtM8FiJFxvX48XXskI4ipcqd65fb4D9LSkZJj\\\\\\\/bCMOvL+pcc5Th2AOWpOB\\\\\\\/1wJQ+T5lOHbgv98QFVrQR0KyEtGqlHU13K3uwPfz625oHcOXxupPVmXafSPCt9HXG\\\\\\\/i93QufwGBZEGy7\\\\\\\/eUUDoG7D3bbtDg3pqikZw81kcEhdkkuUpRSZz\\\\\\\/ICxv6N4O9OjajBqMgL3Zh5z8n6S7bbO6VBz7z6tP3fWZeajmF2pq\\\\\\\/881GHhh6clEu4ixI3xK8B3C3dIZh9kZexrWgUmGY1RxYIWBpNCHUBc82Xc7jXHs\\\\\\\/LABP6lmDXWSKi0\\\\\\\/NLNb0lbXD0ymUbbozior\\\\\\\/hPfH1BWJoU2k8kDeOY0H3GnjMcbWu8Rm8OaBjTWxNRHi99GF8pfbSZlvHlxdXUNZvlDpNX3QeSXE\\\\\\\/mLr98TiioTuk073bC1z+DI+72haAlhzhVelbG17UbQxXlVc70Gq2FOlFHhsvem1bN3x6wsrJdig6ZJm4VBaWg2OfP+XStyqmYO3S37K6mQcIZUKMjzlw5OvTzcEAk\\\\\\\/QFtiiQ1YkCQ64HlAVpGy02G5bZy+EeCwseoXJpRi08LUgHDKyZd2nMphaiPhcx5K\\\\\\\/70ljIma7naixszmFYToeMtCpLAqfvB7efZZRZzSzATrVIlhYN4cm7apU9bwxhmJh\\\\\\\/WPemX3cU5ypZtnhl5oA6M\\\\\\\/WXdwLqErkrQIEPU8F18hLe3NkDYyTFDnKHzBQ6cmZ\\\\\\\/+NsntUdP6ssYXeRRhvuNnWNPoAcFM\\\\\\\/iwDmB7NmKgKvbGXT5mYI\\\\\\\/v2IfDs0AnJ8pFpaWj9UdGGjA4YLS2Ow9FyjmP0WBECx74w2ZN2cW8WIYoZAt4gpj0ql3tqr4TCyT8UGzx1MqHY4wQORsR4uloYhGYH\\\\\\\/75V7Se5jX2wkR2JuBtv0Xhy\\\\\\\/M\\\\\\\/M+OQnq3EPiSdYZOOa2\\\\\\\/rdOieBerJjW3j4Lpy7XjSm\\\\\\\/mJ0thXBpyTZylYc2JU4gztzz41QEWNPJACjZJRhpWuZP5TeUWfG+dAb8LnmLy3Onq\\\\\\\/2p2d3J5KHyYn2uS+EoJ19qylfVHK1YhZ6hgiMrh8EC4cIl9jvnRreD2zgEL3HrMYVMuNXIrp1wdXYWwV1ooUtwtPVcXmPjABoq5wpG43IieO18AkGBlVhNQ8UTb0ovM+SvCKh6rtyP3Il9lRBWaWbIgauIj3gkPNHblnoTTGn9ziYfO86ZHBoB5uCS5HDsk\\\\\\\/s8T\\\\\\\/vsTMWauXfPf4a+XGxuD4fnwmjbPYOVlZLDHkQcQjto9V4gOxJz4lBVZdi5Bf7u+EersSObJTLKBEEXExZCOtBPxlOy\\\\\\\/bk0NMQZtE+KeVIsEoxSWfTj5WKr2VDJ3mS71OB6m9AtU4F0eXwP\\\\\\\/b8IaMAhMGKfJLEJ4IZoXG22QpS4lsezM8SUT6mKK77nTX6TKuFHpv1YIpb11IH1lW2JZ1cGn4+fC1ckjY5k5W0OdUfAOJTF9uceVLpZzdr8SZ97SHcKe35wuMj\\\\\\\/d7gZdBSM7lMaXogtS4b7a7JZoui+bGiiRUqsZp\\\\\\\/R93tIylrsfgQTincDtPlf6AhOVUWkMvkWuHCmcf6Y11UxiNbJy7dOafY\\\\\\\/Xi+VEIu5nVueMdjM5Xn9waQoYvflp6zyY3bwIItdi7zQ12gBqbC69EtWRNpcbecypKWUCeQ1T0BjXmE+AO8QhGtJs716TAcTfLTNFjcDL8cI8NpiRviWvqDE4rmLA+wXibcYHGX\\\\\\\/GyxilhpNTG\\\\\\\/DwzSvUJnPbfDmXaA0g8bL63QfcobHpGeWYS0VrAlWtiUBcWast38hIhSk6VDul+3vgZ3Dt0DSmu6PviFJD4+bkox8TJJY9\\\\\\\/GruTjO7lNRL2wz9szNVwrs2dZy0gcLH8d4MDdPfjZ+jqUYvMD9GYc3SWom0B7NTw369y6MbwYqbgimZBWC+wjTWFpZESq2Kju5QsCJdHdR+5ta9i5iEs0zVM5omnlTJqlhGXOg3GEvFpTwU4XjqK1Q2k3uQDjRVxUJ7jO9R5dI2iGtz1kc4Nh9wy8c5RNbVpTJf+CiLyS50tIXh7888WLlHdKqdxqXqBtteP4faHi260XjDjD\\\\\\\/En96Ysa0QhLCZskfRe9vnlA0h4dixb3IcmC0qs\\\\\\\/BQc+oXM+bGkdDeEAxJ8kCHhK+wmAhgHLg8Mz4W27IrZACziCwhCexra+HNVYUwqYnRsuMxcSrqbgCd20s8pDBjMWiyNbKHUfBLjy7X3redl3XX4InH+cGIS0GrS4H\\\\\\\/fLpmo6R7kbnNMjy69S\\\\\\\/O55P6L8T6H2OAY7FbHsfa463cW3ON52sR13szcFQ3lhYAhMXeB6SHOp\\\\\\\/oepix8ZPoSvXX\\\\\\\/r823uiYPNh7SUL3TqO4nfVc99cb1KJBqCEhCj56daBFkgsvi0BH8z9yEElxiowLS3Vg2vLJZ7AA3gbqHmbz1wbTR25iwMXnaAZAkn7oSIGa7p7VmmPNyxINSpMdeGzUUT\\\\\\\/PXMus7xMEMj1P51GJutWXhcv+SuRO80Hg3wo45SUp0\\\\\\\/UxDOZeeTA2WID3\\\\\\\/ZOu7l6lwWmhcasnRQrk5yKPlWGIGQxuc\\\\\\\/0cVOCcaxMpP4eCFtle\\\\\\\/Pkrz3sOkLmV54NmDPDXiRow7ztPxpsCbpnD\\\\\\\/lIzkWbIPqzZqH8ITj3ljmvm9ieb\\\\\\\/EpdwyE9wD8vrpXIJHi71mLmi1Fz0h+PBq8gL93b3NXPkzAzlMcRR9Xka1V+yr8RabvltROL593fJ1dnwPSyD7C9y+TqME5aY5zitb9y8yahSixnZPiE30V0MVGHxYrK+pKWtRazjVCFlEtd81jTmgRrQdKFyraj\\\\\\\/8yhgiq2sqtXEvRgD17gYMTSwEftJYiftP9StCpcuffrU1bv7E\\\\\\\/TYTULk4h0RwjtABgSHKVJTpY1qRGFy2MOOfZeGSx61UTU6vXCfyWfo+jlEbe7cpMkRU70Xjdgcz2PqOKSJ45V6n2qRZPLnXO9LLBgyXFlfK66t4TVj9+dlnCUwRAkLpT1+LKoPQtM5jWLyCicLuSc87\\\\\\\/6gYffYkGtjDJrdT68knp3BLcQ7vXj6Je+SGsSlCYlb+ZnBzYGkSU5I2QdSITKwWbK+eyJXU3HKzvrV1O0gt3W9yDKZICYjx2onUcwwbGj9CoglxkBY9kmLqL3mTvWHcaf+wbqkCed7F4uY0mxoRySaX+S9sona71UsxntmmTzhhmhk9hqZO4e5B+mVvX6UIy2oYEmEwgMZ68\\\\\\\/+3Cow0Pg3+q5DLVOy5WNK7AjSqUn8H4IiEeE\\\\\\\/hZgXris0TcHEEBLFktt\\\\\\\/nt9U7nQVhZ7YeI4O1xV5dsCqoTgg8gewDZaqOe5BYIjMOC8azYZWJSXRPWLblEz5L+SR7WbUng4lB+71FOPAtqXKAdhCTFzkwALLD6mSajJZVBDngCzzp4RkE\\\\\\\/HHKYibpgbqiV8lzUBCs7TfPiK4ITcXsrTR9FiVMoRxjKosw6YygRRTK63JrqtvZxdebiWgOlbrL5uhoUgF2LWLNnRrGFF30I+3kJWezO7JKEMEY3b+BXxNxE7S8zHn2RJkyroVp\\\\\\\/EEFlGcrqVRA7C3uI1ascZUDQjai+twvcdsVWu6eawNouGegTf9dH5Q8MwtUGBKqVZnF4O7owH6qF726XFuDrj7ViJSiOZtEIF6+ToyuFZuPweEbBGpGtkhtRSP\\\\\\\/kJN\\\\\\\/gzbUOVUimMFJbOV1O4ffcsqarPh7xK77ATBniuE4XKgI1bies39R08Zufzwbl9lEBudLZZBdf3oktD24Q6ddkVvRDiuuUFJ8JxCBikp5S\\\\\\\/gY7L6d1JQJP3+7TfGEWqSZFMweN4iwH401Ao9Xt\\\\\\\/5HveZq5CAmwwpNghDXjzogQVdtB3ZNPHRLzd8ZwmrB6rf6occg7QR9iqD0+gEOWJuxE4XwBkuWnUrQhs0oF27kXcbDxg4ouB3Fal92zbWNl7V5aYE++uoZgCVDUi4zEvtp08o\\\\\\\/97tZkY52gAH7QwDWzgXTcGFrjMs4MYOuecSP5oiGwE\\\\\\\/lg6BKzkZ5mAOqRxtTe5JOo5GN2yQJC4STvLYVMHwSZlG9ivYlDoQZnUY2U\\\\\\\/jE95\\\\\\\/nr1T50+UyFFqResS281slftdgSLrRJYvAuO5bHPORWu7uOHeav1cpzyBH9f5GBGiOtd\\\\\\\/OmwlX07zak0lPRB1ZG6IQeck2E6jHhyI20nsmw0omNio4uO+Kj5b2QciXR3gSSZNkycLILKdCPEv2JABd0qburSeYJ5UG5ZgB2jsXTZ3WpRZwMyxQPoazbY9u3IBQSXfXWfECcjNaWfYaDr3h5Ldx7Ltwh+UAdmcEzYlvpkJrl5vOohs3O4c6qH4BDYPblqVCBUXzYi7xrL3YG88YuILcVVhVh9arkO72jeWOLb8uXMp+U9iXQ6HmmhOQqcin9fj+3MplzJ96NzybN5sx4OMK+FxMDY8DNmf7Tj0Tzqev+xnzr0VOBVt0T+4kvt7AojRwUgmoaApmMDYNMrAeAZtl+zkf+IEb5fKik88rESN6ziOSLG8kXBxNskMJ6AplL1DB8vJ0S\\\\\\\/T8pn6GiHnTs7q4NvguEzykpfmeBLMXN4vseHhpDyxBfshecGmnTcLaVLzIsG5DEJBMlm9HO2GthvbrWt49f8WeFrrq2Tf73HUMT9cetHyQP+MLoz2vvXW7G1TQnRBSptPP0pyHk5QA3dvh8Vl1qK7V59qGbOAQKESaPMiqnWVPVxLbYsPkkCHZ76EMqqacyPzopIV1nJW2rHNSYIcDsss2L7Wk3YsNUACwyQAubEVEav1AytjvnFWCwv5qiK3hi44SM5bWrP1FyJEFS8xuelmKjhLVZ1TR7Xyp6trOX0f4j+rtPwviEG9B8HjUXfgSjzXofvcy42gl30xHMtlTlrrSgwnwavkUk5LA9EtNFeCYGiNsYWuO729rMhsOsuJEPjO82G9MMIXL16cz7\\\\\\\/4DssMv6UduMLVxeF6+g7JGWwM4jRANTXF1rq6fEvQM58ezcqfNQ5uDe9OTfidoHkxjy8Ivgjmb9OQpthfHbN8arCKd5HEBHjH0aDVamhuribPBQmQ6onTzSKezogTqB3\\\\\\\/H4jzbNG0bSZQWj5SIOQMTo+aFgpKvtsYmkKpqrr9U7fBJpPXaNoagtk8oKVR4mMFVgF2WGVRuPgXe65YPDV1Jd6fYlj\\\\\\\/C9pZCnZ\\\\\\\/Ow9\\\\\\\/veRpvZB+taCpCCW56YLVzgyxVDI3EACQ6SVa3uLbWfne5ONXGxZM1583W+YABfPN1Kg8dphekOmDQYnzHSjZjVgCL91gnGWp119xA\\\\\\\/ePEPCn2g1jz7w5DJ5K2La1tzgrrWAPcRAglOK1RnMD8Dg0xj4HGWQKZbeOFZlPDJ5JGd2H0nnxq2qI\\\\\\\/SDPTlIedSmMbkfZNf1itVVffPskrHOgrvUyUqfupIgsUKutwS\\\\\\\/oKfHsxN6U8OnJqBcnuPIxBOd0IQHpSdoeDtymB7DOmSVANNe2vPi7MxkZgOQu664UnK8dtrfmwf++fkT38HiLsHrKt\\\\\\\/m9PAdLQq5KuTwlwX4WM9oOaRHCERRW3wLZfmgW2tv0gywque9unzVH\\\\\\\/yr6ApdvCjaofJB2AdiRDmhGv3sgHIvVR\\\\\\\/tZsnYIwx9ofogJcOnNoiUVzVigCOrYW5F7lR+Xyi4N1ieV9su2j2SxoZaMjLWo95N5V\\\\\\\/hdMim7\\\\\\\/IJDiWMjdLLwpd42C8uwTRqWyvV\\\\\\\/vf1RGqONd3JYtncNllMPLi806ylfmo2EpSlITjiWT3Ie2Q2EYfRXNm8ZoZjk1Rl4oKjJNsAGShYS2gh2ZzUsgZBNzp733Vyl1OFH3qSVX7d7kWhy\\\\\\\/7Vt1BXxJb6l3aKBoqrLQNksNqKBLi03l9av8xRVgUVHt+BgOnvlNJZIGZD3pNudq9RRyAGfwB+oRVO59vYhauMceWFrxUn61O2\\\\\\\/F\\\\\\\/iebzsWrA1kPE1hFCXwIFkhUdAQw72sozxnyeYa0ixJ2y3qgQrMdUhgfdI5A5V85mLWlbStiEubrV+XsHUhcqGGBx8oCibs+ZwrGH9gF1ICffZ25xee6v7r6u\\\\\\\/EcN817h4J8UeuuZIaVhwi62KJJNoIu94ranYA2TENdX9fq88gQ6s1GYIe5OwGmpZXCJMgaK84ltxaTdYDp7vOfic5npbj2jHp4FfkHTI3YzfRVfJ8x+HxU51cMLk+\\\\\\\/+S8Ojoy2YcrLbTTO1r\\\\\\\/6gLlaLbDPioagrfg5flKe+lhTCOVd0k0lxcTW0rnWQh65DoEqLPumI3pu9HR4UhDWdDeqaSeXr6NZbbQFNJJPohW1SvJyaVxmVV8wfEANXaSiQxcxSRsiEsvLkxFFcnipI0dZcp5MCnDb32twGfV0Sl\\\\\\\/iKtP6TIpX2xFrs0WlXPCdaL2F0vQ3Fr6KhKlt\\\\\\\/4eHxiByGadnUlRPxhJUmKR1Hsgfb5Ep7Bjoo6UHtb0VmAe+ythJyfck7ucoU\\\\\\\/7SjjctLre0PP7IapJ4PTAz5E1q65kOZWODkFt1z+pi+L4LLLrb6h+cC0\\\\\\\/3t1QjeurUrGea+gJY24xt8luEtJqAKVnuJoaoBLkb0Tqcwb2p6FUaeuolH4Lpyc8g+\\\\\\\/hXm2V4St8GGQfxK0fbDjclE63PJzI1AELRCsGOV+\\\\\\\/SssxG2b1lG4TSUZ05JHsxmnj+VuxUpU5++HO7IM+VHZrKwIUT51HyKjlEb2PD5UU0cEl3lkztVVmVOUUQNhW9xLj1ra5RqRgMTG4K08gU11vKSZk6F3XhHNSdm\\\\\\\/GQZyoJqrDOihVSwovrAy6yQpKQ40vbtVLoRd4c\\\\\\\/Mb7za54mtftO6Kg5azdMr5JyQLqbRavI2RfqOBbYWE+hdwGCwqyxQIfCYNR0UbQrBOb+ykH\\\\\\\/T67tmIbSWAhn6oNVOJkQBdDybE3uPEYZ2lYtK9q7sCPXd0pIb2dUWBmMRkNgfdFws6TtrkeUs2UPNiOKG7ZKmEaXjbtXYvVgC2Rpqj7\\\\\\\/hBEOFsHulBfXc7F1fghd3K24g4oHbOwoumvk86AxXghuoKCUE5RLjmpik8dcK6IKLUjCb4SC8Y4PrJxrE8c\\\\\\\/XbR+p1EJAQwR0X7QfQyupHUZIobLlDVaSZWMvPAos3+DwbelKUIEaJJ9AdZh045uQVZsvekzwncI\\\\\\\/zhefpUnJ1ZjMzaq\\\\\\\/q5exIer4AH6qEbJefL+CKXEkpW0XO2u8\\\\\\\/k2z5TM1YOmtOdJ0kSfU7Cts3tHU+kijR\\\\\\\/CvL2BQCNbRHP3tXqC+ynq0WjfC++s4YXPApY6RJEyxuAVG5KN1+pSsalBFYtvXlWSJlrXktQgDeo2MzBpDWhFv58H781400nfBF5RF+0HH4SE6EBm\\\\\\\/YxZbzK+eW0+cOBnUsrAHbg+8pFm8u75Ts877ti1GpTvlV6GIYscbw0JCW2OhlFaVeoBoCJ0KGiupn3dt3SsxmPGnns2PFudC2CI7eCO\\\\\\\/0odiogf5bMjGpWRpj71thx9e1ccsNmM5WyiXZJyUIzfgWg3kx0qWLZZtmAODZ208g7c4SzKnFqGZYnQPOVGtbi9H85Oi31tyY8BoSv04gQSwnOYujA4e303f5Ui\\\\\\\/OsA7Z1ESQ\\\\\\\/3Zgi\\\\\\\/NEd4iew5ANeHjb9zekrA50HSTjDRtPiLW2GlveQzkVp0G2g2s6ZVckCU7SDXaT9AF9cgGvj1ee35fSzAFtwnz98kl4ZdJAnb8ZAj2GepD\\\\\\\/miNotgeodz3gRcZOGIkY\\\\\\\/uogG1gtMG88tt9U7M0mfrTcSAkip857scAkx0x3e0gMcPwrZ1mn\\\\\\\/JvfiTXyuId9zR2DeJlSWtO0gQXTgZlG0+i7FgU5zSllzD5bW0gftu47kbgIea\\\\\\\/9VsoBBYrA+aReIGOqJLn3xYaoUbgxVgSByLL74CafnJn12HklaGfkW0uD2zUK7FNu1YHBIKaPaI4Tla\\\\\\\/j9xqKkKKENqqRDBOl2K7fHe9YGFmF5srTGQt8pXX\\\\\\\/JvMR6BLgyl2Mw8cqR5Z9+KtHLLJlbUjtDWG\\\\\\\/8Gjsfds4eC\\\\\\\/2WsxTzfYMFZTnZH7FcO9KEfME2QobVTp3Q1ZUoyBp\\\\\\\/HpRhi6FHNgDcFzsHYSI7TLAqwWLPo+\\\\\\\/Nm5rzis6fuM5Af5XPSDw96mK5bAep8ROsJBkBRVKa++3qWkP1TtKXOKaIVEzEp53mewgQ1JJMR8VZhDiaz8xnBEQzcCtHiWTd4Gw5M0V3rvkJ2X24J5Khphs5Q5Dq08CdI6PQqHY\\\\\\\/ZVnZlW7VLJ09b3fV6dsC4K8QCf5eHZc8G1nWDdwFYyg9MWbGMAIMKjehBZNtQPvRGJS9XycsfvZ11lmqQx84mfyGKG1hP61KFpXMijD1iBSCAr00qsH7AN0UebWYIKRBUZhMm2LzUcavE0T+yDyDVis3ZLj7wC7EhNqWcevBD+ckD07KHS1AVqYYychJHYAgVgNwMV3KFUgCBsZ2mhH40XaBVr62MifhXC7QYONU+x8\\\\\\\/DRn77BrhCRsChrupRaqlXxT5N9d1Gb4WdwxIzp04fIOgrT46H\\\\\\\/tZFAkXRpZOn\\\\\\\/PNZpkwbSaB\\\\\\\/+Lwu1JBfpboLstnnpnYX6ig+VVN8u2Gf1BVApLlV2hGVYDPOy\\\\\\\/xYmDc1BK7OHUnXn3Y45R4F2lu\\\\\\\/87ACWtpnmj5xy54TIvKgZkqx598b3skKhKoD0XXgzsKHIX8SDjP\\\\\\\/MQWfchoEzVUUAS\\\\\\\/8vAqfd+rWK4YloUgEzKVT2\\\\\\\/5o\\\\\\\/McqGBUrwCDtpqTsV3UTjuWylDhhqkt8QTmVUj2EhkLzeHU\\\\\\\/R5rsvb16Ovx5ovDTmK3G0vMJpuvNdQD+PRvJ\\\\\\\/mSPZXj3ptKHv1Oz6NFfJbC79O1zJKlLJL+C3tHy411vACC6ftPgEax7wh9EIXezcAaPTBYq0163XWFSBehk713kv2Sd+gNV7CDKwuZynUB4qlCSv+\\\\\\\/2RzdZoWCJrWdlgAxL1Sn4vHbwYnSEGKpQEDIRNiiPwR94Z725IwXEKl8sIF2GUoa95CmT2rTquQmEklR26fefGHOESY+eZzyAB42Sy2by8E37x1\\\\\\\/BiIS3n4xqyL2KhqVDvOiQmICWa5hRaSoam\\\\\\\/S8GehSXTvhdek9hzXTKSsgJ6GWcyLgwgrskMLhRavIuR7nlgfahGhfewnvre0PnZztp\\\\\\\/BKGslCvpT+OhodsWm7xr3j5O1p1\\\\\\\/Nr1Qi5eUCLAyGkMayiQC19xcmgynoqwosO6T4G3AgQUp127GkJizGWMuxsMgRF02QabgAVNy9MM5f\\\\\\\/AJvI36yNuQma0JXB\\\\\\\/lBQCe4ow53HFS0onvDCBi1XgclyIuRQj5ilbRdk1PGULfbuIzwccpnzzgU7AgVtRhMx01la+OplC40zOMgr\\\\\\\/O2nUQ9hfFl4bA6sTJ7ozPDkaTULbwgznn27bRj\\\\\\\/s8KRhv4h2CUDpzENGx2xZ3PqLknlBaaUfBXqPKPyv7yAY8vPh8qWWJewPIYgEorL0cV88p51uXCcvlNrBqqcwQdHgEoMAjNmvQJtDEHfYWB1v\\\\\\\/8bos5PuomMsQi+Rwpj7en+tER6kYhp7FXYCioetw35pcfvRQ9zgiWtCJUMzv7ClBdvT31dHcoOC\\\\\\\/fn\\\\\\\/F4BsPs4ZqPLG4MtSKs+pcOcwkdzhyczR+xQh3oQ6wGV4anBZRKBYhol3p5Hk\\\\\\\/oknKUKxpUXl4X+kTBfoJ8pPux4GYcmPtbxdKkZ+X4qYXXZRCSVatFRPFJTFbCrge+\\\\\\\/rL3UpeTi2vmGSoFkuz0WzRxEsWa8+GGaSRC4CaqX9Wxo5IPSZeFojngepLagoHpIfGbiumf8HygjsIFCXTqCQrHK+aGK3T24l6iIp8G\\\\\\\/sEHXhGS6YuNn4+L3C\\\\\\\/Jg9M7FUPTkTLqszIjncyYFZlmcNRhBbrXROOp7gEsldUnJ7EXlclCzGCJn9BLRMVAZ6EeeMqDVmGIOTcLJmsrElzqyNi9a1K27s\\\\\\\/zRBmXMJJVQ0R8XZ+jPgiAEs6SHYzVl05l1KG3WVNdG0b853PPJSWyZfGvbh29K5VDyvKm+bKJlCHtVM+eYTQXJPSVoPsImDnMTq7wjfhfdUVtXHOgrXcm3cOdQEuBKLrstEE7FFpGCg1OX+8aWPpoW8vR5nSD9cVxTNdYc2weuQq9bpz1TJlPLnWix+7vfkZ5v6urP8Z0WA1Wige5rzKMivPbb5fu1mL9nCVi8YhwH1thQvjiCjquiFcgLgNqZTYGDDB4xMefDaHrGH5FF+sFGPkWrdNFzsn3QgrKNOj0H3kprrOi7O6cHjBTtbI9KISXPUHJ69BdHsNVtATckK3P208PJneUvgpsw9YjBZr7gmfOCjJbr1Vib8zI3LeZ9dmC40lfdlqhs1jhiXOGE+QTMkaSwOmodU5UJS2dNWdisUVedbvU5OSnLX\\\\\\\/2qKC0BVIDAVxFqxmtnQm1wQkSEVk4ksOYLwqZ0opm7nWdjyQWAh3MWSuQvtsssXKdwETjvFL6MvjHhjDPtzPxoOTkYnz+pLm\\\\\\\/uhHKXgFNwPsdRpKxOyiPdyqcRt1tegdMzHRiI2pDPVvSBzx\\\\\\\/ahf8iiZLw9QUsU7B2BTnObuANsnS23yqaoKyaPGfIiVrEwrSDVq1uuhgcC17ExeoSJ18wIQE6BW5b3S45RvLuLcBn0hJ3TXjbIzPKFsTy6MLnDmgWd0o2TpRnP5B\\\\\\\/yAPfpiNOYDVP\\\\\\\/o57usl9JF8Fd0ZedQwdUYAritAcTTr5yoQavhgA\\\\\\\/M0xumyjbR8FQVPOZ9WWJUpnL1v\\\\\\\/2BQp4PzDmOQwWv38wTqFhV9PdXJ\\\\\\\/1Prv5rBBdUPw+YCzTE\\\\\\\/nINKgX3WeMmWo6mlIWdUjIkNX4kQouJ0F2vVVrGC8ViNVd5IxFvNqDTzbbUwxfgEFPb1AE0aleWl100FVfCyxI4tcn6d2mB6qCvt6JrU3QogCzga7Clt0LJWrTNQTArjcyesAa4fHtKMKkLK7PST5JhaNAA22MDZlt7yPZa0lHL4ydFOzUQssCpMidAh9XWnzPFGLAaZKIRoxOJHG\\\\\\\/bYaFj1TcF\\\\\\\/wMzFNwu2mU6OT8blJai0cQBjg3eE+LJa7EbCuqzqz8A\\\\\\\/mJhbAaOJPTAArAg01Z\\\\\\\/qcymlQFkmGcron5td5UqOFdWGdbCkXTuyOXOVG6BI0HpFtTiGcNsciJEKHqYGiug2M8JGOYWdnhVYdXxOWlD8\\\\\\\/O71NQzf9MgTBcW854Bpu\\\\\\\/Kn70pTk5qyS6fCyhwKW\\\\\\\/d0w5FOKvb5b02gNBozi++Z\\\\\\\/zbt21lroG8CZgfeVLvkaOnJcsm3SlJBYY2CqnOD62cSCPi4pi1OZ8\\\\\\\/qJtjhZCphtxNTRun2D5ZypKaR0HchyHv5J2j+1Ek4LyR0acVrGhJ4z9OiD90Xp1Ngwl8rLT0Hha3nqZZ+0KmBewpfYpFGO9casj+VgmcOeL9QVAsWobiqZK4iSM8ttC85Hvt2TPxDt9qlaEqUCuqAeG0LueDlA2R+QLDEY2SIQXPmDAbOJY61tulIdzXn8aclPCHrJOwji5OdZtSsu3NTPLL2QWRrM4+B4g9BbtyXL27eMD6jeERRhTnS\\\\\\\/SIGUxT3Mt\\\\\\\/Do5H34g9ts3IqASeDNw\\\\\\\/Mvv1lnlIoEFjryE9tIiHMFivmuYyyJn\\\\\\\/v0n2hZbBye+zXqzMztNl9n6U27MeYhjCX0T7j7cf\\\\\\\/Db0i6o5Rp35ZDihnM\\\\\\\/gTRJC5PO7vtSZOE8v2QDTbSWq\\\\\\\/7kyRQMK5v3mXvdCAOKBqoBvpdLHxZmmXZ2RB3QHaa7xN1VB6waHneEv79HvtWWP312IQ6OlRXRUVjHJda6uPVBV27D5S7j2g55oooZLw\\\\\\\/Sa+9s9WOm6iSAEG38diTZXpx3i5qlIovtMOwCHA9q9ST5pUsUB3cJyGbVMo5LelorB3ISVO4\\\\\\\/cAggYIglxOgN5jEesbvqybJfGiU7Msdgaa9Btxb8y9+3A+ba2fQLb6KpmemDmXN\\\\\\\/ySa3aKsjz2vTIn8eLLydLwj\\\\\\\/z5Kqzm40M1fCx8gStA+dRKSb6iJm5bk8qzO81WOstG5bt0drb9D2Go\\\\\\\/ehMRlKmczMZu4CR9QbZTCfX4H1kgT8Iwxm5Fi9UsAOda1Gv1sDc4fJkVQju2U4uW8Quzz72ROIik6V+CMJeg4FI00IID+TFdzNVZzgI2+sXkiituKznZ9KePJXUitqaOflWq8MgrugLGOeHcazZzXDh8vpNhs1y09kp6IedbAP71dhb6yEQ1Nz9tPd1F8Ha07OPfVuUNoY\\\\\\\/oO6hwyRih0oF1I3eUezteNd\\\\\\\/V3yHPfITA0DWRGv90FfvBkWDDg1TRpeSJF+wCy3\\\\\\\/Co5K52cMkvMJs8rxCMnO2v7bSZX1P+HtYcSVl1NK2KaZ50yJQpADYDJsLT\\\\\\\/2RlTu0bF4DEtPHwVXq4nNXl3c+e+RseBiwDHyFUTGjutOT9gp6lczkw4d+kiFTIogpAZISwRmebV8ToGPr4AdYbO+bxmiuPxRLB1tlBjxc2kvx2QfLPaM9bC6DA72hP1PNRXdChSH3\\\\\\\/gEKWteI6qtJNNo\\\\\\\/+A4QhpqocOuzdAuePNcELobz7vRr6qneaZz8bj2JxxVBCLomX31Sy\\\\\\\/0OcZWFwtidKW3YTNFjM+ATBqouooRJobJlPB99aPwnylQSDCFKAxWmt5LvP7VFlhCpcG9JVZXY5wXRuLA9wJQjs\\\\\\\/+RnB8ao6k2gov3+jMFwLWe8dp0yha9bs6O6ebIoslWRwiEJp1ad9c3jmNjdFNgIYooMm2KLn8Vy\\\\\\\/7c1q6BSQgMRjlEKWTStBadqvIyaZ8PZciY\\\\\\\/OMjMSy++i7fXXB1rvgfNyM\\\\\\\/CXctHXtApcyQBE0DgFrErj26lNjyYqRxw9usqda1\\\\\\\/eYAiEHa59fdBMAdSnuKzQ1nEWD295jlHBMsI3\\\\\\\/v3uzxSjh0\\\\\\\/dqRohuUMsrXbMRFMSsaL7tFrCn\\\\\\\/N10CqvfwvRP67VOxzwLbav2VtBEKvnlvhtsxIvLJCT7ZWvO8pMIzKt+aSkEBwlsP6YCZF8dG4kZo2grpEFmUv3qgePY9KQPS\\\\\\\/xZqkp23TLhsxfkdQhX+Eh2TG90KtNrUoRyjvtI\\\\\\\/0UbxU4wyLrrgwMs20f96cIOfTc3sGkuHPamZxTpUsEGOAopqYVQ8LZ1bIMB3rx7pVjtgNpBUzwVZ+5L4L3\\\\\\\/ffB42XGojTnkksVVh4BallTDuTROnJRPEwL9ZzIPhmmdKH5y1AudXZ4HRIonf3V0CYHyNYMKkD5uadU0oqFkohFKWQUBShQUq\\\\\\\/1hf+nASoHdWXNi96SG2+pZXy6wyZI2JeoDlzqONpLd8vroL9rc1u3K+ryuKRQ0Nd72R4Sz27x\\\\\\\/ucv1MydWRRMAaI+bAZGHNfv01Pt8kly0u\\\\\\\/8qHNccqHBCYOYlXrdeSMcF\\\\\\\/sCY2syhWHsLDRrMqfE7GvaqUo62FJks+\\\\\\\/LJ3MvLVv\\\\\\\/qHbityMeP9JGAPo7BFF1jf4mUUBucDWni5yBHRK16pzNmsQsJ6T3zS1v3x9sptGGtO+Q\\\\\\\/SSyfF\\\\\\\/G6+HyHzlrjSlhB6I+cBVZpU572UfgdlLhH2JxQ\\\\\\\/HdBKgSSjyq\\\\\\\/gG6Oyb+yMzW5+fueuUnkQ2qPru+NgJ5QbwTBoKLgIAsNeP921NCds8vajec4dm1kk9hauBBJJ9SQgnYF3OcgCQgyS+zghWiUjGCxpeLgc7B70l9\\\\\\\/SkGONM7bR0Imjws70wcD6FqFQjvdT7+O5h4izlhW8Ce3c954jdtjNolTjDj6K3XR1umoD7+DkI4xmxX+qm7t86+nziWJlQXTvQZ1i68irlUpDa\\\\\\\/fXcgneMqzRP6lPvf9DYuYdnjn4\\\\\\\/peETV9PJ1Gxoz21OvZSPbxVOt9byJ+yNyIndY5PNWoa88zlm2gIeD\\\\\\\/18K2ohkSfdCBaMPPPa\\\\\\\/1tuOHWw+WuqkUp9BLsKTlZNDn48H7ova0K\\\\\\\/h4QvYCkYRZpMnA1e97nmu0pjn2ktNIWn8TPwyRkv\\\\\\\/crHVybRcMvBQUvRBwiTrL0GkQLUKVQrm\\\\\\\/NwRnEXGUdsRhMTl1jZb50w77rrGVqF1dB1S6+4OvB8lEkbK7zZFHOGUe4TV8ir8tNqp0LT\\\\\\\/6StuWM7077mP3dSDEM0rT5lC8lI96uBiMoIEj6loOIzl+PYWRet\\\\\\\/hSJHh1CGKr2skKVyVJqAvZ8Q1ZjWuaD9kWjSB62JAyuh5FJk9N+WsgMLcKr3o7x3ujLO0zWwO6alA9toft9eiNBkgx1SMk7JwwKjAlxaKWOD10m6sfktaUBouP1bJpezjOqZn\\\\\\\/wcJgV47r78HkUUJiGNPy0IXWPG2mie32JZMmbdpk2orP839adAWPQ9Q6FJWtgxcShZXDG2rDzstlsU4Kw9ku8U15biMTPGoVgxtHQf\\\\\\\/NCNEaozmeXq4z4w40dxpUwn98R6btlpxUXBPTzzFikfNOzwKY0GohAgdY2CVcPujq6JqWgWxL8dK5QX0brFBodvKuM52MT\\\\\\\/DheJjUkWT4P\\\\\\\/K+0SH2CQ1dGmLkrKacoOS12R6OsQETUi8r88jtw\\\\\\\/ybWfHLy4bxDEVvq+xTkL+YgVtUkdpEL4IeUKsNLZV9+MqwjMNwbQU23daAPOojrWZLvq\\\\\\\/Z824V7rWrmgQAEfla3v1EFOeB\\\\\\\/XA75B4ky38QUhIKybnsbqRJAjVW1TQ9kOLG6guVmC6xzyaVkE6VOl6IQlwWTMnMoth+kOLjwurZ2\\\\\\\/wceO8fxIR2+8udLmxFBAZgmYmhEWLGgr8ROd4D+rLB7rfshAVpC1FJeCaZlq8lnJGaz4RmZWj9yzaNXCzU+3ERCfxKIzpCZTYegtUgqx5kuVcTNBCdyGfKZMnmv7iJvRYRvoQe6OzFvCrqV5hDjQvmTswA1ubpUIfgNChZgZVRQ2U83CyfRTgR06jc\\\\\\\/zTBk6\\\\\\\/NSz7CS9eFIoAFkHNVb0y47TPFnSWrRj2uEslJGwot+D\\\\\\\/76U9pdY39SGSosvGQtfFA+v9\\\\\\\/DH61pP3o44sOEqxLPa33xbcmxZRj2D+nddzE2JZJGqU\\\\\\\/QZiiQn1NWG1T0Tl6QrvLrCRxUFRyZAQD10SzpSekABg6jj2+dBn4NUqRFNZ2mNT1qXGy57J6RWztw4uh2\\\\\\\/E024TDhQ8Hu4JDbTCmc2nHherBG\\\\\\\/Q2IW4SC0OE5h\\\\\\\/hYrBzwuvCJ1vy65oOD+f6jNXXE\\\\\\\/oS1CTmpzrmsACh0WHmFfnMi890HxEhhLPqtw0MsNVmPFj267k1ZQj5dhqy4kqunjXSV\\\\\\\/URBVcnJlq3dbTKGTYNSwkO0ZHI93QCJhOHCSwAY7\\\\\\\/ym7sc0j8Zp+B7LfCilVJDf08zVju31jwppuu8Dlt92KhY+LwZwzDp4WVlgtoGZRsu5hGrhQaIObR\\\\\\\/0BPIzRzVZRoYBv5D4MsjxayBye6BXy4YEb7HrxbO2AvmdkBLsSgyAt7QyL4DD9SSan1CDUum92yPgY4OFjJY2pMLIq9+soznyBvtyZC5Lvo+YAn0V0UBYQJAAMfR8T0GlGHkz6kMG6W1hvNVSejsQ\\\\\\\/vffQe4s3ot60bLWuzNvQSD3TOdH67pMfzJJ23Od9B6deYdpOfpB+idhYEqWs+joaMAaXnqb20tGsKoEjNBAvqoGjDUdrfR29+kCF9mpr+oXTB53kzyfcUQiQIh+rc45t7tkxUyS1cQp90g9nuGKv+tjlKlL9v7SFJp7g9ECwoQBRcY+XASLwNQJgP5sTGd8JzYX\\\\\\\/+NTHDIS0+Cl6g16uCs9nGAsJZnLchpK+UHfS\\\\\\\/1mHVrslruVn+fD7tPGI021NjXr1V6iHaXiU3C16uf6Eq0Bex8RLs79RR40dj0W6AYGEm6QEHYNewhH59u5OArjev0nf\\\\\\\/m2Smq5hSTGOgH\\\\\\\/UQ0LhtyTVmrGpZfPTPhzwLwePt9qDFRBi+39TXvvPUQGT\\\\\\\/E5XkAP+4qRrKj5M\\\\\\\/Bq+vNX5UHCibHXF9OH6ef2Zy3oEW4SkN6eLEPA5eH\\\\\\\/64HCiggWnmHfAmr5BoUeNcguc1ny+4hfOEsq0Nrtv3A4pR2utD5vfVL4jDAt5Crmgq8\\\\\\\/Zm2IOIhPL\\\\\\\/1t2ICR6xE8sd3FOOZWRrmkV6p5yCeKoPnDDALgB\\\\\\\/7MvDI42BE0Vvw6mOnqM60dTIa4ewxELDUbvd63CjyJQuaKo6YlW3loSv3QWY+LYCsm80llCwLfG6YCfGcO8BireD7MtXSoDyZqSo+6nlsGy8p\\\\\\\/pFLOruNwLemptSNDDMc\\\\\\\/7lSNlqDRXslVNEQLYiSHTWsAzivJipf9dE5K6FDk0\\\\\\\/WzOBezD7iyzWg4ZTIrWE7w3Zxv2srFLZUszgLoYdQcksj\\\\\\\/Qb6w9ki+Y85MkJ+yfDH2tS1oaML+0hz5XeAfOjxfP7pFKlYRbC3XNJjMmC7kCH8BMbOCO+bPrIbMq\\\\\\\/Dui93Zc+o2Nrf10iMEUqTceT+lrMObIVBlcEVePc+l+B6rxAPRjiB5i+SCvPyarKKbmBFGtfzKgHndC66pCp4DYIXPb6in3\\\\\\\/X6OxPmtjk4iq2PT53xNxgLC9AOQmFeU\\\\\\\/1DJ10RO1gB3LjyTEnaEWcY+adv+N2iHSvt7NdqUj2HlHw8jf+HIj5yZi+CzuL1fLkDEqvYzM8YDSq1HFDxiOuI\\\\\\\/Ia2S4I4uS1zXKhmyVmxHdebd0LOWpVf4xnYrYy8ycokf5CypM4pYG\\\\\\\/7ZK\\\\\\\/9HK6BqLMAcd73U2\\\\\\\/Ls8GjkLUPQ15vyXqiq6P0UFeebUg0afvVjY\\\\\\\/C7Qst7d6KEkF5XgCjtWhvg3Ckub54aIiybVs6NochNPyd5rXpn5SwqeWsvOmoClCeiytoWGfeuMQ84Vx79J5Rh7mT\\\\\\\/L3gwY58Pk3gXcYHZph6gfG27mvuBuDoaGaowbqr\\\\\\\/34ZWFz6E5ZRmzBAoPSpRdWpfrSK\\\\\\\/OfNFKHZ4sna0MsJlvwYz8rTgc6NWZcLlXwSZ+poukkotZ2YM9\\\\\\\/FZOUKVrs6t4gMkKc5L9NA9TmP2+Fqne5a1ilQvSjhJIzW7HkRkc3QAu5g3X+\\\\\\\/5hgSODzAcW8rxOxVMRd89sYpPRi66GIhbcPUcaGTdytj13cP+4ncOD0YTWMg51OL+vSMmI9gW4nk92\\\\\\\/gRjEQ8vIbp1UaGtynqisMHRb\\\\\\\/micS9UpPiGicXmpb7ycOQ8+KKOy2IW7MS7eZxpM6nIAk4w3j4ryamiLH3bUsUeXQY9o2boTa652vuYmqfxQ+rE9bf1PaLGLzM9t3BrhqNNyNOrtA0c1L6q8JXCgQQ2pgVCMXDBwfkFwBMq7C8yN4PblfQmVt36nmQqkprGIMybgGnrP5Zj3fukzI83jK8zdnNiL9MKihZnqa5fhKtY4MZ4ttx1DpVZAoSqgH1vH9O\\\\\\\/YzwuOyGOJ\\\\\\\/oTGPLvKj+hRwMExodbLM6SvWh5BfyHKncoUrnd99JVw\\\\\\\/5NfyMEo5\\\\\\\/WJAp5iuFi\\\\\\\/Joir09QIA97impgxXKKpwFfJnJSdnKqYbzOouh0TthBVRPJsAwqdyRcBPbVAkMALJEdOFqHFe6H4xqt+NUR3Kf51CsjOf5rycxj8zpuNjp9l3jg022xEF+xyNh7r9BHexjjfDiuSvdaP7rjBrtdvU9K8jqQdUkkAHj3u6GxFgmUQZqEgPFLuDoxGjiQZoZz8aGFKjNmGuPgMjD339XrMi8gIniWxoA0yF\\\\\\\/UU6210L7MuJkc7nIsV\\\\\\\/9XqhoKY1dOUYCJUu8+Q\\\\\\\/yxRXsb\\\\\\\/vxsBB3BulP99FF44Q0i4fkxIkj\\\\\\\/Fr64TNda2e\\\\\\\/BT9cFVEmKGcC6cJHr9k4nhiKB4uIfnqmmlebOI6vUkRwb0f9GU280kyfLPsN8IutJPIAWHkR4ouyLf0q+QIJ9KJAiFbv6dqIenysI4Etn79Cd1ftUmtMCpIc9RuWZbnTlpuqxbkTPAolQsPNg5AeWC\\\\\\\/24Y8kaKSNuqe9s1VQyd70LAJEJh6hBEt4kFb\\\\\\\/pG3GslB8TbA\\\\\\\/CqOfDT7mivDFyP2mZqRcdA0EkSFiom77MjoFqgT\\\\\\\/e4jJQ4J\\\\\\\/8PHfvvKDx2Loy2\\\\\\\/8gKyKf5GP8D0iy5hCurcBy314Vjn0OHi+eoGBrHllw8nOzjvofgrS\\\\\\\/A1FcdQMngCi32OV7SHkpdo4TB\\\\\\\/uNg9kB9RVCOC5gq1TxfZ5+ikknN7M5C5nOHj36Hh8p\\\\\\\/JR+bR9jH6zV8j1xbgtuusyZxm6VvOPcxn9HNj+fC2XxkZSvnR4iuPMCwx1QQfvrBqOLxX0WFEMcTAw3an0MqT9qYOuIYb9Z5vCJ\\\\\\\/TAyojhh9bS4q5\\\\\\\/MbFlZkqZkIWPmF90j7OAq1RLZzUaGNSsmjtB87U3CtELomP2W1tEAwnFMTGlTkDEOk5tdPP9TuQ1KnZoA3njRzqv+R4sZSpWuzjJrWegAKftPgEI8JHcvYFRuLnUJ+t6fxQWGmGbMugkyVlt144nXsuDSYnU1J\\\\\\\/Y+sLJNL4buVO38OI5OX7gTbuwEnTndiWZjmfls1PjwrInCu9OV0Kx\\\u0022,\\\u0022iv\\\u0022:\\\u0022jMJGav3KA0LB8ehf2M4vAQ==\\\u0022,\\\u0022salt\\\u0022:\\\u0022177b37d2bb3d8d440ff3482bf562adbf\\\u0022}\u0022,\u0022hmac\u0022:\u00222d5ebae74ec102d5e858638249ed59b5396c348c073ba4f2315a5a5a993f9a36\u0022}","new-24":"{\u0022encrypted\u0022:\u0022{\\\u0022encrypted\\\u0022:\\\u0022CmMAmk3YPajOnpHYQ+qtI154SAXDEvlUDX9kfFoIoXwuRawt6vMnpRaZyyXWVIMaFgjZRRlaLixgwzbM98CHeuVOY8FJcxhXa\\\\\\\/65lYi\\\\\\\/xpMxUsUczJmMLcOUDqoCqOgBD3oEQB2OQ2fkd3jnZdpcN5BrzqdrsWxpmakuXLulhiniTocth0O7\\\\\\\/\\\\\\\/odZkro5Ik0DN+PVxziFSEu6oZt6AHa+zQgm4MFiWFo2owxl4mHO1DvgbKhdQCqpU74471yJSZPmhctggW4dtWMLhHigxVEuztGMBamlV\\\\\\\/R4HiLsDEKl2JaOwVqYbgrXVCWAhxreDGNB97qWNSniHZOLlotT82Qfo8alRhmkN1\\\\\\\/8pTKnnwsLJ9gzkhp0xwrSLEGUeEuKuqyi7D9raOksXPfguDWgY2KEfnDa\\\\\\\/a0w9R42wLfloY6wlNLEZvqVa3ZTlPO+1IPi9bopGmGHAoDvNEpHw+1D3YiZQBeIN2ekqgt7s5PISApahSZNkwDGwg1TZLjyQWPGAbjVVcAhmqLyMAhVeaDwWhOSoEtYSO1duIb7gI+6DGtkFDEDX0\\\\\\\/0CWX+Myu1pm8gVJziB6lgtssmpDnIaFC83WNqXmtxrsE4HNjrV0ubiiPuWUcvl096tRwMgyRHoxRWo+7luHlyJFiSwYFu2qDGa1yS57tN6kQ5CoK3hKj0AAYBEnUwgRCAOnaLP88OO2\\\\\\\/A5Ytxm3cra517QWED\\\\\\\/OGTtkHyBpkdsJXdd6ym5Xp7HTjLfv813lY+Fse84AbV1meZmgQeU0PmTvFUyDvkV99XH1g8WgjHqnstVps6+fq+RqaDiM6I+uk\\\\\\\/mWXr3nmDtK05cLg1U4EhWL3sYr8kEoQ1N9cnxVzdWZLOrRpOx0GVAAXDIdiRJVFc7oE4Zjvra06592LkLT7o7ByaLf2sbNQaK0Y0VBmxhjus33\\\\\\\/D1eqE3R4sSXFig8vA9vivakLBl+LuPHHeCiawauOifKFB+TVlROfjbA9S5I8Yv1wHZot\\\\\\\/LDWXR8951Wd+H5fi1cQZSMYFmHpc85jfyqdHxAJ3N4j2+sspxGgEcdcQj1DXElOcgvQ7osgo4jGSKAV2wboUZaxvJT32gTOh6JRlofBMAPEE\\\\\\\/\\\\\\\/1WfsbBe9SepQBjnryvG8SxFxj9o4G0iozsrneFCfujhHVW9kqL0oEzoc5DYGSZCXMjZHW11XW3fvRLLKWn+3mYlKuLGAQ83yRoWdDR742coZe2ZIksjU\\\\\\\/u2Z55Dk5apqRQWNb2yEHCDZ6Q1GKWLpWK7x8pvUebuY9HEdUKiYugybtkdlpjxfGZZAPVFZRgv2SxrIu4PJqt7nSqgjxgkf9v+a+aktasZ6wC40p0HQ5CLnBYyrvGMtbzG4eda2Ds9YqjPJrGdAWdNz7\\\\\\\/MIDT2af1rJQmEQYWhuL18z4RICFNR\\\\\\\/hFXyUus6opTTtYYBpA\\\\\\\/JRn3jGSzC4yF29xeXKVa+TBmOywJJhKxjGkjC7jcmg9W4BxXbmVNAgQv0wzwTUQoXxAcwwai9qmD8MYLDThEZqER9FVuYXHDCzpgFcZrhOcygvltItLBuhbXeojzH3o58CJXW7qPOjKuSeXfb\\\\\\\/MGpwXCZxUDaUqBQWzeDJzTALWPdT\\\\\\\/EkBjDclobQp2aqmF0BZXUjL3HZGYTsfn4AHXWWgEz\\\\\\\/q33CL9rtta0d0tA8R\\\\\\\/q2wG\\\\\\\/LiMaPwT7CDX5q3I8+v2wuVzDxyG7KA3p8HCP6kaZn9XAemZcIRAp9rZ1DofbwLaOgrIbz4D12oZKRBUdewWOv+0HXgy4sIY5Lp5hRA5HuKfXTVSlHcTn3PjmuZBykxKbjZS50x\\\\\\\/uYhMDpjhMqz94hOj0OCBdG0+bXTvE\\\\\\\/QnItAjM7Vx7K8eJKp3SIoIQrf1TCqAY7lnOyrnZAja2kcUfnytr9yQ8QjEajXtq7zp2haj13uUxb\\\\\\\/6pqxbnGRp3oNJBQK0o1zX9TI747gmgfMXoSs1jnq1Gllhxl3FRK8eT6aW9Tt7CqcRJdbdonq8puU\\\\\\\/TNeRZGzGi38xL0Ir4y5GmqjO5Fkzf2nryBm2pAmxU6tJ+hC1yrnDWjCHUXBbAGb\\\\\\\/vXBvMXfijAcxpu5yFU768PZyH6\\\\\\\/DFJkymSLo5pyVOrrjfDVqsa9aIrOdTm\\\\\\\/UXUC9+xTkNW+m39ohlVGMFgnVf5mHDeLhN95w3b7ZB0z9ZLAySEQvs8GKk+YwBUlh2Pk9qC31cfRXfYbZhzeMB5brz35qv2y0\\\\\\\/htQU5Ksm88BovQC\\\\\\\/irzfvzxVFWnN7cLXX\\\\\\\/bni7ffwD32OIyw9un+WxSm+NNNXYIs+n9lCyjTvFhYhH7cUy4oXQ5YHlnniXNTiBolkj+Dz0+PAT2Pfwrrb3QtL4fyvM8ocONuPX47\\\\\\\/DedMOwqBIBwJbpL\\\\\\\/aJL+34a2rdDG8p0aA24\\\\\\\/dkBtD3nSwWoBNF3wMuJedMHWABkwSnNB+YlPRyNPK3+MOp6lvwgM36MHMSXu7vxKvyv2SJtfTLpDyVeL2QLqXLVNzf5quvsdzjR8El9HToL36YfSNYHnwHEN\\\\\\\/Dk69BA6+A9BGjvd2uaXRhn29ahGkboMcHjXCOlQ8Twkz9fY\\\\\\\/RXMokyqEAtOhFS1IuPwuWsCD3sPwGcZn6dqiZBfXpa+4\\\\\\\/qkbqsAoAHkzOSqd2gwJ\\\\\\\/PXla\\\\\\\/4nUJdH2T8sj3pv\\\\\\\/YSYjvWyRTudKt5SPZHkuwteH6rMH17t\\\\\\\/8PpF5zF\\\\\\\/noda9Bcmlf2bc0V89Ddot4wOao7ePlQ2H\\\\\\\/PAdwVvr08Lv85\\\\\\\/2jhoIMp8LNL1ufo4I2YFJzTok2KEegcf1dz2YPxWUgnWMLuBzxeNjyjUSmUpuRDlLfiIik64F8ehv+zwW9xWjHY+Rc3SZ9Ip0I\\\\\\\/pE\\\\\\\/mpSAh5iP4lRS6ay55e0yM+Fns\\\\\\\/lFILKCb+rrGxcLKmSMJb0y59oxtL1iZstJPZTA8Ee6tdGy9XBz\\\\\\\/Ri2b9o5Hh\\\\\\\/qu2P7XR7t2Ort8eGUMgxJLhHXmuNj7udF5p0Z4eoG\\\\\\\/8qkLjjJaPT0kUFR2NoLyr5awyae+iRIbAIif44g\\\\\\\/GilaJEWb0Gjmje7x+sG8FfyJbdAIXlob7NGRtCpJETj8SC+Bh6HFnfFZhN9UJnOYGhSqA81CRna2hw2jrKGCuKNUkH395QToUmiEtZxPHdZTu77BvYYpapMHn6obKCs2\\\\\\\/YYoUDdqvcpQD26pbN+26QnCv6WDobcS20v59wQsRkoe+5vNz3ggd\\\\\\\/cKsrhjLv81D1HUeYGcd2h7KCWVNVx5AW7M4K55hdhAhJ3dy6eQblu5HweNiR05s9T+uLFSC3HKVLFse094N7n29hwhl9bo1G3d6o0cITvzx7tPQinApQVqvKonROiyhxu\\\\\\\/eHiZQlmgldGmP0nmXkDQ3lNSnccz7zUsJVqNVdykzcWJQZzu1uc6GdzkIk8Qpb87H\\\\\\\/TURUL9u2NBDzIBUeuIm6CeyFGru8iLW34+bQgRLI075op76gQtdLjQaiFZWU0esb+\\\\\\\/1m6\\\\\\\/MRPfNVVYC4qSFTQB+bcbS56i+28Xy7EjpqZczibI12YHgTP58JdLwS4pdtYbzCuw6pKrJkNvPj4ohcJQQ0fmZrE9KMVqWtOOBZoPniXNWt5av9qMqVoR1bD\\\\\\\/6Nyi6PF7yYFAYf7uh9lBMWrr81CyK61N8qMeiWU9PrBgOvb\\\\\\\/l4dKepmOJEH4MDDQoEmG9\\\\\\\/jmve3kXZOmbVXrBlzPqyr0iCxth0PThpWitRtVHflVuZFG+x3hUnI8EDZZ47WigHgMEhPbqKT1n5unclO5hbax2f8OYnMBfLL8xIZbgkPYhjcbDfuX0TUmdp6pVhZ8gCYdjApa33zBOF9v5Z0q2pxzE2fNtvH2Tbf0kJpRwsv92+7ducC46yD0hL0VmnD5lOc75nahNWZ4uEPtdGzcCcZRMPV3MqC7vVtJzH1j4YaLwKxUxvROQqo9l7w4AswI6ACyFMalRW2JX41cxFqrnYrAArwN9fRXSRIguoVi\\\\\\\/Nn8eTF772ia2ST0lvgZE+whaD\\\\\\\/neSdubSfm5jlSe6Wdraq0viQJvMRKtEs1J8rLVHrIEinBX2wxDjfAgE3WetICbDoAPf56kdjpGfrqXIqrR+IIPijDTFSJ7o6ULt7N9OsdwGn3oUvOcA8LximHxi+j9v89Y1IOBemu8wQhWe5TMsZTMfWR5UWD8vALyaVpG8hMwXGvkFftI78MghvTiAUnHMTc00Ioyq\\\\\\\/31DvUjVdcdmzEWHGM0VyxFPLndEH+Ym\\\\\\\/3WYVXx5dUwGru5dPbRN2O3cuWXE3sHTO2dRf4XzvXLaHL6QS6nxjWeQV4aSN43SnNEnvtd2IM9CsQS1KHZ1gRLaeqHO7GUuCRG5wZFPt3YY4kJs2\\\\\\\/lQHMWx1msMqDORDx8d+zEuVFg7eOFnC5MM5ELNYLkbPtew\\\\\\\/zbiEoVonvsyjVTR1AFZEPsH1hZczKikq0LYWDLfGk43I598qfBA3fB9rn+zAzaPWlcSaxnU6Z1+L7E58sq7kiXzQ32lU\\\\\\\/UyQTi3W8uvzsOSKjRKYLBxSN8L334sCgSBI993cXXukFsnOFGWs2+w6v4H13Qm5EuMao3jgN\\\\\\\/N55\\\\\\\/oI4I7bnmfH7UBoLnUfX4JZZAI\\\\\\\/wtLfDyeo8LP64rUW00Km46M0o6RPaaEigu00U68I+UP2oGa5HkPzzr0I6fsjngf5G6IQpAr09aOQLHfaUrMA\\\\\\\/onlHclf6omm4hB1FRwae56UKqexQ9klamAHYOhkC0oZeyfVxfTzt3FkP26BdjDqk6IJpKvs36x\\\\\\\/CzAFR6dKFkng07z63K9vZ8A5hbP\\\\\\\/6OMthZGCaEFWWvza+61s5j8ZwYm5Hxw5kKmZctqA1ETlryWzwppZ3+tNfu1IwyAtnF5ASypkVTUh\\\\\\\/SnBIAER4YdN4EkaDrFgXqTMZzzjncKF7fPMd6cYr7Bbu+RnQWeqqbShBCqCdHJGclOtbkEzLnc5D+AAlW8pxfi6QPdLlhY\\\\\\\/kQDHmAxFsyFUZ4KZx5AbnLOiza6k5lNbzzXKoVpP+pAimtIZ+12Gvgnl1qCgMJVChmwZJ4ioXzFtKb6Ps\\\\\\\/OwQj7VG471gpJmS3pSkWyj404gF0zMZaf18usmYtcUbqAFRSW62I43WwoSMy\\\\\\\/iJCFt\\\\\\\/IhRQHmk\\\\\\\/8Voe\\\\\\\/+sOU24iQUgozOhhCmcVQpainYUANZdmddIG0k8UTk6OMZ8eySa4\\\\\\\/SK8347kYJuhR15eNrpfKLn8oApQ1wYAWIS6nWQMVNNOLjsClQjynjeGSwtq+Akqws9PVLo2vVGBWiyPgARzdHYy6I++XVVtNYHXOPp8hUTmXje0tJcE9cFFJ1S2Ir1VI4E0oTs1to\\\\\\\/5NB7tSGBogwobtnsL3eXJlXC1QUu3S8yQGvcIzkqq9GwUPrCkzWIN5lKbjvomNW+YPzuHiqFsEHivvAdYRia\\\\\\\/0wiCdsSDVn\\\\\\\/CKtJ6u0YEa\\\\\\\/\\\\\\\/Y4iYPdyPcOVbNR1XJwaCH3DKnxj7IAP52EBUhnHMDgLKlBpu3kM3Fv\\\\\\\/sWt9pPEcHu37\\\\\\\/\\\\\\\/o8A6J2KV+AHFgKO12CL8XS+c98CyTF009HT6++dTrGfAkil6LgpAsoZ3Ku1V4rkdnV9psui6xW8Lct4wrNVE127R6bauVkz4X37XXf0ppWITW4oLuLBVkyUS7pRFVx6fh4t9NZfZUKKt+pXIdCKq\\\\\\\/jBPrfVzqsUb1GO8JmFliqFhNwl\\\\\\\/iMJWC56w58JYH+7hy5wqkd7vPBMsNueOxOEdQWPdw7BOctn3yE80NVZwfCdRv7Ih+ACOODwuDhMrIhjBpgNdYLKWgsWjWu3ln0cy5U2d7n\\\\\\\/u\\\\\\\/ieOHibBlpkfa5Oji8O1fj7DTM9W\\\\\\\/pwe9p5jYD9quc4YN68T8ZqK26peTUEFDaesc1UfJ7K2IkaeOkyU\\\\\\\/z06qnGtjxVOrMR7y3exlYEVqebKEQPZvCSyG64OEXlf+5oyRLDlLE78rhtC+oejOz0b1t25K8VFYqCl5Ww0JpV600uKB1TlXZkK9Rtar3NXQ0kgqVScQx4006Zn20r95yoMiVzGdXYmL1nld+4z\\\\\\\/d1UAN41+DuZ7PJjm2uRWGhUfTosud8RN8ykKOsMLNxJ46bxIE6knQv7ciBkl6Je3ag+fzjNigUicUsUhpWpyZ19vK1EBuqilxQSvWtC3y\\\\\\\/3xbXAV6JpN5Em7K8DYrCl3sth3Z0utYkZit1slqfX8xqG9Uxd2Hd8\\\\\\\/Uk+lmH+AbKYHIK6\\\\\\\/v1WMxxpDDxyVpT434S9NjvtqDpxvHZ9gwJNyBk23Ef9DY3Zr89P3h7IU7uiRecER3l3HtmIzwv4\\\\\\\/j91Vo\\\\\\\/W77LFWCoceBxnvSRcxI\\\\\\\/CJcWpcCNmedhZMRdco4fyVvMt0LVeDk3ge69cfFit06mYqzbWPa1meo\\\\\\\/+i5glIPLreyrV2uPPI7eLTBQGXmIarJBGNLxA4iaKdrGqW3FQi54GQW7B7NKpMeHVB8jIyQcSkaZOXs+ZXPa1Gi3kzTvzn9Cf7sY9PVbHKGLM1TfPq3exEXSQ19UzFnRsa6JpE05f5Z1TKmDCh3GiQ+ZpEqccYuokF92xuxZ4rLoV+KrJw4tUrYBxOwOToOHVxYer7zNWwGhu5UstIXbMDFfwSPDbjx6f9yI896GbpvwfSmgcFB\\\\\\\/ReAadRgUpxujjaMv7GfJN1sIOiYG0wOBcMDc5H46FAoB5I7f9arVhesFjHBlIsSoshJXIZ9e+YKWbsvPfX3QJChz8a324jm0Bm6hnfFeFO0uwhKZ9KPw3r63Gqs5MlYpilHvuiI85ipsQV7wLgWrley08IKfrsC32GpbbvkQbDW6LRSGOvFhC0mfEPJrbRBAReGzoQqePsD4q+m6ybnZ2fVEm0ISNF08eYoPWD\\\\\\\/rsy7RQceSjvprL8g8tw2Z9pitfQ1pzelUyS3w6uQUdGKhrJfXXpko00ZBIKc4MV1IwrE2gJFLjHfCPK8ixlTAqsuB8Avhk2hSp+Aid3SKXNoQdyI8NjYkx6NghBeVvnPVPC7SNYzdrYfOOTM6wzjC7gO7fz1AjXt3OuLMvFrGaIN0V7ThYPqpumxh9EueVMs57OofZ6stYFV2bIHp5+LURBlcLLp+2fb5\\\\\\\/pGYy3KrtTdALNDzns1geX3JMN\\\\\\\/WeuwW3dDQmlaba\\\\\\\/nD7\\\\\\\/18sRB2Z7hx0IKyj\\\\\\\/fFIcXvGTP6qCYmdi8+Jm+znTLhx9f\\\\\\\/hKWHTZg4Lv8vgsOo3H\\\\\\\/XiMWeW13KeZoBnGDCDfG6V5QFnC9B58cMLyVh5YyT3Fq4534QBRrsHKgR+Bfg52TZrw+JscPBOOY93d9NGi29lqtFC9HUzldSPPvBX+1Nl7PUszsPoekDwYyatNVe4nTwtbuOw9\\\\\\\/20a8a9OMtFjj4wREJN7n5YnIDQ6kUv1UGi4FS42g7utxzu6EAXkjN4ag+gDp15zD0zd33GwnDSaoAwQTIZL\\\\\\\/uTeWIDEAS7MUtHjcrgDBbbvnv\\\\\\\/IsMEhKeQjka9EViMOnpGoOYuar6YhcvaOl07zSpymCX78Vq5J6cSwU59caOzqwKJ3IqRJ84yIR7DQwk2Ewo5j9FRAQWfBbCHOWusqGNA3O+s8PMMVm7l5jVys7mYKBRXQet6ooBAIkuUn6DxEi\\\\\\\/ycpWDf56pL23kn8dmG0gGfe4F8CdDCVzrBb9oXu16uu0ixBKKeTBv3Si8u35PQ074gHayMSlyXpc6EbDEQj4qeop5VfBGxTY9nUXPaxiw3rOJxuO+1rgqUJd7zsW4Yu7ijkJY3geyrPnh3IRVKeH3O\\\\\\\/O8crVThR7ylJTaFTBMDGw1enSWmutAn+O30Bt5gE9UtU81dM6uVOOLzWGW7eAPjZLtEF9YRLDwd+NOQdQ9vObDtA+kEchmmrp85q6xwv9B2nqrunFBzZtiEaUmhIEHsAUINRpC8Vb5lJtLF57mgdRN+vxPmG\\\\\\\/w2krKDkpB9Ac8tUFvWtRzOJeax9lpvcko5ybunjcIyKm5hik1wegJj4Po45Tvyr9dKj6Z2vmM+b70NDn8h8I9uDru2OvuwhLXSpsC1QUGM8pXv5HgXw6h+nsz0JvIl+IPuUk4tvIKA7VpXXSYI\\\\\\\/xjHlI2VrvInHZVLJzV1LBhI2\\\\\\\/G7y+Tr4XvI5WOOAYmjQ2UdRjq7YYyUV9w93l\\\\\\\/EYlxVp45WG7PR1N\\\\\\\/pRfmXbr9FxZga+11ecPJIReLztVgN0ptqUjqXGMLhn7tIUekq2T4AJoR921GMruhHf9a7keJx9Q+XXs8vXplGQ1cYN8aPJyM63VTCr6OjDufvLLQ\\\\\\\/iJxZsDX4AtwprZkL4OaV+byWwKo5pA\\\\\\\/f+XLOXCCvy6oe\\\\\\\/VWOy752HfMNGYhwXLSZnp\\\\\\\/O4Yt3YwQpw3Gz9v2qJcleC6EOEMHrI0dbbPykChKiya5tqpM7fJJbYgi0D8BPp5ZMP7Rvs47IOnLFM9LiRHWor8Ll6+whCA\\\\\\\/dDzkdMqM5RBx7J2TYTN80edMz1JfMxe1bLJ9HML5To9su+4\\\\\\\/+VYP0RBc4vYPXGLAMOT\\\\\\\/SjLm3K68opKpFB5TkVPUqIZLc2XjASY1Zhd01cYgMqVgzje9WPCfc+x94ZDzXTG1uNegFRVOXSPn1mpo9TGODDe\\\\\\\/ECZ82NtP0Np\\\\\\\/rYJqZcTq3A2JUdTS6nuLoOSl\\\\\\\/KwWWw06+WV9Q6TxG722SPBYnXI+K8UkGySbDqD6byrOP7ql1bcdU\\\\\\\/+CF9KYgjiGWMfZbGfr1hIlqTkod9MfNraePvANmfvZtVbwUXFcp\\\\\\\/ONuF6XvzxtaS34gQApHpPhlwB8J282n7d7PaA548FQ6YZHuZjxoyBX4n2YFQlKDJ\\\\\\\/K1RgNHXovpgxNDtQXUVkLDE2JVYMPcJ4lGplZiYD2VpiZ6FezsdHboWVDmB+oUGoMVAI9WJlBBA\\\\\\\/1lmRVaNthrsxmrujtBqyh1vYBQ146vAROLdw\\\\\\\/dQhF9W0EGS+ZJiR\\\\\\\/F4Z1AhEeKqwD2An0iDl7s4uYFrHMAg6gpAbKxasBI5JtpjSqJdFU7fjZm1xweCt0ZEZe5r7JdmBmRqaTohVO1SN24SUGXTkaCVhszMTD91D8t8+bGiUFI46jXTZjcAYU9gNpQd\\\\\\\/Q541SVuxlBrso9x7BLRjNNf25dK413p1Vn\\\\\\\/y\\\\\\\/EhxtKjN5e\\\\\\\/qQuhwCTUVKR1QGe+DU\\\\\\\/yzPyzeho\\\\\\\/NM7nj7WFoh3v1QLVBDxwH3JZjfSnZfJbtq7\\\\\\\/MkGV9ZJI+aG4QfzKRYohm9A3OaQcwHxTltHbPLNA7LArE7fGLbQgEWT5UAdQ2OMDBuU1A7nPfSpqRf2X2SiQdRjHsWVcapey8ADIa3nZIBVWFrPWHRRmn6Ziz\\\\\\\/lb\\\\\\\/Tc0ee2ucau5EgAyJ\\\\\\\/m6Q4YsTNiXYINz0fuxQPE\\\\\\\/wFmYh23TkX+A4\\\\\\\/SzUdezg9lbm\\\\\\\/RdaNhO56Qtj1LiKtr7+h6vKh1FGHAi1EIKyI8zfK+M2Rt01GM\\\\\\\/HclSUy7Orm7P78yTfQOq9lVNf5j2cbtcel7b3ri3LsSbk\\\\\\\/ZOFKu5NG3otvljdkkc9gUAoYXk+QaWjYI+M+Mrye4i93LB+X+jv3r0YthHtNb\\\\\\\/cyvfHiRu+07Hm+d10zHctMAcQlGgznHt47CbO6JD3T4cJ4vTW2k2BSj\\\\\\\/SxPYv+znUs7JEP35Cuo0aXpz+eE97Q1dduFUtO2iyCeSjpEK989f\\\\\\\/Eci0hxlpHEl4yZtnf8rp1s\\\\\\\/zxCIREbBFFtQI1G+1NOSACE9TDJ\\\\\\\/DY1XDV9HtJcFiCPUNp3BuTae8341ED3y6WRollwcsEc7879yi3Y9uCv9CpvQexRnYibSdHQv\\\\\\\/LDhjaC44rThsfXDYkDb2s90+copPFk5MD+ERfWhzH0xY8WY9S713cFV6aWMT9\\\\\\\/eocGb9kcyJcY5V+6yjg\\\\\\\/wz7\\\\\\\/BNWb9GDeiKLlO\\\\\\\/e0FYPtwjgIwW4e8ZqjHGriGKeZT810OMoImhrahFWzcJld2DItgTNFOSKdwp1vE2TwQvBuD1b37nOUDuZecEa0qgcpZi4USONSrhTdeieoyoDtjpWAXYehR5HAqJpxk\\\\\\\/zaxJnjTEFYQIJQllISIs+R8NSvVTb46qJWdmcxjcPu8kINRbzncuJShHpZXb79Ufp+rz1JesN59y3g5EhOn42H1qqNnYUhz1mhtfvztuYFvqgFiO65c\\\\\\\/NcNiPxNmZ+uesyXmKIrwaXN4zwjpFASuSrcCSYv0vZ2qgmIkfS4vxku+M1Ohe3EdYlKWriWXUQzB9qWz0QJgIqcA+Cx5Kq7IpDbV4mYJjM6NmkXQHKXeV5d\\\\\\\/wCs\\\\\\\/ypSnbS\\\\\\\/QewjZMXJiKaUdnTEx9g3wzInIUB2UJZUsItt5vVl0Vn3FRxqdKYPutKgQx+Zn1loQCW9zJ7vUHpcwknGkT\\\\\\\/MhOcxcSzfSi89JbMkcNBCCa0BQk29iQdC0gfHbmzfeYd2Ebri0KrILvtmKMolZoXr2K6iMaV6jlKCRs5SE230v\\\\\\\/6DVy\\\\\\\/scjqP7rbiNXgoIHPhLE9nmik\\\\\\\/WGq3zpCa4N7TbwkH85Au7WVrrXfxOUEGPHcQXoHiVb+Vlhn+elwQJtLtSwg90fNWbXgaoUV1BeVrtUyRsK27Z04rGsm4ZldCB+5W+xp3jqZTqb1ivCIbO8sg19xvVjuQvSMbT490Bso8ooUGgciBpAgZwHDIOsysHcdxdgJ+HCcclT9crYiW5uCAdnuYr5bF4pZl0Gp0f7TcHoYElYxlNUlEn155N2dkR1fnk50ILofTLKQHBwIwNTomDDoYZoz+JVvrSELohFnafgTdA6rgP7fukQio3PZBa1KEhT8PklnJtXZQBLsiNdahR3xv09GI0BOr\\\\\\\/i7hCPtb\\\\\\\/1cSKkauSNHF74Vl8c1SscJsHslCooQVFVx5mBSEInW6RTmI3WAVzxNyEw6Z8qdyJzE\\\\\\\/+yqD9GRkHRKO++2rIKG51MozEgu7qoh93MacOABLXfBdksSKnJR0itTC3K2gOsa1y4p1kWZoV3B1Rx2aj2T86YcYnXutYpvciMCgArXQTnDWdfAlxOSO97+IX\\\\\\\/9Fc7ykU5F1NjxSY4GagI1D1B7sOyKpwY4fV95JOE7GUvMonE37R4RuEhTbObhqsaeKrkALaL9N4moz36FfnETRNAnlOE+YX225Mk3q9LclluopmMSzKMl6RtmasDgNKY+jYnZCH6fsqep2Ln14negAW7L6hEz08kKmZoF2lsqPOBVlInVZZgP0ICEp5tjuDPdTID27tog0WxM5mN8UzeFXvDAxT1YJNRrBGUjbs1SfHxkTyfNBmc5cM5xkMp4tBDzQuuin2CuJ51WXBII4o9+foqr0jpz0hBW1Cm1m7oMq49+Lh8UB1vqxN5xlOECFTrumNIFlqoKgtxmIAfV5xp6SVQbucJvl4BbiXCTo94VRrUUFYhGI8hyEFBieDn5+rWOQwJo74+Rw\\\\\\\/9OQMsOiPS2bUT9l5RF4WhgN\\\\\\\/4w2Crn+1VRqGcIxy5PD0gPdQUZ85dzwCbA0ZuLU8U9uXuur+j+r1kJof6nWxRR7ssbl81rky5dXoHJzjbMJ5lwc8K3QVhdUqfZayqiWAL0Qe62Kh3kaK7b1EjSkWBNVXb6bSUfTrLKPStOt\\\\\\\/nEBPvcDGbA0Q+72ojZbM4rNzWd2qL1DKkm\\\\\\\/6edMeS\\\\\\\/d\\\\\\\/y0BTIteVzJKOIoxMF0A\\\\\\\/Paw7KtPg\\\\\\\/TOISfjDtK+kGIRfPAKbZ\\\\\\\/RacQx3JTqwkJzZduNh+oKmwS6GHAP1ZuOkQtiSqYnZaAIVO2DFc0tLyvAfwLbJ\\\\\\\/cNiwSxBZbAnGJG3OCh\\\\\\\/8NaZf9c3xxnltWOzzjkh7Q58ofReYIJdt16vnVBsRXFKn0vHVg6827DrP9jPU73gj7Qwh3T1WSY8MZncNgtxMkA49bzvu4BSDJjNZUtY5BfnEN\\\\\\\/JfE52c1QJl+3GyjK5yWuhFg5TYbfUeripn5t5XBptehUbCPXyYYrHa7Dcql\\\\\\\/GXOB\\\\\\\/utcDatnO8FalpEGvVk\\\\\\\/oI4QWdomA2elMHsGLk\\\\\\\/UMnQVwNUCNA72k9FDJbukiNucXGAIFsYRcauKTwJKWPghby4yzQPo5\\\\\\\/XDol52yn83g5RPusITvWc0sBYUW85K2xYEZmRxAeJR+1KkJGxAVoH9Kf4iqcF\\\\\\\/A23AmHV65voLJUiJ\\\\\\\/uxxIsQJG5iCE8mlyeBEiSqEKlMEzO8urc5fZj18w+rWrebzbmbG1Ue4lYx\\\\\\\/K4IYTvh6HMPHJOBBebPwcN7KLQfPhTZDOyCrgG7aiiVjc14AcDDYHr\\\\\\\/6G4TLQOSpJKk\\\\\\\/dcXz8ePcu8JeVzNtKoiKexLrmd9iNec\\\\\\\/z4o\\\\\\\/TAG9LKbkPv7Q5iDE3H0BuDqvScuJSQuhybUdstU3oK0wj8ChsKUfSPyYRSW\\\\\\\/3sdRcNOsEB7ADSIlfG\\\\\\\/ePIV3sTOfzaDX8tLsRDasiIqj\\\\\\\/EIyotznttgq11y5J5E\\\\\\\/i1B\\\\\\\/40SaBalUXtiZw7StjBoy6sJk7VhdJQjuzFmCD8YIKhbufn90Qd4xhzbtdeIMQ3Jf1jREVhFUKWyFq1lzq3Rkyzv\\\\\\\/laIoNRgj7ZeCQEAP8nEqMC2aFPc9qcwUnKZy5NHFXbtgwXsQK1SBC3ydCvhimrbgNQgMPyyxQSqHokGB++MpbAvzu5x6+CmVwis6n\\\\\\\/mJ+6QnOwhKGOjgB8wpq43HCLEdeiao9Q01OvGGOR9pLmhgT92IIe5g8wtEA\\\\\\\/OnIKWKhP79rhdsqMgVsvE2ujlwQD0LcMmG\\\\\\\/siZLLciFhhrBl2nevK89GcXE0EZQH8Zo6U0rr+lJ0UNt58lm\\\\\\\/vMuYMEnW5IDIkar7TxMPl7k47NTx3Z0aSTM1KmG\\\\\\\/lfO1RY5vFXwJeyh5Mc495O8MxHX137jgkLVs\\\\\\\/c6yflGdADnjt2SEh5NeHVkKMQnnCYBHwMA+Lc+JKIslYlri7eW2F9LDnYdArI0p9ZF\\\\\\\/FJJAmKf13cO546u0OQtcghlyBIsStwrXaMhUHV5ZHxIx2HXfuqLatMayo3AWNZEeHNs4BKWpLbWYuUpdo\\\\\\\/eUH1qmnzSlQzZf9lQ09XlK8PrkQe2oiBUexy7MxZVLWdsMheWrmvwMUjhfFNUH6Xelegi55XBfnRh1dJfTJtQTTEoCSTMVH+SDyi5PuUNY+9ZAtYumDUxgbhr+Phy5oPCgVJER+nphSxe+t0tAhHhlN2Q7gpQRJVSf\\\\\\\/WpvNDV1qDwOCv3zENtLtuDyIrW1warkIjJREVEb6+FTFHwaBqtMtqDIjrHpWecKyy658g3LtCjyxn29qxUJqBgyPh5XVBoKCqgMtNK7gxcouR0f3XBD+CNL48pKQ\\\\\\\/Ql30CkAQ7qPxDI3vYy7FylIu43U0IFlWPu1HOnGqDKnZcZvFe9YrZ6BjImVTp16ekkfhZya89lL0stejVsMZIJNrk4ix91LzbgiVvn6l2bfxSXXUFCGjaGYajAnoWSpyp+BFjKzpjeVqAQfY19qiUv6KWiqLoClR5Si7tIgH8fJ8wp8K7W7nTYhzQgbWXZfQWHDdUfQgtQtZkFuw3MpU7bC+zHATo0QIbo6PENFUU6DID1FIiq+K6Yg4bD0qL9DmaOujmH3wPWFnnxVcgsd\\\\\\\/Hk\\\\\\\/HTrcADQKYkuM9UpoPz23pJWKpOP5b+NmdjGhRkejE9hlV5minM89+EXIKXxT5Ey+qLlF5NZ0O\\\\\\\/W6pW80scEyR4ScctX4DFkA5oasP5DBUvXuh09uvXXofH6XcIS1AL95q0AFtOjGxGxnBSGGGI5KrZTKTVL7tB2\\\\\\\/wytTX8jFY2b\\\\\\\/i5RYQPGhfmOdfiFJuMeK04gXubFAtZ9Gkv50jfVlQo4Vl3eLVfl5FJhJJIQfLNLdlq\\\\\\\/ShqUnARWlgnsUCVQDQ\\\\\\\/9GoSErcILdOWVAArOt8LJBLUMzz2hiu5cHlX4xX998m\\\\\\\/8oDpK3CYI2hplKIjP1irxTvJ\\\\\\\/vWS0gVsA5gMtuOgVkCCbCIWAvPbYrYn+yAFIi6ubs92pndNYXQ6eDPpy5c3xWosTgVXh2NJgjscDYdLjULuTOJqZlux9rtUUeyap0515u7\\\\\\\/b8xGbASoclZqBJuIn6PVbLjgKriazxPzNtTrUEZ8p4I3HNeavDKHidH4WcF3t6\\\\\\\/Er4jv3StOpHtpZezK4p03kZdOxykGTvQd3yOZ93QEPdbrZSoqyQBcVI31bAVW2VEcWLmPm9tgQL3v\\\\\\\/NGVqLSjDFfLSGKlhdmBuE7PEyAuQ1VRrAudZNPqLQpwGzGAxwFKCXDFk4mqoJRbXrWr9OgVdhZdXIvAGdW9qLsSIMu1LejoBvagbSfzAKtSLKCjPbwho7nPwFfz2jbDAf\\\\\\\/RnLABP+aw+6s4MPRLiBobuQlvXRlDD+rTzKpHZfGX\\\\\\\/mYRyUPCSmZCJv54o5LJDoghyQkDwq2Ym\\\\\\\/HGTBcqoEeaTqnn\\\\\\\/KIst21ztZgS3a39AaWA0iolCG\\\\\\\/KAznilErnLmJ\\\\\\\/ibCSHOO9HB4BhrZ2c4JTbqywC3yCY\\\\\\\/xwiyiA4HaPYRe6VWWlvpK4+Kjh\\\\\\\/M+NTPbgvkCwVjpczGbB2C7TacbmcaCKW8a9ksR0SWMmfZm0JlkOOla03tjGCoXFvnxRXwClsWkm96ZylXqsq1dDFvyAMOJuTrKnuexHdW2uTEEXd3su1bCxEFa9YJNuJkwLDYSk7yZ4kr7spisgIhBAkyAuTLEFlBWmF7DrCtSN5dWciq674qEDWXv84HF3IzBDyTDbgJnvbDNkpNkV4sHnp5gspCcfGoKNI82DCLuj6MwN8axcDsVrK+AGRnnC+ktZ1Wuqlqmcu4ECwMtvcQvxvpxLS8gsZH6zU\\\\\\\/Ql5vtqMu2y71JppASySO0HWIB1GdUD1H\\\\\\\/NqS9J7o+8qpJekvliYNAX1j4S1Lu4KE8X1wCKZv9q8JATHGgr2lIDBtukIWPGBRcYFMs1txFzBnqznxdBxZjWvfuCmoHh3sx4pu82pvjNBvqa88Hr4aIVGy7t2z1Fky8xsEL13FSIJe\\\\\\\/9EMlzTc205VhE6OSpIGVGy1DozJbYgzZQM3guROdalE6sJVHsjdnFS\\\\\\\/8gNNGRrGZNbmjYiSBBGi2++jDYJ31Oq67nk1HuwAW7arBZ6jz8pg+4\\\\\\\/DDPTE0tk54lBLmeAydp8mjX\\\\\\\/W0jM8WYXYHlokrgMx1\\\\\\\/O6ROCcvF928ZP6I4TMVQgbk8Y4pre0ZH00kIfvxQjqxv4dY\\\\\\\/KqJ0Bx0Ig14JMpGbXbGmAPTZPNaoGRGKsahO7\\\\\\\/RHeREqCMgH8Rn1SNCwgCwrPYT93xPBUr6QRz00UxW6KfnAeVkSAFKl57UadiIqBr2\\\\\\\/+3g1sv9+qVgbWFAHvJDsT56a\\\\\\\/lbqn45GKP8NJfwjC\\\\\\\/hJb0rv6hPIiSXVoEBBdMgj\\\\\\\/yGaVH8L4uKncF7k4qx52c5DZ5WBpYXbuum79jtRpcGWtb+8uwdJzycHRXLwCMSrBsvjW9RMbxZbxZiRGZGO2MODMBc5rG5w50CNtl5ymK95o\\\\\\\/iianYOLspJyHKv6267yUy089xav8lXf1aZUeVyJ\\\\\\\/vlFSkVe8CfOIjoVuynhbnpNH9ewQHlEtooTndF4lBLUpmqaA\\\\\\\/66ViwCaS+hlSf\\\\\\\/Jd65QoOvTO9TPNnKDlOQoSDI9dOYsYkXvPIvjfEDUggYYRBMPpaKCOMGFDBdXangIwFR3rs6HAFpx6DONJyZKGXahZdrMqKvwYhhxezHL1Hjr35NXWo1FzRO9cG\\\\\\\/lSY3Fb\\\\\\\/X5DW+1RoyRYikI1Ca\\\\\\\/OeOG9kLZ2mji3nGd02\\\\\\\/GExmgJoHmI+msb8i6XnHVZEkp3\\\\\\\/+rNdnFp6ArzUjB5CfICg8wgF57L7\\\\\\\/MJzLYyK6lq7P2BdD+Que6FdkfEQirqRfefMmfptabpD0Kx7355io5xSxo82xbfVBmSqQ84zsFybIDwIcpSbpA9Zhd4oVYs5V\\\\\\\/UVvhOXj1ONy8Ngdook0IREUnJN8TjzuAQmw+Zn0LMG+UVNNlHLVKduPWmAelpAD5fumuyUM94Gjhv\\\\\\\/ghVceXkTbUtG0NSwGO32zaPUDwj\\\\\\\/AJa8DvyV5TBPfc9yZcEjxX\\\\\\\/edxDzVPSMskueDWwyFB1W0LB+GWhymCXo49TI6wQT4lpdvWvwMq\\\\\\\/nkvEUZxjtmVQfthZreae1cTbcp7WxpI3eSyRO33Pp\\\\\\\/mAO9j13xm3k4n0WtoyCGqHVwheoFvFpMz78txFW6u9N9T7Ba97SJxMPInYen5P5LwpT2boMpIYpYRkMEq6iJbOXr\\\\\\\/96a56nZo4CIcaK4inLGEAafX0SbEXa76yiTxdoAFgSmgKdBBOoyvIJ9iqN0h3CPAYukJioV6YUTSmLlfzpEzIPCK8l\\\\\\\/v\\\\\\\/m\\\\\\\/j+NB3To84kG3herMv\\\\\\\/v3SK6zmBDUievbKaGTw8fA5bNyhQAK7kdgz5RMiuMeFjZunxNnOCTSyvHpEFTawGqG3c3ECp7ID4xqaHpK8mWzzfJlKVbhrsc9p892mPAZCdkfxfAHF2uE1Xrn9OgKi9y1JjOz3l\\\\\\\/71YUyQI0A1cQ16CLWaATCj7e9WmYx2Gf8gMCkQWoQWGOqfeoUILPDThMTrvwF8yTG2qKs8CRb4jgYrTnhkLjhtc71d+\\\\\\\/VRsv8b7cAaHaa6OHmNrz3SKfHGJ0mQIpsztzVbWSIV25WDPpOPufi83C+Vy7c2kD1UGliHdUP274gSKcosipte6\\\\\\\/sTdwCWd58oRrhBGcifUkAW6HdnXJhkkwrG1HBRP3pJ63N7U18oT7VyBKE8EJv5hrgQtkVIS99JcVLMjIoWxRrjkj+\\\\\\\/A4WgItr7GpeemHkOruJP+VZmsshcyYU0\\\\\\\/+QamHgK9wOMDZen0d102OVnMHXa8wfc\\\\\\\/Besr7dulEV0VP5y+zBmuTIiylf6rymv60FfEKkXeH1lX6QuFLReoX77ioCtPRvfzxukrK3yumMwxtqmKRtBFDX2V9zARHQyiWw8RQtShX\\\\\\\/9SypMXFHQHaEAd596Y4pKK6q3pSq77E+NbfqMlnFztltzuyK7r7+lQZM\\\\\\\/KufqgxxTO2YNz+nURQTLpprHLzA2YyQkBLAqVL1t90cDB8dN7SJtYdB7I2J\\\\\\\/TKZJz5iozGPQlMuIhQ+e9KPZ5U3gcxGvEXOqNaiveA9qRoXrS6tI5LyabhEyHEa3qy23PPYmiHtmQ0pizCdsu5N1dlUFCpCpmXySmjF9l9fo5Km6EQvSxbKzkB0RGlAdE402YKWF009y+qk5y78grjvEZBQHK2aljPLyeYpYxxf\\\\\\\/al2Eml9JOBTY0UXsOMWOyOzzcrkNtdq\\\\\\\/8hgvSZNAUHahldqJZXIt8+lgtqMPx77Kc0OUe5ynv7pTLefI8BG+5bMimkgoZHu9ePDh7mBaGDOmFBqPnqTRGgQyuq0N0X6kQGXgBZZpi2fRZIMsCE+741P9wRfrlkmqKDpZ9VOPScPkkBpJzNm0UHkvj1w\\\\\\\/9u4aCnqil39nQ1i6c3gc20Cvwj\\\\\\\/AgFbcddzqaTnots0fA\\\\\\\/cOLs7U6EtQhJMIdKM7lWx+JtW1B9s3veF6vuFZa+ywZ8MFhyyRj7WnR+uOaRPjb\\\\\\\/KaZrXFBWloEgaKdCYmUpaDwXwUWV3yRPRlP67i6vEpHZQt0iX5OBsmysXijCmMA3aIA\\\\\\\/kyziVjjOt3AIge\\\\\\\/1\\\\\\\/TZ68qEpbGT5z2TKwG1+2q2gi424hS9BF+sj8nKp6rrVdhnjva32J1suEt+J0EPaqEuolVgmW4HjkDU8pcK\\\\\\\/9WfU6u5XOh\\\\\\\/ac2P5F5SCcXtdoSF6PVyCQAOuvyMBC1WzIYLcxyuXCp9ulqbQkFxmhMtn9VGZc8rFEMOZbr3WcbYwwaWapivqwYk9GnTU5XqnrNStEjYfo8h7V\\\\\\\/sBZ303JYRyiOd0DcNkMh2fa3wMqP7dBRBHru7pZV9uXac8DpTWfHfMyeS2ehlOHiCg58mPhau7LoTeTs7+Ihaz1hr9Lk52x7er1rdRHEp0dI65ZGwpDooZQnhP4H+\\\\\\\/dXpXsIiLFvUWBjpUs6IoJZ1qDyzTLgezx4Pel\\\\\\\/7sz6EscnybMT1curPWOAb37hpt+mC02jOc3PUEWMGLsU6VibXkh0wJTGUL4PwewZKPVWx7dQ2JCQfAenDLBJAYt+E2SJLn2TyupOCQIwxqSCWr7R6kOM\\\\\\\/iomtpLnyrBDIMTz\\\\\\\/xvLyglHfxd9p6F\\\\\\\/2X65qpaO\\\\\\\/ramblJyIq07hQgNBIeQXMl6FDBugAxl3Jn0gJ1S9ah8B\\\\\\\/zvmP+PTlQbjylvgotf25YYXUGdy1KKATvYqgDwmnDhCMLyXTMp0Ri8uAEQrbS6J6CU2XqhF8K9n4RyF1l5lscBFhs+a6+MOuegfUdx02e\\\\\\\/ptWf0SWfCpYqNq2Kew2sJizA0c5lMmtFkLcUCtoPC6FeiplVzZ9WW\\\\\\\/fBq1Jq\\\\\\\/fO2dtkkQP1lDH33C77l23NnmGYWwbJkuKexKlrQiFkgApJn\\\\\\\/UdNTtT+wXaGK0iBwcz3kCqwJ9rHueGDoY8Z1CJ4dl\\\\\\\/1Wxr6Hvl4EsSBaN4JqQafSKhqWhvWtqXxejz0WxVFAbOh4R7fBTo3wcn62nSolqYXKFc+XpRMhz3HpxF9WhtC516M2Fz+8696WmcE5tAJX3ZtiNKVwcotrcIIvVvmi53PntjwkWuXrZ2JjeX5p0eecEsSTIxtWwOHda0s\\\\\\\/Yc7MxBbeuo5ZF5gwy83xySSM7yV2vK1VFmkx3iogQrVKQ2hXV7BVaNDCPJWmhQ4qJ6GNJodJLRPKP1zl7DiTWp58Buafyx7L09Xu+NEki6d76J1e+yA16W+\\\\\\\/ou37UwTngL9dO1I6aQL4XBZbtbKv+vVPsLcJ91Em7V\\\\\\\/g9i7tWDr9y+tOtmF5tKVmAKl\\\\\\\/BXDclwV0a+g4Acpi0cnDPKMuRFRqvM2BdIV7kzP5W5StypozCBMgCJAaeVgHgNwOLrouyWMwUB7wyDguqnhrwkaCv3YYCIedWhsZXUl3DSwc2HeWLPm48fKOLelkBrBnpPwiETSoh3sYzQ\\\\\\\/U12piN7pmoyp82AoSPx7+ZHb8xSMllu9dKcTlN0to\\\\\\\/FO6Amb57Fo4sHelr7J7GIhqFaVfi0NVzMxUs542n9Rg9foV1qfve0ebNRH2KbJPx4ZRPcjNiJIImv9jcG69bvAJLhjidr+ZShj5Yno8Tbmry\\\\\\\/h7xpam2Z\\\\\\\/k8EC1ODTJW7cWGS2PyGFOOfuacBAZhGartXMtnqW89NtLWGGGpcyUxfyGGYYAR84E43Iv\\\\\\\/f768B5F7ps90soiRSxkH4Ci\\\\\\\/AVgWPUz+Qs5pJAStyozqNk3HsOTrO4ejchA9xlDffafPULWT4vQ\\\\\\\/ZJmqHPM5MDadfu4djQun65A1C4Ipmg7ZFCbAl7v7\\\\\\\/eQzRdJGKt3cUO14P34gz0N7dD35j+i98nBEx\\\\\\\/pfsNgm3Fywj3feeOUHhJ1XdanWd3E6I7Lroeoug+FhTTtJQptZDijOIf61E3P\\\\\\\/r+Ko1+CWI6dHwVW6RicQJvwLgIiyunWhABimaYpWVHV9iDVkYc0o8znMu7jQ4svNq8vjZigdk\\\\\\\/W2LGya5wYnKZg3Krx+i3jC\\\\\\\/hQlJQQ2u4h1cNxhAF1cu0ond7poxS6clsmGJSuRYwpVGQkjaT1AHTRQrIry6bp5Rn\\\\\\\/TanGWZJDltd9suJk\\\\\\\/XitGCh+4vNmOu8wRDPRqyVMIVrOHSs8hZqxRTQ+uPtrMR22PZuE2jTZJxYoRf3e1muWObu8Gw\\\\\\\/U2OfeJOpDI46lT77c0M\\\\\\\/omDbv\\\\\\\/dc+Ye6buy9gdqYEdDVd2tacv+qtcmEoSDMxNAa4uD53szQGzhprTFZxf4pH2z8aE8Ub2ecvbZKhy0lUgDoYeK3El259jWO66OaqfssO7Aux90IfUJ23xrsOTHW+uw9dhsR4EEow0qVWbwktz0G7OyR5QkNWiEHkrEBwYWjLtwkCryqUz+Ckmt+ImDgDs8sSEp0qStvHMXd74Hvj4xNMR1eVChqUHLrs0GDtZp4OITDQ38CyjMqDJvIf3jZdVDUcCe8MhMknPLpnUPK5fqSrQ+gJV4GlJBVB4vFHL\\\\\\\/N5YX36u7aS3MWBnofhwAHiadTpJu\\\\\\\/hdjYcBsuEnunE6PDTrYcJvlLorUz5BiAeX4O8\\\\\\\/K7h3oC\\\\\\\/aOgkJAHcvSnZVMy2yuN2sbET76ovReZb8Qmc14QYNjWtYIJj\\\\\\\/rWV3HWKkK9+xehL6j1bdGFHhA19rO0poDQYBRxPLbAFHs1\\\\\\\/8t+7s+6SWXn\\\\\\\/omMEfhSgRXrXTeVNZ6n1KhZVQsKeAmlWemr6Le\\\\\\\/foCC0dtHvTfYt0UkNvELw81BIG0KqQSxnHEYWbCpz3hDPMuBpIJNC2GlCXugXuSEMEiTBBhK1szmIz0icoYw\\\\\\\/dJ0sV7bBhdJyjGkzIfKSdC7ON7vcdFMTLMTKUUeDTr6S2NgpwUGOwSfJqcQYD0i7eyT2JpvyBOHpYTF4Q50URrtzLBuws6u9YVVp8oB47nFqKUjgVX1rARlZO0g9QnHKXcmSNRrnc1pYppCR\\\\\\\/GWhc8+CzEcDkoi9mcZmckz4g0tKXuketoPvgcMHHaOdeioIXxMalEmxjnmnJYJT4CBTWgdHgViOkVNo+brCM460zIVjfqDdf88VNstmO2wow6050k\\\\\\\/VCGj2OqoZQvhqgSLY+EyGmYBJXj\\\\\\\/soreG2CkaxMkqYwXvDSINV7G\\\\\\\/ubAYhNdQ0BWvHlXLyt11awZ5gjI6FJfq5YDI6ip1GdxoZtl3Mds8NSVpHY7rELuGsvog65M3LX7PySrWcOblCZma2W0QowFl7npPpjaQnOYydPkd9oqhi+q5RD6m\\\\\\\/7d4WrYgVr\\\\\\\/nZbwmi6mxNrTPPbeH6PihoB5gnzU2R7EilDyYYyq9vzSnVgWfQ\\\\\\\/anQeU4DJHDlP+Ue5dfnkMJLFYw3G0R5j0eSvwaeT3CiCZSHGCiNDUTnsktjgOIydFL8xI+I22qCm6NQx5\\\\\\\/\\\\\\\/RRzxAk0llEwj8QQtQhWBoQRjWDTZunF5j80QIbNL+FoWqb0Za9ZpD748d2vHWOk8RPRnCwN+Lj4EsGmYoWwjvOguym+d\\\\\\\/bWj5SHbo6TApzjkfh6Zjsg9tOjjywUsanFF7Ni5mrOuk+H3dL50VD5LkLvH+iCKOD9kgbPyhhBRXzj8nozoq0zGMef67BWgU\\\\\\\/0CCKw28U3I6YJVNeXDZ\\\\\\\/jumghPOO+HXvM9+3t3WBbipB7yhqJaMYVs9jEnpN3pylqhm\\\\\\\/LZLbFZe14xLyCzf6TJBsHyMDRrJItg0GX+eqrKpf3yfeqgUlSW3X5\\\\\\\/LdqlPLEreKDQwdDUYnCWJibJVyxTqQW3rokxMnopoCfiZyOt2GtC0DMO\\\\\\\/DXeaa49y0twXba0IBllW5UEp1kQXzv6CkJKyOMwLlyAPkOy7q29I9u0UP3n8dfZt+C979Z+THLDgmuYMQPlFpHrFP6SVWACa+BfhcNBHYeEYkZ75updE+r6m\\\\\\\/ZEmmqY\\\\\\\/2Wikrg5BZOxono1746zVsvJiy8v\\\\\\\/SPhQbM7QXKEWMqZCSD4BnYoJFbtTBH1fEcdiTq\\\\\\\/vBRwQO\\\\\\\/FZ5Y4GobVFCVrd9FMrfOXFJfNCFAmQJzMD7RvKeG+vrcmzCimVBzRxx6XpPE\\\\\\\/tPBv5q\\\\\\\/EFgnbMagw3kcgAthbzRkXmt50hYtKLrRVzF9QtVmYD6zGo4HWaOiP2L5YPwSrNlAZyRdRfCPHBMHyPv02k9ntZDzwpL25FIHDi6INEqYRT\\\\\\\/wRpFRFyRhPn6eY5YbNVHhY8K2KY0kVFEPyCsv33XBmbDwWDC7iikOe3aZgAE2DmkBGk6G4wJIH1JKk3W4sWTrQByWjg\\\\\\\/ycj0Qr1ZzaugmjxvijJ3weUU+u4\\\\\\\/savQaMUjpiyuRJTVNWgeuGdqDYbDufwaoZGxqv\\\\\\\/9Ah3b9t\\\\\\\/87LNTuIrQJiJQ+epcfM\\\\\\\/eJvKERXf0fAtxkjinXcE8u7pvifO\\\\\\\/EPj\\\\\\\/Ay\\\\\\\/kkkZ4e5JVwY3vX050KHZdGAcW5JuIKxLYigZxiTazwdmnRyau2PmdacvCLuesKvQgM09yYZODGF+SPkYKi0uYiYazYqP7HWt0FQwC9WIrR6J0Q8MRKLFP5SeYho772iapq31Lush\\\\\\\/UHb7TULaRf7AmXMTGOxEiRklb1VcdNnfMIbnrybmt0W2xKdiwcoN9xrOw9nNPpvyNsEi4KzJJapLGb8d3t2IO3v7ckp4qxRFOhKJYQN7s6arAT7US71uVagj\\\\\\\/Fwe7EwFKh0eydO8AWM75PBp82B\\\\\\\/3soMieJlkhZGyhZz1xRcU\\\\\\\/gWUnjMWiKJCBC8kTv2HOUQy16NVTKka4so5Xj76etehiz31RzPGtOdacAwMh+ToEP4XeOvebd3N5Pb6qFYwMe29qT7NxhAFuvh+oXLCHKueu63MGxTzuecNoZz2y5b7cjA37yQ4PAv8Rcv3Mi211u5cPyEoajXTXGwWhxy16RFT2DuFokvTA+jeiew5rKLVtpDCg6bJpLAnaFq1ojTWo4iWYfUFJtU33+cu+VO1z0Yl2OFAJWwBuFXxTmOyxWdPuaYfHXk0\\\\\\\/5xpNl7KrTaEOvD7PrrYMZ8Dm2paEsBr4ufVZbLMPlXVyRWOY1bFehp9ndwcHg1aQ1\\\\\\\/LtP46dv+SEdDnMEnWwUNFlARVrJTTv\\\\\\\/RdNkstZuY2++ifbnsH0cNgAIpf7e7Q2KJ2TbPECTQQq2R4kphkqkQOoPCOXBR4psLHONMbTnBmsZSP306Wps0n8LUjnMh11R9fq3wpd3qKhsneWZEmDYxIpi6mur\\\\\\\/ElpStrpqz85xztJ\\\\\\\/VRxZ6arbIpznlLjtZB\\\\\\\/4cm7n8T8CJHT+JvM0fMq98uk8F3BOpTCVWTxemsUpedJaOq2fvRHs\\\\\\\/z+P8kyputKpP\\\\\\\/X2dZrSbRy7Etpo28dvG2lb+r6S+WQ7WO9xGBLZ\\\\\\\/icO1uWnkQgbsvVy\\\\\\\/3J8FHA0J0gcZqxk9HWwVO9znjJ7qvHZEK5i\\\\\\\/peg6Dv0zuJhdjMZlRTdxtE0zdTzZqfBQqpYfV8X4OXUt2O13+XJdsJkFmj+R45wr2HRn52BuVPXQiCk6rKu1oXuE91r7A30c\\\\\\\/+Scn7m4GsIeC08uwBTnW5DCLiF8wMG0z3mnK1nv5Ya+8gMLyNL0qYWRf8MKoufo8N+aDw41aQ6kh63v3RjHNNajguRZchT+uc2sD13Pfef3zgensLomeZcwbXOfb4+qdx6Yn7xctSAIbFzOO+kxbGPI86RYz821BGizlOZVJ236a5C+JDx7nfjHYSFR7\\\\\\\/oY8ypuEDdR7A8hkbA0yh+SMauMJMfzPTPWy2AwMONSFdo+Gx7jFXJIY2qsZg3I2aCpOqt\\\\\\\/CDEXExWgGqz5HzReMKReeYGPJJSjBN+D8NblnRKlwOqjD\\\\\\\/Q8MlmiaZ0FDdOQUPJ8MC\\\\\\\/rxV+TrGpVWRlDEsTfSQd172s+ZNIoX0b686neajNHLN+gBxPBudRmyxcYFeHUOMU0J8HxyB0HfYN2IkTT7cHAlUmB6IbjrB7YfxNzK9YKtByGJdQpaJZPTiH0OriKQHrDLV8gynzZFNRzC5Hm6LD64GfHfYYv4lNJiGrBhCMgwtFfBVfSeSOCcdiAfm3FpRkb3yIf7O3il0ltLMwdCPL2cvetnNljc4Ku8blsA0qv6Y+p1ZFBymHB9gP\\\\\\\/6hz45I9fSUsAGTmtYzAgZBs3XRdBbhi+Mrykgg7GUdY7\\\\\\\/RGz7k5SMBzWktIOlsbiz5Wj4VqAbsSU9HcZ2F1Ziuw9xtZD2RFtlqXnxwwKdPNuW0v9\\\\\\\/TeA4pV+k5e\\\\\\\/Ca2VvJf38Prs6q7NCsyJLd3WS3RUcMI1ZWXThDZHvLKeiuI3j6Aa6lDBFMXlS\\\\\\\/+0sawLlb+awVLLvGjy1ItE88boRk24DI\\\\\\\/w1wV\\\\\\\/ufgu5UmHo9Iz6a2FQvXzpfnQLDAa5\\\\\\\/rqYtLUqgzOyAWKn2u\\\\\\\/35TYHxETtthlPbY5rnUFgKVCF7pzfvOZ+4iqMktqlIePfXpOwBGzyy55W1giJwl+LV9\\\\\\\/A7Nzy8RSaJ6XoI6cSpcrUx+5a9d6oam0eakCuUApSRcvbq6bUepDAzlysQcWJYp6uIdXqutzHHhcp90JmwVczlWin2qsJPu7of\\\\\\\/3UEH7Zu5WLZKyhxuQzKRaUkHOaPX+hHccja3OZna474ZniMZSwbyV69Jwd+PXWEGK1t5sWYRcpIijC5pAc8uEbP758VdTeTYL1mR\\\\\\\/cq00WcCQ8KmoC6cIvd0UeCzBh3KZMrcgxTyEANzgbWBrPzUBQpZlj0KEIn7oa42AWGWq4ivO7ecPuBsfgnjZlvz\\\\\\\/FLtBbQgDQliBqNH2f4LPrHzjo32+rrS9uTuMv8XoFixdjsyu\\\\\\\/5msLD2QccDQvvVl6PFEPMV5o8sCdI3XBa55lcGS1sIFjWz2ne6GPYA0O6x26MN3MmsWvnRk0LMTzZjranDsaidz7vkQAqGrxLXiqc8X04B2PB8TBW2uZZFZ+SOh3E+gsmoMlTE5yptFsQZEnf59vjd6sT1Tgk8xrAlrKi\\\\\\\/TCet8V9qRxlhkvCdLajCYvRiXCXZN92Uue7p0\\\\\\\/blJmA2ooVMoeNewiCOazv0NQZPKgtV0eYHJrIvEvMF6vwJGo8GB6C6LRld8SUdJRAxBmCbttNfYIArFaG\\\\\\\/osJSNATas9696O+cxlOkVUk9d0cDqwO7gWGH4Qy1e1D4A\\\\\\\/F6wgB5qviDAt5w6rrhboSjrRGQzSWp6YJ+4FXwzwJRkWSDiXJZrp41WTT5y9p0RZ1BwcorF8abjFHIzuZzv2R3EnkrKeV9vGNoTBLhy1CY7laMKUUrUJm2awQAk5JTY9Igaj95NgITlhAfbaaEPuxm7KGZVqv8bn7j2FdoMeZDi\\\\\\\/UN+BFfVkhTC\\\\\\\/igAx0+LCXS9EvVwzw5sUZsJxVH8kmz+eNboSUpPReV\\\\\\\/JTgYSzwpItY2qRWW\\\\\\\/o09b936IAIj5CHk9vVrHfLqByT8W\\\\\\\/1GL2YBH1qNbdCp2Ucwqa640vvP\\\\\\\/qCi26s53Tlo1TXFR8Ke4VCKuMeW8pfOb2mIMP3SX1AWcMEgsY7qc4hc3jBvLrWevQnTFY1f3FkLQhaAUUXbxii5\\\\\\\/4HH2nzph5e6EboSrYWpBaTB7x8QMpa6aivLuWVBe\\\\\\\/Ni5+GEOLpW9nnHsA21+AQUIe4DF6chD400JTZ+aQ9ob5pD6W5AhvT7wnUPeWfBiiQ0DrYSFRfeFIF4nmGe9vSyPcCkJlaxopxMHbmNpO9RN6W1coN+P\\\\\\\/6XI1xji2HlCBfeyEEkZmisdTjap35054jl1ln9HEb8X4MJ19PYw0Vhbv4LrgKyVp7DKqhmGK0vWdzxqh++t57ZxkqBp+FT6NvAohFBWSaTISmysy6rTTDDD9AllN1hiF87HAeVmjfF3HGmrOWrcrNoc7G0RWePbqLnmw7VBQjUoIQHpK4MdMxJpPimUAxTGgi6fKCHcHeUJH8hM4X2TlEqgGolqBHptmxCGVg1Ju5TG577KZOON+Wo83aeUJxbwjVuYZviPv9V\\\\\\\/g34cNzyLgsMjE93J9MAwKt2CcEilL4v9eh82NxhTaM00Q8hmzqhIq77dEgHwgINaF321N5aQNYtCbgtA3n5KI0gxMmklRpf+C4GWztHvlFRtgQTEiEezqPUdqWgF3qDB3nydVLIa4\\\\\\\/+sSm03QpC2JjkRIjkBkAC2HKOE08Q9cF+WhzoPIWQXI6EHcMTblq\\\\\\\/6+r84+6MYVIEIk7RlwjlerwnFFHQPeNJ2LNLwzJNEFJ60uMmXmzccr9SP7Ry2jj3eqJpsgKbxSjO6O9T5CIGtDrRHhXRP3baJJFopk8pZUul23MK7vorM3Sc\\\\\\\/ZtnUsbxQP9LUJs8bE3Ksjeuye\\\\\\\/Fs+7YU5hDlP3Qs+uY3qqzXgqSQTqQppsAVsH0gKbBgG3K4\\\\\\\/gHf8OFeeKcwD8r5KYBA\\\\\\\/TRDXUqKNKMzlI3DpStKxz+Zbox8sOI\\\\\\\/P1yaWyuAWhPzw0nwm2NYY+LLeL16DGpn40UZKPf+IDcMHKr1MYooHPApnVUouQxvfml6nq1+1UeXc6xA3iip0SijXrKXaJmr38TW2CJD9dONOmZmg0NKKp8uqXJ0xoZqqFZoN9mAMtONrD0xZ2YIvwNAQZneQiOoM80yTBBmAdb8malG7jwjhy8BCno+av\\\\\\\/evaZSEDcgoUKXr8pFOt8VxPdVpO0hhu7V2cy2PNhVc\\\\\\\/3ehpK\\\\\\\/EVPznc7ZYTDhnn46TjsdNB85\\\\\\\/l809rMIcvr2fpavpRGWI04f\\\\\\\/jL2p174GBmQqAAIbF84oJx8\\\\\\\/yXi2yeDQuk5SFVPXVhROHqSYAr+mbf+VoZF3AdL8m34HLsBvvN\\\\\\\/\\\\\\\/dTc6ateVR7cqiYq4gJkbJRz6atvPTRfM6QziLW+14UU6r4RevvXnJgkQZzXfZw\\\\\\\/XTTBz947iFcUAcr5kIuEDayevuUkTxcH1S+b3cBZQMsJFUi6t9hTN\\\\\\\/v5lT38+PHwTOVbRLq3v+VTwSem4D6QV7z84tQ7Vaifzpu6zRkZkVCFMCfObxGYbjM9ozghqxurmwVIgUhFUSUW0QFDZ4u\\\\\\\/ShNRKtVWu4R6\\\\\\\/S5al6sT1H27m\\\\\\\/WOdNI1sTVXABEdGXQ9FatcGzA67lVT1ry6nvd3umKRlOmiHMISDe4ImpH9AN5YXxmLWLFDe71GqQ3RdcxdQfJtDbd9TjoHYD2DW7ecw++JCTzuxKwht1lu5eenSwhPLpipDUnSON2aFQrpKVSHRnUFde+emgOxjDee\\\\\\\/aL36l7l0Shx6jVOMY9P4O6iuNzxxN2\\\\\\\/XnY6bafBN8575Nr4QzDcFFg8Zs2e5zHukkARWSw6IO+V5mwTgYfPGItjy3hLFqoMS5u8lFdlajzajIH1k\\\\\\\/\\\\\\\/uCMrNs583gQsai2maPq\\\\\\\/4NYpbypB3sv9McOhJmIPDBnp1LpbbxX6i1QJ+D\\\\\\\/dSq7H13YO7\\\\\\\/ub2x0+DGCZ7Hr1KcNsNzxPa+pBDr2qiaBTgfA7q4TVPIDuCI5jpQtxY8lKSaEzyQrp56qq8ckt0nEGxtrrMTUawNHr+W7IOOvzMojHxaEUBlfknx5zDmAuWc33NeGSW9uLO3Qu5jAqhZyY2tPl1LHcKIHeuqg4yDmSm5IRbCm387nFQx03qj1yqeq86x7D+hBwMKU4grugU72mbHU3ou+RZKvBv6ElLgp0V7euOeuj6U+sUD3ZaT9Ir+3J3i\\\u0022,\\\u0022iv\\\u0022:\\\u0022eB9HxQB2ELO1toBtHEgaww==\\\u0022,\\\u0022salt\\\u0022:\\\u0022177b37d2bb3d8d440ff3482bf562adbf\\\u0022}\u0022,\u0022hmac\u0022:\u00225d29a52fb4b7019ca3baae7495ba1ccaa27a38b656fcaf08c8d3562424394db4\u0022}","new-26":"{\u0022encrypted\u0022:\u0022{\\\u0022encrypted\\\u0022:\\\u0022Js1lHb+3ppLrERubGPiYtOcTgC3gHEGUxWnJ\\\\\\\/I44jApjTiOPOJbSYFmvqlvd8SDl5bwERFJMnIlgzSTsR88HcoWIS0vcXnue2LoLw9wLkDbS1TI9O1MSv5ba+ZcJDS0YUid\\\\\\\/6OBCYGJP+8q4gQXR1WxpSY0qZSWBiNFYt0cDeFKmGSbsjLQ0ivBBD\\\\\\\/d4N\\\\\\\/s+JQASuPTdxxq+aBx4CCf6EMQQHF6VEbZosk5QCymzwZXCjbyIj1tL0jbBZ3cwu2oR\\\\\\\/S+oedXKnFQpcEeYqZx1eTL+n0I2rW05Hf7apotPTUvzYsB4mblUhZdQ3Xn77Wk+qaYkt\\\\\\\/X+Q03jTAne3MeEVKx1rrhEcJDnyWoodOG6p5yLjY9ctiU0GRN0CI5t7buCoxW0HVm35\\\\\\\/u\\\\\\\/\\\\\\\/+l66VnShj1eAtvx8P2pLesDrcUqssUqUosfIWljt+QP5GteddaPOJapwozyyGADRmKPQ+TBMOP+SaCNOKEoZHV8akagDZt4uLJnxMHJGvpABg3hPN+j8X2K08KlEHPUseIfkYcQHtgKAlLluvgC69hfEsI7h4h8m5sxQSNGPpdpIPRg1W2iEPdh1Qamg5jYNWomaFkTtUCXMwV1w\\\\\\\/uOL\\\\\\\/YKUJ79ippPd\\\\\\\/8DD9aYj4BoBxdiztL0OH71ymsulPWthAR06TUMoiSdHT38uYC\\\\\\\/fDZ7cuLfoXZnTxj02JIzGzyp5SF352pkaPCW3Gx\\\\\\\/CPETHEBvjLPvrb5\\\\\\\/RqJdto+VnTeNH1TFldb9kFTmAjTpd3Whz\\\\\\\/9fxOtSfeZH2vun7cywKBeVzUW4sDsWkHTZhFv6JE7gF7uoe7bhYn5hITiEM3qrakXHq9QOHn5xO12uMNpyW2hpHUqssoTJGcy\\\\\\\/xnCG++8qgFD5vzOVm7hKs9H1V2KpKWwTutkBwBW2kMzwTOyUPHpHRweGL3DsemFGvSkD7RHpkRafwfKGcQtO4iKJXOMTm+AqZU7Vv8a0G+O8hVyxfTF6lHZbLxHlW0n2ga+vDf1M0xofE+cZ1CetiDFum91vYGTYAm3w4EkT7MKs3Ul4Y8hJQe5Up3oFWdtCmoHTCeRPEkIWfKhP0q\\\\\\\/wB5FXojqAtzXxiJPSYeB0EF7ecRGAQhMu+dFsFdg83b542GTv5AXMeMVqCkrAXzHlJFaYVwfbYflwM\\\\\\\/GGKJCTghYi9fSoAvkyKYo\\\\\\\/wg\\\\\\\/VzaTJEEB9DDvYCW2n1x4jjTBIPq4\\\\\\\/lcT3AGi8SfxbOf1Apoil3BDiEpkDRsmsCR\\\\\\\/YdWNLy19lxZa4Bd3lxw\\\\\\\/rwk1sNa3+w5lervKoMfHz3G6y2EUTdXfySHPe0aQp1NeQB5fEyQkttvhL2tmwyqV7iwn6MaYVcOxG58ANnV51PQGPdKn4NMHg2i\\\\\\\/qltzjlCR+J3B4x3ijZr4PP9ry7\\\\\\\/8KYVvcD6SNwm4\\\\\\\/SwgJ8e\\\\\\\/p32AVyCEK9eVECyXClz5MVgYd35TLGfJrUnBIEnur1RmCK87GiocxY9zlZgumZvFLIYmCtQq\\\\\\\/JhAQ5yFkaAB\\\\\\\/ypplF\\\\\\\/ZbHgTfYNjH8sxPDlg3wcw4RiL\\\\\\\/Dr4jMwTm7OyciRtQxrCJJsA5zCthXelprwMgZnfcbVBEe5lluS03VANIhH0KC\\\\\\\/ES5T3ff1\\\\\\\/k9TzJEO98ZtzCyStc6O1ADxWJgAcc\\\\\\\/xcGNPG2pxXi2BvQpy96F5\\\\\\\/GP0OvXDi\\\\\\\/yf2EUI+QCDnJWCdB3g3o9Xp2PPfSO+xW9cppLKDfLeOq6wWl80J3tVy7vvyIGc3KjCN+aD3FbN9\\\\\\\/HpyVvQ1nWzRQcbNG\\\\\\\/GstDAj15GUttWsW17alW43gbDWhGjxsImPt7xPM\\\\\\\/DGlply5zpcz9klmEvgL8XOr8WlylG6aiv0jkqfg09Oc6NiVHIiS32cNzLcgs3Iovse0ZbLzb5EwuIjPs3rMiLWTKjmnXq3UK\\\\\\\/S+MKAFQxf9dE3SLrb79\\\\\\\/KH8QjYW8IdM6LOCJrociPNbm3cpOPunuvxQBLZSsdm5BopDyB7HOvA\\\\\\\/buTLEXNPaMLa1hS618LFQB1XwLLrWBHc3UTIl64dT2pZQy5xN39fZ2yWeeYFhZogKguB+SKLlV7NTb2d95EoMA+XnBr+n+SaSN6JVOoMnsnW5WiElqdXfhBDumD1JRP3MjiApuEF3Zdynjl2bJm5gYb7\\\\\\\/1CjuWDt9PREAz\\\\\\\/e0n4cKy9tPmVs3GrTln6feO0\\\\\\\/Wf1p8cdGE1HRigccdWBhNM5bKcQy594rIvsEbZiJjHwjBrBR+08ul+ujJxk7c5FpFPkgoZXedbmeiBT47I9zlIYu064q3DevvBx+hd6FsnnoJ0VKN89IfNKqNcOrN8LG48idKBuTwSugyJp+zrmJZ0m\\\u0022,\\\u0022iv\\\u0022:\\\u0022fTysnmEdK\\\\\\\/J1J722MZfkuA==\\\u0022,\\\u0022salt\\\u0022:\\\u0022177b37d2bb3d8d440ff3482bf562adbf\\\u0022}\u0022,\u0022hmac\u0022:\u002261b5004ddd55cce46fe5f15a316de779f161a0ca58d3bd2ba387819020b2c1d5\u0022}","new-27":"{\u0022encrypted\u0022:\u0022{\\\u0022encrypted\\\u0022:\\\u0022CXM4kaiYhitt4o2DPwL6Bw+7QwzKlLBkZAaJSRp0ofSREfG6c0WWzE1uGdS2P2L0d1KkFV5Zz\\\\\\\/XMkYfxQz\\\\\\\/1MbNHN+BP7UG0rkjjSra1Hu22cbW\\\\\\\/8myb6HLyWCclDSAJqaeId6TkA\\\\\\\/e2SUWAQ0QtzqPB3Q2YPaCHUdLOMLggB88EnyC\\\\\\\/Vv7ruXCHuPJwqHBcy1Ezu9OGnAHBFb8zVtUdykI1G0GEgw4x71F6VhaHtJUJYq2uVaC1JxlCCCQxVckxA6K0RBkgU7eQG6dpOOY1Ij8UDjIWdt+W7NG2iK+UEKsS4Wg6dNPbD4J44WmluUos6lIRh+z4coVNQSOhIE9cC7IO7l8FI49+UR11Eb8iR82zFqifzCEtgTK75YGysczszDrdWx2Cj3Q5b2\\\\\\\/tWrpEEA3SH1BspSu2W5GEsg9vVAEOu3b9zAm1ZDAXIzVK30+JMjLUl0wJpr1POx3agCYwuaiHzIpvCFBF4NfPRxQCbHoNablNFtY8wHlC5Agk8CXGIVSZz9w8rHawXtEOI4P95OB2P7KJBJKp90qkgsHzsrqC6Gc6X1r6C4KBvAc7j7TR+O\\\\\\\/b7DPtO\\\\\\\/LuNilMyMW9Hv2zbMJ3mvK6vGCBH\\\\\\\/uXlgDSTs4qJxGxQB2x1U7vBIM6mII2NLkC0FSoJo4t\\\\\\\/sJWJU9PK4TJT18kiqOZCbt5JZbWwgMd3eWTI0J1wMeGKylO3iwpx7ykowsVXMTVRl74LUBAuI3f\\\\\\\/unjun12s9w09\\\\\\\/H4mZbEPM4kYWrFTKZSROqaybAUXGTzlTlGnyI0GRLu80py\\\\\\\/6ViGAS8NJNytqwHQgrq0n5+gty+6eNCtYrXR4YNw63ymz6XejKEjKzvhxC1wxveiZBWYFBAWGa31ArxhttXZZ354zpnpwrysidQprR\\\\\\\/Gl\\\\\\\/JIbk1a+mu5ODIo2XZov4Ei0m5i3z1\\\\\\\/\\\\\\\/Omd9KxVCYHG16+Iz8ahVmWIelWr1o6TJUcbI7DWdanjbJIhXqUDZF9Q8QqrfD5EYiC4u582oDtHOhnmNbeyIhp6Dto6tBXsWleKCz+jEgx+PjfAEVeTetT+lklc9TyH5Jx2I3FiBVIpzkP1+L0RMST7uD6CdCbNylXTme64\\\\\\\/5gV5+JtlseNX8YS8Y3KGIiHm7vYtZMXw0i2FXg5EgISUa2C1PFfhploqsMf4GzUM8hKNc3cINH6Ubt\\\\\\\/hMNdf3dXW\\\\\\\/lVGcakGODecPawCxClYAh7Wi21OosA4S\\\\\\\/sUxyHWUWZEa\\\\\\\/hoxoX93fvDMI1hzPbBJDszDrpBp7byqWOZS8kw\\\\\\\/OxsSwN\\\\\\\/vHJQjFltxhJam7TitYxQHLv9cZB2e7QajsIlpe7WTSuCcENOZLMxHSxwGIpfpfT3EHHKYcKxEwQDibyaMBISKQ9isH3CIjRkb\\\\\\\/Q4WEOzuwHaWtOfLvF95M5dvqVu\\\\\\\/Mlkn4dbphE34JbzJUhEagWiStrTuIrhdrU4zfPKm5MAXy0q6RGZisjTh42uzsbRv4dAb5Em3eNNwenqmbutEsnX2TNLNUOa3WvOajV78kKTEbj8UNGRpFAENHYrbFuXAJtH+y84lNRaF9z2bxqv5yAaG22Q1\\\\\\\/2m8uesMjoZBaYKSwU9\\\\\\\/UYEImvjNcVji4CAVf4Dfv7O9RiBD00rObYJasnm7PX4YhVKc9FXRv2\\\\\\\/HKW\\\\\\\/c16sjW7TdNUlIigSgfDXacRSeVPg8qml4JzbrzDmV8MQgGNOfPZuY+LGuAkE87D\\\\\\\/uTfw\\\\\\\/V07+46p8mID0BNn3MIle5k4ennUDa9HPHpoivaKbrUHoaboWcwLRFE\\\\\\\/k5ITPPU6fcC3l3YdYCvcTBvEYMBmAfwca0MBzEqzYdyFjJM65mgVoR1GOr9UcYqE41SLMVlLsiAwBjNYcvvDTBcazExEvFB0DSflAPwTqqiTDCFD28o8BFgtkL6MjFWcTmRFBxW+jgUVCdcjlZgXWkoQaDHCCCWRex+uUVA\\\\\\\/JUfnDpznmxuoVfD8AutK6TN\\\\\\\/L9OH0pNEcow6E0a69HKbmmYPA+cD2eaemy7UbUALw4ijiK9YiJ78EyTrVo4jQDljj3uF7SPZIp+slC3qktie7hlthLaBtrsr2HsKs8lMY3\\\\\\\/lwn\\\\\\\/ZCuOXu7nPiCtk8uBkGMmcobCiEAVFXwEhIzGQ4i0Ej1PWDMjlfsJjAVxtMdSu5s5EIhUQS7\\\\\\\/ROwBdsa\\\\\\\/UITGiFnVeAHhMrNHyfkolaXpGUl0Xyy4Wr3We73766oG8U7Z\\\\\\\/yUQiQLlPDp\\\\\\\/jfKzqOM49agFZjfJx\\\\\\\/FWsYIcPpS3jBWlYOKaqCDOR\\\\\\\/gH1ijIQhs5PK69WciUaBGGSNKpqX4GUOztAQHynOW\\\\\\\/jngwMUD+c9wmC\\\\\\\/fSE\\\\\\\/B6vxgrrkB\\\\\\\/Hca6\\\\\\\/TrS7i8L\\\\\\\/rAyVZ7IEes7QLs9qTKran25E2RS5TWvcJCHRatyzojYb8IsoKddauiEG0hKrXRdAILubeGPxsoIwOmNvM=\\\u0022,\\\u0022iv\\\u0022:\\\u0022zPbikw4uUt4XZQyDYYhoJA==\\\u0022,\\\u0022salt\\\u0022:\\\u0022177b37d2bb3d8d440ff3482bf562adbf\\\u0022}\u0022,\u0022hmac\u0022:\u0022d430aac35329c1de2cf448a20fbcdaa1203aed84673758eb503a65d75b49f17b\u0022}","new-40":"{\u0022encrypted\u0022:\u0022{\\\u0022encrypted\\\u0022:\\\u0022zERWehPwjQdnCEJOj8bDSOGlOBLXZURlv3lpGhDBoRl+40M7crl66\\\\\\\/TdCAd6LRb6w\\\\\\\/45DoBWtQhQB7yGPlD5qTO+KGnXmsYqz0zRHXX1xxtnbu3FAuqf7UyKluvgM84DOU7fYIdhwivpTgycSyY8h8c+X94v72uOYs4rbjBmUUXNBQj1qyeImQ5qfmdYYgR7ld3dKZ+ArD4VQe7gwfT9MtEveZEAB5NTim7Uffnb2VEsj1sAVEhBcAq\\\\\\\/ZHBViDSZ59xScwl1zsNHz3VCFIJ13+P+tNWFa6c109LsnGf+TFqnKBc+e1zQvGqaF+jH2BHnIoZGsToI5tDKcrYElLbjEKa\\\\\\\/KWyUZRrF7L2qSKj2HBv+WjqAwEacbelgU5Hze5ZLza14xLv3t9B\\\\\\\/WTDpXX42jKl4WVmkTrOyQV0dPir8mG54bIOg8JQeTSuCcv7KupY16uxOhRZ6m\\\\\\\/cyd85bXlOmBrCyUIJHXqVgsZDa1t+mcxo8ccjQs\\\\\\\/nWlSNXq4GWIfFMPfZbcDkohnnjzQ5mGSNkYHM\\\\\\\/81qTL5EzwP0V4jEh+11Iz6S4z8p9d0G3r192d2xMVqV4ppTRL0FHX1HaN32TSNplKotcf\\\\\\\/pjDvGAElJaB8v4yZ+5HCHd6qUZGKeVQ+AwDtx5OFalhLnPtFCtIs3dRYRqyJf\\\\\\\/IlfK+wG3GzC9oIZngszdsZbE0MDStAzZbW72\\\\\\\/uAmUgdTPvEU6FgvWE7j8TVyWIzgFGw0IMwnA7b5yExxiAIlFrvwKL4Lsq7kc\\\\\\\/tmKZkxF\\\\\\\/5NBo4+MoGawToSLbekAxrEshOEXK\\\\\\\/8A5f5C3v16W0lhQ1jmnqgNljFdNiTF5qIQkpLI4UOJ1CAAshJi8Inl7NjDH1GPUdt4mXH0qehuRRoo+6xpDdnhZwXSFMp24PzhclIYLigC7r0do0WjTBAdEfUUR4WuisanbvtTpnKBxWFL8+gRCkRpwxs2Nx7oehoLXGUsuTq2YDaatd6MiM5Ll\\\\\\\/mnUzHM5DGOOXDc2sFqtgaSI8mt6uXkyD2huQy\\\\\\\/rsBxTN8EHKzKGg5xu3NlL001Awjcvn5XIxXuDugfHsVZKXqugBTxOJyfGOYkfVlAKcJ06NWdGwhbray496qGdKCIh\\\\\\\/qZa+i0V+ZMq6+qX1shyeiQrRZOdX5Bh92CbS0gfuG1oJnrfpv7WOKFelf4TBxL32Cebw36PEwarGuquBbdkEKTlVxvkrmNA28KPY0YDhF+TC+ynBsWKYUv4bJinuRvtSFnCo2uaawHx7BHNDcP7076L3ISWtjt0pnYUe\\\\\\\/SMxQvQCbgmmBuz4GvXSZg5Usx9JIva8ZnuCFiODgd7rkXh3w1dd5q3i59e9rU14qt9\\\\\\\/I4xvCvFORZEJFTje3qLQ4pMFkFSZcKzKFJvxrNBPsGvjlrAltE3ofKLYiEqmZF+RM8xs3L76lF3AYIonvDQzC2Jcmq+Fm39ZpAjHKCPmJNvL3iEZ6ca8haecgKRJPGSxuc1QQmAGj9UXPWKmNZyxzxgkacmp17onSeoipQgn4uMQCciLmmZrZ5f2o6j6SXEh9wxm26lYPdFLG+dAI6gMi2M2TE1no1mcZXXMIybsU03mNFl1j9OKykIZD0ORhBmYrXHpqJYRFp7K4MUpYOVwRF70Z2aGRsj0f+ptnQ49jOEF7ZJ0hjWTyqGmTI\\\\\\\/9neV1QqVd0ApCHjcnAqLCWmuYS6cKRCiLs59jt1SHi5UpP4UuvB\\\\\\\/gmV5\\\\\\\/EyIN6mfV352w5R9MNAvynD\\\\\\\/tUmOkNd\\\\\\\/+euJY3bpPXVmqCTOralv81OSl0NldG+fQH9\\\\\\\/Dy6hPNEpoUeQFLwLSus3nJzTQdSeyRTC2aiTutxP593RvIxbvI\\\\\\\/NE8PKBeZaPsrjfMt7enwtGmFfK13bsvo1R0vHeLJaZhZ+G56TygmmgJ8v1VKQNeP2pQMHb3KQOTz7WhjgJQmJlkRlkzpqoJN0LWFY\\\\\\\/5KaGQOJrT7uRUfYfO6dMgCbkjx9qAUOj+pJ6SmwW7rNAtHHbKYPt9BFyL667VbWSLz5FWfoln1NoIg5tgv\\\\\\\/79F3hZvh7uyBAsdWU+4\\\\\\\/vPKdfn\\\\\\\/7NVZGSdcXZC8AOd4Xz7BWb7EHeM9QNIxm4h9Ba7gRVxeZX5hZgHDr43HzZ\\\\\\\/yOKI6gLlptfme+BSPEUIPqVUJdpS2UMnzAZyr2ZRRwNB0IKVkhv8VS\\\\\\\/IJPYRP3WQtdn1e0QJPpo54kiXd0yL2tweWx65uKsXY18tu+mfcNXXweq0mGQKJfy5P417p6jEv0lE3bKEKIjHdlzSnkTG3v5W8xIb1MZm5XfdqI0OqhFZwDQT9OC+hCmvhx8V3L\\\\\\\/ih5Y1\\\u0022,\\\u0022iv\\\u0022:\\\u0022ATBDV0WpUYwh45k1DjMHjg==\\\u0022,\\\u0022salt\\\u0022:\\\u0022177b37d2bb3d8d440ff3482bf562adbf\\\u0022}\u0022,\u0022hmac\u0022:\u002296a68fddd2331d7c467e3fc06041d851b8fbfa1cbb624603064f81bb145fd68c\u0022}","new-44":"{\u0022encrypted\u0022:\u0022{\\\u0022encrypted\\\u0022:\\\u0022AVmD1C\\\\\\\/CtIxxazlwKSSTyiFWJhFhMSUO9aFKiNaLf9O5GC1XmQBa+gISdEDhvx17UbIZnwyBT+E3LoWkI2fmjHWOMbG7ZM6Bj\\\\\\\/kwJVqzhhjSpBZ6DbVBAeJtkeBVU24Tog4giDLtJdjEBF1t7\\\\\\\/ZmPoE+nbHUm5GpsF8aRQZzOcNd7vtvVaMdwvLiFFElGq0uJ5zvh8kAcPUfgswXqClU1zwDnZRU0kZq5ohsmyCgcSgyanmTNyEZdG2kr+r+NjU53rSMSmRuj549iVn02pUaOWdTluh8gTaXUf4VRVlrGOPCVYJtu7t2+OaPjhLaMWtRRIJs5nv3QThbQbpyXs0Co0\\\\\\\/PB0I4J4QFCdjlZ+RH60I6ILSouMLwy5FxnXjzZc\\\\\\\/qRlv9rpvp3k\\\\\\\/JLjK4+zio5vnUuJhnKkozUZDeEd2CPoREcoA5uVFk97YEM8X\\\\\\\/Yp5lnb18QHRCtEodtvvXmQQ7tg9sybrAohIY1yTbkhKc0uPGXgm75rikVLekze6S0z\\\\\\\/fPdnOKHHQsfPI0nmgJUN5hUayGWsmI76AohF9p+JWDT0MIx3XZLLi5ta8\\\\\\\/kO\\\\\\\/VfLcgLLVDkKOThFiHWxGmj1wK26+F+KwBDD50xjwVRHmH7\\\\\\\/+lGCmdn5PEjOGcQllnKem4Skk5LYLUddtBPOaBjh7iugWA2QbNrn4CPkhayZwoUD9H9rK8fK7nPteh2gHJifimPr5Qr+FjImCftwRiWJa\\\\\\\/QWshUaua3O3PvUzTWaubNsbDEH6huuM\\\\\\\/+kI48Ht\\\\\\\/Bxev3U7IWZia5c8oA0mRiQr54HabNkMc+r6uATJUmBcdFDytB9QEL6ctV+vxwRMGK4oJew4mJoGMTaq75ExOUe66tXkgZf+PrcTGARGHZzYBhTIGMuBnAxQECGgBG3jpzn1O\\\\\\\/7m1dqU7YH3b+fShOgnaRZOwgLoUXuGkGsCwVaELYHLpZKvDJjugMhN0mUbAlq4BBqGV1K48xOZlalqbJhE+cxTFd2IELedMtmKTdiR9Zew7BX86DSmpzEPqM12iGrF8RJwaC+5bRyLcZ+m8mehEuwdDDvYVQqwjpGWNeJa70PmBtiwwfn6UAvNTVNuzQXSMbii0HUp4U+0ipHJAdi2MYDo5Gg4jsnHfpHdTpG5r93sEmShcwBWUZuDqx8ZPeckwSSmiDVmcui\\\\\\\/XlBJPGB9shfEr0bABtNVGGLmjt+OmnPF1NSf7is4g\\\\\\\/r3hDdG4t5nigDe+1kLCOKuu\\\\\\\/HaVxC+X1P6\\\\\\\/PEToEkOGYHAF8D6Yah97dwA3A3Pbenb2\\\\\\\/spJ1+xj9RBEehwVCkXkk1pORiPfBRI7TKrgfstghwePih9YtuaV476DyzRj26t9\\\\\\\/qGLPOlFrHaZx3zm4xGD12BWsvZhxfHSXnMzjRX6WEvHUcLmas5jJh2wmZSDXtEGEeCZWImj8h0mUjmDNaOl3qrLamFAo1960RNQZkZeLip2NTpbfAwnF3xw4hWLCb0qKC4sXx7zE8Xc5hIaQJplVgER\\\\\\\/iZu7XLlhems2B10ryhAu6QYna82fUl5dsUsjihGKMWKHMiFDlVTFR3t0v58Yit9ap0GfdKoFwEyAq8epKjVv6S3INFcRdRCmqsBevvuCqzJ\\\\\\\/5FQgv\\\\\\\/EyjEgwGk2PE0MI1bAVcXqbOnGUz0nI+uTtz6K5BOxlbIfQN6C7iciahL1Awvj6AmXIEBStxdsVG4aNsPK9hEDsDp3BnS+girUfnaqTmXytHzeJqgGTuCKSeLnPVLKkEYCiU8R\\\\\\\/f63vZQby5aqBG3m43FWdPJUmC9DnJi+tzAY8D0HX1nTaPSOr+080ESc9BKPs0R5NQw\\\\\\\/ghkmWNZwwaqLLEoStnPsxrIFrOanhfjb\\\\\\\/F3ND\\\\\\\/fSo7rNiBeObpkaUNa9p9p4Q0oag2SD04Hgj9j7CSey8ebxoFKOWP55miCY+TJRbXfNyvkLY92tJEuZWk8Xl5ttxac1snszf7P6iedbZQzS3Tz20Pv9EsD4nv9xvBbzlsomn2mcP8NnrlBn1TRiqCa+xBt24jJjTjGvA==\\\u0022,\\\u0022iv\\\u0022:\\\u0022JiJ2WD8zkU3fvZPJSlFkWA==\\\u0022,\\\u0022salt\\\u0022:\\\u0022177b37d2bb3d8d440ff3482bf562adbf\\\u0022}\u0022,\u0022hmac\u0022:\u002202dc88e6967ff8f6cff3d124239ea748fd124974fb5730ec885a540a50fcd01d\u0022}"},"instances":"{\u0022highwire_abstract_tooltip\u0022:{\u0022content\u0022:{\u0022text\u0022:\u0022\u0022},\u0022style\u0022:{\u0022tip\u0022:{\u0022width\u0022:20,\u0022height\u0022:20,\u0022border\u0022:1,\u0022offset\u0022:0,\u0022corner\u0022:true},\u0022classes\u0022:\u0022qtip-custom hw-tooltip hw-abstract-tooltip qtip-shadow qtip-rounded\u0022,\u0022classes_custom\u0022:\u0022hw-tooltip hw-abstract-tooltip\u0022},\u0022position\u0022:{\u0022at\u0022:\u0022right center\u0022,\u0022my\u0022:\u0022left center\u0022,\u0022viewport\u0022:true,\u0022adjust\u0022:{\u0022method\u0022:\u0022shift\u0022}},\u0022show\u0022:{\u0022event\u0022:\u0022mouseenter click \u0022,\u0022solo\u0022:true},\u0022hide\u0022:{\u0022event\u0022:\u0022mouseleave \u0022,\u0022fixed\u0022:1,\u0022delay\u0022:\u0022100\u0022}},\u0022highwire_author_tooltip\u0022:{\u0022content\u0022:{\u0022text\u0022:\u0022\u0022},\u0022style\u0022:{\u0022tip\u0022:{\u0022width\u0022:15,\u0022height\u0022:15,\u0022border\u0022:1,\u0022offset\u0022:0,\u0022corner\u0022:true},\u0022classes\u0022:\u0022qtip-custom hw-tooltip hw-author-tooltip qtip-shadow qtip-rounded\u0022,\u0022classes_custom\u0022:\u0022hw-tooltip hw-author-tooltip\u0022},\u0022position\u0022:{\u0022at\u0022:\u0022top center\u0022,\u0022my\u0022:\u0022bottom center\u0022,\u0022viewport\u0022:true,\u0022adjust\u0022:{\u0022method\u0022:\u0022\u0022}},\u0022show\u0022:{\u0022event\u0022:\u0022mouseenter \u0022,\u0022solo\u0022:true},\u0022hide\u0022:{\u0022event\u0022:\u0022mouseleave \u0022,\u0022fixed\u0022:1,\u0022delay\u0022:\u0022100\u0022}},\u0022highwire_reflinks_tooltip\u0022:{\u0022content\u0022:{\u0022text\u0022:\u0022\u0022},\u0022style\u0022:{\u0022tip\u0022:{\u0022width\u0022:15,\u0022height\u0022:15,\u0022border\u0022:1,\u0022mimic\u0022:\u0022top center\u0022,\u0022offset\u0022:0,\u0022corner\u0022:true},\u0022classes\u0022:\u0022qtip-custom hw-tooltip hw-ref-link-tooltip qtip-shadow qtip-rounded\u0022,\u0022classes_custom\u0022:\u0022hw-tooltip hw-ref-link-tooltip\u0022},\u0022position\u0022:{\u0022at\u0022:\u0022bottom left\u0022,\u0022my\u0022:\u0022top left\u0022,\u0022viewport\u0022:true,\u0022adjust\u0022:{\u0022method\u0022:\u0022flip\u0022}},\u0022show\u0022:{\u0022event\u0022:\u0022mouseenter \u0022,\u0022solo\u0022:true},\u0022hide\u0022:{\u0022event\u0022:\u0022mouseleave \u0022,\u0022fixed\u0022:1,\u0022delay\u0022:\u0022100\u0022}}}","qtipDebug":"{\u0022leaveElement\u0022:0}","panel_ajax_tab":{"path":"sites\/all\/modules\/contrib\/panels_ajax_tab"},"urlIsAjaxTrusted":{"\/content\/316\/5825\/709":true,"\/system\/ajax":true},"ajax":{"edit-submit--3":{"callback":"highwire_folder_login_form_submit","wrapper":"folder-form-wrapper","event":"mousedown","keypress":true,"prevent":"click","url":"\/system\/ajax","submit":{"_triggering_element_name":"op","_triggering_element_value":"Submit"}}},"highwireResponsive":{"enquire_enabled":1,"breakpoints_configured":1,"breakpoints":{"zero":"(min-width: 0px)","small":"(min-width: 480px)","med":"(min-width: 768px)","med2":"(min-width: 900px)","med3":"(min-width: 1025px)","large":"(min-width: 1100px)"}},"googleanalytics":{"trackOutbound":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc(x|m)?|dot(x|m)?|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt(x|m)?|pot(x|m)?|pps(x|m)?|ppam|sld(x|m)?|thmx|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls(x|m|b)?|xlt(x|m)|xlam|xml|z|zip","trackColorbox":1}});
+//--><!]]>
+</script>
+    <script type="text/javascript" src="https://d2ufo47lrtsv5s.cloudfront.net/sites/all/libraries/enquire.js/enquire.min.js?olung9"></script>
+<script type="text/javascript" async="async" src="https://d2ufo47lrtsv5s.cloudfront.net/sites/all/modules/contrib/picture/picturefill2/picturefill.min.js?v=2.3.1"></script>
+<script type="text/javascript" async="async" src="https://d2ufo47lrtsv5s.cloudfront.net/sites/all/modules/contrib/picture/picture.min.js?v=7.53"></script>
+<script type="text/javascript" src="https://api.pre-val.org/pre-api/Scripts/PreProductAPI.js"></script>
+<script type="text/javascript" src="https://d2ufo47lrtsv5s.cloudfront.net/sites/all/modules/highwire/highwire/plugins/content_types/js/highwire_article_preval.js?olung9"></script>
+<script type="text/javascript" src="https://d2ufo47lrtsv5s.cloudfront.net/sites/all/modules/highwire/highwire/plugins/content_types/js/highwire_panels_ajax_tab.js?olung9"></script>
+<script type="text/javascript" src="//science.sciencemag.org/sites/all/modules/highwire/highwire/plugins/highwire_markup_process/js/highwire_google_scholar_sprinkle.js?olung9"></script>
+<script type="text/javascript" src="//science.sciencemag.org/sites/all/modules/highwire/highwire/plugins/highwire_markup_process/js/highwire_openurl.js?olung9"></script>
+    <script type="text/javascript">_satellite.pageBottom();</script>
+  </body>
+</html>

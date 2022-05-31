@@ -1,0 +1,1399 @@
+<!DOCTYPE html>
+<!--[if IE 8 ]>    <html class="ie8"> <![endif]-->
+<!--[if IE 9 ]>    <html class="ie9"> <![endif]-->
+<!--[if (gt IE 9)|!(IE)]><!-->
+<html class="no-js" lang="en"> <!--<![endif]-->
+<head>
+ 
+<meta charset="utf-8"/>
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+<meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+<title>Fiscal storms: public spending and revenues in the aftermath of natural disasters | Environment and Development Economics | Cambridge Core</title>
+ 
+ 
+<link rel="icon" href="/core/cambridge-core/public/images/favicon.ico" type="image/x-icon"/>
+<link rel="shortcut icon" href="/core/cambridge-core/public/images/favicon.ico" type="image/x-icon"/>
+<link href='//fonts.googleapis.com/css?family=Noto+Sans:400,700,400italic,700italic' rel='stylesheet' type='text/css'>
+<link rel="stylesheet" type="text/css" href="//www.cambridge.org/packages/cambridge_themes/stylesheets/global_nav/v1.2.min.css">
+<!--[if (gte IE 10)|!(IE)]><!-->
+<link rel="stylesheet" href="/core/cambridge-core/public/css/app.css"/>
+<link rel="dns-prefetch" href="https://usage.prod.aop.cambridge.org/v1/events">
+<link rel="stylesheet" href="/core/cambridge-core/public/bower_components/font-awesome/css/font-awesome.min.css"/>
+<script src="/core/cambridge-core/public/bower_components/jquery/dist/jquery.min.js"></script>
+<!--<![endif]-->
+ 
+ 
+ 
+<!--[if lt IE 10]>
+    <link rel="stylesheet" href="/core/cambridge-core/public/css/ie-8-9.css" />
+    <script src="/core/cambridge-core/public/js/ie8-head.min.js"></script>
+    <script src="/core/cambridge-core/public/js/jquery-1.11.2.min.js"></script>
+    <![endif]-->
+<script src="/core/cambridge-core/public/bower_components/modernizr/modernizr.js"></script>
+<meta property="og:site_name" content="Cambridge Core"/>
+<meta property="og:type" content="website"/>
+<meta property="og:url" content="/core/journals/environment-and-development-economics/article/fiscal-storms-public-spending-and-revenues-in-the-aftermath-of-natural-disasters/681E3FE807F739097D71CBE090C8F89A"/>
+<meta property="og:title" content="Fiscal storms: public spending and revenues in the aftermath of natural disasters | Environment and Development Economics | Cambridge Core"/>
+<meta property="og:description" content="&lt;div class=&quot;title&quot;&gt;Fiscal storms: public spending and revenues in the aftermath of natural disasters&lt;/div&gt; - Volume 16 Issue 1 - ILAN NOY, AEKKANUSH NUALSRI"/>
+<meta property="og:image" content=""/>
+<meta name="description" content="Fiscal storms: public spending and revenues in the aftermath of natural disasters - Volume 16 Issue 1 - ILAN NOY, AEKKANUSH NUALSRI">
+<link rel="canonical" href="https://www.cambridge.org/core/journals/environment-and-development-economics/article/fiscal-storms-public-spending-and-revenues-in-the-aftermath-of-natural-disasters/681E3FE807F739097D71CBE090C8F89A">
+<meta name="citation_journal_title" content="Environment and Development Economics">
+<meta name="citation_publisher" content="Cambridge University Press">
+<meta name="citation_title" content="Fiscal storms: public spending and revenues in the aftermath of natural disasters">
+<meta name="citation_author" content="ILAN NOY">
+<meta name="citation_author_institution" content="University of Hawaii">
+<meta name="citation_author_email" content="noy@hawaii.edu">
+<meta name="citation_author" content="AEKKANUSH NUALSRI">
+<meta name="citation_author_institution" content="University of Hawaii">
+<meta name="citation_author_email" content="aekkanus@hawaii.edu">
+<meta name="citation_publication_date" content="2011/02">
+<meta name="citation_online_date" content="2011/01/18">
+<meta name="citation_volume" content="16">
+<meta name="citation_issue" content="1">
+<meta name="citation_firstpage" content="113">
+<meta name="citation_lastpage" content="128">
+<meta name="citation_issn" content="1469-4395">
+<meta name="citation_issn" content="1355-770X">
+<meta name="citation_doi" content="10.1017/S1355770X1000046X">
+<meta name="citation_pdf_url" content="https://www.cambridge.org/core/services/aop-cambridge-core/content/view/681E3FE807F739097D71CBE090C8F89A/S1355770X1000046Xa.pdf/div-class-title-fiscal-storms-public-spending-and-revenues-in-the-aftermath-of-natural-disasters-div.pdf">
+<meta name="citation_reference" content=" N.  Anbarci  ,  M.  Escaleras  , and  C.A.  Register   (2005), ‘Earthquake fatalities: the interaction of nature and political economy’, Journal of Public Economics 89: 1907–1933.">
+<meta name="citation_reference" content=" R.  Barnichon   (2008), ‘International reserves and self-insurance against external shocks’, International Monetary Fund Working Paper 08/149, Washington, DC.">
+<meta name="citation_reference" content=" T.  Besley   and  R.  Burgess   (2002), ‘The political economy of government responsiveness: theory and evidence from India’, Quarterly Journal of Economics 3: 1415–1451.">
+<meta name="citation_reference" content=" O.  Blanchard   and  R.  Perotti   (2002), ‘An empirical characterization of the dynamic effects of changes in government spending and taxes on output’, Quarterly Journal of Economics 3: 1329–1368.">
+<meta name="citation_reference" content=" E.  Borensztein  ,  E.  Cavallo  , and  P.  Valenzuela   (2009), ‘Debt sustainability under catastrophic risk: the case for government budget insurance’, Risk Management and Insurance Review 12 (2): 273–294.">
+<meta name="citation_reference" content="citation_title=Advances in Econometrics; citation_author=Breitung, Jörg; citation_publisher=Emerald (MCB UP ); citation_publication_date=2000; citation_firstpage=161; citation_lastpage=177">
+<meta name="citation_reference" content=" J.  Breitung   and  S.  Das   (2005), ‘Panel unit root tests under cross-sectional dependence’, Statistica Neerlandica 59: 414–433.">
+<meta name="citation_reference" content=" C.  Burnside  ,  M.  Eichenbaum  , and  J.D.M.  Fisher   (2004), ‘Fiscal shocks and their consequences’, Journal of Economic Theory 115: 89–117.">
+<meta name="citation_reference" content=" E.  Cavallo  ,  S.  Galiani  ,  I.  Noy  , and  J.  Pantano   (2010), ‘Catastrophic natural disasters and economic growth’, Inter-American Development Bank Working Paper No. 183, Washington, DC.">
+<meta name="citation_reference" content=" E.  Cavallo   and  I.  Noy   (2009), ‘The economics of natural disasters – a survey’, Inter-American Development Bank Working Paper No. 124, Washington, DC.">
+<meta name="citation_reference" content=" J.C.  Cuaresma  ,  J.  Hlouskova  , and  M.  Obersteiner   (2008), ‘Natural disasters as creative destruction? Evidence from developing countries’, Economic Inquiry 46 (2): 214–226.">
+<meta name="citation_reference" content=" M.  Coffman   and  I.  Noy   (2009), ‘Hurricane Iniki: measuring the long-term economic impact of a natural disaster using synthetic control’, University of Hawaii Working Paper No. 09-05.">
+<meta name="citation_reference" content="citation_title=News Droughts, News Floods, and U. S. Disaster Relief; citation_author=Eisensee, T.; citation_author=Stromberg, D.; citation_publication_date=2007; citation_journal_title=The Quarterly Journal of Economics; citation_volume=122; citation_issue=2; citation_firstpage=693; citation_lastpage=728; citation_doi=10.1162/qjec.122.2.693">
+<meta name="citation_reference" content="citation_title=Fiscal Policy in the Aftermath of 9/11; citation_author=Eichenbaum, Martin S.; citation_author=Fisher, Jonas D. M. (Jonas Daniel Maurice); citation_publication_date=2005; citation_journal_title=Journal of Money, Credit, and Banking; citation_volume=37; citation_issue=1; citation_firstpage=1; citation_lastpage=22; citation_doi=10.1353/mcb.2005.0005">
+<meta name="citation_reference" content=" J.  Elsner  ,  J.  Kossin  , and  T.  Jagger   (2008), ‘The increasing intensity of the strongest tropical cyclones’, Nature 455: 92–95.">
+<meta name="citation_reference" content=" W.  Fengler  ,  A.  Ihsan  , and  K.  Kaiser   (2008), ‘Managing post-disaster reconstruction finance: international experience in public financial management’, World Bank Policy Research Working Paper No. 4475.">
+<meta name="citation_reference" content=" K.  Hadri   (2000), ‘Testing for stationarity in heterogeneous panel data’, Econometrics Journal 3: 148–161.">
+<meta name="citation_reference" content=" R.D.F.  Harris   and  E.  Tzavalis   (1999), ‘Inference for unit roots in dynamic panels where the time dimension is fixed’,Journal of Econometrics 91: 201–216.">
+<meta name="citation_reference" content=" E.  Ilzetzki   and  C.A.  Végh   (2008), ‘Procyclical fiscal policy in developing countries: truth or fiction?’, National Bureau of Economic Research Working Paper No. 14191, Cambridge, MA.">
+<meta name="citation_reference" content=" K.  Im  ,  M.H.  Pesaran  , and  Y.  Shin   (2003), ‘Testing for unit roots in heterogenous panels’, Journal of Econometrics 115: 53–74.">
+<meta name="citation_reference" content=" M.E.  Kahn   (2004), ‘The death toll from natural disasters: the role of income, geography and institutions’, Review of Economics and Statistics 87 (2): 271–284.">
+<meta name="citation_reference" content=" E.M.  Lis   and  C.  Nickel   (2009), ‘The impact of extreme weather events on budget balances and implications for fiscal policy’, European Central Bank Working Paper No. 1055, Germany.">
+<meta name="citation_reference" content=" I.  Love   and  L.  Zicchino   (2006), ‘Financial development and dynamic investment behavior: evidence from panel VAR’, Quarterly Review of Economics and Finance 46: 190–210.">
+<meta name="citation_reference" content=" G.S.  Maddala   and  S.  Wu   (1999), ‘A comparative study of unit root tests with panel data and new simple test’, Oxford Bulletin of Economics and Statistics 61: 631–652.">
+<meta name="citation_reference" content=" I.  Noy   (2009), ‘The macroeconomic consequences of disasters’, Journal of Development Economics 88 (2): 221–231.">
+<meta name="citation_reference" content=" I.  Noy   and  A.  Nualsri   (2007), ‘What do exogenous shocks tell us about growth theories?’, University of Hawaii Working Paper No. 07-28.">
+<meta name="citation_reference" content=" I.  Noy   and  A.  Nualsri   (2008), ‘Fiscal storms: public spending and revenues in the aftermath of natural disasters’, University of Hawaii Working Paper No. 08-09.">
+<meta name="citation_reference" content=" I.  Noy   and  T.  Vu   (2010), ‘The economics of natural disasters in Vietnam’, Journal of Asian Economics 21: 345–354.">
+<meta name="citation_reference" content=" M.H.  Pesaran   (2007), ‘A simple panel unit root test in the presence of cross-section dependence’,Journal of Applied Econometrics 22 (2): 265–312.">
+<meta name="citation_reference" content=" T.  Plumper   and  E.  Neumayer   (2008), ‘Famine mortality, rational political inactivity, and international food aid’, World for Development 37 (1): 50–61.">
+<meta name="citation_reference" content=" N.  Ram   (1995), ‘An independent press and anti-hunger strategies: the Indian experience’, in  A.K.  Sen   and  J.  Dreze   (eds), The Political Economy of Hunger: Entitlement and Well-being, Oxford, UK: Oxford University Press, pp. 146–189.">
+<meta name="citation_reference" content=" P.A.  Raschky   (2008), ‘Institutions and the losses from natural disasters’, Natural Hazards Earth Systems Science 8: 627–634.">
+<meta name="citation_reference" content=" O.  Rubin   (2009), ‘The merits of democracy in famine protection: fact or fallacy?’, European Journal of Development Research 21: 699–717.">
+<meta name="citation_reference" content=" A.  Sen   (1981), Poverty and Famines: An Essay on Entitlement and Deprivation, Oxford, UK: Clarendon Press.">
+<meta name="citation_reference" content=" M.  Skidmore   and  H.  Toya   (2002), ‘Do natural disasters promote long-run growth?’, Economic Inquiry 40 (4): 664–687.">
+<meta name="citation_reference" content=" M.  Skidmore   and  H.  Toya   (2007), ‘Economic development and the impacts of natural disasters’, Economic Letters 94: 20–25.">
+<meta name="citation_reference" content=" E.  Strobl   (2008), ‘The economic growth impact of hurricanes: evidence from US coastal counties’, IZA Discussion Paper No. 3619.">
+<meta name="citation_reference" content=" E.  Strobl   (2008), ‘The economic growth impact of hurricanes: evidence from US coastal counties’, IZA Discussion Paper No. 3619.">
+<link rel="alternate" href="/core/journals/environment-and-development-economics/article/fiscal-storms-public-spending-and-revenues-in-the-aftermath-of-natural-disasters/681E3FE807F739097D71CBE090C8F89A" hreflang="en"/> <script> (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function() { (i[r].q=i[r].q||[]).push(arguments)} ,i[r].l=1*new Date();a=s.createElement(o), m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m) })(window,document,'script','https://www.google-analytics.com/analytics.js','ga'); ga('create', 'UA-86516288-1', 'auto'); ga('send', 'pageview'); </script>
+</head>
+<body>
+<a id="skiptocontent" href="#maincontent">Skip to main content</a>
+<div class="cookie-message">
+<div class="row">
+<div class="small-11 columns">
+<p>We use cookies to distinguish you from other users and to provide you with a better experience on our websites. Close this message to accept cookies or find out how to <a href="http://www.cambridge.org/about-us/legal-notices/cookies-policy/" target="_blank">manage your cookie settings</a>.</p>
+</div>
+<div class="small-1 columns">
+<a href="#" onclick="closeMessage();" class="cookie-close">
+<!--[if IE 8 ]>
+                  <img alt = "Close cookie message" title = "Close cookie message" src = "/core/cambridge-core/public/images/icn_circle__btn_close_white.png">
+                  <![endif]-->
+<!--[if (gte IE 9)|!(IE)]><!-->
+<img alt="Close cookie message" title="Close cookie message" src="/core/cambridge-core/public/images/icn_circle__btn_close_white.svg">
+<!--<![endif]-->
+</a>
+</div>
+</div>
+</div>
+<script>
+  var cookieMessage = $('.cookie-message');
+  var cookieName = 'EULAW';
+  var closeMessage = function () {
+      $.cookie(cookieName, true, {expires: 365, path:'/'});
+      cookieMessage.slideUp().promise().done(function () {
+          cookieMessage.remove();
+      });
+  };
+  $(document).ready(function () {
+      if ($.cookie(cookieName) !== 'true') {
+          cookieMessage.slideDown();
+      }
+  });
+  </script>
+<div id="login-modal" class="reveal-modal small" data-reveal>
+<div class="wrapper large-margin-top-for-small-only">
+<div class="row margin-top">
+<div class="large-12 columns">
+<div class="panel callout message"></div>
+</div>
+</div>
+<div class="row margin-top">
+<div class="small-6 large-6 columns"><a href="#" onclick="$('#login-modal').foundation('reveal', 'close');return false;" class="right small button radius transparent cancel">Cancel</a></div>
+<div class="small-6 large-6 columns">
+<a href="/core/login?ref=%2Fcore%2Fjournals%2Fenvironment-and-development-economics%2Farticle%2Ffiscal-storms-public-spending-and-revenues-in-the-aftermath-of-natural-disasters%2F681E3FE807F739097D71CBE090C8F89A" class="left small radius button blue confirm login">Log in</a>
+</div>
+</div>
+<a class="close-reveal-modal">&#215;</a>
+</div>
+</div>
+<header>
+<div class="contain-to-grid" id="mainWrapper">
+<!--[if IE 7]>
+    <div id="global-nav" style="display: none"></div>
+      <![endif]-->
+<!--[if gte IE 8]><!-->
+<div id="global-nav"></div>
+<!--<![endif]-->
+<div class="clear"></div>
+</div>
+</header>
+<div class="off-canvas-wrap desktop overflow-visible">
+<div class="inner-wrap">
+</div>
+</div>
+<div class="row print-only">
+<div class="small-12 columns">
+<img src="/core/cambridge-core/public/images/logo_core.png" class="core-logo" alt=""/>
+</div>
+</div>
+<section class="sub-header slide-up">
+<div class="row">
+<div class="column">
+<a href="/core/">
+<div class="logo-core"><span class="show-for-sr">Home</span></div>
+</a>
+<form class="subject-search search-form prevent-empty-search no-margin-right" action="/core/search" method="GET">
+<div class="row">
+<div class="row collapse postfix-radius">
+<div class="submit-in-field js-outglow-parent clearfix">
+<div class="small-10 columns">
+<input type="text" name="q" value="" autocomplete="off" class=" js-outglow prefix-radius" placeholder="Search all journal & book content" aria-label="Search all journal & book content">
+</div>
+<div class="small-2 columns">
+<input type="submit" value="Submit search" class="button postfix">
+</div>
+</div>
+ 
+<label class="accessible"><input type="checkbox" name="checkbox" value="value">Only search content I have access to</label>
+</div>
+</div>
+</form>
+</div>
+</div>
+</section>
+<section class="menu secondary">
+<div class="row wrapper">
+<div class="column">
+<ul>
+<li><a href="#" class="menu-icon"></a></li>
+</ul>
+<ul class="sub-nav  dropdown-menu-mobile" role="menu">
+<li class="show-for-small"><a href="/core/login?ref=">Log in</a></li>
+<li class="show-for-small"><a href="/core/register">Register</a></li>
+ 
+<li><a href="/core/browse-subjects" class="no-padding-left-for-large">Browse subjects</a></li>
+<li><a href="/core/what-we-publish">What we publish</a></li>
+<li><a href="/core/services">Services</a></li>
+<li><a href="/core/about">About Cambridge Core</a></li>
+</ul>
+<div class="right">
+<ul class="show-for-small-only profile-mobile">
+<li><a href="#" class="button transparent radius search-small"><span class="icon mobile-search grey"></span></a></li>
+ 
+</ul>
+<ul class="sub-nav dropdown-menu-mobile profile" role="menu">
+<li class="hide-for-personal institution-name">
+<a class="institution-login" href="//shibboleth.cambridge.org/CJOShibb2/index?app=https://www.cambridge.org/core/shibboleth?ref=/core" id="institution-current">Institution login</a>
+</li>
+<li class="divider"></li>
+<li class="hide-for-small register"><a href="/core/register?ref=%2Fcore%2Fjournals%2Fenvironment-and-development-economics%2Farticle%2Ffiscal-storms-public-spending-and-revenues-in-the-aftermath-of-natural-disasters%2F681E3FE807F739097D71CBE090C8F89A" class="button small radius transparent">Register</a></li>
+<li><a href="/core/login?ref=%2Fcore%2Fjournals%2Fenvironment-and-development-economics%2Farticle%2Ffiscal-storms-public-spending-and-revenues-in-the-aftermath-of-natural-disasters%2F681E3FE807F739097D71CBE090C8F89A" class="button small radius blue">Log in</a></li>
+</ul>
+</div>
+</div>
+</div>
+</section>
+<section class="breadcrumbs-wrapper smaller">
+<div class="row">
+<ul class="large-2 column backToSearch hide">
+<li>
+<a href="#">&lt; Back to search results</a>
+</li>
+</ul>
+<script type="text/javascript">
+        var searchResultKey = 'fromSearch';
+        var $backToSearch = $('.backToSearch');
+        var fromSearch = localStorage.getItem(searchResultKey);
+    
+        if (fromSearch) {
+            $backToSearch.find('li a').attr('href', fromSearch);
+            $backToSearch.removeClass('hide');
+            localStorage.removeItem(searchResultKey);
+        }
+    </script>
+<ul class="large-10 column breadcrumbs">
+<li><a href="/core/">Home</a></li><li><a href="/core/what-we-publish/journals">Journals</a></li><li><a href="/core/journals/environment-and-development-economics">Environment and Development Economics</a></li><li><a href="/core/journals/environment-and-development-economics/issue/9623590B90118AB37133BF917711F6F8">Volume 16 Issue 1</a></li><li class="current"><a href="#">Fiscal storms: public spending ...</a></li>
+</ul>
+</div>
+</section>
+<div class="flash-message-container">
+<div class="flash-message">
+<div data-alert class="alert-box alert">
+<div class="alert alert-danger">Unfortunately you do not have access to this content, please use the <strong>Get access</strong> link below for information on how to access this content.</div>
+<a href="#" class="close">&times;</a>
+</div>
+<div id="ajaxMessages" class="ajaxMessages"></div>
+</div>
+</div>
+<div class="article-wrapper">
+<section class="banner article small  society-logo-exists" style="background-image: url(/core/services/aop-file-manager/file/567832e05cefc91d0c2d4006)">
+<div class="content">
+<div class="center-all-container">
+<div class="center-all">
+<div class="row">
+<div class="large-6 medium-6 small-12 column banner-title">
+<div class="title title-left white">Environment and Development&nbsp;Economics</div>
+</div>
+<div class="large-2 medium-2 small-12 column society-logo">
+<a title="Published on behalf of The Beijer Institute of Ecological Economics" href=" http://www.beijer.kva.se/" target="_blank">
+<img title="Published on behalf of The Beijer Institute of Ecological Economics" src="/core/services/aop-file-manager/file/574d97367a2b5f2735c63e55" alt="Beijer Institute of Ecological Economics, Royal Swedish Academy of Sciences"/>
+</a>
+</div>
+<div class="large-4 medium-4 small-12 column hide-for-print">
+<form action="/core/journals/environment-and-development-economics/listing" method="GET" class="search-form">
+<div class="row">
+<div class=" columns ">
+<div class="row collapse postfix-radius search-input js-outglow-parent">
+<div class="small-10 columns">
+<input type="text" name="q" value="" autocomplete="off" class=" js-outglow prefix-radius" placeholder="Search Environment and Development Economics" aria-label="Search Environment and Development Economics">
+<input type="hidden" name="searchWithinIds" id="searchWithinIds" value="E9B1601107D6892A3F330585355FE062"/>
+</div>
+<div class="small-2 columns">
+<input type="submit" value="Submit search" class="button postfix">
+</div>
+</div>
+</div>
+</div>
+</form>
+</div>
+</div>
+</div>
+</div>
+</div>
+</section>
+<div class="column large-12 page-tabs">
+<div class="row">
+<div class="tab-title current-mobile hide-for-large-up">
+<a href="">Article</a>
+<div class="blue-square"><a href="" class="icon arrow"></a></div>
+</div>
+<ul class="tabs" data-tab data-options="deep_linking:true; scroll_to_content:false">
+<li class="tab-title active"><a href="#information">Article</a></li>
+<li class="tab-title"><a href="#metrics">Metrics</a></li>
+</ul>
+<ul class="social white right hide-for-small hide-for-medium">
+<li><a href="#" data-hasqtip="Save to my bookmarks" aria-describedby="qtip-text" data-prod-id="681E3FE807F739097D71CBE090C8F89A" data-prod-type="JOURNAL_ARTICLE" data-bookmark class="icon bookmark requires-login"></a></li>
+<li><a href="http://www.cambridge.org/academic/journals-content-alerts/" target="_blank" data-hasqtip="Set alert" aria-describedby="qtip-text" class="icon alert"></a>
+</li>
+<li>
+<a href="#" data-hasqtip="Share" aria-describedby="qtip-text" class="icon share"></a>
+</li>
+</ul>
+</div>
+</div>
+<div class="tabs-content" id="maincontent">
+<div class="content active" id="information">
+<section class="row">
+<div class="large-12 columns">
+<div class="split-panel opposite-cols">
+<div class="wrapper">
+<div class="page-operatives enable-full-width margin-top-for-small margin-top-for-medium">
+<div class="small-12 large-9 column main-column">
+</div>
+<div class="small-12 large-3 large-offset-9 narrow-column hide-for-medium hide-for-small">
+<ul class="text-resizer-controls left">
+<li>
+<ul id="text-resizer-controls" class="textresizer ">
+<li class="standard-text textresizer-active">Aa</li>
+<li class="large-text">Aa</li>
+</ul>
+</li>
+</ul>
+<ul class="right">
+<li class="icon toggle close"></li>
+</ul>
+</div>
+</div>
+<div class="panel large-9 small-12 column main-column article-page left">
+<ul class="social white left hide-for-large-up">
+<li><a href="#" data-hasqtip="Save to my bookmarks" aria-describedby="qtip-text" data-prod-id="681E3FE807F739097D71CBE090C8F89A" data-prod-type="JOURNAL_ARTICLE" data-bookmark class="icon bookmark requires-login"></a></li>
+<li><a href="http://www.cambridge.org/academic/journals-content-alerts/" target="_blank" data-hasqtip="Set alert" aria-describedby="qtip-text" class="icon alert"></a>
+</li>
+<li>
+<a href="#" data-hasqtip="Share" aria-describedby="qtip-text" class="icon share"></a>
+</li>
+</ul>
+<div class="article-meta overview">
+<ul class="access">
+<li class="citation"></span>Cited by <a href="#" data-reveal-id="productCitations"><span class="number">15</span></a></li>
+<li>
+<div id="productCitations" class="reveal-modal medium" data-reveal>
+<div class="header">
+<div class="heading_07 margin-bottom">Cited by</div>
+</div>
+<div class="row collapse header margin-top productCitations-content">
+<ul class="small-12 small-centered columns citations">
+<li class="fade-in section-container active">
+<a href="#" class="section-button" data-id="crossref-citations">
+<div class="circular medium citation">
+<img src="https://assets.crossref.org/logo/crossref-logo-100.png" alt="Crossref logo">
+ 
+<span class="citation-count">15</span>
+</div>
+</a>
+</li>
+<li class="fade-in section-container">
+<a href="#" class="section-button" data-id="scholar-citations">
+<div class="circular medium citation">
+<img src="https://upload.wikimedia.org/wikipedia/commons/a/a9/Google_Scholar_logo_2015.PNG" alt="Google Scholar logo">
+</div>
+</a>
+</li>
+</ul>
+</div>
+<div class="row wrapper no-padding-top section-content">
+<div class="small-10 small-centered columns">
+<section class="content" id="crossref-citations">
+<div class="large-12 columns">
+<div class="panel margin-top-small citation-container">
+<div class="row">
+<div class="medium-12 columns">
+<div class="print-only print-heading margin-bottom-large">Crossref Citations</div>
+<div class="row margin-bottom">
+<div class="small-1 columns">
+<a href="http://www.crossref.org/citedby/index.html" target="_blank">
+<img src="http://assets.crossref.org/logo/crossref-logo-100.png" alt="Crossref logo">
+</a>
+</div>
+<div class="small-11 columns">
+<h5 class="heading_10">This article has been
+cited by the following publications. This list is generated based on data provided by <a href="http://www.crossref.org/citedby/index.html" target="_blank">CrossRef</a>.</h5>
+</div>
+</div>
+<hr/>
+ 
+<p class="reference-display">
+Borensztein, Eduardo
+Cavallo, Eduardo
+and
+Jeanne, Olivier
+2017.
+The welfare gains from macro-insurance against natural disasters.
+<i>Journal of Development Economics</i>,
+Vol. 124,
+p.
+142.
+</p>
+<ul class="reference-list">
+<li><a href="https://doi.org/10.1016/j.jdeveco.2016.08.004" target="_blank">CrossRef</a></li>
+<li><a href="https://scholar.google.com/scholar_lookup?title=The+welfare+gains+from+macro-insurance+against+natural+disasters&amp;author=Borensztein+Eduardo+Cavallo+Eduardo+Jeanne+Olivier&amp;publication_year=2017" target="_blank">Google Scholar</a></li>
+</ul>
+<hr/>
+ 
+<p class="reference-display">
+Bourdeau-Brien, Michael
+and
+Kryzanowski, Lawrence
+2016.
+The impact of natural disasters on the stock returns and volatilities of local firms.
+<i>The Quarterly Review of Economics and Finance</i>,
+</p>
+<ul class="reference-list">
+<li><a href="https://doi.org/10.1016/j.qref.2016.05.003" target="_blank">CrossRef</a></li>
+<li><a href="https://scholar.google.com/scholar_lookup?title=The+impact+of+natural+disasters+on+the+stock+returns+and+volatilities+of+local+firms&amp;author=Bourdeau-Brien+Michael+Kryzanowski+Lawrence&amp;publication_year=2016" target="_blank">Google Scholar</a></li>
+</ul>
+<hr/>
+ 
+<p class="reference-display">
+Klomp, Jeroen
+2016.
+Economic development and natural disasters: A satellite data analysis.
+<i>Global Environmental Change</i>,
+Vol. 36,
+p.
+67.
+</p>
+<ul class="reference-list">
+<li><a href="https://doi.org/10.1016/j.gloenvcha.2015.11.001" target="_blank">CrossRef</a></li>
+<li><a href="https://scholar.google.com/scholar_lookup?title=Economic+development+and+natural+disasters:+A+satellite+data+analysis&amp;author=Klomp+Jeroen&amp;publication_year=2016" target="_blank">Google Scholar</a></li>
+</ul>
+<hr/>
+ 
+<p class="reference-display">
+Ward, Patrick S.
+and
+Shively, Gerald E.
+2016.
+Disaster risk, social vulnerability, and economic development.
+<i>Disasters</i>,
+</p>
+<ul class="reference-list">
+<li><a href="https://doi.org/10.1111/disa.12199" target="_blank">CrossRef</a></li>
+<li><a href="https://scholar.google.com/scholar_lookup?title=Disaster+risk+social+vulnerability+and+economic+development&amp;author=Ward+Patrick+S.+Shively+Gerald+E.&amp;publication_year=2016" target="_blank">Google Scholar</a></li>
+</ul>
+<hr/>
+ 
+<p class="reference-display">
+Castiglione, Concetta
+Infante, Davide
+and
+Smirnova, Janna
+2015.
+Environment and economic growth: is the rule of law the go-between? The case of high-income countries.
+<i>Energy, Sustainability and Society</i>,
+Vol. 5,
+Issue. 1,
+</p>
+<ul class="reference-list">
+<li><a href="https://doi.org/10.1186/s13705-015-0054-8" target="_blank">CrossRef</a></li>
+<li><a href="https://scholar.google.com/scholar_lookup?title=Environment+and+economic+growth:+is+the+rule+of+law+the+go-between?+The+case+of+high-income+countries&amp;author=Castiglione+Concetta+Infante+Davide+Smirnova+Janna&amp;publication_year=2015" target="_blank">Google Scholar</a></li>
+</ul>
+<hr/>
+ 
+<p class="reference-display">
+Klomp, Jeroen
+2015.
+Sovereign Risk and Natural Disasters in Emerging Markets.
+<i>Emerging Markets Finance and Trade</i>,
+Vol. 51,
+Issue. 6,
+p.
+1326.
+</p>
+<ul class="reference-list">
+<li><a href="https://doi.org/10.1080/1540496X.2015.1011530" target="_blank">CrossRef</a></li>
+<li><a href="https://scholar.google.com/scholar_lookup?title=Sovereign+Risk+and+Natural+Disasters+in+Emerging+Markets&amp;author=Klomp+Jeroen&amp;publication_year=2015" target="_blank">Google Scholar</a></li>
+</ul>
+<hr/>
+ 
+<p class="reference-display">
+Leppänen, Simo
+Solanko, Laura
+and
+Kosonen, Riitta
+2015.
+The Impact of Climate Change on Regional Government Expenditures: Evidence from Russia.
+<i>Environmental and Resource Economics</i>,
+</p>
+<ul class="reference-list">
+<li><a href="https://doi.org/10.1007/s10640-015-9977-y" target="_blank">CrossRef</a></li>
+<li><a href="https://scholar.google.com/scholar_lookup?title=The+Impact+of+Climate+Change+on+Regional+Government+Expenditures:+Evidence+from+Russia&amp;author=Leppänen+Simo+Solanko+Laura+Kosonen+Riitta&amp;publication_year=2015" target="_blank">Google Scholar</a></li>
+</ul>
+<hr/>
+ 
+<p class="reference-display">
+Acevedo Mejia, Sebastian
+2014.
+Debt, Growth and Natural Disasters A Caribbean Trilogy.
+<i>IMF Working Papers</i>,
+Vol. 14,
+Issue. 125,
+p.
+1.
+</p>
+<ul class="reference-list">
+<li><a href="https://doi.org/10.5089/9781498337601.001" target="_blank">CrossRef</a></li>
+<li><a href="https://scholar.google.com/scholar_lookup?title=Debt+Growth+and+Natural+Disasters+A+Caribbean+Trilogy&amp;author=Acevedo+Mejia+Sebastian&amp;publication_year=2014" target="_blank">Google Scholar</a></li>
+</ul>
+<hr/>
+ 
+<p class="reference-display">
+Devlin, Colleen
+and
+Hendrix, Cullen S.
+2014.
+Trends and triggers redux: Climate change, rainfall, and interstate conflict.
+<i>Political Geography</i>,
+Vol. 43,
+p.
+27.
+</p>
+<ul class="reference-list">
+<li><a href="https://doi.org/10.1016/j.polgeo.2014.07.001" target="_blank">CrossRef</a></li>
+<li><a href="https://scholar.google.com/scholar_lookup?title=Trends+and+triggers+redux:+Climate+change+rainfall+and+interstate+conflict&amp;author=Devlin+Colleen+Hendrix+Cullen+S.&amp;publication_year=2014" target="_blank">Google Scholar</a></li>
+</ul>
+<hr/>
+ 
+<p class="reference-display">
+Klomp, Jeroen
+and
+Valckx, Kay
+2014.
+Natural disasters and economic growth: A meta-analysis.
+<i>Global Environmental Change</i>,
+Vol. 26,
+p.
+183.
+</p>
+<ul class="reference-list">
+<li><a href="https://doi.org/10.1016/j.gloenvcha.2014.02.006" target="_blank">CrossRef</a></li>
+<li><a href="https://scholar.google.com/scholar_lookup?title=Natural+disasters+and+economic+growth:+A+meta-analysis&amp;author=Klomp+Jeroen+Valckx+Kay&amp;publication_year=2014" target="_blank">Google Scholar</a></li>
+</ul>
+<hr/>
+ 
+<p class="reference-display">
+Kousky, Carolyn
+2014.
+Informing climate adaptation: A review of the economic costs of natural disasters.
+<i>Energy Economics</i>,
+Vol. 46,
+p.
+576.
+</p>
+<ul class="reference-list">
+<li><a href="https://doi.org/10.1016/j.eneco.2013.09.029" target="_blank">CrossRef</a></li>
+<li><a href="https://scholar.google.com/scholar_lookup?title=Informing+climate+adaptation:+A+review+of+the+economic+costs+of+natural+disasters&amp;author=Kousky+Carolyn&amp;publication_year=2014" target="_blank">Google Scholar</a></li>
+</ul>
+<hr/>
+ 
+<p class="reference-display">
+McDermott, T. K. J.
+Barry, F.
+and
+Tol, R. S. J.
+2014.
+Disasters and development: natural disasters, credit constraints, and economic growth.
+<i>Oxford Economic Papers</i>,
+Vol. 66,
+Issue. 3,
+p.
+750.
+</p>
+<ul class="reference-list">
+<li><a href="https://doi.org/10.1093/oep/gpt034" target="_blank">CrossRef</a></li>
+<li><a href="https://scholar.google.com/scholar_lookup?title=Disasters+and+development:+natural+disasters+credit+constraints+and+economic+growth&amp;author=McDermott+T.+K.+J.+Barry+F.+Tol+R.+S.+J.&amp;publication_year=2014" target="_blank">Google Scholar</a></li>
+</ul>
+<hr/>
+ 
+<p class="reference-display">
+Adam, Christopher
+2013.
+Coping with adversity: The macroeconomic management of natural disasters.
+<i>Environmental Science &amp; Policy</i>,
+Vol. 27,
+p.
+S99.
+</p>
+<ul class="reference-list">
+<li><a href="https://doi.org/10.1016/j.envsci.2012.04.007" target="_blank">CrossRef</a></li>
+<li><a href="https://scholar.google.com/scholar_lookup?title=Coping+with+adversity:+The+macroeconomic+management+of+natural+disasters&amp;author=Adam+Christopher&amp;publication_year=2013" target="_blank">Google Scholar</a></li>
+</ul>
+<hr/>
+ 
+<p class="reference-display">
+Ouattara, Bazoumana
+and
+Strobl, Eric
+2013.
+The fiscal implications of hurricane strikes in the Caribbean.
+<i>Ecological Economics</i>,
+Vol. 85,
+p.
+105.
+</p>
+<ul class="reference-list">
+<li><a href="https://doi.org/10.1016/j.ecolecon.2012.10.002" target="_blank">CrossRef</a></li>
+<li><a href="https://scholar.google.com/scholar_lookup?title=The+fiscal+implications+of+hurricane+strikes+in+the+Caribbean&amp;author=Ouattara+Bazoumana+Strobl+Eric&amp;publication_year=2013" target="_blank">Google Scholar</a></li>
+</ul>
+<hr/>
+ 
+<p class="reference-display">
+Coffman, Makena
+and
+Noy, Ilan
+2012.
+Hurricane Iniki: measuring the long-term economic impact of a natural disaster using synthetic control.
+<i>Environment and Development Economics</i>,
+Vol. 17,
+Issue. 02,
+p.
+187.
+</p>
+<ul class="reference-list">
+<li><a href="https://doi.org/10.1017/S1355770X11000350" target="_blank">CrossRef</a></li>
+<li><a href="https://scholar.google.com/scholar_lookup?title=Hurricane+Iniki:+measuring+the+long-term+economic+impact+of+a+natural+disaster+using+synthetic+control&amp;author=Coffman+Makena+Noy+Ilan&amp;publication_year=2012" target="_blank">Google Scholar</a></li>
+</ul>
+<hr/>
+</div>
+</div>
+</div>
+</div>
+</section>
+<section style="display:none" class="content" id="scholar-citations">
+<div class="large-12 columns">
+<div class="panel margin-top-small citation-container">
+<div class="row">
+<div class="medium-12 columns">
+<div class="print-only print-heading margin-bottom-large">Google Scholar Citations</div>
+<p>View all <a href="https://scholar.google.com/scholar?hl=en&lr=&cites=https://doi.org/10.1017/S1355770X1000046X" target="_blank">Google Scholar citations</a> for this article.</p>
+</div>
+</div>
+</div>
+</div>
+</section>
+<section style="display:none" class="content" id="scopus-citations">
+<div class="large-12 columns">
+<div class="panel margin-top-small citation-container">
+<div class="row">
+<div class="medium-12 columns">
+<div class="print-only print-heading margin-bottom-large">Scopus Citations</div>
+<p><a href="" target="_blank">View all citations for
+this article on Scopus</a></p>
+</div>
+</div>
+</div>
+</div>
+</section>
+</div>
+</div>
+<a class="close-reveal-modal">×</a>
+</div>
+<script>
+                                      $(document).ready(function () {
+                                        $('#productCitations .section-button').on('click', function (e) {
+                                          e.preventDefault();
+                                          var id = $(this).attr('data-id');
+                                          $('.section-content section').hide();
+                                          $('.section-container').removeClass('active');
+                                          $(this).parent('.section-container').addClass('active');
+                                          $('#' + id).show();
+                                        });
+                                      });
+                                    </script>
+<style>.productCitations-content li{}</style>
+</li>
+<li class="status get">
+<a href="#" class="get hasTooltipCustom-top" data-qtip-event="click">Get access</a>
+<div class="custom-tooltip custom-tooltip--buttons">
+<div class="grey-bg">
+<div class="row">
+<div class="column small-12 text-center tooltip-row">Check if you have access via personal or institutional login</div>
+</div>
+<div class="tooltip-row row text-center padding-bottom">
+<a href="/core/login?ref=%2Fcore%2Fjournals%2Fenvironment-and-development-economics%2Farticle%2Ffiscal-storms-public-spending-and-revenues-in-the-aftermath-of-natural-disasters%2F681E3FE807F739097D71CBE090C8F89A" class="button small radius blue ">Log in</a>
+<a href="/core/register?ref=%2Fcore%2Fjournals%2Fenvironment-and-development-economics%2Farticle%2Ffiscal-storms-public-spending-and-revenues-in-the-aftermath-of-natural-disasters%2F681E3FE807F739097D71CBE090C8F89A" class="button small radius blue ">Register</a>
+<a href="#" data-prod-id="681E3FE807F739097D71CBE090C8F89A" class="button small radius blue margin-top-small recommend-product parent-product" data-cup-event='{"eventCode":"TA-EX","eventContext":"/core/journals/environment-and-development-economics/article/fiscal-storms-public-spending-and-revenues-in-the-aftermath-of-natural-disasters/681E3FE807F739097D71CBE090C8F89A","usedIdentities":[],"eventType":"REC","searchScope":"PRODUCT","productId":"681E3FE807F739097D71CBE090C8F89A"}'>
+Recommend to librarian
+</a>
+</div>
+</div>
+</div>
+</li>
+<li class="status open-access">
+</li>
+</ul>
+<ul class="title-volume-issue">
+<li class="title ">
+<a class="force-inline" title="Volume 16 " href="/core/journals/environment-and-development-economics/volume/4CA8BB9406C8E5AA2F0441B1DE6E0ABB">Volume 16</a>,
+<a class="force-inline" title="Issue 1 " href="/core/journals/environment-and-development-economics/issue/9623590B90118AB37133BF917711F6F8">Issue 1 </a>
+</li>
+<li class="published">
+<span class="date">February 2011</span><span class="date">, pp. 113-128</span>
+</li>
+</ul>
+</div>
+<div id="Top" class="reading-width">
+<div class="article-page">
+<div class="overview no-margin-bottom">
+<div class="divider print-only margin-top-large"></div>
+<h1 class="article-title">Fiscal storms: public spending and revenues in the aftermath of natural disasters</h1>
+<ul class="details no-padding-bottom">
+<li class="author">
+<a href="/core/search?filters%5BauthorTerms%5D=ILAN NOY&eventCode=SE-AU" class="more-by-this-author ">ILAN NOY</a> <sup data-affiliation-id="a1" class="">(a1)</sup><span class="separator "> and </span><a href="/core/search?filters%5BauthorTerms%5D=AEKKANUSH NUALSRI&eventCode=SE-AU" class="more-by-this-author ">AEKKANUSH NUALSRI</a> <sup data-affiliation-id="a2" class="">(a2)</sup>
+<i class="icon open-drawer small toggle-affiliations" aria-label="View all author information"></i>
+</li>
+<div id="author-affiliations" style="display:none" class="margin-bottom margin-top">
+<ul class="full-contributor-listing">
+<li id="a1" class="contributor-affiliation"><strong><sup>(a1)</sup></strong> <div><div class="aff"><addrLine>Department of Economics</addrLine>, <institution type='simple'>University of Hawaii</institution>, <addrLine>Saunders Hall 542</addrLine>, <addrLine>2424 Maile Way</addrLine>, <addrLine>Honolulu</addrLine>, <addrLine>HI 96822</addrLine>, <country>USA</country>. Email: <email type='simple' href='noy@hawaii.edu'>noy@hawaii.edu</email></div></div></li><li id="a2" class="contributor-affiliation"><strong><sup>(a2)</sup></strong> <div><div class="aff"><addrLine>Department of Economics</addrLine>, <institution type='simple'>University of Hawaii</institution>, <addrLine>Saunders Hall 542</addrLine>, <addrLine>2424 Maile Way</addrLine>, <addrLine>Honolulu</addrLine>, <addrLine>HI 96822</addrLine>, <country>USA</country>. Email: <email type='simple' href='aekkanus@hawaii.edu'>aekkanus@hawaii.edu</email></div></div></li>
+</ul>
+</div>
+<script>
+                                                        $('.author i').on('click', function (e) {
+                                                            e.preventDefault();
+                                                            var $authorAffiliations = $('#author-affiliations');
+                                                            var $hiddenAuthors = $('.hidden-author');
+                                                            var $button = $(this);
+                                                            $authorAffiliations.toggle();
+                                                            $button.toggleClass('close');
+                                                            $hiddenAuthors.toggleClass('hide');
+                                                            if ($authorAffiliations.is(':visible')) {
+                                                                $button.attr('aria-label', 'Hide all author information');
+                                                            } else {
+                                                                $button.attr('aria-label', 'View all author information');
+                                                            }
+                                                        });
+                                                    </script>
+<li>
+<ul class="article-components">
+<li class="source">DOI: <a href="https://doi.org/10.1017/S1355770X1000046X" target="_blank" class="url">https://doi.org/10.1017/S1355770X1000046X</a></li>
+<li class="published">Published online: <span class="date">18 January 2011</li>
+</ul>
+</li>
+</ul>
+</div>
+<div class="overview article-overview">
+<div class="abstract-text">
+<div class="divider less-space"> </div>
+<div class="row">
+<div class="large-2 medium-2 small-12 columns abstract-title-wrapper">
+<div id="abstract" class="summary-title">Abstract</div>
+</div>
+<div class="large-10 medium-10 small-12 columns">
+<div class="description">
+<div class="abstract" data-abstract-type="normal"><title>ABSTRACT</title><p>We estimate and quantify the fiscal consequences of natural disasters using quarterly fiscal data for a large panel of countries. In our estimations, we employ a panel vector autoregression framework that also controls for the business cycle. In developed countries, we find fiscal behavior in the aftermath of disasters that can best be characterized as counter-cyclical. In contrast, we find pro-cyclical decreased spending and increasing revenues in developing countries following large natural catastrophes. These pro-cyclical fiscal dynamics are likely to worsen the adverse consequences of natural disasters on middle- and low-income countries. We quantify these dynamics.</p><p><dispQuote><p>The canton of Unterwald in Switzerland is frequently ravaged by storms and inundations, and is thereby exposed to extraordinary expences. Upon such occasions the people assemble, and every one is said to declare with the greatest frankness what he is worth in order to be taxed accordingly.</p><attrib>(<span class='italic'>The Wealth of Nations</span> by Adam Smith, book V, chapter II, p. 359).</attrib></dispQuote></p></div>
+</div>
+</div>
+</div>
+<div class="divider less-space"> </div>
+<div class="article-actions">
+<div>
+<ul class="other-actions col-1">
+<a class="button small radius blue export-citation-product" data-prod-id="681E3FE807F739097D71CBE090C8F89A">Export citation</a>
+<a href="https://s100.copyright.com/AppDispatchServlet?publisherName=CUP&amp;publication=EDE&amp;title=Fiscal%20storms:%20public%20spending%20and%20revenues%20in%20the%20aftermath%20of%20natural%20disasters&amp;publicationDate=2011-01-18&amp;author=ILAN%20NOY,%20AEKKANUSH%20NUALSRI&amp;copyright=COPYRIGHT:%20%C2%A9%20Cambridge%20University%20Press%202011&amp;contentID=10.1017/S1355770X1000046X&amp;startPage=113&amp;endPage=128&amp;orderBeanReset=True&amp;volumeNum=16&amp;issueNum=1" target="_blank" class="button small transparent radius">Request permission</a>
+</ul>
+<ul class="other-actions col-2">
+</ul>
+</div>
+</div>
+<div class="divider"> </div>
+</div>
+<div class="overview article-overview">
+<div id="author" class="summary-title">Copyright</div>
+<div class="description">
+<div class="copyright">COPYRIGHT: © Cambridge University Press 2011</div>
+</div>
+</div>
+<div class="divider"> </div>
+<div class="overview article-overview">
+<div class="summary-title summary-title-reveal">Linked references</div>
+<dl class="accordion accordian-article" data-accordion>
+<dd class="accordion-navigation active">
+<a href="#references" class="right">
+<div class="icon open-drawer small">
+<span class="toggle-text">Hide</span>
+<span class="excerpt-type">All</span>
+</div>
+</a>
+<p class="paragraph_03">This list contains references from the content that can be linked to their source. For a full set of references and notes please see the PDF or HTML where available.</p>
+<div id="references" class="description content active">
+ 
+<div class="reference-display">
+<div class="cit-citation simple book" data-magellan-destination="ref6" id="ref6"><span class="cit-name"> <span class="cit-given-names">J.</span> <span class="cit-surname">Breitung</span> </span> (<span class="cit-year">2000</span>), ‘The local power of some unit root tests for panel data’, in <span class="cit-name"> <span class="cit-given-names">B.H.</span> <span class="cit-surname">Baltagi</span> </span> (ed), <span class="cit-source">Advances in Econometrics, Volume 15: Nonstationary Panels, Panel Cointegration, and Dynamic Panels</span>, <span class="cit-publisher-loc">Amsterdam</span>: <span class="cit-publisher-name">JAY Press</span>, pp. <span class="cit-fpage">161</span>–<span class="cit-lpage">178</span>.</div>
+</div>
+<ul class="reference-list">
+<li><a href="https://doi.org/10.1016/S0731-9053(00)15006-6" target="_blank">CrossRef</a></li>
+<li><a href="https://scholar.google.com/scholar_lookup?title=Advances+in+Econometrics&amp;author=Breitung+Jörg&amp;publication_year=2000" target="_blank">Google Scholar</a></li>
+</ul>
+<hr/>
+ 
+<div class="reference-display">
+<div class="cit-citation simple journal" data-magellan-destination="ref13a" id="ref13a"><span class="cit-name"> <span class="cit-given-names">T.</span> <span class="cit-surname">Eisensee</span> </span> and <span class="cit-name"> <span class="cit-given-names">D.</span> <span class="cit-surname">Strömberg</span> </span> (<span class="cit-year">2007</span>), <span class="cit-article-title">‘News floods, news droughts, and U.S. disaster relief’</span>, <span class="cit-source">Quarterly Journal of Economics</span> <span class="cit-volume">122</span> <span class="cit-issue">(2)</span>: <span class="cit-fpage">693</span>–<span class="cit-lpage">728</span>.</div>
+</div>
+<ul class="reference-list">
+<li><a href="https://doi.org/10.1162/qjec.122.2.693" target="_blank">CrossRef</a></li>
+<li><a href="https://scholar.google.com/scholar_lookup?title=News+Droughts+News+Floods+and+U.+S.+Disaster+Relief&amp;author=Eisensee+T.+Stromberg+D.&amp;publication_year=2007" target="_blank">Google Scholar</a></li>
+</ul>
+<hr/>
+ 
+<div class="reference-display">
+<div class="cit-citation simple journal" data-magellan-destination="ref13" id="ref13"><span class="cit-name"> <span class="cit-given-names">M.</span> <span class="cit-surname">Eichenbaum</span> </span> and <span class="cit-name"> <span class="cit-given-names">J.D.M.</span> <span class="cit-surname">Fisher</span> </span> (<span class="cit-year">2005</span>), <span class="cit-article-title">‘Fiscal policy in the aftermath of 9/11’</span>, <span class="cit-source">Journal of Money, Credit, and Banking</span> <span class="cit-volume">37</span> <span class="cit-issue">(1)</span>: <span class="cit-fpage">1</span>–<span class="cit-lpage">22</span>.</div>
+</div>
+<ul class="reference-list">
+<li><a href="https://doi.org/10.1353/mcb.2005.0005" target="_blank">CrossRef</a></li>
+<li><a href="https://scholar.google.com/scholar_lookup?title=Fiscal+Policy+in+the+Aftermath+of+9/11&amp;author=Eichenbaum+Martin+S.+Fisher+Jonas+D.+M.+(Jonas+Daniel+Maurice)&amp;publication_year=2005" target="_blank">Google Scholar</a></li>
+</ul>
+<hr/>
+</div>
+</dd>
+</dl>
+</div>
+</div>
+</div>
+</div>
+<div id="recommendProduct" class="reveal-modal large" data-reveal>
+<div id="type-display">
+<div class="header">
+<div class="heading_07">Recommend this journal</div>
+<p>Email your librarian or administrator to recommend adding this journal to your organisation's collection.</p>
+</div>
+<div class="row book-title">
+<div class="small-12 columns">
+<div class="heading_08">Environment and Development Economics</div>
+</div>
+</div>
+<div class="row book-details book-overview">
+<div class="small-12 columns">
+<ul>
+<li class="meta-info issn">ISSN: 1355-770X<li>
+<li class="meta-info eissn">EISSN: 1469-4395<li>
+<li class="meta-info url">URL: /core/journals/environment-and-development-economics<li>
+</ul>
+</div>
+</div>
+</div>
+<div class="row wrapper no-padding-top">
+<div class="small-12 columns">
+<div class="flash-message-container">
+<div class="flash-message">
+<div data-alert class="alert-box alert">
+<div class="alert alert-danger">Unfortunately you do not have access to this content, please use the <strong>Get access</strong> link below for information on how to access this content.</div>
+<a href="#" class="close">&times;</a>
+</div>
+<div id="ajaxMessages" class="ajaxMessages"></div>
+</div>
+</div>
+<div class="row margin-top">
+<div class="large-12 columns">
+<form id="recommend" action="/core/services/aop-cambridge-core/recommend/send" method="post" data-abide="ajax">
+<input type="hidden" name="_csrf" value="YUve4gE5-HH6SB4c6LBL4zBPb3JHRhbzNREk">
+<div id="inputs">
+<input type="hidden" name="productType" value="journal">
+<input type="hidden" name="productLink" value="">
+<input type="hidden" name="productID" value="E9B1601107D6892A3F330585355FE062">
+<input type="hidden" name="productTitle" value="Environment and Development Economics">
+<input type="hidden" name="productIssn" value="1355770X">
+<input type="hidden" name="productEissn" value="14694395">
+</div>
+<input type="hidden" name="yourNamePrefill" value="">
+<input type="hidden" name="yourEmailPrefill" value="">
+<div class="row">
+<div class="large-6 medium-12 small-12 columns">
+<div class="row">
+<div class="small-12 columns">
+<label>
+Your name *
+<input name="yourName" id="yourName" type="text" required="required" maxlength="100" placeholder="Enter your name"/>
+</label>
+<small class="error">Please enter your name</small>
+</div>
+</div>
+</div>
+<div class="large-6 medium-12 small-12 columns">
+<div class="row">
+<div class="small-12 columns">
+<label>
+Your email address *
+<input name="yourEmail" id="yourEmail" type="text" required="required" pattern="email" maxlength="100" placeholder="Enter your email address"/>
+</label>
+<small class="error">Please enter a valid email address</small>
+</div>
+</div>
+</div>
+</div>
+<div class="row">
+<div class="small-12 large-12 columns">
+<fieldset>
+<legend>Who would you like to send this to? *</legend>
+<div class="row">
+<div class="small-12 large-6 columns no-padding-left margin-top-for-medium no-margin-top">
+<div id="administrator-email" class="small-12 columns">
+<label class="organisation-option" for="administratorEmail"><span>Your administrator's email <span data-dropdown="administratorEmailInfo" aria-controls="administratorEmailInfo" aria-expanded="false" class="icon info tooltip-icon"></span></span><div id="administratorEmailInfo" data-dropdown-content class="f-dropdown content medium" aria-hidden="true" tabindex="-1"><p class="text-left">You can enter one or more administrator email addresses.</p></div></label>
+<div class="row collapse postfix-radius">
+<div class="large-10 small-10 columns">
+<input type="hidden" id="selected-values" name="selectedAdministratorEmails" value=""/>
+<input id="administratorEmail" name="administratorEmail" type="text" placeholder="Enter an email address" autocomplete="off"/>
+<span id="emailaddress-invalid" class="error" style="display:none">Please enter a valid email address</span>
+<span id="emailaddress-added" class="error" style="display:none">Email already added</span>
+</div>
+<div class="large-2 small-2 columns">
+<input type="submit" value="Add" id="add-administrator" class="button radius postfix" aria-label="Add administrator email">
+</div>
+</div>
+<div class="row">
+<div class="small-12 large-12 columns">
+<div id="selected-administrator-emails" class="margin-top" style="display:none"></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</fieldset>
+</div>
+</div>
+<div class="row">
+<div class="small-12 medium-6 columns">
+<div class="small-12 medium-12 large-6 columns">
+<label>Optional message
+<textarea name="message" id="message" rows="3" maxlength="250" placeholder="Enter a message for your libarian or administrator"></textarea>
+</label>
+</div>
+</div>
+<div class="small-12 medium-6 columns">
+<link rel="stylesheet" href="/core/captcha/public/bower_components/visualcaptcha.jquery/visualcaptcha.src.css"/>
+<link rel="stylesheet" href="/core/captcha/public/captcha.css"/>
+<div class="wrap">
+<div class="pre-captcha-wrapper">
+<div class="captcha-wrapper">
+<h2>CAPTCHA *</h2>
+<a id="captcha-skip-to-audio" href="#captcha-audio-challenge" aria-hidden="false">Skip to the audio challenge</a>
+<div id="sample-captcha"></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</form>
+<div class="row margin-top">
+<div class="small-6 large-6 columns">
+<button href="#" onclick="$('#recommendProduct').foundation('reveal', 'close');return false;" class="button radius transparent right">Cancel</button>
+</div>
+<div class="small-6 large-6 columns">
+<button type="submit" onclick="$('form#recommend').submit();" id="recommend-submit" class="button blue radius left">Send</button>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<a class="close-reveal-modal">×</a>
+</div>
+<script>
+                                  $('.icon.toggle.close').on('click', function () {
+                                      $('.article-meta').toggleClass('reading-width');
+                                  });
+                              </script>
+</div>
+<div class="panel large-3 small-12 narrow-column article-page chapter right">
+<script>
+                                  $(document).ready(function () {
+                                    $('texmath, .tex-math, .mathJaxTex').hide();
+                                  });
+                                </script>
+</div>
+</div>
+</div>
+</div>
+</section>
+</div>
+<div class="content" id="contents">
+</div>
+<div class="content" id="references">
+</div>
+<div class="content" id="metrics">
+<script type="text/javascript">
+            $(document).ready(function () {
+          
+              var fullTextViews = {
+                total: '43',
+                data: [],
+                containerId: 'article-months-chart-fulltext-views'
+              };
+                fullTextViews.data.push([
+                  {v: 'Sep 2016'},
+                  3
+                ]);
+                fullTextViews.data.push([
+                  {v: 'Oct 2016'},
+                  7
+                ]);
+                fullTextViews.data.push([
+                  {v: 'Nov 2016'},
+                  13
+                ]);
+                fullTextViews.data.push([
+                  {v: 'Dec 2016'},
+                  15
+                ]);
+                fullTextViews.data.push([
+                  {v: 'Jan 2017'},
+                  20
+                ]);
+                fullTextViews.data.push([
+                  {v: 'Feb 2017'},
+                  38
+                ]);
+                fullTextViews.data.push([
+                  {v: 'Mar 2017'},
+                  43
+                ]);
+                fullTextViews.data.push([
+                  {v: 'Apr 2017'},
+                  43
+                ]);
+          
+              var abstractViews = {
+                total: '155',
+                data: [],
+                containerId: 'article-months-chart-abstract-views'
+              };
+                abstractViews.data.push([
+                  {v: 'Sep 2016'},
+                  21
+                ]);
+                abstractViews.data.push([
+                  {v: 'Oct 2016'},
+                  46
+                ]);
+                abstractViews.data.push([
+                  {v: 'Nov 2016'},
+                  71
+                ]);
+                abstractViews.data.push([
+                  {v: 'Dec 2016'},
+                  99
+                ]);
+                abstractViews.data.push([
+                  {v: 'Jan 2017'},
+                  122
+                ]);
+                abstractViews.data.push([
+                  {v: 'Feb 2017'},
+                  137
+                ]);
+                abstractViews.data.push([
+                  {v: 'Mar 2017'},
+                  154
+                ]);
+                abstractViews.data.push([
+                  {v: 'Apr 2017'},
+                  155
+                ]);
+          
+              var chartsToRender = [
+                {
+                  containerId: fullTextViews.containerId,
+                  chartType: 'LineChart',
+                  data: fullTextViews.data,
+                  total: fullTextViews.total,
+                  columns: [
+                    ['string', 'Month'],
+                    ['number', 'Full text views']
+                  ],
+                  chartOptions: {
+                    hAxis: {
+                      title: 'Months'
+                    },
+                    vAxis: {
+                      title: 'Cumulative views',
+                      format: 0
+                    },
+                    legend: 'none',
+                    lineWidth: 3,
+                    pointSize: 5
+                  }
+                },
+                {
+                  containerId: abstractViews.containerId,
+                  data: abstractViews.data,
+                  total: abstractViews.total,
+                  chartType: 'LineChart',
+                  columns: [
+                    ['string', 'Month'],
+                    ['number', 'Abstract views']
+                  ],
+                  chartOptions: {
+                    hAxis: {
+                      title: 'Months'
+                    },
+                    vAxis: {
+                      title: 'Cumulative views',
+                      format: 0
+                    },
+                    legend: 'none',
+                    lineWidth: 3,
+                    pointSize: 5
+                  }
+                }
+              ];
+          
+              AOP.metrics.init({
+                chartsToRender: chartsToRender,
+                limitSingleChartWidth: true
+              });
+          
+            });
+          
+          </script>
+<section class="row metrics">
+<div class="large-12 columns">
+<div class="split-panel opposite-cols">
+<div class="wrapper">
+<div class="panel small-12 column main-column">
+<div class="reading-width">
+<h2 class="heading_03">Metrics</h2>
+<div class="divider"></div>
+<div class="metrics-section full-text-views ">
+<h2 class="heading_06">Full text views<span> <span data-dropdown="full-text-view-info" aria-controls="full-text-view-info" aria-expanded="false" class="icon info tooltip-icon"></span></span><div id="full-text-view-info" data-dropdown-content class="f-dropdown content medium" aria-hidden="true" tabindex="-1"><p class="text-left">Full text views reflects the number of PDF downloads, PDFs sent to Google Drive, Dropbox and Kindle and HTML full text views.</p></div></h2>
+<div class="summary">
+<div>Total number of HTML views: <span>2</span></div>
+<div>Total number of PDF views: <span>41</span> *</div>
+</div>
+<div class="clear"></div>
+<div class="chart">
+<div class="loader">
+<div>
+<img src="/core/system/public/img/ajax_loader_gray_256.gif" alt=""><span>Loading metrics...</span>
+</div>
+</div>
+<div class="row">
+<div class="large-12 columns">
+<div id="article-months-chart-fulltext-views"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="divider"></div>
+<div class="metrics-section abstract-views ">
+<h2 class="heading_06">Abstract views<span> <span data-dropdown="abstract-view-info" aria-controls="abstract-view-info" aria-expanded="false" class="icon info tooltip-icon"></span></span><div id="abstract-view-info" data-dropdown-content class="f-dropdown content medium" aria-hidden="true" tabindex="-1"><p class="text-left">Abstract views reflect the number of visits to the article landing page.</p></div></h2>
+<div class="summary">
+<div>
+Total abstract views: <span>155</span> *
+</div>
+</div>
+<div class="clear"></div>
+<div class="chart">
+<div class="loader">
+<div>
+<img src="/core/system/public/img/ajax_loader_gray_256.gif" alt=""><span>Loading metrics...</span>
+</div>
+</div>
+<div class="row">
+<div class="large-12 columns">
+<div id="article-months-chart-abstract-views"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="margin-top"><p>* Views captured on Cambridge Core between September 2016 - 3rd April 2017. This data will be updated every 24 hours.</p></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</section>
+</div>
+<div class="content" id="errata">
+<section class="row">
+<div class="large-12 columns">
+<div class="split-panel opposite-cols">
+<div class="wrapper">
+<div class="panel small-12 column main-column">
+<div class="reading-width">
+</div>
+</div>
+</div>
+</div>
+</div>
+</section>
+</div>
+</div>
+</div>
+<script>
+          $(document).ready(function () {
+              AOP.loadScript('//s7.addthis.com/js/300/addthis_widget.js#async=1', function () {
+                  var addthis_config = addthis_config || {};
+                  var addthis_share = addthis_share || {};
+                  addthis_config.pubid = 'ra-554b7ca6217c131b';
+                  addthis_config.ui_click = true;
+
+
+                  // Initialise the addthis service
+                  addthis.init();
+                  // Apply config & share options to any share button on screen.
+                  addthis.button('.share', addthis_config, addthis_share);
+              });
+          });
+      </script>
+<footer>
+<div class="top menu centered">
+<div id="services" class="content">
+<ul class="tabs">
+<li class="tab-title"><a href="/core/services/librarians">Librarians</a></li>
+<li class="tab-title"><a href="/core/services/authors">Authors</a></li>
+<li class="tab-title"><a href="/core/services/publishing-partners">Publishing partners</a></li>
+<li class="tab-title"><a href="/core/services/agents">Agents</a></li>
+<li class="tab-title"><a href="/core/services/corporates">Corporates</a></li>
+</ul>
+</div>
+</div>
+<div class="mid">
+<div class="row">
+<ul class="accordion" data-accordion>
+<li class="accordion-navigation">
+<a href="#additional" class="accordion-expander">Additional Information<span class="icon tablet open-drawer"></span></a>
+<div id="additional" class="content">
+<div class="large-9 column menu">
+<ul class="sub-nav site-map margin-top">
+<li><a href="/core/accessibility">Accessibility</a></li>
+<li><a href="http://blog.journals.cambridge.org/" target="_blank">Our blog</a></li>
+<li><a href="/core/news">News</a></li>
+<li><a href="/core/contact">Contact us</a></li>
+<li><a href="/core/help/FAQs">Help</a></li>
+<li><a href="/core/terms">Cambridge Core terms of use</a></li>
+<li><a href="http://www.cambridge.org/about-us/feedback">Feedback</a></li>
+<li><a href="/core/sitemap">Sitemap</a></li>
+</ul>
+</div>
+<div class="large-3 column">
+<div class="social-container">
+<div class="title">Join us online</div>
+<ul class="social">
+<li><a href="https://www.facebook.com/CambridgeCore" target="_blank" class="icon fb"></a></li>
+<li><a href="https://twitter.com/CambridgeCore" target="_blank" class="icon tw"></a></li>
+<li><a href="https://plus.google.com/114953848908220702663/posts" target="_blank" class="icon gp"></a></li>
+<li><a href="https://www.youtube.com/user/CambridgeJournals" target="_blank" class="icon yt"></a></li>
+</ul>
+</div>
+</div>
+</div>
+</li>
+</ul>
+</div>
+</div>
+<div class="bottom">
+<div class="row menu">
+<ul class="column accordion" data-accordion>
+<li class="accordion-navigation">
+<a href="#legal" class="accordion-expander">Legal Information<span class="icon tablet open-drawer"></span></a>
+<div id="legal" class="content">
+<ul class="title-area">
+<li class="logo">
+<div itemscope itemtype="http://schema.org/Organization">
+<a itemprop="url" href="http://www.cambridge.org">
+<img itemprop="logo" src="/core/cambridge-core/public/images/cambridge_logo.png" alt="Cambridge University Press">
+</a>
+</div>
+</li>
+</ul>
+<ul class="sub-nav">
+<li><a href="http://www.cambridge.org/about-us/rights-permissions/">Rights & Permissions</a></li>
+<li><a href="http://www.cambridge.org/about-us/legal-notices/copyright/">Copyright</a></li>
+<li><a href="http://www.cambridge.org/about-us/legal-notices/privacy-policy/">Privacy Policy</a></li>
+<li><a href="http://www.cambridge.org/about-us/legal-notices/terms-use">Terms of use</a></li>
+<li><a href="http://www.cambridge.org/about-us/legal-notices/cookies-policy/">Cookies Policy</a></li>
+<li class="copyright hide-for-medium hide-for-small">
+<a href="#">&#169; Cambridge University Press 2017</a>
+</li>
+<li class="back-to-top hide-for-large-up"><a href="#">Back to top</a></li>
+</ul>
+</div>
+</li>
+</ul>
+</div>
+</div>
+<div class="mid hide-for-large-up">
+<div class="row">
+<ul class="tablet-footer-actions clearfix">
+<li class="copyright">
+<a href="#">&#169; Cambridge University Press 2017</a>
+</li>
+<li class="back-to-top right"><a href="#">Back to top</a></li>
+</ul>
+</div>
+</div>
+</footer>
+<script src="/core/cambridge-core/public/bower_components/foundation/js/foundation.js"></script>
+<script src="/core/cambridge-core/public/js/plugins/jquery.autocomplete.min.js"></script>
+<script src="/core/cambridge-core/public/js/plugins/slick.min.js"></script>
+<script src="/core/cambridge-core/public/js/plugins/jquery.qtip.min.js"></script>
+<script src="/core/cambridge-core/public/js/plugins/foggy.min.js"></script>
+<script src="/core/cambridge-core/public/js/plugins/jquery.cookie.js"></script>
+<script src="/core/cambridge-core/public/js/plugins/jquery.textresizer.min.js"></script>
+<script src="/core/cambridge-core/public/js/plugins/chosen.jquery.min.js"></script>
+<script src="/core/cambridge-core/public/js/plugins/jquery.sticky.js"></script>
+<script type="text/javascript">
+        var AOP = AOP || {};
+        AOP.konakart = AOP.konakart || {
+                kkRoot: '',
+                storeId: 'store_b2b_self_service',
+                kkCatalogId: '',
+                kkCurrencyId: ''
+            };
+
+    </script>
+ 
+ 
+<script type="text/javascript" language="javascript">
+      window.AOP = window.AOP || {};
+      window.AOP.pageId = '';
+      window.AOP.baseUrl = '/core';
+      window.AOP.env = 'prod';
+      window.AOP.webTrendsFpcdom = '.www.cambridge.org';
+      window.AOP.webtrendsSourceId = 'dcs2229lnlwr3lqf1qfic2m50_4k5s';
+      window.AOP.shouldUseCitationTool = true;
+      ;
+    </script>
+<script src="/core/system/public/js/foundationUtils.js" language="javascript" type="text/javascript"></script>
+<script src="/core/system/public/js/confirmModal.js" language="javascript" type="text/javascript"></script>
+<script src="/core/system/public/js/trimWhitespace.js" language="javascript" type="text/javascript"></script>
+<script src="/core/system/public/js/loadScript.js" language="javascript" type="text/javascript"></script>
+<script src="/core/aop-shared-components/public/isArray.js"></script>
+<script src="/core/aop-shared-components/public/parseQuerystring.js"></script>
+<script src="/core/aop-shared-components/public/createAlertBox.js"></script>
+<script src="/core/aop-shared-components/public/webtrends.load.js"></script>
+<div id="confirmModalWrapper">
+<div id="confirm-modal" class="reveal-modal small" data-reveal>
+<div class="wrapper">
+<div class="title"></div>
+<div class="row">
+<div class="large-12 columns">
+<div class="panel callout message">
+</div>
+</div>
+</div>
+<div class="row margin-top">
+<div class="small-6 large-6 columns"><a class="right small button radius transparent cancel">Cancel</a></div>
+<div class="small-6 large-6 columns"><a href="#" class="left small radius button blue confirm">Confirm</a></div>
+</div>
+<a class="close-reveal-modal">&#215;</a>
+</div>
+</div>
+</div>
+ 
+<script src="/core/cambridge-core/public/js/validation.js" language="javascript"></script>
+<script src="/core/cambridge-core/public/js/selected-actions.js" language="javascript"></script>
+<script src="/core/easybib/public/js/app.js" language="javascript"></script>
+<script src="https://www.gstatic.com/charts/loader.js" language="javascript"></script>
+<script src="/core/cambridge-core/public/js/charts.js" language="javascript"></script>
+<script src="/core/cambridge-core/public/js/metrics.js" language="javascript"></script>
+<script src="/core/cambridge-core/public/js/recommend.js" language="javascript"></script>
+<script src="/core/captcha/public/bower_components/visualcaptcha.jquery/visualcaptcha.jquery.js" language="javascript"></script>
+<script src="/core/captcha/public/captcha.js" language="javascript"></script>
+<script src="/core/cambridge-core/public/js/bookmark.js" language="javascript"></script>
+<script src="/core/cambridge-core/public/js/journals/journals.js" language="javascript"></script>
+<script src="/core/system/public/js/validation.js" language="javascript" type="text/javascript"></script>
+ 
+<script src="/core/cambridge-core/public/js/jquery-extend.js"></script>
+<script src="/core/cambridge-core/public/js/additional.js"></script>
+<script type="text/javascript" src="//www.cambridge.org/packages/cambridge_themes/javascripts/global_navbar/v1.2.min.js"></script>
+<!--[if lt IE 9]>
+        <script src="/core/cambridge-core/public/js/plugins/rem.min.js"></script>
+    <![endif]-->
+<script src="/core/cambridge-core/public/js/app.js"></script>
+<script src="/core/cambridge-core/public/js/analytics/events.js"></script>
+<script src="/core/cambridge-core/public/js/analytics/listeners/counter.js"></script>
+<script language="javascript" type="text/javascript">
+        $(document).cupEvent();
+
+        AOP.initCounterReporter({
+            apiKey: 'qzD90fb0r257ZKVtGSFnG3UucyyMdgvu8u250Fa0',
+            apiUrl: 'https://usage.prod.aop.cambridge.org/v1/events',
+            applicationId: '8a94020952a738f80152b223c992000b',
+            identities: [],
+            sessionId: 'p-LcrouToiQ0aEmmWGCHSQgL0bePzkC8',
+            eventContext: '/core/journals/environment-and-development-economics/article/fiscal-storms-public-spending-and-revenues-in-the-aftermath-of-natural-disasters/681E3FE807F739097D71CBE090C8F89A'
+        })
+    </script>
+</body>
+</html>

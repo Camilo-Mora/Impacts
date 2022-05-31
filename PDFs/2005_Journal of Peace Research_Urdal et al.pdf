@@ -1,0 +1,1325 @@
+<!DOCTYPE html>
+<!--[if IE 8 ]>    <html class="ie8"> <![endif]-->
+<!--[if IE 9 ]>    <html class="ie9"> <![endif]-->
+<!--[if (gt IE 9)|!(IE)]><!-->
+<html class="no-js" lang="en"> <!--<![endif]-->
+<head>
+ 
+<meta charset="utf-8"/>
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+<meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+<title>Floods and armed conflict | Environment and Development Economics | Cambridge Core</title>
+ 
+ 
+<link rel="icon" href="/core/cambridge-core/public/images/favicon.ico" type="image/x-icon"/>
+<link rel="shortcut icon" href="/core/cambridge-core/public/images/favicon.ico" type="image/x-icon"/>
+<link href='//fonts.googleapis.com/css?family=Noto+Sans:400,700,400italic,700italic' rel='stylesheet' type='text/css'>
+<link rel="stylesheet" type="text/css" href="//www.cambridge.org/packages/cambridge_themes/stylesheets/global_nav/v1.2.min.css">
+<!--[if (gte IE 10)|!(IE)]><!-->
+<link rel="stylesheet" href="/core/cambridge-core/public/css/app.css"/>
+<link rel="dns-prefetch" href="https://usage.prod.aop.cambridge.org/v1/events">
+<link rel="stylesheet" href="/core/cambridge-core/public/bower_components/font-awesome/css/font-awesome.min.css"/>
+<script src="/core/cambridge-core/public/bower_components/jquery/dist/jquery.min.js"></script>
+<!--<![endif]-->
+ 
+ 
+ 
+<!--[if lt IE 10]>
+    <link rel="stylesheet" href="/core/cambridge-core/public/css/ie-8-9.css" />
+    <script src="/core/cambridge-core/public/js/ie8-head.min.js"></script>
+    <script src="/core/cambridge-core/public/js/jquery-1.11.2.min.js"></script>
+    <![endif]-->
+<script src="/core/cambridge-core/public/bower_components/modernizr/modernizr.js"></script>
+<meta property="og:site_name" content="Cambridge Core"/>
+<meta property="og:type" content="website"/>
+<meta property="og:url" content="/core/journals/environment-and-development-economics/article/floods-and-armed-conflict/13C587E71F2C14A165F3DABEE892BBA4"/>
+<meta property="og:title" content="Floods and armed conflict | Environment and Development Economics | Cambridge Core"/>
+<meta property="og:description" content="&lt;div class=&quot;title&quot;&gt;Floods and armed conflict&lt;/div&gt; - Volume 21 Issue 1 - Ramesh Ghimire, Susana Ferreira"/>
+<meta property="og:image" content=""/>
+<meta name="description" content="Floods and armed conflict - Volume 21 Issue 1 - Ramesh Ghimire, Susana Ferreira">
+<link rel="canonical" href="https://www.cambridge.org/core/journals/environment-and-development-economics/article/floods-and-armed-conflict/13C587E71F2C14A165F3DABEE892BBA4">
+<meta name="citation_journal_title" content="Environment and Development Economics">
+<meta name="citation_publisher" content="Cambridge University Press">
+<meta name="citation_title" content="Floods and armed conflict">
+<meta name="citation_author" content="Ramesh Ghimire">
+<meta name="citation_author_institution" content="University of Georgia">
+<meta name="citation_author_email" content="ghimire@uga.edu">
+<meta name="citation_author" content="Susana Ferreira">
+<meta name="citation_author_institution" content="University of Georgia">
+<meta name="citation_author_email" content="sferreir@uga.edu">
+<meta name="citation_publication_date" content="2016/02">
+<meta name="citation_online_date" content="2015/06/05">
+<meta name="citation_volume" content="21">
+<meta name="citation_issue" content="1">
+<meta name="citation_firstpage" content="23">
+<meta name="citation_lastpage" content="52">
+<meta name="citation_issn" content="1355-770X">
+<meta name="citation_issn" content="1469-4395">
+<meta name="citation_doi" content="10.1017/S1355770X15000157">
+<meta name="citation_pdf_url" content="https://www.cambridge.org/core/services/aop-cambridge-core/content/view/13C587E71F2C14A165F3DABEE892BBA4/S1355770X15000157a.pdf/div-class-title-floods-and-armed-conflict-div.pdf">
+<meta name="citation_reference" content=" C.H.  Achen   and  L.M.  Bartels  (2004), ‘Myopic retrospection and party realignment in the great depression’, Unpublished manuscript, Princeton University, NJ.">
+<meta name="citation_reference" content="citation_title=Security and climate change; citation_author=BARNETT, J; citation_publication_date=2003; citation_journal_title=Global Environmental Change; citation_volume=13; citation_issue=1; citation_firstpage=7; citation_lastpage=17; citation_doi=10.1016/S0959-3780(02)00080-8">
+<meta name="citation_reference" content=" C.F.  Baum  ,  M.E.  Schaffer , and  S.  Stillman  (2007), ‘Enhanced routines for instrumental variables/GMM estimation and testing’, Stata Journal 7(4): 465–506.">
+<meta name="citation_reference" content="citation_title=Climate-related natural disasters, economic growth, and armed civil conflict; citation_author=Bergholt, D.; citation_author=Lujala, P.; citation_publication_date=2012; citation_journal_title=Journal of Peace Research; citation_volume=49; citation_issue=1; citation_firstpage=147; citation_lastpage=162; citation_doi=10.1177/0022343311426167">
+<meta name="citation_reference" content="citation_title=The Indirect Effect of Ethnic Heterogeneity on the Likelihood of Civil War Onset; citation_author=Blimes, R. J.; citation_publication_date=2006; citation_journal_title=Journal of Conflict Resolution; citation_volume=50; citation_issue=4; citation_firstpage=536; citation_lastpage=547; citation_doi=10.1177/00222706289402">
+<meta name="citation_reference" content=" G.R.  Brakenridge   (2011), ‘Global active archive of large flood events’, Dartmouth Flood Observatory, Boulder, CO, [Available at] http://floodobservatory.colorado.edu/Archives/index.html.">
+<meta name="citation_reference" content=" P.  Brass   (2003), The Production of Hindu-Muslim Violence In Contemporary India, Seattle, WA: University of Washington Press.">
+<meta name="citation_reference" content="citation_title=Warming increases the risk of civil war in Africa; citation_author=Burke, M. B.; citation_author=Miguel, E.; citation_author=Satyanath, S.; citation_author=Dykema, J. A.; citation_author=Lobell, D. B.; citation_publication_date=2009; citation_journal_title=Proceedings of the National Academy of Sciences; citation_volume=106; citation_issue=49; citation_firstpage=20670; citation_lastpage=20674; citation_doi=10.1073/pnas.0907998106">
+<meta name="citation_reference" content="CBS News (2010), ‘Insurgents, police clash amid Pakistan flooding’, CBSNews, 18 August.">
+<meta name="citation_reference" content="citation_title=Human Factors Explain the Increased Losses from Weather and Climate Extremes
+                        *; citation_author=Changnon, Stanley A.; citation_author=Pielke, Roger A.; citation_author=Changnon, David; citation_author=Sylves, Richard T.; citation_author=Pulwarty, Roger; citation_publication_date=2000; citation_journal_title=Bulletin of the American Meteorological Society; citation_volume=81; citation_issue=3; citation_firstpage=437; citation_lastpage=442; citation_doi=10.1175/1520-0477(2000)081&amp;lt;0437:HFETIL&amp;gt;2.3.CO;2">
+<meta name="citation_reference" content=" A.  Ciccone   (2011), ‘Economic shocks and civil conflict: a comment’, American Economic Journal: Applied Economics 3(4): 215–227.">
+<meta name="citation_reference" content="CRED/OFDA (2011), ‘International disaster database’, Center for Research of the Epidemiology of Disasters/Office of Foreign Disaster Assistance, [Available at] http://www.emdat.be.">
+<meta name="citation_reference" content="citation_title=The Macroeconomic Impacts of Natural Disasters: The Case of Floods; citation_author=Cunado, J.; citation_author=Ferreira, S.; citation_publication_date=2013; citation_journal_title=Land Economics; citation_volume=90; citation_issue=1; citation_firstpage=149; citation_lastpage=168; citation_doi=10.3368/le.90.1.149">
+<meta name="citation_reference" content="citation_title=A New Data Set Measuring Income Inequality; citation_author=Deininger, K.; citation_author=Squire, L.; citation_publication_date=1996; citation_journal_title=The World Bank Economic Review; citation_volume=10; citation_issue=3; citation_firstpage=565; citation_lastpage=591; citation_doi=10.1093/wber/10.3.565">
+<meta name="citation_reference" content="citation_title=The Los Angeles Riot and the Economics of Urban Unrest; citation_author=DiPasquale, Denise; citation_author=Glaeser, Edward L; citation_publication_date=1998; citation_journal_title=Journal of Urban Economics; citation_volume=43; citation_issue=1; citation_firstpage=52; citation_lastpage=78; citation_doi=10.1006/juec.1996.2035">
+<meta name="citation_reference" content=" R.  Falk   (1971), This Endangered Planet: Prospected and Proposals for Human Survival, New York: Random House.">
+<meta name="citation_reference" content="citation_title=Forest cover, socioeconomics, and reported flood frequency in developing countries; citation_author=Ferreira, Susana; citation_author=Ghimire, Ramesh; citation_publication_date=2012; citation_journal_title=Water Resources Research; citation_volume=48; citation_issue=8; citation_firstpage=n/a; citation_lastpage=n/a; citation_doi=10.1029/2011WR011701">
+<meta name="citation_reference" content="citation_title=Armed Conflict 1946-2001: A New Dataset; citation_author=GLEDITSCH, N. P.; citation_author=WALLENSTEEN, P.; citation_author=ERIKSSON, M.; citation_author=SOLLENBERG, M.; citation_author=STRAND, H.; citation_publication_date=2002; citation_journal_title=Journal of Peace Research; citation_volume=39; citation_issue=5; citation_firstpage=615; citation_lastpage=637; citation_doi=10.1177/0022343302039005007">
+<meta name="citation_reference" content=" A.  Hafiz   and  N.  Islam  (1993), Environmental Degradation and Intra/Interstate Conflicts in Bangladesh, Zurich: ETH-Zentrum, Swiss Federal Institute of Technology.">
+<meta name="citation_reference" content=" H.  Hegre  ,  T.  Ellingsen ,  S.  Gates , and  N.P.  Gleditsch  (2001), ‘Toward a democratic civil peace? Democracy, political change, and civil war, 1816–1992’, American Political Science Review 95(1): 33–48.">
+<meta name="citation_reference" content="citation_title=Climate change, rainfall, and social conflict in Africa; citation_author=Hendrix, C. S.; citation_author=Salehyan, I.; citation_publication_date=2012; citation_journal_title=Journal of Peace Research; citation_volume=49; citation_issue=1; citation_firstpage=35; citation_lastpage=50; citation_doi=10.1177/0022343311426165">
+<meta name="citation_reference" content="citation_title=Environmental Scarcities and Violent Conflict: Evidence from Cases; citation_author=Homer-Dixon, Thomas F.; citation_publication_date=1994; citation_journal_title=International Security; citation_volume=19; citation_issue=1; citation_firstpage=5; citation_doi=10.2307/2539147">
+<meta name="citation_reference" content=" D.L.  Horowitz   (1985), Ethnic Groups in Conflict, Berkeley, CA: University of California Press.">
+<meta name="citation_reference" content="citation_title=Quantifying the Influence of Climate on Human Conflict; citation_author=Hsiang, S. M.; citation_author=Burke, M.; citation_author=Miguel, E.; citation_publication_date=2013; citation_journal_title=Science; citation_volume=341; citation_issue=6151; citation_firstpage=1235367; citation_lastpage=1235367; citation_doi=10.1126/science.1235367">
+<meta name="citation_reference" content="Human Security Report (2012), Non-State Armed Conflict, Vancouver: Human Security Research Group, Simon Fraser University.">
+<meta name="citation_reference" content="IANS (Indo-Asian News Service) (2010), ‘Taliban tap Pakistan flood misery to enlist 50,000 men’, Indo-Asian News Service, 31 August.">
+<meta name="citation_reference" content="IPCC (Intergovernmental Panel for Climate Change) (2007), Impacts, Adaptation and Vulnerability, Cambridge: Cambridge University Press.">
+<meta name="citation_reference" content="IPCC (2012), ‘Managing the risks of extreme events and disasters to advance climate change adaptation’, in  C.B.  Field ,  V.  Barros , and  T.F.  Stocker  (eds), A Special Report of Working Groups I and II of the Intergovernmental Panel on Climate Change, Cambridge: Cambridge University Press.">
+<meta name="citation_reference" content="citation_title=The Death Toll from Natural Disasters: The Role of Income, Geography, and Institutions; citation_author=Kahn, Matthew E.; citation_publication_date=2005; citation_journal_title=Review of Economics and Statistics; citation_volume=87; citation_issue=2; citation_firstpage=271; citation_lastpage=284; citation_doi=10.1162/0034653053970339">
+<meta name="citation_reference" content=" P.  Keefer   (2009), ‘Conflict and disaster’, Washington, DC: World Bank.">
+<meta name="citation_reference" content=" P.  Kennedy   (2009), A Guide to Econometrics, Oxford: Blackwell.">
+<meta name="citation_reference" content=" S.W.  Lee   (2001), Environmental Matters: Conflict Refugees and International Relations, Tokyo: World Human Development Institute Press.">
+<meta name="citation_reference" content="citation_title=Economic impacts of the floods in Pakistan; citation_author=Looney, Robert; citation_publication_date=2012; citation_journal_title=Contemporary South Asia; citation_volume=20; citation_issue=2; citation_firstpage=225; citation_lastpage=241; citation_doi=10.1080/09584935.2012.670203">
+<meta name="citation_reference" content=" M.G.  Marshall   and  K.  Jaggers  (2011), ‘Polity IV project: political regime characteristics and transitions, 1800–2010’, Vienna, VA: Center for Systemic Peace, [Available at] http://www.systemicpeace.org/polity/polity4.htm.">
+<meta name="citation_reference" content=" E.  Miguel  ,  S.  Satyanath , and  E.  Sergenti  (2004), ‘Economic shocks and civil conflict: an instrumental variables approach’, Journal of Political Economy 12(4): 725–753.">
+<meta name="citation_reference" content="citation_title=The J-Curve Theory and the Black Urban Riots: An Empirical Test of Progressive Relative Deprivation Theory; citation_author=Miller, Abraham H.; citation_author=Bolce, Louis H.; citation_author=Halligan, Mark; citation_publication_date=1977; citation_journal_title=The American Political Science Review; citation_volume=71; citation_issue=3; citation_firstpage=964; citation_doi=10.2307/1960101">
+<meta name="citation_reference" content="citation_title=Diffusion, Reinforcement, Geopolitics, and the Spread of War; citation_author=Most, Benjamin A.; citation_author=Starr, Harvey; citation_publication_date=1980; citation_journal_title=American Political Science Review; citation_volume=74; citation_issue=04; citation_firstpage=932; citation_lastpage=946; citation_doi=10.2307/1954314">
+<meta name="citation_reference" content="citation_title=Consistent Estimates Based on Partially Consistent Observations; citation_author=Neyman, J.; citation_author=Scott, Elizabeth L.; citation_publication_date=1948; citation_journal_title=Econometrica; citation_volume=16; citation_issue=1; citation_firstpage=1; citation_doi=10.2307/1914288">
+<meta name="citation_reference" content="citation_title=Ruggedness: The Blessing of Bad Geography in Africa; citation_author=Nunn, Nathan; citation_author=Puga, Diego; citation_publication_date=2012; citation_journal_title=Review of Economics and Statistics; citation_volume=94; citation_issue=1; citation_firstpage=20; citation_lastpage=36; citation_doi=10.1162/REST_a_00161">
+<meta name="citation_reference" content="citation_title=Climatic natural disasters, political risk, and international trade; citation_author=Oh, Chang Hoon; citation_author=Reuveny, Rafael; citation_publication_date=2010; citation_journal_title=Global Environmental Change; citation_volume=20; citation_issue=2; citation_firstpage=243; citation_lastpage=254; citation_doi=10.1016/j.gloenvcha.2009.11.005">
+<meta name="citation_reference" content=" S.  Olzak   (1992), The Dynamics of Ethnic Competition and Conflict, CA: Redwood City, CA: Stanford University Press.">
+<meta name="citation_reference" content="Political Risk Services (2011), ‘International country risk guide’, East Syracuse, NY: Political Risk Services, [Available at] https://www.prsgroup.com/about-us/our-two-methodologies/icrg.">
+<meta name="citation_reference" content="citation_title=Institutions and the losses from natural disasters; citation_author=Raschky, P. A.; citation_publication_date=2008; citation_journal_title=Natural Hazards and Earth System Science; citation_volume=8; citation_issue=4; citation_firstpage=627; citation_lastpage=634; citation_doi=10.5194/nhess-8-627-2008">
+<meta name="citation_reference" content="citation_title=Agroclimatic shock, income inequality, and poverty: Evidence from Burkina Faso; citation_author=Reardon, Thomas; citation_author=Taylor, J.Edward; citation_publication_date=1996; citation_journal_title=World Development; citation_volume=24; citation_issue=5; citation_firstpage=901; citation_lastpage=914; citation_doi=10.1016/0305-750X(96)00009-5">
+<meta name="citation_reference" content=" M.  Righarts   (2010), ‘Pakistan&amp;amp;apos;s floods: a window of opportunity for insurgents?’, ABC News, 8 September.">
+<meta name="citation_reference" content=" H.  Sarsons   (2011), ‘Rainfall, rupees, and riots: testing rainfall as an instrumental variable’, [Available at] http://sarso.files.wordpress.com/2011/08/sarsons_aug_draft1.pdf.">
+<meta name="citation_reference" content=" J.H.  Stock   and  M.W.  Watson  (2011), Introduction to Econometrics, Oxford: Pearson Education.">
+<meta name="citation_reference" content="citation_title=Conflict and the Environment; citation_author=Suhrke, Astri; citation_publisher=Springer Netherlands; citation_publication_date=1997; citation_firstpage=255; citation_lastpage=272">
+<meta name="citation_reference" content=" The  Economist  (2012), ‘Food and the Arab spring’, The Economist, 17 March.">
+<meta name="citation_reference" content="TCCCR (2011), ‘Climate data’, Norwich: Tyndall Centre for Climate Change Research, [Available at] http://www.cru.uea.ac.uk/cru/data/hrg/timm/cty/obs/TYN_CY_1_1.html.">
+<meta name="citation_reference" content=" United  Nations  (2010), ‘Population aged 15–24’, New York: United Nations, [Available at] http://esa.un.org/unpd/wpp/unpp/panel_indicators.htm.">
+<meta name="citation_reference" content="UNITR (2010), The Pakistan Floods of 2010, Geneva: United National Institute for Training and Research, [Available at] http://www.unitar.org/unosat/node/44/1506.">
+<meta name="citation_reference" content="citation_title=People vs. Malthus: Population Pressure, Environmental Degradation, and Armed         Conflict Revisited; citation_author=Urdal, H.; citation_publication_date=2005; citation_journal_title=Journal of Peace Research; citation_volume=42; citation_issue=4; citation_firstpage=417; citation_lastpage=434; citation_doi=10.1177/0022343305054089">
+<meta name="citation_reference" content=" P.  Uvin   (1999), The Influence of Aid in Situations of Violent Conflict, Paris: OECD.">
+<meta name="citation_reference" content=" R.  Warren  ,  N.  Arnell ,  R.  Nicholls ,  P.  Levy , and  J.  Price  (2006), ‘Understanding the regional impacts of climate change’, Working Paper No. 90, Tyndall Centre for Climate Change Research, Norwich.">
+<meta name="citation_reference" content="WDI (2010), ‘World development indicator (WDI) &amp;amp;amp; global development finance (GDF)’, Washington, DC: World Bank, [Available at] http://databank.worldbank.org/ddp/home.do.">
+<meta name="citation_reference" content="White House (2009), ‘Remarks by the President at the acceptance of the Nobel Peace Prize’, Washington, DC: Office of the Press Secretary, White House, [Available at] http://www.whitehouse.gov/the-press-office/remarks-president-acceptance-nobel-peace-prize.">
+<meta name="citation_reference" content=" S.I.  Wilkinson   (2006), Votes and Violence: Electoral Competition and Ethnic Riots in India, Cambridge: Cambridge University Press.">
+<meta name="citation_reference" content=" J.  Wooldridge   (2002), Econometric Analysis of Cross Section and Panel Data, Cambridge, MA: MIT Press.">
+<meta name="citation_reference" content=" R.  Zurayk   (2011), ‘Use your loaf: why food prices were crucial in the Arab spring’, The Guardian, 16 July.">
+<link rel="alternate" href="/core/journals/environment-and-development-economics/article/floods-and-armed-conflict/13C587E71F2C14A165F3DABEE892BBA4" hreflang="en"/> <script> (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function() { (i[r].q=i[r].q||[]).push(arguments)} ,i[r].l=1*new Date();a=s.createElement(o), m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m) })(window,document,'script','https://www.google-analytics.com/analytics.js','ga'); ga('create', 'UA-86516288-1', 'auto'); ga('send', 'pageview'); </script>
+</head>
+<body>
+<a id="skiptocontent" href="#maincontent">Skip to main content</a>
+<div class="cookie-message">
+<div class="row">
+<div class="small-11 columns">
+<p>We use cookies to distinguish you from other users and to provide you with a better experience on our websites. Close this message to accept cookies or find out how to <a href="http://www.cambridge.org/about-us/legal-notices/cookies-policy/" target="_blank">manage your cookie settings</a>.</p>
+</div>
+<div class="small-1 columns">
+<a href="#" onclick="closeMessage();" class="cookie-close">
+<!--[if IE 8 ]>
+                  <img alt = "Close cookie message" title = "Close cookie message" src = "/core/cambridge-core/public/images/icn_circle__btn_close_white.png">
+                  <![endif]-->
+<!--[if (gte IE 9)|!(IE)]><!-->
+<img alt="Close cookie message" title="Close cookie message" src="/core/cambridge-core/public/images/icn_circle__btn_close_white.svg">
+<!--<![endif]-->
+</a>
+</div>
+</div>
+</div>
+<script>
+  var cookieMessage = $('.cookie-message');
+  var cookieName = 'EULAW';
+  var closeMessage = function () {
+      $.cookie(cookieName, true, {expires: 365, path:'/'});
+      cookieMessage.slideUp().promise().done(function () {
+          cookieMessage.remove();
+      });
+  };
+  $(document).ready(function () {
+      if ($.cookie(cookieName) !== 'true') {
+          cookieMessage.slideDown();
+      }
+  });
+  </script>
+<div id="login-modal" class="reveal-modal small" data-reveal>
+<div class="wrapper large-margin-top-for-small-only">
+<div class="row margin-top">
+<div class="large-12 columns">
+<div class="panel callout message"></div>
+</div>
+</div>
+<div class="row margin-top">
+<div class="small-6 large-6 columns"><a href="#" onclick="$('#login-modal').foundation('reveal', 'close');return false;" class="right small button radius transparent cancel">Cancel</a></div>
+<div class="small-6 large-6 columns">
+<a href="/core/login?ref=%2Fcore%2Fjournals%2Fenvironment-and-development-economics%2Farticle%2Ffloods-and-armed-conflict%2F13C587E71F2C14A165F3DABEE892BBA4" class="left small radius button blue confirm login">Log in</a>
+</div>
+</div>
+<a class="close-reveal-modal">&#215;</a>
+</div>
+</div>
+<header>
+<div class="contain-to-grid" id="mainWrapper">
+<!--[if IE 7]>
+    <div id="global-nav" style="display: none"></div>
+      <![endif]-->
+<!--[if gte IE 8]><!-->
+<div id="global-nav"></div>
+<!--<![endif]-->
+<div class="clear"></div>
+</div>
+</header>
+<div class="off-canvas-wrap desktop overflow-visible">
+<div class="inner-wrap">
+</div>
+</div>
+<div class="row print-only">
+<div class="small-12 columns">
+<img src="/core/cambridge-core/public/images/logo_core.png" class="core-logo" alt=""/>
+</div>
+</div>
+<section class="sub-header slide-up">
+<div class="row">
+<div class="column">
+<a href="/core/">
+<div class="logo-core"><span class="show-for-sr">Home</span></div>
+</a>
+<form class="subject-search search-form prevent-empty-search no-margin-right" action="/core/search" method="GET">
+<div class="row">
+<div class="row collapse postfix-radius">
+<div class="submit-in-field js-outglow-parent clearfix">
+<div class="small-10 columns">
+<input type="text" name="q" value="" autocomplete="off" class=" js-outglow prefix-radius" placeholder="Search all journal & book content" aria-label="Search all journal & book content">
+</div>
+<div class="small-2 columns">
+<input type="submit" value="Submit search" class="button postfix">
+</div>
+</div>
+ 
+<label class="accessible"><input type="checkbox" name="checkbox" value="value">Only search content I have access to</label>
+</div>
+</div>
+</form>
+</div>
+</div>
+</section>
+<section class="menu secondary">
+<div class="row wrapper">
+<div class="column">
+<ul>
+<li><a href="#" class="menu-icon"></a></li>
+</ul>
+<ul class="sub-nav  dropdown-menu-mobile" role="menu">
+<li class="show-for-small"><a href="/core/login?ref=">Log in</a></li>
+<li class="show-for-small"><a href="/core/register">Register</a></li>
+ 
+<li><a href="/core/browse-subjects" class="no-padding-left-for-large">Browse subjects</a></li>
+<li><a href="/core/what-we-publish">What we publish</a></li>
+<li><a href="/core/services">Services</a></li>
+<li><a href="/core/about">About Cambridge Core</a></li>
+</ul>
+<div class="right">
+<ul class="show-for-small-only profile-mobile">
+<li><a href="#" class="button transparent radius search-small"><span class="icon mobile-search grey"></span></a></li>
+ 
+</ul>
+<ul class="sub-nav dropdown-menu-mobile profile" role="menu">
+<li class="hide-for-personal institution-name">
+<a class="institution-login" href="//shibboleth.cambridge.org/CJOShibb2/index?app=https://www.cambridge.org/core/shibboleth?ref=/core" id="institution-current">Institution login</a>
+</li>
+<li class="divider"></li>
+<li class="hide-for-small register"><a href="/core/register?ref=%2Fcore%2Fjournals%2Fenvironment-and-development-economics%2Farticle%2Ffloods-and-armed-conflict%2F13C587E71F2C14A165F3DABEE892BBA4" class="button small radius transparent">Register</a></li>
+<li><a href="/core/login?ref=%2Fcore%2Fjournals%2Fenvironment-and-development-economics%2Farticle%2Ffloods-and-armed-conflict%2F13C587E71F2C14A165F3DABEE892BBA4" class="button small radius blue">Log in</a></li>
+</ul>
+</div>
+</div>
+</div>
+</section>
+<section class="breadcrumbs-wrapper smaller">
+<div class="row">
+<ul class="large-2 column backToSearch hide">
+<li>
+<a href="#">&lt; Back to search results</a>
+</li>
+</ul>
+<script type="text/javascript">
+        var searchResultKey = 'fromSearch';
+        var $backToSearch = $('.backToSearch');
+        var fromSearch = localStorage.getItem(searchResultKey);
+    
+        if (fromSearch) {
+            $backToSearch.find('li a').attr('href', fromSearch);
+            $backToSearch.removeClass('hide');
+            localStorage.removeItem(searchResultKey);
+        }
+    </script>
+<ul class="large-10 column breadcrumbs">
+<li><a href="/core/">Home</a></li><li><a href="/core/what-we-publish/journals">Journals</a></li><li><a href="/core/journals/environment-and-development-economics">Environment and Development Economics</a></li><li><a href="/core/journals/environment-and-development-economics/issue/D415F273278F8F40F3F7A237A234657E">Volume 21 Issue 1</a></li><li class="current"><a href="#">Floods and armed conflict</a></li>
+</ul>
+</div>
+</section>
+<div class="flash-message-container">
+<div class="flash-message">
+<div data-alert class="alert-box alert">
+<div class="alert alert-danger">Unfortunately you do not have access to this content, please use the <strong>Get access</strong> link below for information on how to access this content.</div>
+<a href="#" class="close">&times;</a>
+</div>
+<div id="ajaxMessages" class="ajaxMessages"></div>
+</div>
+</div>
+<div class="article-wrapper">
+<section class="banner article small  society-logo-exists" style="background-image: url(/core/services/aop-file-manager/file/567832e05cefc91d0c2d4006)">
+<div class="content">
+<div class="center-all-container">
+<div class="center-all">
+<div class="row">
+<div class="large-6 medium-6 small-12 column banner-title">
+<div class="title title-left white">Environment and Development&nbsp;Economics</div>
+</div>
+<div class="large-2 medium-2 small-12 column society-logo">
+<a title="Published on behalf of The Beijer Institute of Ecological Economics" href=" http://www.beijer.kva.se/" target="_blank">
+<img title="Published on behalf of The Beijer Institute of Ecological Economics" src="/core/services/aop-file-manager/file/574d97367a2b5f2735c63e55" alt="Beijer Institute of Ecological Economics, Royal Swedish Academy of Sciences"/>
+</a>
+</div>
+<div class="large-4 medium-4 small-12 column hide-for-print">
+<form action="/core/journals/environment-and-development-economics/listing" method="GET" class="search-form">
+<div class="row">
+<div class=" columns ">
+<div class="row collapse postfix-radius search-input js-outglow-parent">
+<div class="small-10 columns">
+<input type="text" name="q" value="" autocomplete="off" class=" js-outglow prefix-radius" placeholder="Search Environment and Development Economics" aria-label="Search Environment and Development Economics">
+<input type="hidden" name="searchWithinIds" id="searchWithinIds" value="E9B1601107D6892A3F330585355FE062"/>
+</div>
+<div class="small-2 columns">
+<input type="submit" value="Submit search" class="button postfix">
+</div>
+</div>
+</div>
+</div>
+</form>
+</div>
+</div>
+</div>
+</div>
+</div>
+</section>
+<div class="column large-12 page-tabs">
+<div class="row">
+<div class="tab-title current-mobile hide-for-large-up">
+<a href="">Article</a>
+<div class="blue-square"><a href="" class="icon arrow"></a></div>
+</div>
+<ul class="tabs" data-tab data-options="deep_linking:true; scroll_to_content:false">
+<li class="tab-title active"><a href="#information">Article</a></li>
+<li class="tab-title"><a href="#supplementary-materials">Supplementary materials</a></li>
+<li class="tab-title"><a href="#metrics">Metrics</a></li>
+</ul>
+<ul class="social white right hide-for-small hide-for-medium">
+<li><a href="#" data-hasqtip="Save to my bookmarks" aria-describedby="qtip-text" data-prod-id="13C587E71F2C14A165F3DABEE892BBA4" data-prod-type="JOURNAL_ARTICLE" data-bookmark class="icon bookmark requires-login"></a></li>
+<li><a href="http://www.cambridge.org/academic/journals-content-alerts/" target="_blank" data-hasqtip="Set alert" aria-describedby="qtip-text" class="icon alert"></a>
+</li>
+<li>
+<a href="#" data-hasqtip="Share" aria-describedby="qtip-text" class="icon share"></a>
+</li>
+</ul>
+</div>
+</div>
+<div class="tabs-content" id="maincontent">
+<div class="content active" id="information">
+<section class="row">
+<div class="large-12 columns">
+<div class="split-panel opposite-cols">
+<div class="wrapper">
+<div class="page-operatives enable-full-width margin-top-for-small margin-top-for-medium">
+<div class="small-12 large-9 column main-column">
+</div>
+<div class="small-12 large-3 large-offset-9 narrow-column hide-for-medium hide-for-small">
+<ul class="text-resizer-controls left">
+<li>
+<ul id="text-resizer-controls" class="textresizer ">
+<li class="standard-text textresizer-active">Aa</li>
+<li class="large-text">Aa</li>
+</ul>
+</li>
+</ul>
+<ul class="right">
+<li class="icon toggle close"></li>
+</ul>
+</div>
+</div>
+<div class="panel large-9 small-12 column main-column article-page left">
+<ul class="social white left hide-for-large-up">
+<li><a href="#" data-hasqtip="Save to my bookmarks" aria-describedby="qtip-text" data-prod-id="13C587E71F2C14A165F3DABEE892BBA4" data-prod-type="JOURNAL_ARTICLE" data-bookmark class="icon bookmark requires-login"></a></li>
+<li><a href="http://www.cambridge.org/academic/journals-content-alerts/" target="_blank" data-hasqtip="Set alert" aria-describedby="qtip-text" class="icon alert"></a>
+</li>
+<li>
+<a href="#" data-hasqtip="Share" aria-describedby="qtip-text" class="icon share"></a>
+</li>
+</ul>
+<div class="article-meta overview">
+<ul class="access">
+<li class="status get">
+<a href="#" class="get hasTooltipCustom-top" data-qtip-event="click">Get access</a>
+<div class="custom-tooltip custom-tooltip--buttons">
+<div class="grey-bg">
+<div class="row">
+<div class="column small-12 text-center tooltip-row">Check if you have access via personal or institutional login</div>
+</div>
+<div class="tooltip-row row text-center padding-bottom">
+<a href="/core/login?ref=%2Fcore%2Fjournals%2Fenvironment-and-development-economics%2Farticle%2Ffloods-and-armed-conflict%2F13C587E71F2C14A165F3DABEE892BBA4" class="button small radius blue ">Log in</a>
+<a href="/core/register?ref=%2Fcore%2Fjournals%2Fenvironment-and-development-economics%2Farticle%2Ffloods-and-armed-conflict%2F13C587E71F2C14A165F3DABEE892BBA4" class="button small radius blue ">Register</a>
+<a href="#" data-prod-id="13C587E71F2C14A165F3DABEE892BBA4" class="button small radius blue margin-top-small recommend-product parent-product" data-cup-event='{"eventCode":"TA-EX","eventContext":"/core/journals/environment-and-development-economics/article/floods-and-armed-conflict/13C587E71F2C14A165F3DABEE892BBA4","usedIdentities":[],"eventType":"REC","searchScope":"PRODUCT","productId":"13C587E71F2C14A165F3DABEE892BBA4"}'>
+Recommend to librarian
+</a>
+</div>
+</div>
+</div>
+</li>
+<li class="status open-access">
+</li>
+</ul>
+<ul class="title-volume-issue">
+<li class="title ">
+<a class="force-inline" title="Volume 21 " href="/core/journals/environment-and-development-economics/volume/1A2126975FA3F8CDBCC469767F400F5F">Volume 21</a>,
+<a class="force-inline" title="Issue 1 " href="/core/journals/environment-and-development-economics/issue/D415F273278F8F40F3F7A237A234657E">Issue 1 </a>
+</li>
+<li class="published">
+<span class="date">February 2016</span><span class="date">, pp. 23-52</span>
+</li>
+</ul>
+</div>
+<div id="Top" class="reading-width">
+<div class="article-page">
+<div class="overview no-margin-bottom">
+<div class="divider print-only margin-top-large"></div>
+<h1 class="article-title">Floods and armed conflict</h1>
+<ul class="details no-padding-bottom">
+<li class="author">
+<a href="/core/search?filters%5BauthorTerms%5D=Ramesh Ghimire&eventCode=SE-AU" class="more-by-this-author ">Ramesh Ghimire</a> <sup data-affiliation-id="a1" class="">(a1)</sup><span class="separator "> and </span><a href="/core/search?filters%5BauthorTerms%5D=Susana Ferreira&eventCode=SE-AU" class="more-by-this-author ">Susana Ferreira</a> <sup data-affiliation-id="a2" class="">(a2)</sup>
+<i class="icon open-drawer small toggle-affiliations" aria-label="View all author information"></i>
+</li>
+<div id="author-affiliations" style="display:none" class="margin-bottom margin-top">
+<ul class="full-contributor-listing">
+<li id="a1" class="contributor-affiliation"><strong><sup>(a1)</sup></strong> <div><div class="aff"><institution type='simple'>University of Georgia</institution>, <addrLine>Warnell School of Forestry and Natural Resources</addrLine>, <addrLine>Athens</addrLine>, <addrLine>Georgia</addrLine>, <country>USA.</country> E-mail: <email type='simple'>ghimire@uga.edu</email></div></div></li><li id="a2" class="contributor-affiliation"><strong><sup>(a2)</sup></strong> <div><div class="aff"><institution type='simple'>University of Georgia</institution>, <addrLine>Department of Agricultural and Applied Economics</addrLine>, <addrLine>313 Conner Hall</addrLine>, <addrLine>Athens</addrLine>, <addrLine>GA 30602</addrLine>, <country>USA.</country> Tel: <phone>+1 706-542-0086</phone>. Fax: <fax>+1 706-542-0739</fax>. E-mail: <email type='simple'>sferreir@uga.edu</email></div></div></li>
+</ul>
+</div>
+<script>
+                                                        $('.author i').on('click', function (e) {
+                                                            e.preventDefault();
+                                                            var $authorAffiliations = $('#author-affiliations');
+                                                            var $hiddenAuthors = $('.hidden-author');
+                                                            var $button = $(this);
+                                                            $authorAffiliations.toggle();
+                                                            $button.toggleClass('close');
+                                                            $hiddenAuthors.toggleClass('hide');
+                                                            if ($authorAffiliations.is(':visible')) {
+                                                                $button.attr('aria-label', 'Hide all author information');
+                                                            } else {
+                                                                $button.attr('aria-label', 'View all author information');
+                                                            }
+                                                        });
+                                                    </script>
+<li>
+<ul class="article-components">
+<li class="source">DOI: <a href="https://doi.org/10.1017/S1355770X15000157" target="_blank" class="url">https://doi.org/10.1017/S1355770X15000157</a></li>
+<li class="published">Published online: <span class="date">05 June 2015</li>
+</ul>
+</li>
+</ul>
+</div>
+<div class="overview article-overview">
+<div class="abstract-text">
+<div class="divider less-space"> </div>
+<div class="row">
+<div class="large-2 medium-2 small-12 columns abstract-title-wrapper">
+<div id="abstract" class="summary-title">Abstract</div>
+</div>
+<div class="large-10 medium-10 small-12 columns">
+<div class="description">
+<div class="abstract" data-abstract-type="normal"><title>Abstract</title><p>We estimate the impact of large, catastrophic floods on internal armed conflict using global data on large floods between 1985 and 2009. The results suggest that while large floods did not ignite new conflict, they fueled existing armed conflicts. Floods and armed conflict are endogenously determined, and we show that empirically addressing this endogeneity is important. The estimated effects of floods on conflict prevalence are substantially larger in specifications that control for the endogeneity of floods, suggesting that treating natural disasters as exogenous phenomena may underestimate their impacts on sociopolitical outcomes.</p></div>
+</div>
+</div>
+</div>
+<div class="divider less-space"> </div>
+<div class="article-actions">
+<div>
+<ul class="other-actions col-1">
+<a class="button small radius blue export-citation-product" data-prod-id="13C587E71F2C14A165F3DABEE892BBA4">Export citation</a>
+<a href="https://s100.copyright.com/AppDispatchServlet?publisherName=CUP&amp;publication=EDE&amp;title=Floods%20and%20armed%20conflict&amp;publicationDate=2015-06-05&amp;author=Ramesh%20Ghimire,%20Susana%20Ferreira&amp;copyright=COPYRIGHT:%20%C2%A9%20Cambridge%20University%20Press%202015%C2%A0&amp;contentID=10.1017/S1355770X15000157&amp;startPage=23&amp;endPage=52&amp;orderBeanReset=True&amp;volumeNum=21&amp;issueNum=1" target="_blank" class="button small transparent radius">Request permission</a>
+</ul>
+<ul class="other-actions col-2">
+</ul>
+</div>
+</div>
+<div class="divider"> </div>
+</div>
+<div class="overview article-overview">
+<div id="author" class="summary-title">Copyright</div>
+<div class="description">
+<div class="copyright">COPYRIGHT: © Cambridge University Press 2015 </div>
+</div>
+</div>
+<div class="divider"> </div>
+<div class="overview article-overview">
+<div class="summary-title summary-title-reveal">Linked references</div>
+<dl class="accordion accordian-article" data-accordion>
+<dd class="accordion-navigation active">
+<a href="#references" class="right">
+<div class="icon open-drawer small">
+<span class="toggle-text">Hide</span>
+<span class="excerpt-type">All</span>
+</div>
+</a>
+<p class="paragraph_03">This list contains references from the content that can be linked to their source. For a full set of references and notes please see the PDF or HTML where available.</p>
+<div id="references" class="description content active">
+ 
+<div class="reference-display">
+<div class="cit-mixed-citation simple journal" data-magellan-destination="ref3" id="ref3"><span class="cit-name"> <span class="cit-given-names">J.</span> <span class="cit-surname">Barnett</span> </span> (<span class="cit-year">2003</span>), ‘<span class="cit-article-title">Security and climate change</span>’, <span class="cit-source">Global Environmental Change</span> <span class="cit-volume">13</span>(<span class="cit-issue">1</span>): <span class="cit-fpage">7</span>–<span class="cit-lpage">17</span>.</div>
+</div>
+<ul class="reference-list">
+<li><a href="https://doi.org/10.1016/S0959-3780(02)00080-8" target="_blank">CrossRef</a></li>
+<li><a href="https://scholar.google.com/scholar_lookup?title=Security+and+climate+change&amp;author=BARNETT+J&amp;publication_year=2003" target="_blank">Google Scholar</a></li>
+</ul>
+<hr/>
+ 
+<div class="reference-display">
+<div class="cit-mixed-citation simple journal" data-magellan-destination="ref6" id="ref6"><span class="cit-name"> <span class="cit-given-names">D.</span> <span class="cit-surname">Bergholt</span> </span> and <span class="cit-string-name"> <span class="cit-given-names">P.</span> <span class="cit-surname">Lujala</span> </span> (<span class="cit-year">2012</span>), ‘<span class="cit-article-title">Climate-related natural disasters, economic growth, and armed civil conflict</span>’, <span class="cit-source">Journal of Peace Research</span> <span class="cit-volume">49</span>: <span class="cit-fpage">147</span>–<span class="cit-lpage">162</span>.</div>
+</div>
+<ul class="reference-list">
+<li><a href="https://doi.org/10.1177/0022343311426167" target="_blank">CrossRef</a></li>
+<li><a href="https://scholar.google.com/scholar_lookup?title=Climate-related+natural+disasters+economic+growth+and+armed+civil+conflict&amp;author=Bergholt+D.+Lujala+P.&amp;publication_year=2012" target="_blank">Google Scholar</a></li>
+</ul>
+<hr/>
+ 
+<div class="reference-display">
+<div class="cit-mixed-citation simple journal" data-magellan-destination="ref8" id="ref8"><span class="cit-name"> <span class="cit-given-names">R.J.</span> <span class="cit-surname">Blimes</span> </span> (<span class="cit-year">2006</span>), ‘<span class="cit-article-title">The indirect effect of ethnic heterogeneity on the likelihood of civil war onset</span>’, <span class="cit-source">Journal of Conflict Resolution</span> <span class="cit-volume">50</span>(<span class="cit-issue">4</span>): <span class="cit-fpage">536</span>–<span class="cit-lpage">547</span>.</div>
+</div>
+<ul class="reference-list">
+<li><a href="https://doi.org/10.1177/00222706289402" target="_blank">CrossRef</a></li>
+<li><a href="https://scholar.google.com/scholar_lookup?title=The+Indirect+Effect+of+Ethnic+Heterogeneity+on+the+Likelihood+of+Civil+War+Onset&amp;author=Blimes+R.+J.&amp;publication_year=2006" target="_blank">Google Scholar</a></li>
+</ul>
+<hr/>
+ 
+<div class="reference-display">
+<div class="cit-mixed-citation simple journal" data-magellan-destination="ref11" id="ref11"><span class="cit-name"> <span class="cit-given-names">M.B.</span> <span class="cit-surname">Burke</span> </span>, <span class="cit-string-name"> <span class="cit-given-names">E.</span> <span class="cit-surname">Miguel</span> </span>, <span class="cit-string-name"> <span class="cit-given-names">S.</span> <span class="cit-surname">Satyanath</span> </span>, <span class="cit-string-name"> <span class="cit-given-names">J.A.</span> <span class="cit-surname">Dykema</span> </span>, and <span class="cit-string-name"> <span class="cit-given-names">D.B.</span> <span class="cit-surname">Lobell</span> </span> (<span class="cit-year">2009</span>), ‘<span class="cit-article-title">Warming increases the risk of civil war in Africa</span>’, <span class="cit-source">Proceedings of the National Academy of Sciences</span> <span class="cit-volume">106</span>(<span class="cit-issue">49</span>): <span class="cit-fpage">20,670</span>–<span class="cit-lpage">20,674</span>.</div>
+</div>
+<ul class="reference-list">
+<li><a href="https://doi.org/10.1073/pnas.0907998106" target="_blank">CrossRef</a></li>
+<li><a href="https://scholar.google.com/scholar_lookup?title=Warming+increases+the+risk+of+civil+war+in+Africa&amp;author=Burke+M.+B.+Miguel+E.+Satyanath+S.+Dykema+J.+A.+Lobell+D.+B.&amp;publication_year=2009" target="_blank">Google Scholar</a></li>
+</ul>
+<hr/>
+ 
+<div class="reference-display">
+<div class="cit-mixed-citation simple journal" data-magellan-destination="ref13" id="ref13"><span class="cit-name"> <span class="cit-given-names">S.A.</span> <span class="cit-surname">Changnon</span> </span>, <span class="cit-string-name"> <span class="cit-given-names">R.A.</span> <span class="cit-surname">Pielke</span> </span>, <span class="cit-string-name"> <span class="cit-given-names">D.</span> <span class="cit-surname">Changnon</span> </span>, <span class="cit-string-name"> <span class="cit-given-names">R.T.</span> <span class="cit-surname">Sylves</span> </span>, and <span class="cit-string-name"> <span class="cit-given-names">R.S.</span> <span class="cit-surname">Pulwarty</span> </span> (<span class="cit-year">2000</span>), ‘<span class="cit-article-title">Human factors explain the increased losses from weather and climate extremes</span>’, <span class="cit-source">Bulletin of the American Meteorological Society</span> <span class="cit-volume">81</span>(<span class="cit-issue">3</span>): <span class="cit-fpage">437</span>–<span class="cit-lpage">442</span>.</div>
+</div>
+<ul class="reference-list">
+<li><a href="https://doi.org/10.1175/1520-0477(2000)081&lt;0437:HFETIL&gt;2.3.CO;2" target="_blank">CrossRef</a></li>
+<li><a href="https://scholar.google.com/scholar_lookup?title=Human+Factors+Explain+the+Increased+Losses+from+Weather+and+Climate+Extremes+*&amp;author=Changnon+Stanley+A.+Pielke+Roger+A.+Changnon+David+Sylves+Richard+T.+Pulwarty+Roger&amp;publication_year=2000" target="_blank">Google Scholar</a></li>
+</ul>
+<hr/>
+ 
+<div class="reference-display">
+<div class="cit-mixed-citation simple journal" data-magellan-destination="ref17" id="ref17"><span class="cit-name"> <span class="cit-given-names">J.</span> <span class="cit-surname">Cuñado</span> </span> and <span class="cit-string-name"> <span class="cit-given-names">S.</span> <span class="cit-surname">Ferreira</span> </span> (<span class="cit-year">2014</span>), ‘<span class="cit-article-title">The macroeconomic impacts of natural disasters: the case of floods</span>’, <span class="cit-source">Land Economics</span> <span class="cit-volume">90</span>(<span class="cit-issue">1</span>): <span class="cit-fpage">149</span>–<span class="cit-lpage">168</span>.</div>
+</div>
+<ul class="reference-list">
+<li><a href="https://doi.org/10.3368/le.90.1.149" target="_blank">CrossRef</a></li>
+<li><a href="https://scholar.google.com/scholar_lookup?title=The+Macroeconomic+Impacts+of+Natural+Disasters:+The+Case+of+Floods&amp;author=Cunado+J.+Ferreira+S.&amp;publication_year=2013" target="_blank">Google Scholar</a></li>
+</ul>
+<hr/>
+ 
+<div class="reference-display">
+<div class="cit-mixed-citation simple journal" data-magellan-destination="ref18" id="ref18"><span class="cit-name"> <span class="cit-given-names">K.</span> <span class="cit-surname">Deininger</span> </span> and <span class="cit-string-name"> <span class="cit-given-names">L.</span> <span class="cit-surname">Squire</span> </span> (<span class="cit-year">1996</span>), ‘<span class="cit-article-title">A new data set measuring income inequality</span>’, <span class="cit-source">World Bank Economic Review</span> <span class="cit-volume">10</span>(<span class="cit-issue">3</span>): <span class="cit-fpage">565</span>–<span class="cit-lpage">591</span>.</div>
+</div>
+<ul class="reference-list">
+<li><a href="https://doi.org/10.1093/wber/10.3.565" target="_blank">CrossRef</a></li>
+<li><a href="https://scholar.google.com/scholar_lookup?title=A+New+Data+Set+Measuring+Income+Inequality&amp;author=Deininger+K.+Squire+L.&amp;publication_year=1996" target="_blank">Google Scholar</a></li>
+</ul>
+<hr/>
+ 
+<div class="reference-display">
+<div class="cit-mixed-citation simple journal" data-magellan-destination="ref19" id="ref19"><span class="cit-name"> <span class="cit-given-names">D.</span> <span class="cit-surname">DiPasquale</span> </span> and <span class="cit-string-name"> <span class="cit-given-names">E.L.</span> <span class="cit-surname">Glaeser</span> </span> (<span class="cit-year">1998</span>), ‘<span class="cit-article-title">The Los Angeles riot and the economics of urban unrest</span>’, <span class="cit-source">Journal of Urban Economics</span> <span class="cit-volume">43</span>(<span class="cit-issue">1</span>): <span class="cit-fpage">52</span>–<span class="cit-lpage">78</span>.</div>
+</div>
+<ul class="reference-list">
+<li><a href="https://doi.org/10.1006/juec.1996.2035" target="_blank">CrossRef</a></li>
+<li><a href="https://scholar.google.com/scholar_lookup?title=The+Los+Angeles+Riot+and+the+Economics+of+Urban+Unrest&amp;author=DiPasquale+Denise+Glaeser+Edward+L&amp;publication_year=1998" target="_blank">Google Scholar</a></li>
+</ul>
+<hr/>
+ 
+<div class="reference-display">
+<div class="cit-mixed-citation simple journal" data-magellan-destination="ref26" id="ref26"><span class="cit-name"> <span class="cit-given-names">S.</span> <span class="cit-surname">Ferreira</span> </span> and <span class="cit-string-name"> <span class="cit-given-names">R.</span> <span class="cit-surname">Ghimire</span> </span> (<span class="cit-year">2012</span>), ‘<span class="cit-article-title">Forest cover, socioeconomics, and reported flood frequency in developing countries</span>’, <span class="cit-source">Water Resources Research</span> <span class="cit-volume">48</span>(<span class="cit-issue">8</span>): W08529.</div>
+</div>
+<ul class="reference-list">
+<li><a href="https://doi.org/10.1029/2011WR011701" target="_blank">CrossRef</a></li>
+<li><a href="https://scholar.google.com/scholar_lookup?title=Forest+cover+socioeconomics+and+reported+flood+frequency+in+developing+countries&amp;author=Ferreira+Susana+Ghimire+Ramesh&amp;publication_year=2012" target="_blank">Google Scholar</a></li>
+</ul>
+<hr/>
+ 
+<div class="reference-display">
+<div class="cit-mixed-citation simple journal" data-magellan-destination="ref31" id="ref31"><span class="cit-name"> <span class="cit-given-names">N.P.</span> <span class="cit-surname">Gleditsch</span> </span>, <span class="cit-string-name"> <span class="cit-given-names">P.</span> <span class="cit-surname">Wallensteen</span> </span>, <span class="cit-string-name"> <span class="cit-given-names">M.</span> <span class="cit-surname">Eriksson</span> </span>, <span class="cit-string-name"> <span class="cit-given-names">M.</span> <span class="cit-surname">Sollenberg</span> </span>, and <span class="cit-string-name"> <span class="cit-given-names">H.</span> <span class="cit-surname">Strand</span> </span> (<span class="cit-year">2002</span>), ‘<span class="cit-article-title">Armed conflict 1946–2001: a new dataset</span>’, <span class="cit-source">Journal of Peace Research</span> <span class="cit-volume">39</span>(<span class="cit-issue">5</span>): <span class="cit-fpage">615</span>–<span class="cit-lpage">637</span>.</div>
+</div>
+<ul class="reference-list">
+<li><a href="https://doi.org/10.1177/0022343302039005007" target="_blank">CrossRef</a></li>
+<li><a href="https://scholar.google.com/scholar_lookup?title=Armed+Conflict+1946-2001:+A+New+Dataset&amp;author=GLEDITSCH+N.+P.+WALLENSTEEN+P.+ERIKSSON+M.+SOLLENBERG+M.+STRAND+H.&amp;publication_year=2002" target="_blank">Google Scholar</a></li>
+</ul>
+<hr/>
+ 
+<div class="reference-display">
+<div class="cit-mixed-citation simple journal" data-magellan-destination="ref36" id="ref36"><span class="cit-name"> <span class="cit-given-names">C.S.</span> <span class="cit-surname">Hendrix</span> </span> and <span class="cit-string-name"> <span class="cit-given-names">I.</span> <span class="cit-surname">Salehyan</span> </span> (<span class="cit-year">2012</span>), ‘<span class="cit-article-title">Climate change, rainfall, and social conflict in Africa</span>’, <span class="cit-source">Journal of Peace Research</span> <span class="cit-volume">49</span>(<span class="cit-issue">1</span>): <span class="cit-fpage">35</span>–<span class="cit-lpage">50</span>.</div>
+</div>
+<ul class="reference-list">
+<li><a href="https://doi.org/10.1177/0022343311426165" target="_blank">CrossRef</a></li>
+<li><a href="https://scholar.google.com/scholar_lookup?title=Climate+change+rainfall+and+social+conflict+in+Africa&amp;author=Hendrix+C.+S.+Salehyan+I.&amp;publication_year=2012" target="_blank">Google Scholar</a></li>
+</ul>
+<hr/>
+ 
+<div class="reference-display">
+<div class="cit-mixed-citation simple journal" data-magellan-destination="ref37" id="ref37"><span class="cit-name"> <span class="cit-given-names">T.F.</span> <span class="cit-surname">Homer-Dixon</span> </span> (<span class="cit-year">1994</span>), ‘<span class="cit-article-title">Environmental scarcities and violent conflict: evidence from cases</span>’, <span class="cit-source">International Security</span> <span class="cit-volume">19</span>(<span class="cit-issue">1</span>): <span class="cit-fpage">5</span>–<span class="cit-lpage">40</span>.</div>
+</div>
+<ul class="reference-list">
+<li><a href="https://doi.org/10.2307/2539147" target="_blank">CrossRef</a></li>
+<li><a href="https://scholar.google.com/scholar_lookup?title=Environmental+Scarcities+and+Violent+Conflict:+Evidence+from+Cases&amp;author=Homer-Dixon+Thomas+F.&amp;publication_year=1994" target="_blank">Google Scholar</a></li>
+</ul>
+<hr/>
+ 
+<div class="reference-display">
+<div class="cit-mixed-citation simple journal" data-magellan-destination="ref41" id="ref41"><span class="cit-name"> <span class="cit-given-names">S.M.</span> <span class="cit-surname">Hsiang</span> </span>, <span class="cit-string-name"> <span class="cit-given-names">B.</span> <span class="cit-surname">Marshall</span> </span>, and <span class="cit-string-name"> <span class="cit-given-names">M.</span> <span class="cit-surname">Edward</span> </span> (<span class="cit-year">2013</span>), ‘<span class="cit-article-title">Quantifying the influence of climate on human conflict</span>’, <span class="cit-source">Science</span> <span class="cit-volume">341</span>(<span class="cit-issue">6151</span>): 1235367.</div>
+</div>
+<ul class="reference-list">
+<li><a href="https://doi.org/10.1126/science.1235367" target="_blank">CrossRef</a></li>
+<li><a href="https://scholar.google.com/scholar_lookup?title=Quantifying+the+Influence+of+Climate+on+Human+Conflict&amp;author=Hsiang+S.+M.+Burke+M.+Miguel+E.&amp;publication_year=2013" target="_blank">Google Scholar</a></li>
+</ul>
+<hr/>
+ 
+<div class="reference-display">
+<div class="cit-mixed-citation simple journal" data-magellan-destination="ref47" id="ref47"><span class="cit-name"> <span class="cit-given-names">M.E.</span> <span class="cit-surname">Kahn</span> </span> (<span class="cit-year">2005</span>), ‘<span class="cit-article-title">The death toll from natural disasters: the role of income, geography, and institutions</span>’, <span class="cit-source">Review of Economics and Statistics</span> <span class="cit-volume">87</span>(<span class="cit-issue">2</span>): <span class="cit-fpage">271</span>–<span class="cit-lpage">284</span>.</div>
+</div>
+<ul class="reference-list">
+<li><a href="https://doi.org/10.1162/0034653053970339" target="_blank">CrossRef</a></li>
+<li><a href="https://scholar.google.com/scholar_lookup?title=The+Death+Toll+from+Natural+Disasters:+The+Role+of+Income+Geography+and+Institutions&amp;author=Kahn+Matthew+E.&amp;publication_year=2005" target="_blank">Google Scholar</a></li>
+</ul>
+<hr/>
+ 
+<div class="reference-display">
+<div class="cit-mixed-citation simple journal" data-magellan-destination="ref53" id="ref53"><span class="cit-name"> <span class="cit-given-names">R.</span> <span class="cit-surname">Looney</span> </span> (<span class="cit-year">2012</span>), ‘<span class="cit-article-title">Economic impacts of the floods in Pakistan</span>’, <span class="cit-source">Contemporary South Asia</span> <span class="cit-volume">20</span>(<span class="cit-issue">2</span>): <span class="cit-fpage">225</span>–<span class="cit-lpage">241</span>.</div>
+</div>
+<ul class="reference-list">
+<li><a href="https://doi.org/10.1080/09584935.2012.670203" target="_blank">CrossRef</a></li>
+<li><a href="https://scholar.google.com/scholar_lookup?title=Economic+impacts+of+the+floods+in+Pakistan&amp;author=Looney+Robert&amp;publication_year=2012" target="_blank">Google Scholar</a></li>
+</ul>
+<hr/>
+ 
+<div class="reference-display">
+<div class="cit-mixed-citation simple journal" data-magellan-destination="ref57" id="ref57"><span class="cit-name"> <span class="cit-given-names">A.H.</span> <span class="cit-surname">Miller</span> </span>, <span class="cit-string-name"> <span class="cit-given-names">L.H.</span> <span class="cit-surname">Bolce</span> </span>, and <span class="cit-string-name"> <span class="cit-given-names">M.</span> <span class="cit-surname">Halligan</span> </span> (<span class="cit-year">1977</span>), ‘<span class="cit-article-title">The J-curve theory and the black urban riots: an empirical test of progressive relative deprivation theory</span>’, <span class="cit-source">American Political Science Review</span> <span class="cit-volume">71</span>(<span class="cit-issue">3</span>): <span class="cit-fpage">964</span>–<span class="cit-lpage">982</span>.</div>
+</div>
+<ul class="reference-list">
+<li><a href="https://doi.org/10.2307/1960101" target="_blank">CrossRef</a></li>
+<li><a href="https://scholar.google.com/scholar_lookup?title=The+J-Curve+Theory+and+the+Black+Urban+Riots:+An+Empirical+Test+of+Progressive+Relative+Deprivation+Theory&amp;author=Miller+Abraham+H.+Bolce+Louis+H.+Halligan+Mark&amp;publication_year=1977" target="_blank">Google Scholar</a></li>
+</ul>
+<hr/>
+ 
+<div class="reference-display">
+<div class="cit-mixed-citation simple journal" data-magellan-destination="ref58" id="ref58"><span class="cit-name"> <span class="cit-given-names">B.A.</span> <span class="cit-surname">Most</span> </span> and <span class="cit-string-name"> <span class="cit-given-names">H.</span> <span class="cit-surname">Starr</span> </span> (<span class="cit-year">1980</span>), ‘<span class="cit-article-title">Diffusion, reinforcement, geopolitics, and the spread of war</span>’, <span class="cit-source">American Political Science Review</span> <span class="cit-volume">74</span>(<span class="cit-issue">4</span>): <span class="cit-fpage">932</span>–<span class="cit-lpage">946</span>.</div>
+</div>
+<ul class="reference-list">
+<li><a href="https://doi.org/10.2307/1954314" target="_blank">CrossRef</a></li>
+<li><a href="https://scholar.google.com/scholar_lookup?title=Diffusion+Reinforcement+Geopolitics+and+the+Spread+of+War&amp;author=Most+Benjamin+A.+Starr+Harvey&amp;publication_year=1980" target="_blank">Google Scholar</a></li>
+</ul>
+<hr/>
+ 
+<div class="reference-display">
+<div class="cit-mixed-citation simple journal" data-magellan-destination="ref60" id="ref60"><span class="cit-name"> <span class="cit-given-names">J.</span> <span class="cit-surname">Neyman</span> </span> and <span class="cit-string-name"> <span class="cit-given-names">E.L.</span> <span class="cit-surname">Scott</span> </span> (<span class="cit-year">1948</span>), ‘<span class="cit-article-title">Consistent estimates based on partially consistent observations</span>’, <span class="cit-source">Econometrica</span> <span class="cit-volume">16</span>: <span class="cit-fpage">1</span>–<span class="cit-lpage">32</span>.</div>
+</div>
+<ul class="reference-list">
+<li><a href="https://doi.org/10.2307/1914288" target="_blank">CrossRef</a></li>
+<li><a href="https://scholar.google.com/scholar_lookup?title=Consistent+Estimates+Based+on+Partially+Consistent+Observations&amp;author=Neyman+J.+Scott+Elizabeth+L.&amp;publication_year=1948" target="_blank">Google Scholar</a></li>
+</ul>
+<hr/>
+ 
+<div class="reference-display">
+<div class="cit-mixed-citation simple journal" data-magellan-destination="ref61" id="ref61"><span class="cit-name"> <span class="cit-given-names">N.</span> <span class="cit-surname">Nunn</span> </span> and <span class="cit-string-name"> <span class="cit-given-names">D.</span> <span class="cit-surname">Puga</span> </span> (<span class="cit-year">2012</span>), ‘<span class="cit-article-title">Ruggedness: the blessing of bad geography in Africa</span>’, <span class="cit-source">Review of Economics and Statistics</span> <span class="cit-volume">94</span>(<span class="cit-issue">1</span>): <span class="cit-fpage">20</span>–<span class="cit-lpage">36</span>.</div>
+</div>
+<ul class="reference-list">
+<li><a href="https://doi.org/10.1162/REST_a_00161" target="_blank">CrossRef</a></li>
+<li><a href="https://scholar.google.com/scholar_lookup?title=Ruggedness:+The+Blessing+of+Bad+Geography+in+Africa&amp;author=Nunn+Nathan+Puga+Diego&amp;publication_year=2012" target="_blank">Google Scholar</a></li>
+</ul>
+<hr/>
+ 
+<div class="reference-display">
+<div class="cit-mixed-citation simple journal" data-magellan-destination="ref62" id="ref62"><span class="cit-name"> <span class="cit-given-names">C.H.</span> <span class="cit-surname">Oh</span> </span> and <span class="cit-string-name"> <span class="cit-given-names">R.</span> <span class="cit-surname">Reuveny</span> </span> (<span class="cit-year">2010</span>), ‘<span class="cit-article-title">Climatic natural disasters, political risk, and international trade</span>’, <span class="cit-source">Global Environmental Change</span> <span class="cit-volume">20</span>(<span class="cit-issue">2</span>): <span class="cit-fpage">243</span>–<span class="cit-lpage">254</span>.</div>
+</div>
+<ul class="reference-list">
+<li><a href="https://doi.org/10.1016/j.gloenvcha.2009.11.005" target="_blank">CrossRef</a></li>
+<li><a href="https://scholar.google.com/scholar_lookup?title=Climatic+natural+disasters+political+risk+and+international+trade&amp;author=Oh+Chang+Hoon+Reuveny+Rafael&amp;publication_year=2010" target="_blank">Google Scholar</a></li>
+</ul>
+<hr/>
+ 
+<div class="reference-display">
+<div class="cit-mixed-citation simple journal" data-magellan-destination="ref66" id="ref66"><span class="cit-name"> <span class="cit-given-names">P.A.</span> <span class="cit-surname">Raschky</span> </span> (<span class="cit-year">2008</span>), ‘<span class="cit-article-title">Institutions and the losses from natural disasters</span>’, <span class="cit-source">Natural Hazards and Earth System Sciences</span> <span class="cit-volume">8</span>(<span class="cit-issue">4</span>): <span class="cit-fpage">627</span>–<span class="cit-lpage">634</span>.</div>
+</div>
+<ul class="reference-list">
+<li><a href="https://doi.org/10.5194/nhess-8-627-2008" target="_blank">CrossRef</a></li>
+<li><a href="https://scholar.google.com/scholar_lookup?title=Institutions+and+the+losses+from+natural+disasters&amp;author=Raschky+P.+A.&amp;publication_year=2008" target="_blank">Google Scholar</a></li>
+</ul>
+<hr/>
+ 
+<div class="reference-display">
+<div class="cit-mixed-citation simple journal" data-magellan-destination="ref67" id="ref67"><span class="cit-name"> <span class="cit-given-names">T.</span> <span class="cit-surname">Reardon</span> </span> and <span class="cit-string-name"> <span class="cit-given-names">J.E.</span> <span class="cit-surname">Taylor</span> </span> (<span class="cit-year">1996</span>), ‘<span class="cit-article-title">Agroclimatic shock, income inequality, and poverty: evidence from Burkina Faso</span>’, <span class="cit-source">World Development</span> <span class="cit-volume">24</span>(<span class="cit-issue">5</span>): <span class="cit-fpage">901</span>–<span class="cit-lpage">914</span>.</div>
+</div>
+<ul class="reference-list">
+<li><a href="https://doi.org/10.1016/0305-750X(96)00009-5" target="_blank">CrossRef</a></li>
+<li><a href="https://scholar.google.com/scholar_lookup?title=Agroclimatic+shock+income+inequality+and+poverty:+Evidence+from+Burkina+Faso&amp;author=Reardon+Thomas+Taylor+J.Edward&amp;publication_year=1996" target="_blank">Google Scholar</a></li>
+</ul>
+<hr/>
+ 
+<div class="reference-display">
+<div class="cit-mixed-citation simple book" data-magellan-destination="ref74" id="ref74"><span class="cit-name"> <span class="cit-given-names">A.</span> <span class="cit-surname">Suhrke</span> </span> (<span class="cit-year">1997</span>), ‘<span class="cit-chapter-title">Environmental degradation, migration, and the potential for violent conflict</span>’, in <span class="cit-string-name"> <span class="cit-given-names">N.P.</span> <span class="cit-surname">Gleditsch</span> </span> (ed.), <span class="cit-source">Conflict and the Environment</span>, <span class="cit-publisher-loc">Dordrecht</span>: <span class="cit-publisher-name">Kluwer Academic</span>, pp. <span class="cit-fpage">255</span>–<span class="cit-lpage">272</span>.</div>
+</div>
+<ul class="reference-list">
+<li><a href="https://doi.org/10.1007/978-94-015-8947-5_16" target="_blank">CrossRef</a></li>
+<li><a href="https://scholar.google.com/scholar_lookup?title=Conflict+and+the+Environment&amp;author=Suhrke+Astri&amp;publication_year=1997" target="_blank">Google Scholar</a></li>
+</ul>
+<hr/>
+ 
+<div class="reference-display">
+<div class="cit-mixed-citation simple journal" data-magellan-destination="ref83" id="ref83"><span class="cit-name"> <span class="cit-given-names">H.</span> <span class="cit-surname">Urdal</span> </span> (<span class="cit-year">2005</span>), ‘<span class="cit-article-title">People vs. Malthus: population pressure, environmental degradation, and armed conflict revisited</span>’, <span class="cit-source">Journal of Peace Research</span> <span class="cit-volume">42</span>(<span class="cit-issue">4</span>): 417.</div>
+</div>
+<ul class="reference-list">
+<li><a href="https://doi.org/10.1177/0022343305054089" target="_blank">CrossRef</a></li>
+<li><a href="https://scholar.google.com/scholar_lookup?title=People+vs.+Malthus:+Population+Pressure+Environmental+Degradation+and+Armed+Conflict+Revisited&amp;author=Urdal+H.&amp;publication_year=2005" target="_blank">Google Scholar</a></li>
+</ul>
+<hr/>
+</div>
+</dd>
+</dl>
+</div>
+</div>
+</div>
+</div>
+<div id="recommendProduct" class="reveal-modal large" data-reveal>
+<div id="type-display">
+<div class="header">
+<div class="heading_07">Recommend this journal</div>
+<p>Email your librarian or administrator to recommend adding this journal to your organisation's collection.</p>
+</div>
+<div class="row book-title">
+<div class="small-12 columns">
+<div class="heading_08">Environment and Development Economics</div>
+</div>
+</div>
+<div class="row book-details book-overview">
+<div class="small-12 columns">
+<ul>
+<li class="meta-info issn">ISSN: 1355-770X<li>
+<li class="meta-info eissn">EISSN: 1469-4395<li>
+<li class="meta-info url">URL: /core/journals/environment-and-development-economics<li>
+</ul>
+</div>
+</div>
+</div>
+<div class="row wrapper no-padding-top">
+<div class="small-12 columns">
+<div class="flash-message-container">
+<div class="flash-message">
+<div data-alert class="alert-box alert">
+<div class="alert alert-danger">Unfortunately you do not have access to this content, please use the <strong>Get access</strong> link below for information on how to access this content.</div>
+<a href="#" class="close">&times;</a>
+</div>
+<div id="ajaxMessages" class="ajaxMessages"></div>
+</div>
+</div>
+<div class="row margin-top">
+<div class="large-12 columns">
+<form id="recommend" action="/core/services/aop-cambridge-core/recommend/send" method="post" data-abide="ajax">
+<input type="hidden" name="_csrf" value="31O50J7T-oUjORWjmRyOlhf3D2WOcE4V1Gbc">
+<div id="inputs">
+<input type="hidden" name="productType" value="journal">
+<input type="hidden" name="productLink" value="">
+<input type="hidden" name="productID" value="E9B1601107D6892A3F330585355FE062">
+<input type="hidden" name="productTitle" value="Environment and Development Economics">
+<input type="hidden" name="productIssn" value="1355770X">
+<input type="hidden" name="productEissn" value="14694395">
+</div>
+<input type="hidden" name="yourNamePrefill" value="">
+<input type="hidden" name="yourEmailPrefill" value="">
+<div class="row">
+<div class="large-6 medium-12 small-12 columns">
+<div class="row">
+<div class="small-12 columns">
+<label>
+Your name *
+<input name="yourName" id="yourName" type="text" required="required" maxlength="100" placeholder="Enter your name"/>
+</label>
+<small class="error">Please enter your name</small>
+</div>
+</div>
+</div>
+<div class="large-6 medium-12 small-12 columns">
+<div class="row">
+<div class="small-12 columns">
+<label>
+Your email address *
+<input name="yourEmail" id="yourEmail" type="text" required="required" pattern="email" maxlength="100" placeholder="Enter your email address"/>
+</label>
+<small class="error">Please enter a valid email address</small>
+</div>
+</div>
+</div>
+</div>
+<div class="row">
+<div class="small-12 large-12 columns">
+<fieldset>
+<legend>Who would you like to send this to? *</legend>
+<div class="row">
+<div class="small-12 large-6 columns no-padding-left margin-top-for-medium no-margin-top">
+<div id="administrator-email" class="small-12 columns">
+<label class="organisation-option" for="administratorEmail"><span>Your administrator's email <span data-dropdown="administratorEmailInfo" aria-controls="administratorEmailInfo" aria-expanded="false" class="icon info tooltip-icon"></span></span><div id="administratorEmailInfo" data-dropdown-content class="f-dropdown content medium" aria-hidden="true" tabindex="-1"><p class="text-left">You can enter one or more administrator email addresses.</p></div></label>
+<div class="row collapse postfix-radius">
+<div class="large-10 small-10 columns">
+<input type="hidden" id="selected-values" name="selectedAdministratorEmails" value=""/>
+<input id="administratorEmail" name="administratorEmail" type="text" placeholder="Enter an email address" autocomplete="off"/>
+<span id="emailaddress-invalid" class="error" style="display:none">Please enter a valid email address</span>
+<span id="emailaddress-added" class="error" style="display:none">Email already added</span>
+</div>
+<div class="large-2 small-2 columns">
+<input type="submit" value="Add" id="add-administrator" class="button radius postfix" aria-label="Add administrator email">
+</div>
+</div>
+<div class="row">
+<div class="small-12 large-12 columns">
+<div id="selected-administrator-emails" class="margin-top" style="display:none"></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</fieldset>
+</div>
+</div>
+<div class="row">
+<div class="small-12 medium-6 columns">
+<div class="small-12 medium-12 large-6 columns">
+<label>Optional message
+<textarea name="message" id="message" rows="3" maxlength="250" placeholder="Enter a message for your libarian or administrator"></textarea>
+</label>
+</div>
+</div>
+<div class="small-12 medium-6 columns">
+<link rel="stylesheet" href="/core/captcha/public/bower_components/visualcaptcha.jquery/visualcaptcha.src.css"/>
+<link rel="stylesheet" href="/core/captcha/public/captcha.css"/>
+<div class="wrap">
+<div class="pre-captcha-wrapper">
+<div class="captcha-wrapper">
+<h2>CAPTCHA *</h2>
+<a id="captcha-skip-to-audio" href="#captcha-audio-challenge" aria-hidden="false">Skip to the audio challenge</a>
+<div id="sample-captcha"></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</form>
+<div class="row margin-top">
+<div class="small-6 large-6 columns">
+<button href="#" onclick="$('#recommendProduct').foundation('reveal', 'close');return false;" class="button radius transparent right">Cancel</button>
+</div>
+<div class="small-6 large-6 columns">
+<button type="submit" onclick="$('form#recommend').submit();" id="recommend-submit" class="button blue radius left">Send</button>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<a class="close-reveal-modal">×</a>
+</div>
+<script>
+                                  $('.icon.toggle.close').on('click', function () {
+                                      $('.article-meta').toggleClass('reading-width');
+                                  });
+                              </script>
+</div>
+<div class="panel large-3 small-12 narrow-column article-page chapter right">
+<script>
+                                  $(document).ready(function () {
+                                    $('texmath, .tex-math, .mathJaxTex').hide();
+                                  });
+                                </script>
+</div>
+</div>
+</div>
+</div>
+</section>
+</div>
+<div class="content" id="contents">
+</div>
+<div class="content" id="references">
+</div>
+<div class="content" id="supplementary-materials">
+<section class="row">
+<div class="large-12 columns">
+<div class="split-panel opposite-cols">
+<div class="wrapper">
+<div class="small-12 column padding-top-large">
+<table class="sup-mat-list" width="100%">
+<thead class="hide-for-small">
+<tr>
+<td>Type</td>
+<td>Description</td>
+<td>Title</td>
+<td></td>
+</tr>
+</thead>
+<tbody>
+<tr class="sup-mat-row">
+<td class="no-wrap hide-for-small">
+<div class="icon-middle">
+<i class="fa fa-file-pdf-o small-icon"></i><span class="hide-for-small">PDF</span>
+</div>
+</td>
+<td class="hide-for-small">Supplementary Materials</td>
+<td>
+<p>Ghimire and Ferreira supplementary material<br/> Appendix</p>
+<a href="//static.cambridge.org/resource/id/urn:cambridge.org:id:binary:20161006165729270-0141:S1355770X15000157:S1355770X15000157sup001.pdf" class="hide-for-medium-up left"><i class="fa fa-file-pdf-o small-icon"></i> &nbsp;PDF (59 KB)</a>
+</td>
+<td class="no-wrap hide-for-small">
+<div class="icon-middle">
+<a class="download-link" target="_blank" href="//static.cambridge.org/resource/id/urn:cambridge.org:id:binary:20161006165729270-0141:S1355770X15000157:S1355770X15000157sup001.pdf" aria-label="Download PDF" title="Download Supplementary Materials"><i class="fa fa-arrow-circle-o-down medium-icon"></i></a>
+<span class="hide-for-small download-size">59 KB</span>
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+<script>
+                      $(document).ready(function() {
+                        $('.sup-mat-play-video').click(function (e) {
+                          e.preventDefault();
+                          $(this).closest('.sup-mat-row').find('video').toggle();
+                        });
+                      });
+                    </script>
+</div>
+</div>
+</div>
+</div>
+</section>
+</div>
+<div class="content" id="metrics">
+<script type="text/javascript">
+            $(document).ready(function () {
+          
+              var fullTextViews = {
+                total: '36',
+                data: [],
+                containerId: 'article-months-chart-fulltext-views'
+              };
+                fullTextViews.data.push([
+                  {v: 'Sep 2016'},
+                  2
+                ]);
+                fullTextViews.data.push([
+                  {v: 'Oct 2016'},
+                  10
+                ]);
+                fullTextViews.data.push([
+                  {v: 'Nov 2016'},
+                  17
+                ]);
+                fullTextViews.data.push([
+                  {v: 'Dec 2016'},
+                  23
+                ]);
+                fullTextViews.data.push([
+                  {v: 'Jan 2017'},
+                  29
+                ]);
+                fullTextViews.data.push([
+                  {v: 'Feb 2017'},
+                  32
+                ]);
+                fullTextViews.data.push([
+                  {v: 'Mar 2017'},
+                  35
+                ]);
+                fullTextViews.data.push([
+                  {v: 'Apr 2017'},
+                  36
+                ]);
+          
+              var abstractViews = {
+                total: '147',
+                data: [],
+                containerId: 'article-months-chart-abstract-views'
+              };
+                abstractViews.data.push([
+                  {v: 'Sep 2016'},
+                  15
+                ]);
+                abstractViews.data.push([
+                  {v: 'Oct 2016'},
+                  44
+                ]);
+                abstractViews.data.push([
+                  {v: 'Nov 2016'},
+                  77
+                ]);
+                abstractViews.data.push([
+                  {v: 'Dec 2016'},
+                  92
+                ]);
+                abstractViews.data.push([
+                  {v: 'Jan 2017'},
+                  107
+                ]);
+                abstractViews.data.push([
+                  {v: 'Feb 2017'},
+                  132
+                ]);
+                abstractViews.data.push([
+                  {v: 'Mar 2017'},
+                  145
+                ]);
+                abstractViews.data.push([
+                  {v: 'Apr 2017'},
+                  147
+                ]);
+          
+              var chartsToRender = [
+                {
+                  containerId: fullTextViews.containerId,
+                  chartType: 'LineChart',
+                  data: fullTextViews.data,
+                  total: fullTextViews.total,
+                  columns: [
+                    ['string', 'Month'],
+                    ['number', 'Full text views']
+                  ],
+                  chartOptions: {
+                    hAxis: {
+                      title: 'Months'
+                    },
+                    vAxis: {
+                      title: 'Cumulative views',
+                      format: 0
+                    },
+                    legend: 'none',
+                    lineWidth: 3,
+                    pointSize: 5
+                  }
+                },
+                {
+                  containerId: abstractViews.containerId,
+                  data: abstractViews.data,
+                  total: abstractViews.total,
+                  chartType: 'LineChart',
+                  columns: [
+                    ['string', 'Month'],
+                    ['number', 'Abstract views']
+                  ],
+                  chartOptions: {
+                    hAxis: {
+                      title: 'Months'
+                    },
+                    vAxis: {
+                      title: 'Cumulative views',
+                      format: 0
+                    },
+                    legend: 'none',
+                    lineWidth: 3,
+                    pointSize: 5
+                  }
+                }
+              ];
+          
+              AOP.metrics.init({
+                chartsToRender: chartsToRender,
+                limitSingleChartWidth: true
+              });
+          
+            });
+          
+          </script>
+<section class="row metrics">
+<div class="large-12 columns">
+<div class="split-panel opposite-cols">
+<div class="wrapper">
+<div class="panel small-12 column main-column">
+<div class="reading-width">
+<h2 class="heading_03">Metrics</h2>
+<div class="divider"></div>
+<div class="metrics-section full-text-views ">
+<h2 class="heading_06">Full text views<span> <span data-dropdown="full-text-view-info" aria-controls="full-text-view-info" aria-expanded="false" class="icon info tooltip-icon"></span></span><div id="full-text-view-info" data-dropdown-content class="f-dropdown content medium" aria-hidden="true" tabindex="-1"><p class="text-left">Full text views reflects the number of PDF downloads, PDFs sent to Google Drive, Dropbox and Kindle and HTML full text views.</p></div></h2>
+<div class="summary">
+<div>Total number of HTML views: <span>2</span></div>
+<div>Total number of PDF views: <span>34</span> *</div>
+</div>
+<div class="clear"></div>
+<div class="chart">
+<div class="loader">
+<div>
+<img src="/core/system/public/img/ajax_loader_gray_256.gif" alt=""><span>Loading metrics...</span>
+</div>
+</div>
+<div class="row">
+<div class="large-12 columns">
+<div id="article-months-chart-fulltext-views"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="divider"></div>
+<div class="metrics-section abstract-views ">
+<h2 class="heading_06">Abstract views<span> <span data-dropdown="abstract-view-info" aria-controls="abstract-view-info" aria-expanded="false" class="icon info tooltip-icon"></span></span><div id="abstract-view-info" data-dropdown-content class="f-dropdown content medium" aria-hidden="true" tabindex="-1"><p class="text-left">Abstract views reflect the number of visits to the article landing page.</p></div></h2>
+<div class="summary">
+<div>
+Total abstract views: <span>147</span> *
+</div>
+</div>
+<div class="clear"></div>
+<div class="chart">
+<div class="loader">
+<div>
+<img src="/core/system/public/img/ajax_loader_gray_256.gif" alt=""><span>Loading metrics...</span>
+</div>
+</div>
+<div class="row">
+<div class="large-12 columns">
+<div id="article-months-chart-abstract-views"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="margin-top"><p>* Views captured on Cambridge Core between September 2016 - 6th April 2017. This data will be updated every 24 hours.</p></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</section>
+</div>
+<div class="content" id="errata">
+<section class="row">
+<div class="large-12 columns">
+<div class="split-panel opposite-cols">
+<div class="wrapper">
+<div class="panel small-12 column main-column">
+<div class="reading-width">
+</div>
+</div>
+</div>
+</div>
+</div>
+</section>
+</div>
+</div>
+</div>
+<script>
+          $(document).ready(function () {
+              AOP.loadScript('//s7.addthis.com/js/300/addthis_widget.js#async=1', function () {
+                  var addthis_config = addthis_config || {};
+                  var addthis_share = addthis_share || {};
+                  addthis_config.pubid = 'ra-554b7ca6217c131b';
+                  addthis_config.ui_click = true;
+
+
+                  // Initialise the addthis service
+                  addthis.init();
+                  // Apply config & share options to any share button on screen.
+                  addthis.button('.share', addthis_config, addthis_share);
+              });
+          });
+      </script>
+<footer>
+<div class="top menu centered">
+<div id="services" class="content">
+<ul class="tabs">
+<li class="tab-title"><a href="/core/services/librarians">Librarians</a></li>
+<li class="tab-title"><a href="/core/services/authors">Authors</a></li>
+<li class="tab-title"><a href="/core/services/publishing-partners">Publishing partners</a></li>
+<li class="tab-title"><a href="/core/services/agents">Agents</a></li>
+<li class="tab-title"><a href="/core/services/corporates">Corporates</a></li>
+</ul>
+</div>
+</div>
+<div class="mid">
+<div class="row">
+<ul class="accordion" data-accordion>
+<li class="accordion-navigation">
+<a href="#additional" class="accordion-expander">Additional Information<span class="icon tablet open-drawer"></span></a>
+<div id="additional" class="content">
+<div class="large-9 column menu">
+<ul class="sub-nav site-map margin-top">
+<li><a href="/core/accessibility">Accessibility</a></li>
+<li><a href="http://blog.journals.cambridge.org/" target="_blank">Our blog</a></li>
+<li><a href="/core/news">News</a></li>
+<li><a href="/core/contact">Contact us</a></li>
+<li><a href="/core/help/FAQs">Help</a></li>
+<li><a href="/core/terms">Cambridge Core terms of use</a></li>
+<li><a href="http://www.cambridge.org/about-us/feedback">Feedback</a></li>
+<li><a href="/core/sitemap">Sitemap</a></li>
+</ul>
+</div>
+<div class="large-3 column">
+<div class="social-container">
+<div class="title">Join us online</div>
+<ul class="social">
+<li><a href="https://www.facebook.com/CambridgeCore" target="_blank" class="icon fb"></a></li>
+<li><a href="https://twitter.com/CambridgeCore" target="_blank" class="icon tw"></a></li>
+<li><a href="https://plus.google.com/114953848908220702663/posts" target="_blank" class="icon gp"></a></li>
+<li><a href="https://www.youtube.com/user/CambridgeJournals" target="_blank" class="icon yt"></a></li>
+</ul>
+</div>
+</div>
+</div>
+</li>
+</ul>
+</div>
+</div>
+<div class="bottom">
+<div class="row menu">
+<ul class="column accordion" data-accordion>
+<li class="accordion-navigation">
+<a href="#legal" class="accordion-expander">Legal Information<span class="icon tablet open-drawer"></span></a>
+<div id="legal" class="content">
+<ul class="title-area">
+<li class="logo">
+<div itemscope itemtype="http://schema.org/Organization">
+<a itemprop="url" href="http://www.cambridge.org">
+<img itemprop="logo" src="/core/cambridge-core/public/images/cambridge_logo.png" alt="Cambridge University Press">
+</a>
+</div>
+</li>
+</ul>
+<ul class="sub-nav">
+<li><a href="http://www.cambridge.org/about-us/rights-permissions/">Rights & Permissions</a></li>
+<li><a href="http://www.cambridge.org/about-us/legal-notices/copyright/">Copyright</a></li>
+<li><a href="http://www.cambridge.org/about-us/legal-notices/privacy-policy/">Privacy Policy</a></li>
+<li><a href="http://www.cambridge.org/about-us/legal-notices/terms-use">Terms of use</a></li>
+<li><a href="http://www.cambridge.org/about-us/legal-notices/cookies-policy/">Cookies Policy</a></li>
+<li class="copyright hide-for-medium hide-for-small">
+<a href="#">&#169; Cambridge University Press 2017</a>
+</li>
+<li class="back-to-top hide-for-large-up"><a href="#">Back to top</a></li>
+</ul>
+</div>
+</li>
+</ul>
+</div>
+</div>
+<div class="mid hide-for-large-up">
+<div class="row">
+<ul class="tablet-footer-actions clearfix">
+<li class="copyright">
+<a href="#">&#169; Cambridge University Press 2017</a>
+</li>
+<li class="back-to-top right"><a href="#">Back to top</a></li>
+</ul>
+</div>
+</div>
+</footer>
+<script src="/core/cambridge-core/public/bower_components/foundation/js/foundation.js"></script>
+<script src="/core/cambridge-core/public/js/plugins/jquery.autocomplete.min.js"></script>
+<script src="/core/cambridge-core/public/js/plugins/slick.min.js"></script>
+<script src="/core/cambridge-core/public/js/plugins/jquery.qtip.min.js"></script>
+<script src="/core/cambridge-core/public/js/plugins/foggy.min.js"></script>
+<script src="/core/cambridge-core/public/js/plugins/jquery.cookie.js"></script>
+<script src="/core/cambridge-core/public/js/plugins/jquery.textresizer.min.js"></script>
+<script src="/core/cambridge-core/public/js/plugins/chosen.jquery.min.js"></script>
+<script src="/core/cambridge-core/public/js/plugins/jquery.sticky.js"></script>
+<script type="text/javascript">
+        var AOP = AOP || {};
+        AOP.konakart = AOP.konakart || {
+                kkRoot: '',
+                storeId: 'store_b2b_self_service',
+                kkCatalogId: '',
+                kkCurrencyId: ''
+            };
+
+    </script>
+ 
+ 
+<script type="text/javascript" language="javascript">
+      window.AOP = window.AOP || {};
+      window.AOP.pageId = '';
+      window.AOP.baseUrl = '/core';
+      window.AOP.env = 'prod';
+      window.AOP.webTrendsFpcdom = '.www.cambridge.org';
+      window.AOP.webtrendsSourceId = 'dcs2229lnlwr3lqf1qfic2m50_4k5s';
+      window.AOP.shouldUseCitationTool = true;
+      ;
+    </script>
+<script src="/core/system/public/js/foundationUtils.js" language="javascript" type="text/javascript"></script>
+<script src="/core/system/public/js/confirmModal.js" language="javascript" type="text/javascript"></script>
+<script src="/core/system/public/js/trimWhitespace.js" language="javascript" type="text/javascript"></script>
+<script src="/core/system/public/js/loadScript.js" language="javascript" type="text/javascript"></script>
+<script src="/core/aop-shared-components/public/isArray.js"></script>
+<script src="/core/aop-shared-components/public/parseQuerystring.js"></script>
+<script src="/core/aop-shared-components/public/createAlertBox.js"></script>
+<script src="/core/aop-shared-components/public/webtrends.load.js"></script>
+<div id="confirmModalWrapper">
+<div id="confirm-modal" class="reveal-modal small" data-reveal>
+<div class="wrapper">
+<div class="title"></div>
+<div class="row">
+<div class="large-12 columns">
+<div class="panel callout message">
+</div>
+</div>
+</div>
+<div class="row margin-top">
+<div class="small-6 large-6 columns"><a class="right small button radius transparent cancel">Cancel</a></div>
+<div class="small-6 large-6 columns"><a href="#" class="left small radius button blue confirm">Confirm</a></div>
+</div>
+<a class="close-reveal-modal">&#215;</a>
+</div>
+</div>
+</div>
+ 
+<script src="/core/cambridge-core/public/js/validation.js" language="javascript"></script>
+<script src="/core/cambridge-core/public/js/selected-actions.js" language="javascript"></script>
+<script src="/core/easybib/public/js/app.js" language="javascript"></script>
+<script src="https://www.gstatic.com/charts/loader.js" language="javascript"></script>
+<script src="/core/cambridge-core/public/js/charts.js" language="javascript"></script>
+<script src="/core/cambridge-core/public/js/metrics.js" language="javascript"></script>
+<script src="/core/cambridge-core/public/js/recommend.js" language="javascript"></script>
+<script src="/core/captcha/public/bower_components/visualcaptcha.jquery/visualcaptcha.jquery.js" language="javascript"></script>
+<script src="/core/captcha/public/captcha.js" language="javascript"></script>
+<script src="/core/cambridge-core/public/js/bookmark.js" language="javascript"></script>
+<script src="/core/cambridge-core/public/js/journals/journals.js" language="javascript"></script>
+<script src="/core/system/public/js/validation.js" language="javascript" type="text/javascript"></script>
+ 
+<script src="/core/cambridge-core/public/js/jquery-extend.js"></script>
+<script src="/core/cambridge-core/public/js/additional.js"></script>
+<script type="text/javascript" src="//www.cambridge.org/packages/cambridge_themes/javascripts/global_navbar/v1.2.min.js"></script>
+<!--[if lt IE 9]>
+        <script src="/core/cambridge-core/public/js/plugins/rem.min.js"></script>
+    <![endif]-->
+<script src="/core/cambridge-core/public/js/app.js"></script>
+<script src="/core/cambridge-core/public/js/analytics/events.js"></script>
+<script src="/core/cambridge-core/public/js/analytics/listeners/counter.js"></script>
+<script language="javascript" type="text/javascript">
+        $(document).cupEvent();
+
+        AOP.initCounterReporter({
+            apiKey: 'qzD90fb0r257ZKVtGSFnG3UucyyMdgvu8u250Fa0',
+            apiUrl: 'https://usage.prod.aop.cambridge.org/v1/events',
+            applicationId: '8a94020952a738f80152b223c992000b',
+            identities: [],
+            sessionId: '9dqmArPYEJqL4sfnbCw1DVL8Ap8y382s',
+            eventContext: '/core/journals/environment-and-development-economics/article/floods-and-armed-conflict/13C587E71F2C14A165F3DABEE892BBA4'
+        })
+    </script>
+</body>
+</html>

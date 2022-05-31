@@ -1,0 +1,1056 @@
+<!DOCTYPE HTML>
+<html lang="en-gb" class="no-js">
+    <head>
+        <meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=Edge,chrome=1"/>
+<meta name="viewport" content="width=device-width,initial-scale=1.0,maximum-scale=2.5,user-scalable=yes">
+    <meta name="citation_publisher" content="Springer Netherlands"/>
+    <meta name="citation_title" content="Economy-wide impacts of climate change: a joint analysis for sea level rise and tourism"/>
+    <meta name="citation_doi" content="10.1007/s11027-007-9139-9"/>
+    <meta name="citation_language" content="en"/>
+    <meta name="citation_abstract_html_url" content="https://link.springer.com/article/10.1007/s11027-007-9139-9"/>
+    <meta name="citation_fulltext_html_url" content="https://link.springer.com/article/10.1007/s11027-007-9139-9"/>
+    <meta name="citation_pdf_url" content="https://link.springer.com/content/pdf/10.1007%2Fs11027-007-9139-9.pdf"/>
+    <meta name="citation_springer_api_url" content="http://api.springer.com/metadata/pam?q&#x3D;doi:10.1007/s11027-007-9139-9&amp;api_key&#x3D;"/>
+    <meta name="citation_firstpage" content="765"/>
+    <meta name="citation_lastpage" content="791"/>
+    <meta name="citation_author" content="Andrea Bigano"/>
+    <meta name="citation_author_institution" content="Fondazione Eni Enrico Mattei"/>
+    <meta name="citation_author_institution" content="REF, Ricerche per l’Economia e la Finanza"/>
+    <meta name="citation_author" content="Francesco Bosello"/>
+    <meta name="citation_author_institution" content="Fondazione Eni Enrico Mattei"/>
+    <meta name="citation_author_institution" content="Dipartimento di Scienze Economiche Aziendali e Statistiche Università Statale di Milano"/>
+    <meta name="citation_author_email" content="francesco.bosello@feem.it"/>
+    <meta name="citation_author" content="Roberto Roson"/>
+    <meta name="citation_author_institution" content="Fondazione Eni Enrico Mattei"/>
+    <meta name="citation_author_institution" content="Ca’Foscari University of Venice"/>
+    <meta name="citation_author" content="Richard S. J. Tol"/>
+    <meta name="citation_author_institution" content="Hamburg University and Centre for Marine and Atmospheric Science"/>
+    <meta name="citation_author_institution" content="Vrije Universiteit"/>
+    <meta name="citation_author_institution" content="Carnegie Mellon University"/>
+    <meta name="dc.identifier" content="10.1007/s11027-007-9139-9"/>
+    <meta name="format-detection" content="telephone&#x3D;no"/>
+    <meta name="meta:description" content="While climate change impacts on human life have well defined and different origins, the interactions among the diverse impacts are not yet fully understood. Their final effects, however, especially th"/>
+    <meta name="twitter:card" content="summary"/>
+    <meta name="twitter:title" content="Economy-wide impacts of climate change: a joint analysis for sea level"/>
+    <meta name="twitter:description" content="While climate change impacts on human life have well defined and different origins, the interactions among the diverse impacts are not yet fully understood. Their final effects, however, especially th"/>
+    <meta name="twitter:image" content="https://static-content.springer.com/cover/journal/11027/13/8.jpg"/>
+    <meta name="twitter:image:alt" content="Content cover image"/>
+    <meta name="twitter:site" content="SpringerLink"/>
+    <meta name="citation_journal_title" content="Mitigation and Adaptation Strategies for Global Change"/>
+    <meta name="citation_journal_abbrev" content="Mitig Adapt Strateg Glob Change"/>
+    <meta name="citation_volume" content="13"/>
+    <meta name="citation_issue" content="8"/>
+    <meta name="citation_issn" content="1381-2386"/>
+    <meta name="citation_issn" content="1573-1596"/>
+    <meta name="citation_online_date" content="2008/01/18"/>
+    <meta name="citation_cover_date" content="2008/10/01"/>
+    <meta name="citation_article_type" content="Article"/>
+    <meta property="og:title" content="Economy-wide impacts of climate change: a joint analysis for sea level rise and tourism"/>
+    <meta property="og:description" content="While climate change impacts on human life have well defined and different origins, the interactions among the diverse impacts are not yet fully understood. Their final effects, however, especially th"/>
+    <meta property="og:type" content="Article"/>
+    <meta property="og:url" content="https://link.springer.com/article/10.1007/s11027-007-9139-9"/>
+    <meta property="og:image" content="https://link.springer.com/springerlink-static/57488484/images/png/SL-Square.png"/>
+    <meta property="og:site_name" content="SpringerLink"/>
+
+        <title>Economy-wide impacts of climate change: a joint analysis for sea level rise and tourism         | SpringerLink
+</title>
+        <link rel="canonical" href="https://link.springer.com/article/10.1007/s11027-007-9139-9"/>
+        <link rel="shortcut icon" href="/springerlink-static/57488484/images/favicon/favicon.ico" />
+<link rel="icon" sizes="16x16 32x32 48x48" href="/springerlink-static/57488484/images/favicon/favicon.ico">
+<link rel="icon" sizes="16x16" type="image/png" href="/springerlink-static/57488484/images/favicon/favicon-16x16.png">
+<link rel="icon" sizes="32x32" type="image/png" href="/springerlink-static/57488484/images/favicon/favicon-32x32.png">
+<link rel="icon" sizes="48x48" type="image/png" href="/springerlink-static/57488484/images/favicon/favicon-48x48.png">
+<link rel="apple-touch-icon-precomposed" href="/springerlink-static/57488484/images/favicon/app-icon-iphone@3x.png">
+<link rel="apple-touch-icon-precomposed" sizes="72x72" href="/springerlink-static/57488484/images/favicon/ic_launcher_hdpi.png" />
+<link rel="apple-touch-icon-precomposed" sizes="76x76" href="/springerlink-static/57488484/images/favicon/app-icon-ipad.png" />
+<link rel="apple-touch-icon-precomposed" sizes="114x114" href="/springerlink-static/57488484/images/favicon/app-icon-114x114.png" />
+<link rel="apple-touch-icon-precomposed" sizes="120x120" href="/springerlink-static/57488484/images/favicon/app-icon-iphone@2x.png" />
+<link rel="apple-touch-icon-precomposed" sizes="144x144" href="/springerlink-static/57488484/images/favicon/ic_launcher_xxhdpi.png" />
+<link rel="apple-touch-icon-precomposed" sizes="152x152" href="/springerlink-static/57488484/images/favicon/app-icon-ipad@2x.png" />
+<link rel="apple-touch-icon-precomposed" sizes="180x180" href="/springerlink-static/57488484/images/favicon/app-icon-iphone@3x.png" />
+<meta name="msapplication-TileColor" content="#ffffff">
+<meta name="msapplication-TileImage" content="/springerlink-static/57488484/images/favicon/ic_launcher_xxhdpi.png">
+        <link rel="dns-prefetch" href="//fonts.gstatic.com" />
+<link rel="dns-prefetch" href="//fonts.googleapis.com" />
+<link rel="dns-prefetch" href="//google-analytics.com" />
+<link rel="dns-prefetch" href="//www.google-analytics.com" />
+<link rel="dns-prefetch" href="//www.googletagservices.com" />
+<link rel="dns-prefetch" href="//www.googletagmanager.com" />
+<link rel="dns-prefetch" href="//static-content.springer.com" />
+
+    <link rel="dns-prefetch" href="//cdn.mathjax.org" />
+
+        <link rel="stylesheet" href="/springerlink-static/57488484/css/basic.css" media="screen">
+<link rel="stylesheet" href="/springerlink-static/57488484/css/styles.css" class="js-ctm" media="only screen and (-webkit-min-device-pixel-ratio:0) and (min-color-index:0), (-ms-high-contrast: none), only all and (min--moz-device-pixel-ratio:0) and (min-resolution: 3e1dpcm)">
+<link rel="stylesheet" href="/springerlink-static/57488484/css/print.css" media="print">
+
+
+            <script id="webtrekk-properties">
+    var webtrekkProperties = {
+          trackDomain : "springergmbh01.webtrekk.net",
+          trackId : "935649882378213",
+      };
+    </script>
+    <script type="text/javascript" async src="/springerlink-static/57488484/js/webtrekk_v4.min.js"></script>
+
+            <script>
+        dataLayer = [{
+'GA Key':'UA-26408784-1',
+'Event Category':'Article',
+'Open Access':'N',
+'Labs':'Y',
+'DOI':'10.1007\/s11027-007-9139-9',
+'VG Wort Identifier':'pw-vgzm.415900-10.1007-s11027-007-9139-9',
+'HasAccess':'N',
+'Full HTML':'N',
+'Has Body':'Y',
+'Static Hash':'57488484',
+'Has Preview':'N',
+'user':{'license': {'businessPartnerID': [], 'businessPartnerIDString': ''}},
+'content':{'category': {'pmc': {'primarySubject': 'Geosciences', 'primarySubjectCode': '', 'secondarySubjects': {'1': 'Environmental Management', '2': 'Climate Change', '3': 'Meteorology\/Climatology'},'secondarySubjectCodes': {'1': '', '2': '', '3': ''}}}},
+'Access Type':'noaccess',
+'Page':'article',
+'Bpids':'',
+'Bpnames':'',
+'SubjectCodes':'',
+'Keywords':'Climate change, Sea level rise, Tourism, Computable general equilibrium models, C68, D58, Q25',
+'Country':'US',
+'Journal Id':'11027',
+'Journal Title':'Mitigation and Adaptation Strategies for Global Change',
+        }];
+
+    </script>
+
+    <!-- Google Tag Manager -->
+    <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+            new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+            j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+            'https://www.googletagmanager.com/gtm.js?cache-busting=' + new Date().getTime() + '&id='+i+dl;f.parentNode.insertBefore(j,f);
+    })(window,document,'script','dataLayer','GTM-WCF9Z9');</script>
+    <!-- End Google Tag Manager -->
+
+    </head>
+    <body>
+        <noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-WCF9Z9"
+                      height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+
+    <nav class="skip-to">
+    <a class="skip-to__link skip-to__link--article" href="#main-content" title="Skip directly to the article content">Skip to main content</a>
+</nav>
+        <div class="page-wrapper">
+            <noscript>
+    <div class="nojs-banner u-interface">
+        <p>This service is more advanced with JavaScript available, learn more at <a
+                href="http://activatejavascript.org" target="_blank" rel="noopener noreferrer">http://activatejavascript.org</a>
+        </p>
+    </div>
+</noscript>
+                    <div id="leaderboard" class="leaderboard u-hide" data-component="SpringerLink-GoogleAdsLeaderboard"></div>
+
+                <header id="header" class="header u-interface" role="banner">
+        <div class="header__content">
+            <div class="header__menu-container">
+                    <a id="logo" class="site-logo" href="/" title="Go to homepage">
+            <span class="u-screenreader-only">SpringerLink</span>
+            <svg class="site-logo__springer" width="148" height="30" role="img" aria-label="SpringerLink Logo">
+                <image width="148" height="30" alt="SpringerLink Logo" src="/springerlink-static/57488484/images/png/springerlink.png" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="/springerlink-static/57488484/images/svg/springerlink.svg"></image>
+            </svg>
+    </a>
+
+                    <div class="nav-container u-interface">
+    <div class="global-nav__wrapper">
+        <div class="search-button">
+            <a class="search-button__label" href="#search-container">
+                <span class="search-button__title">Search</span><svg width="12" height="12" viewBox="222 151 12 12" version="1.1" xmlns="http://www.w3.org/2000/svg">
+                    <path d="M227 159C228.7 159 230 157.7 230 156 230 154.3 228.7 153 227 153 225.3 153 224 154.3 224 156 224 157.7 225.3 159 227 159L227 159 227 159 227 159ZM230 160.1L231.1 159 233.9 161.7C234.2 162.1 234.2 162.6 233.9 162.9 233.6 163.2 233.1 163.2 232.7 162.9L230 160.1 230 160.1 230 160.1 230 160.1ZM227 161L227 161C224.2 161 222 158.8 222 156 222 153.2 224.2 151 227 151 229.8 151 232 153.2 232 156 232 158.8 229.8 161 227 161L227 161 227 161 227 161 227 161Z" stroke="none" fill-rule="evenodd"></path>
+                </svg>
+            </a>
+        </div>
+
+        <ul class="global-nav" data-component="SpringerLink-Menu" data-title="Navigation menu" data-text="Menu" role="navigation">
+            <li>
+                <a href="/">
+                    <span class="u-overflow-ellipsis">Home</span>
+                </a>
+            </li>
+            <li>
+                <a href="/contactus">
+                    <span class="u-overflow-ellipsis">Contact Us</span>
+                </a>
+            </li>
+
+                <li class="global-nav__logged-out">
+                    <a class="test-login-link" href="//link.springer.com/signup-login?previousUrl=https%3A%2F%2Flink.springer.com%2Farticle%2F10.1007%2Fs11027-007-9139-9%3Fno-access%3Dtrue">
+                        <span class="u-overflow-ellipsis">Log in</span>
+                    </a>
+                </li>
+
+        </ul>
+    </div> 
+</div> 
+            </div>
+
+        </div>
+
+            <div id="search-container">
+    <div class="search">
+        <div class="search__content">
+            <form class="search__form" action="/search" method="get" role="search">
+                <div class="search__wrapper">
+                    <label for="springerlink-search" class="u-screenreader-only">Search</label>
+                    <input id="springerlink-search" class="search__input" name="query" type="text" autocomplete="off" value="" placeholder="Search">
+                    <input class="search__submit u-hide-text" type="submit" value="Submit" title="Submit">
+                    <svg class="search__icon u-vertical-align-absolute" width="13" height="13" viewBox="222 151 13 13" version="1.1" xmlns="http://www.w3.org/2000/svg">
+                        <path d="M227 159C228.7 159 230 157.7 230 156 230 154.3 228.7 153 227 153 225.3 153 224 154.3 224 156 224 157.7 225.3 159 227 159L227 159 227 159 227 159ZM230 160.1L231.1 159 233.9 161.7C234.2 162.1 234.2 162.6 233.9 162.9 233.6 163.2 233.1 163.2 232.7 162.9L230 160.1 230 160.1 230 160.1 230 160.1ZM227 161L227 161C224.2 161 222 158.8 222 156 222 153.2 224.2 151 227 151 229.8 151 232 153.2 232 156 232 158.8 229.8 161 227 161L227 161 227 161 227 161 227 161Z" stroke="none" fill-rule="evenodd"/>
+                    </svg>
+                </div>
+            </form>
+        </div>
+    </div>
+</div>
+    </header>
+
+            
+            <div class="banner">
+    <div class="banner__content u-interface">
+        <p class="banner__message">
+            <span>How do you communicate about your work and research? Tell us and you could win a &#163;200 gift card. <a id="marketing-survey" class="gtm-marketing-survey"  target="_blank" rel="noopener noreferrer" href="https://springernature.eu.qualtrics.com/jfe/form/SV_9RbKHep2w1dKpVj?Source&#x3D;1">Take survey</a>.</span>
+        </p>
+    </div>
+</div>
+
+
+            <main role="main" id="main-content">
+                <article class="main-wrapper">
+                    <div class="main-container">
+                        <aside class="main-sidebar-left">
+                            <div class="main-sidebar-left__content">
+                                <div class="test-cover cover-image">
+        <a class="test-cover-link" href="/journal/11027" title="Mitigation and Adaptation Strategies for Global Change">
+            <img class="test-cover-image" src="https://static-content.springer.com/cover/journal/11027/13/8.jpg" alt="Mitigation and Adaptation Strategies for Global Change" itemprop="image"/>
+        </a>
+
+</div>
+                            </div>
+                        </aside>
+
+                        <div class="main-body" data-role="NavigationContainer">
+                            <div class="main-body__content">
+                                
+                                
+                                    <div class="sticky-banner sticky-banner--narrow u-interface u-hide" data-component="SpringerLink-StickyBanner" data-namespace="initiallyNotVisible">
+        <div class="sticky-banner__container">
+            <a href="#buy" class="sticky-banner__buybox-link sticky-banner__buybox-link--sticky gtm-buybox-anchor">
+                Buy article
+            </a>
+        </div>
+    </div>
+
+
+                                <!DOCTYPE html
+  SYSTEM "about:legacy-compat">
+<div xmlns="http://www.w3.org/1999/xhtml" class="FulltextWrapper"><div class="ArticleHeader main-context"><div id="enumeration" tabindex="-1" class="enumeration"><p><a href="/journal/11027" title="Mitigation and Adaptation Strategies for Global Change"><span class="JournalTitle">Mitigation and Adaptation Strategies for Global Change</span></a></p><p class="icon--meta-keyline-before"><span class="ArticleCitation_Year"><time datetime="2008-10">October 2008</time>, </span><span class="ArticleCitation_Volume">Volume 13, </span><a class="ArticleCitation_Issue" href="/journal/11027/13/8/page/1" title="Issue 8">Issue 8</a>,
+                       <span class="ArticleCitation_Pages"> pp 765–791</span></p></div><div xmlns="" class="MainTitleSection"><h1 xmlns="http://www.w3.org/1999/xhtml" class="ArticleTitle" lang="en">Economy-wide impacts of climate change: a joint analysis for sea level rise and tourism</h1></div><div class="authors u-clearfix" data-component="SpringerLink-Authors"><ul class="u-interface u-inline-list authors__title" data-role="AuthorsNavigation"><li><span>Authors</span></li><li><a href="#authorsandaffiliations" class="gtm-tab-authorsandaffiliations">Authors and affiliations</a></li></ul><div class="authors__list" data-role="AuthorsList"><ul class="test-contributor-names"><li><span itemprop="name" class="authors__name">Andrea Bigano</span></li><li><span itemprop="name" class="authors__name">Francesco Bosello</span><span class="author-information"><span class="authors__contact"><a href="mailto:francesco.bosello@feem.it" itemprop="email" class="gtm-email-author">Email author</a></span></span></li><li><span itemprop="name" class="authors__name">Roberto Roson</span></li><li><span itemprop="name" class="authors__name">Richard S. J. Tol</span></li></ul></div></div><div class="main-context__container" data-component="SpringerLink-ArticleMetrics"><div class="main-context__column"><span><span>Article</span></span><div class="article-dates" data-component="SpringerLink-ArticleDates"><dl><dt>First Online: </dt><dd class="article-dates__first-online"><time datetime="2008-01-18">18 January 2008</time></dd></dl><dl class="article-dates__history"><dt>Received: </dt><dd><time datetime="2006-11-20">20 November 2006</time></dd><dt>Accepted: </dt><dd><time datetime="2007-12-17">17 December 2007</time></dd></dl></div><p class="article-doi"><abbr title="Digital Object Identifier">DOI</abbr>:
+            10.1007/s11027-007-9139-9</p></div><div class="main-context__column"><dl class="article-cite"><dt>Cite this article as: </dt><dd id="citethis-text">Bigano, A., Bosello, F., Roson, R. et al. Mitig Adapt Strateg Glob Change (2008) 13: 765. doi:10.1007/s11027-007-9139-9</dd></dl></div>    <div class="main-context__column">
+        <ul id="book-metrics" class="article-metrics">
+                <li class="article-metrics__item">
+                        <a class="article-metrics__link gtm-citations-count" href="http://citations.springer.com/item?doi&#x3D;10.1007/s11027-007-9139-9" target="_blank" rel="noopener noreferrer"
+                           title="Visit Springer Citations for full citation details" id="citations-link">
+                           <span id="citations-count-number" class="test-metric-count c-button-circle gtm-citations-count">26</span>
+                           <span class="test-metric-name article-metrics__label gtm-citations-count">Citations</span>
+                        </a>
+                </li>
+                <li class="article-metrics__item">
+                         <span class="article-metrics__views">833</span>
+                         <span class="article-metrics__label">Downloads</span>
+                </li>
+        </ul>
+    </div>
+</div></div><section class="Abstract" id="Abs1" tabindex="-1" lang="en"><h2 class="Heading">Abstract</h2><p class="Para">While climate change impacts on human life have well defined and different origins, the interactions among the diverse impacts are not yet fully understood. Their final effects, however, especially those involving social-economic responses, are likely to play an important role. This paper is one of the first attempts to disentangle and highlight the role of these interactions. It focuses on the economic assessment of two specific climate change impacts: sea-level rise and changes in tourism flows. By using a Computable General Equilibrium (CGE) model the two impacts categories are first analysed separately and then jointly. Considered separately, in 2050, the forecasted 25 cm. of sea level rise imply a GDP loss ranging from (−) 0.1% in South East Asia to almost no loss in Canada, while redistribution of tourism flows – which in terms of arrivals favours Western Europe, Japan, Korea and Canada and penalises all the other world regions – triggers GDP losses ranging from (−) 0.5% in Small Island States to (−) 0.0004% in Canada. GDP gainers are Australia, New Zealand, Western Europe, Middle East and South Asia. The impact of sea level rise and tourism were simulated jointly and the results compared with those of the two disjoint simulations. From a qualitative point of view, the joint effects are similar to the outcomes of the disjoint exercises; from a quantitative perspective, however, impact interaction does play a significant role. In six cases out of 16 there is a detectable (higher than 2% and peaking to 70%) difference between the sum of the outcomes in the disjoint simulation and the outcomes of the joint simulations. Moreover, the relative contribution of each single impact category has been disentangled from the final result. In the case under scrutiny, demand shocks induced by changes in tourism flows outweigh the supply-side shock induced by the loss of coastal land.</p></section><div class="KeywordGroup" lang="en"><h3 class="Heading">Keywords</h3><span class="Keyword">Climate change</span><span class="Keyword">Sea level rise</span><span class="Keyword">Tourism</span><span class="Keyword">Computable general equilibrium models</span></div><div class="ForeignLanguageHeader"><div class="KeywordGroup"><h3 class="Heading">JEL Classification</h3><span class="Keyword">C68</span><span class="Keyword">D58</span><span class="Keyword">Q25</span></div></div><div class="article-actions--inline" id="article-actions--inline" data-component="article-actions--inline"></div><aside class="Bibliography" id="Bib1" tabindex="-1"><h3 class="Heading">References</h3><div class="content"><ol class="BibliographyWrapper"><li class="Citation"><div class="CitationContent" id="CR1">Amelung B, Nicholls S, Viner D (2007) Implications of global climate change for tourism flows and seasonality. J Travel Res 45:285–297<span class="Occurrences"><span class="Occurrence OccurrenceDOI"><a class="gtm-reference" data-reference-type="CrossRef" target="_blank" rel="noopener noreferrer" href="http://dx.doi.org/10.1177/0047287506295937"><span><span>CrossRef</span></span></a></span><span class="Occurrence OccurrenceGS"><a target="_blank" rel="noopener noreferrer" class="google-scholar-link gtm-reference" data-reference-type="Google Scholar" href="http://scholar.google.com/scholar_lookup?title=Implications%20of%20global%20climate%20change%20for%20tourism%20flows%20and%20seasonality&amp;author=B.%20Amelung&amp;author=S.%20Nicholls&amp;author=D.%20Viner&amp;journal=J%20Travel%20Res&amp;volume=45&amp;pages=285-297&amp;publication_year=2007"><span><span>Google Scholar</span></span></a></span></span></div></li><li class="Citation"><div class="CitationContent" id="CR2">Beniston M, Tol RSJ, Delecolle R, Hoermann G, Iglesias A, Innes J, McMicheal AJ, Martens WJM, Nemesova I, Nicholls RJ, Toth FL (1998)  Europe. In: Watson RT, Zinyowera MC, Moss RH (eds) The Regional Impacts of Climate Change -- An Assessment of Vulnerability, A Special Report of IPCC Working Group II, Cambridge University Press, Cambridge, pp. 149-185<span class="Occurrences"><span class="Occurrence OccurrenceGS"><a target="_blank" rel="noopener noreferrer" class="google-scholar-link gtm-reference" data-reference-type="Google Scholar" href="http://scholar.google.com/scholar_lookup?title=Europe&amp;author=M.%20Beniston&amp;author=RSJ.%20Tol&amp;author=R.%20Delecolle&amp;author=G.%20Hoermann&amp;author=A.%20Iglesias&amp;author=J.%20Innes&amp;author=AJ.%20McMicheal&amp;author=WJM.%20Martens&amp;author=I.%20Nemesova&amp;author=RJ.%20Nicholls&amp;author=FL.%20Toth&amp;pages=149-185&amp;publication_year=1998"><span><span>Google Scholar</span></span></a></span></span></div></li><li class="Citation"><div class="CitationContent" id="CR3">Berrittella M, Bigano A, Roson R, Tol RSJ (2006) A general equilibrium analysis of climate change impacts on tourism. Tour Manage 27(5):913–924<span class="Occurrences"><span class="Occurrence OccurrenceDOI"><a class="gtm-reference" data-reference-type="CrossRef" target="_blank" rel="noopener noreferrer" href="http://dx.doi.org/10.1016/j.tourman.2005.05.002"><span><span>CrossRef</span></span></a></span><span class="Occurrence OccurrenceGS"><a target="_blank" rel="noopener noreferrer" class="google-scholar-link gtm-reference" data-reference-type="Google Scholar" href="http://scholar.google.com/scholar_lookup?title=A%20general%20equilibrium%20analysis%20of%20climate%20change%20impacts%20on%20tourism&amp;author=M.%20Berrittella&amp;author=A.%20Bigano&amp;author=R.%20Roson&amp;author=RSJ.%20Tol&amp;journal=Tour%20Manage&amp;volume=27&amp;issue=5&amp;pages=913-924&amp;publication_year=2006"><span><span>Google Scholar</span></span></a></span></span></div></li><li class="Citation"><div class="CitationContent" id="CR4">Bijlsma L, Ehler CN, Klein RJT, Kulshrestha SM, McLean RF, Mimura N, Nicholls RJ, Nurse LA, Perez Nieto H, Stakhiv EZ, Turner RK, Warrick RA (1996) Coastal zones and small islands. In: Watson RT, Zinyowera MC, Moss RH (eds) Climate change 1995: impacts, adaptations and mitigation of climate change: scientific-technical analyses – contribution of Working Group II to the Second Assessment Report of the Intergovernmental Panel on Climate Change. 1st edn. Cambridge University Press, Cambridge, pp 289–324<span class="Occurrences"><span class="Occurrence OccurrenceGS"><a target="_blank" rel="noopener noreferrer" class="google-scholar-link gtm-reference" data-reference-type="Google Scholar" href="http://scholar.google.com/scholar_lookup?title=Coastal%20zones%20and%20small%20islands&amp;author=L.%20Bijlsma&amp;author=CN.%20Ehler&amp;author=RJT.%20Klein&amp;author=SM.%20Kulshrestha&amp;author=RF.%20McLean&amp;author=N.%20Mimura&amp;author=RJ.%20Nicholls&amp;author=LA.%20Nurse&amp;author=H.%20Perez%20Nieto&amp;author=EZ.%20Stakhiv&amp;author=RK.%20Turner&amp;author=RA.%20Warrick&amp;pages=289-324&amp;publication_year=1996"><span><span>Google Scholar</span></span></a></span></span></div></li><li class="Citation"><div class="CitationContent" id="CR5">Bigano A, Hamilton JM, Maddison DJ, Tol RSJ (2006a) Predicting tourism flows under climate change – an editorial comment on Goessling and Hall (2006). Clim Change 79:175–180<span class="Occurrences"><span class="Occurrence OccurrenceDOI"><a class="gtm-reference" data-reference-type="CrossRef" target="_blank" rel="noopener noreferrer" href="http://dx.doi.org/10.1007/s10584-006-9190-7"><span><span>CrossRef</span></span></a></span><span class="Occurrence OccurrenceGS"><a target="_blank" rel="noopener noreferrer" class="google-scholar-link gtm-reference" data-reference-type="Google Scholar" href="http://scholar.google.com/scholar_lookup?title=Predicting%20tourism%20flows%20under%20climate%20change%20%E2%80%93%20an%20editorial%20comment%20on%20Goessling%20and%20Hall%20%282006%29&amp;author=A.%20Bigano&amp;author=JM.%20Hamilton&amp;author=DJ.%20Maddison&amp;author=RSJ.%20Tol&amp;journal=Clim%20Change&amp;volume=79&amp;pages=175-180&amp;publication_year=2006"><span><span>Google Scholar</span></span></a></span></span></div></li><li class="Citation"><div class="CitationContent" id="CR6">Bigano A, Hamilton JM, Tol RSJ (2006b) The impact of climate on holiday destination choice. Clim Change 76(3–4):389–406<span class="Occurrences"><span class="Occurrence OccurrenceDOI"><a class="gtm-reference" data-reference-type="CrossRef" target="_blank" rel="noopener noreferrer" href="http://dx.doi.org/10.1007/s10584-005-9015-0"><span><span>CrossRef</span></span></a></span><span class="Occurrence OccurrenceGS"><a target="_blank" rel="noopener noreferrer" class="google-scholar-link gtm-reference" data-reference-type="Google Scholar" href="http://scholar.google.com/scholar_lookup?title=The%20impact%20of%20climate%20on%20holiday%20destination%20choice&amp;author=A.%20Bigano&amp;author=JM.%20Hamilton&amp;author=RSJ.%20Tol&amp;journal=Clim%20Change&amp;volume=76&amp;issue=3%E2%80%934&amp;pages=389-406&amp;publication_year=2006"><span><span>Google Scholar</span></span></a></span></span></div></li><li class="Citation"><div class="CitationContent" id="CR7">Bigano A, Hamilton JM, Tol RSJ (2007) The impact of climate change on domestic and international tourism: a simulation study. Int Assess J 7:25–49<span class="Occurrences"><span class="Occurrence OccurrenceGS"><a target="_blank" rel="noopener noreferrer" class="google-scholar-link gtm-reference" data-reference-type="Google Scholar" href="http://scholar.google.com/scholar_lookup?title=The%20impact%20of%20climate%20change%20on%20domestic%20and%20international%20tourism%3A%20a%20simulation%20study&amp;author=A.%20Bigano&amp;author=JM.%20Hamilton&amp;author=RSJ.%20Tol&amp;journal=Int%20Assess%20J&amp;volume=7&amp;pages=25-49&amp;publication_year=2007"><span><span>Google Scholar</span></span></a></span></span></div></li><li class="Citation"><div class="CitationContent" id="CR8">Bosello F, Lazzarin M, Roson R, Tol RSJ (2004) Economy-wide estimates of climate change implications: sea-level rise. FEEM NdL 96.04<span class="Occurrences"></span></div></li><li class="Citation"><div class="CitationContent" id="CR9">Breil M, Gambarelli G, Nunes PALD (2005) Economic valuation of on site material damages of high water on economic activities based in the city of Venice: results from a dose-response-expert-based valuation approach. FEEM Note di Lavoro 53.05<span class="Occurrences"></span></div></li><li class="Citation"><div class="CitationContent" id="CR10">Broadus JM (1996) Economizing human responses to subsidence and rising sea level. In: Milliman JD, Haq BU (eds) Sea level rise and coastal subsidence. Kluwer, Dordrecht, pp 313–325<span class="Occurrences"><span class="Occurrence OccurrenceGS"><a target="_blank" rel="noopener noreferrer" class="google-scholar-link gtm-reference" data-reference-type="Google Scholar" href="http://scholar.google.com/scholar_lookup?title=Economizing%20human%20responses%20to%20subsidence%20and%20rising%20sea%20level&amp;author=JM.%20Broadus&amp;pages=313-325&amp;publication_year=1996"><span><span>Google Scholar</span></span></a></span></span></div></li><li class="Citation"><div class="CitationContent" id="CR11">Burniaux J-M, Truong TP (2002) GTAP-E: an energy-environmental version of the GTAP model. GTAP Technical Paper n.16 (<span class="ExternalRef"><a target="_blank" rel="noopener noreferrer" href="http://www.gtap.org"><span class="RefSource">http://www.gtap.org</span></a></span>)<span class="Occurrences"></span></div></li><li class="Citation"><div class="CitationContent" id="CR12">CEC (2007) Limiting global climate change to 2 degrees Celsius. The way ahead for 2020 and beyond. Commission Staff Working Document. Brussels<span class="Occurrences"></span></div></li><li class="Citation"><div class="CitationContent" id="CR13">Crouch GI (1995) A meta-analysis of tourism demand. Ann Tour Res 22(1):103–118<span class="Occurrences"><span class="Occurrence OccurrenceDOI"><a class="gtm-reference" data-reference-type="CrossRef" target="_blank" rel="noopener noreferrer" href="http://dx.doi.org/10.1016/0160-7383(94)00054-V"><span><span>CrossRef</span></span></a></span><span class="Occurrence OccurrenceGS"><a target="_blank" rel="noopener noreferrer" class="google-scholar-link gtm-reference" data-reference-type="Google Scholar" href="http://scholar.google.com/scholar_lookup?title=A%20meta-analysis%20of%20tourism%20demand&amp;author=GI.%20Crouch&amp;journal=Ann%20Tour%20Res&amp;volume=22&amp;issue=1&amp;pages=103-118&amp;publication_year=1995"><span><span>Google Scholar</span></span></a></span></span></div></li><li class="Citation"><div class="CitationContent" id="CR14">Darwin RF, Tol RSJ (2001) Estimates of the economic effects of sea level rise. Environ Resour Econ 19:113–129<span class="Occurrences"><span class="Occurrence OccurrenceDOI"><a class="gtm-reference" data-reference-type="CrossRef" target="_blank" rel="noopener noreferrer" href="http://dx.doi.org/10.1023/A%3A1011136417375"><span><span>CrossRef</span></span></a></span><span class="Occurrence OccurrenceGS"><a target="_blank" rel="noopener noreferrer" class="google-scholar-link gtm-reference" data-reference-type="Google Scholar" href="http://scholar.google.com/scholar_lookup?title=Estimates%20of%20the%20economic%20effects%20of%20sea%20level%20rise&amp;author=RF.%20Darwin&amp;author=RSJ.%20Tol&amp;journal=Environ%20Resour%20Econ&amp;volume=19&amp;pages=113-129&amp;publication_year=2001"><span><span>Google Scholar</span></span></a></span></span></div></li><li class="Citation"><div class="CitationContent" id="CR15">Dennis KC, Niang Diop I, Nicholls RJ (1995) Sea level rise and Senegal: potential impacts and consequences. J Coast Res 14:243–261<span class="Occurrences"><span class="Occurrence OccurrenceGS"><a target="_blank" rel="noopener noreferrer" class="google-scholar-link gtm-reference" data-reference-type="Google Scholar" href="http://scholar.google.com/scholar_lookup?title=Sea%20level%20rise%20and%20Senegal%3A%20potential%20impacts%20and%20consequences&amp;author=KC.%20Dennis&amp;author=I.%20Niang%20Diop&amp;author=RJ.%20Nicholls&amp;journal=J%20Coast%20Res&amp;volume=14&amp;pages=243-261&amp;publication_year=1995"><span><span>Google Scholar</span></span></a></span></span></div></li><li class="Citation"><div class="CitationContent" id="CR16">Deke O, Hooss KG, Kasten C, Klepper G, Springer K (2001) Economic impact of climate change: simulations with a regionalized climate-economy model. Kiel Institute of World Economics, Kiel 1065<span class="Occurrences"><span class="Occurrence OccurrenceGS"><a target="_blank" rel="noopener noreferrer" class="google-scholar-link gtm-reference" data-reference-type="Google Scholar" href="http://scholar.google.com/scholar_lookup?title=Economic%20impact%20of%20climate%20change%3A%20simulations%20with%20a%20regionalized%20climate-economy%20model&amp;author=O.%20Deke&amp;author=KG.%20Hooss&amp;author=C.%20Kasten&amp;author=G.%20Klepper&amp;author=K.%20Springer&amp;publication_year=2001"><span><span>Google Scholar</span></span></a></span></span></div></li><li class="Citation"><div class="CitationContent" id="CR17">Dixon P, Rimmer M (2002) Dynamic general equilibrium modeling for forecasting and policy. North Holland<span class="Occurrences"></span></div></li><li class="Citation"><div class="CitationContent" id="CR18">Elsasser H, Bürki R (2002) Climate change as a threat to tourism in the Alps. Clim Res 20:253–257<span class="Occurrences"><span class="Occurrence OccurrenceDOI"><a class="gtm-reference" data-reference-type="CrossRef" target="_blank" rel="noopener noreferrer" href="http://dx.doi.org/10.3354/cr020253"><span><span>CrossRef</span></span></a></span><span class="Occurrence OccurrenceGS"><a target="_blank" rel="noopener noreferrer" class="google-scholar-link gtm-reference" data-reference-type="Google Scholar" href="http://scholar.google.com/scholar_lookup?title=Climate%20change%20as%20a%20threat%20to%20tourism%20in%20the%20Alps&amp;author=H.%20Elsasser&amp;author=R.%20B%C3%BCrki&amp;journal=Clim%20Res&amp;volume=20&amp;pages=253-257&amp;publication_year=2002"><span><span>Google Scholar</span></span></a></span></span></div></li><li class="Citation"><div class="CitationContent" id="CR19">Fankhauser S (1994) Protection vs. retreat – the economic costs of sea level rise. Environ Plan A 27:299–319<span class="Occurrences"><span class="Occurrence OccurrenceDOI"><a class="gtm-reference" data-reference-type="CrossRef" target="_blank" rel="noopener noreferrer" href="http://dx.doi.org/10.1068/a270299"><span><span>CrossRef</span></span></a></span><span class="Occurrence OccurrenceGS"><a target="_blank" rel="noopener noreferrer" class="google-scholar-link gtm-reference" data-reference-type="Google Scholar" href="http://scholar.google.com/scholar_lookup?title=Protection%20vs.%20retreat%20%E2%80%93%20the%20economic%20costs%20of%20sea%20level%20rise&amp;author=S.%20Fankhauser&amp;journal=Environ%20Plan%20A&amp;volume=27&amp;pages=299-319&amp;publication_year=1994"><span><span>Google Scholar</span></span></a></span></span></div></li><li class="Citation"><div class="CitationContent" id="CR20">Fankhauser S, Tol RSJ (1996) Recent advancements in the economic assessment of climate change costs. Energy Policy 24(7):665–673<span class="Occurrences"><span class="Occurrence OccurrenceDOI"><a class="gtm-reference" data-reference-type="CrossRef" target="_blank" rel="noopener noreferrer" href="http://dx.doi.org/10.1016/0301-4215(96)00056-0"><span><span>CrossRef</span></span></a></span><span class="Occurrence OccurrenceGS"><a target="_blank" rel="noopener noreferrer" class="google-scholar-link gtm-reference" data-reference-type="Google Scholar" href="http://scholar.google.com/scholar_lookup?title=Recent%20advancements%20in%20the%20economic%20assessment%20of%20climate%20change%20costs&amp;author=S.%20Fankhauser&amp;author=RSJ.%20Tol&amp;journal=Energy%20Policy&amp;volume=24&amp;issue=7&amp;pages=665-673&amp;publication_year=1996"><span><span>Google Scholar</span></span></a></span></span></div></li><li class="Citation"><div class="CitationContent" id="CR21">Fankhauser S, Tol RSJ (2005) On climate change and economic growth. Resour Energy Econ 27:1–17<span class="Occurrences"><span class="Occurrence OccurrenceDOI"><a class="gtm-reference" data-reference-type="CrossRef" target="_blank" rel="noopener noreferrer" href="http://dx.doi.org/10.1016/j.reseneeco.2004.03.003"><span><span>CrossRef</span></span></a></span><span class="Occurrence OccurrenceGS"><a target="_blank" rel="noopener noreferrer" class="google-scholar-link gtm-reference" data-reference-type="Google Scholar" href="http://scholar.google.com/scholar_lookup?title=On%20climate%20change%20and%20economic%20growth&amp;author=S.%20Fankhauser&amp;author=RSJ.%20Tol&amp;journal=Resour%20Energy%20Econ&amp;volume=27&amp;pages=1-17&amp;publication_year=2005"><span><span>Google Scholar</span></span></a></span></span></div></li><li class="Citation"><div class="CitationContent" id="CR22">Gambarelli G, Goria A (2004) Economic evaluation of climate change impacts and adaptation in Italy. FEEM Note di Lavoro 103.04<span class="Occurrences"></span></div></li><li class="Citation"><div class="CitationContent" id="CR23">Gössling S, Hall CM (2006a) Uncertainties in predicting tourist flows under scenarios of climate change. Clim Change 79(3–4):163–173<span class="Occurrences"><span class="Occurrence OccurrenceDOI"><a class="gtm-reference" data-reference-type="CrossRef" target="_blank" rel="noopener noreferrer" href="http://dx.doi.org/10.1007/s10584-006-9081-y"><span><span>CrossRef</span></span></a></span><span class="Occurrence OccurrenceGS"><a target="_blank" rel="noopener noreferrer" class="google-scholar-link gtm-reference" data-reference-type="Google Scholar" href="http://scholar.google.com/scholar_lookup?title=Uncertainties%20in%20predicting%20tourist%20flows%20under%20scenarios%20of%20climate%20change&amp;author=S.%20G%C3%B6ssling&amp;author=CM.%20Hall&amp;journal=Clim%20Change&amp;volume=79&amp;issue=3%E2%80%934&amp;pages=163-173&amp;publication_year=2006"><span><span>Google Scholar</span></span></a></span></span></div></li><li class="Citation"><div class="CitationContent" id="CR24">Gössling S, Hall CM (2006b) Uncertainties in predicting travel flows: common ground and research needs – a reply to Bigano et al. Clim Change 79(3–4):181–183<span class="Occurrences"><span class="Occurrence OccurrenceDOI"><a class="gtm-reference" data-reference-type="CrossRef" target="_blank" rel="noopener noreferrer" href="http://dx.doi.org/10.1007/s10584-006-9191-6"><span><span>CrossRef</span></span></a></span><span class="Occurrence OccurrenceGS"><a target="_blank" rel="noopener noreferrer" class="google-scholar-link gtm-reference" data-reference-type="Google Scholar" href="http://scholar.google.com/scholar_lookup?title=Uncertainties%20in%20predicting%20travel%20flows%3A%20common%20ground%20and%20research%20needs%20%E2%80%93%20a%20reply%20to%20Bigano%20et%20al&amp;author=S.%20G%C3%B6ssling&amp;author=CM.%20Hall&amp;journal=Clim%20Change&amp;volume=79&amp;issue=3%E2%80%934&amp;pages=181-183&amp;publication_year=2006"><span><span>Google Scholar</span></span></a></span></span></div></li><li class="Citation"><div class="CitationContent" id="CR25">Hamilton JM, Tol RSJ (2007) The impact of climate change on tourism in Germany, the UK, and Ireland: a simulation study. Region Environ Change 7(3):161–172<span class="Occurrences"><span class="Occurrence OccurrenceDOI"><a class="gtm-reference" data-reference-type="CrossRef" target="_blank" rel="noopener noreferrer" href="http://dx.doi.org/10.1007/s10113-007-0036-2"><span><span>CrossRef</span></span></a></span><span class="Occurrence OccurrenceGS"><a target="_blank" rel="noopener noreferrer" class="google-scholar-link gtm-reference" data-reference-type="Google Scholar" href="http://scholar.google.com/scholar_lookup?title=The%20impact%20of%20climate%20change%20on%20tourism%20in%20Germany%2C%20the%20UK%2C%20and%20Ireland%3A%20a%20simulation%20study&amp;author=JM.%20Hamilton&amp;author=RSJ.%20Tol&amp;journal=Region%20Environ%20Change&amp;volume=7&amp;issue=3&amp;pages=161-172&amp;publication_year=2007"><span><span>Google Scholar</span></span></a></span></span></div></li><li class="Citation"><div class="CitationContent" id="CR26">Hamilton JM, Maddison DJ, Tol RSJ (2005a) Climate change and international tourism: a simulation study. Glob Environ Change 15(3):253–266<span class="Occurrences"><span class="Occurrence OccurrenceDOI"><a class="gtm-reference" data-reference-type="CrossRef" target="_blank" rel="noopener noreferrer" href="http://dx.doi.org/10.1016/j.gloenvcha.2004.12.009"><span><span>CrossRef</span></span></a></span><span class="Occurrence OccurrenceGS"><a target="_blank" rel="noopener noreferrer" class="google-scholar-link gtm-reference" data-reference-type="Google Scholar" href="http://scholar.google.com/scholar_lookup?title=Climate%20change%20and%20international%20tourism%3A%20a%20simulation%20study&amp;author=JM.%20Hamilton&amp;author=DJ.%20Maddison&amp;author=RSJ.%20Tol&amp;journal=Glob%20Environ%20Change&amp;volume=15&amp;issue=3&amp;pages=253-266&amp;publication_year=2005"><span><span>Google Scholar</span></span></a></span></span></div></li><li class="Citation"><div class="CitationContent" id="CR27">Hamilton JM, Maddison DJ, Tol RSJ (2005b) The effects of climate change on international tourism. Clim Res 29:255–268<span class="Occurrences"><span class="Occurrence OccurrenceDOI"><a class="gtm-reference" data-reference-type="CrossRef" target="_blank" rel="noopener noreferrer" href="http://dx.doi.org/10.3354/cr029245"><span><span>CrossRef</span></span></a></span><span class="Occurrence OccurrenceGS"><a target="_blank" rel="noopener noreferrer" class="google-scholar-link gtm-reference" data-reference-type="Google Scholar" href="http://scholar.google.com/scholar_lookup?title=The%20effects%20of%20climate%20change%20on%20international%20tourism&amp;author=JM.%20Hamilton&amp;author=DJ.%20Maddison&amp;author=RSJ.%20Tol&amp;journal=Clim%20Res&amp;volume=29&amp;pages=255-268&amp;publication_year=2005"><span><span>Google Scholar</span></span></a></span></span></div></li><li class="Citation"><div class="CitationContent" id="CR28">Hertel TW (1996) Global trade analysis: modeling and applications. Cambridge University Press, Cambridge<span class="Occurrences"><span class="Occurrence OccurrenceGS"><a target="_blank" rel="noopener noreferrer" class="google-scholar-link gtm-reference" data-reference-type="Google Scholar" href="http://scholar.google.com/scholar_lookup?title=Global%20trade%20analysis%3A%20modeling%20and%20applications&amp;author=TW.%20Hertel&amp;publication_year=1996"><span><span>Google Scholar</span></span></a></span></span></div></li><li class="Citation"><div class="CitationContent" id="CR29">Hertel TW, Tsigas M (2002) GTAP data base documentation, Chapter 18.c “Primary Factors Shares” (<span class="ExternalRef"><a target="_blank" rel="noopener noreferrer" href="http://www.gtap.org"><span class="RefSource">http://www.gtap.org</span></a></span>)<span class="Occurrences"></span></div></li><li class="Citation"><div class="CitationContent" id="CR30">Hoozemans FMJ, Marchand M, Pennekamp HA (1993) A global vulnerability analysis: vulnerability assessment for population, coastal wetlands and rice production and a global scale, 2nd edn. Delft Hydraulics, Delft<span class="Occurrences"><span class="Occurrence OccurrenceGS"><a target="_blank" rel="noopener noreferrer" class="google-scholar-link gtm-reference" data-reference-type="Google Scholar" href="http://scholar.google.com/scholar_lookup?title=A%20global%20vulnerability%20analysis%3A%20vulnerability%20assessment%20for%20population%2C%20coastal%20wetlands%20and%20rice%20production%20and%20a%20global%20scale&amp;author=FMJ.%20Hoozemans&amp;author=M.%20Marchand&amp;author=HA.%20Pennekamp&amp;publication_year=1993"><span><span>Google Scholar</span></span></a></span></span></div></li><li class="Citation"><div class="CitationContent" id="CR31">IMAGE (2001) The IMAGE 2.2 Implementation of the SRES Scenarios. RIVM CD-ROM Publication 481508018. Bilthoven. The Netherlands<span class="Occurrences"></span></div></li><li class="Citation"><div class="CitationContent" id="CR32">IPCC CZMS (1991) Common methodology for assessing vulnerability to sea-level rise. Ministry of Transport, Public Works and Water Management, The Hague<span class="Occurrences"><span class="Occurrence OccurrenceGS"><a target="_blank" rel="noopener noreferrer" class="google-scholar-link gtm-reference" data-reference-type="Google Scholar" href="http://scholar.google.com/scholar_lookup?title=Common%20methodology%20for%20assessing%20vulnerability%20to%20sea-level%20rise&amp;publication_year=1991"><span><span>Google Scholar</span></span></a></span></span></div></li><li class="Citation"><div class="CitationContent" id="CR33">IPCC CZMS (1990) Strategies for adaption to sea level rise. Intergovernmental Panel on Climate Change/Ministry of Transport and Public Works, The Hague<span class="Occurrences"><span class="Occurrence OccurrenceGS"><a target="_blank" rel="noopener noreferrer" class="google-scholar-link gtm-reference" data-reference-type="Google Scholar" href="http://scholar.google.com/scholar_lookup?title=Strategies%20for%20adaption%20to%20sea%20level%20rise&amp;publication_year=1990"><span><span>Google Scholar</span></span></a></span></span></div></li><li class="Citation"><div class="CitationContent" id="CR34">Jorgenson DW, Goettle RJ, Hurd BH, Smith JB (2004) US market consequences of global climate change. Pew Center on Global Climate Change, Washington, DC<span class="Occurrences"><span class="Occurrence OccurrenceGS"><a target="_blank" rel="noopener noreferrer" class="google-scholar-link gtm-reference" data-reference-type="Google Scholar" href="http://scholar.google.com/scholar_lookup?title=US%20market%20consequences%20of%20global%20climate%20change&amp;author=DW.%20Jorgenson&amp;author=RJ.%20Goettle&amp;author=BH.%20Hurd&amp;author=JB.%20Smith&amp;publication_year=2004"><span><span>Google Scholar</span></span></a></span></span></div></li><li class="Citation"><div class="CitationContent" id="CR35">Kemfert C (2002) An integrated assessment model of economy-energy-climate – the model Wiagem. Integrated Assessment 3(4):281–298<span class="Occurrences"><span class="Occurrence OccurrenceDOI"><a class="gtm-reference" data-reference-type="CrossRef" target="_blank" rel="noopener noreferrer" href="http://dx.doi.org/10.1076/iaij.3.4.281.13590"><span><span>CrossRef</span></span></a></span><span class="Occurrence OccurrenceGS"><a target="_blank" rel="noopener noreferrer" class="google-scholar-link gtm-reference" data-reference-type="Google Scholar" href="http://scholar.google.com/scholar_lookup?title=An%20integrated%20assessment%20model%20of%20economy-energy-climate%20%E2%80%93%20the%20model%20Wiagem&amp;author=C.%20Kemfert&amp;journal=Integrated%20Assessment&amp;volume=3&amp;issue=4&amp;pages=281-298&amp;publication_year=2002"><span><span>Google Scholar</span></span></a></span></span></div></li><li class="Citation"><div class="CitationContent" id="CR36">Lee C-C, Chang C-P (2008) Tourism development and economic growth: a closer look at panels. Tour Manage 29:180–192<span class="Occurrences"><span class="Occurrence OccurrenceDOI"><a class="gtm-reference" data-reference-type="CrossRef" target="_blank" rel="noopener noreferrer" href="http://dx.doi.org/10.1016/j.tourman.2007.02.013"><span><span>CrossRef</span></span></a></span><span class="Occurrence OccurrenceGS"><a target="_blank" rel="noopener noreferrer" class="google-scholar-link gtm-reference" data-reference-type="Google Scholar" href="http://scholar.google.com/scholar_lookup?title=Tourism%20development%20and%20economic%20growth%3A%20a%20closer%20look%20at%20panels&amp;author=C-C.%20Lee&amp;author=C-P.%20Chang&amp;journal=Tour%20Manage&amp;volume=29&amp;pages=180-192&amp;publication_year=2008"><span><span>Google Scholar</span></span></a></span></span></div></li><li class="Citation"><div class="CitationContent" id="CR37">Lise W, Tol RSJ (2002) The impact of climate on tourism demand. Clim Change 55(4):429–449<span class="Occurrences"><span class="Occurrence OccurrenceDOI"><a class="gtm-reference" data-reference-type="CrossRef" target="_blank" rel="noopener noreferrer" href="http://dx.doi.org/10.1023/A%3A1020728021446"><span><span>CrossRef</span></span></a></span><span class="Occurrence OccurrenceGS"><a target="_blank" rel="noopener noreferrer" class="google-scholar-link gtm-reference" data-reference-type="Google Scholar" href="http://scholar.google.com/scholar_lookup?title=The%20impact%20of%20climate%20on%20tourism%20demand&amp;author=W.%20Lise&amp;author=RSJ.%20Tol&amp;journal=Clim%20Change&amp;volume=55&amp;issue=4&amp;pages=429-449&amp;publication_year=2002"><span><span>Google Scholar</span></span></a></span></span></div></li><li class="Citation"><div class="CitationContent" id="CR38">Maddison DJ (2001) In search of warmer climates? The impact of climate change on flows of British tourists. Clim Change 49:193–208<span class="Occurrences"><span class="Occurrence OccurrenceDOI"><a class="gtm-reference" data-reference-type="CrossRef" target="_blank" rel="noopener noreferrer" href="http://dx.doi.org/10.1023/A%3A1010742511380"><span><span>CrossRef</span></span></a></span><span class="Occurrence OccurrenceGS"><a target="_blank" rel="noopener noreferrer" class="google-scholar-link gtm-reference" data-reference-type="Google Scholar" href="http://scholar.google.com/scholar_lookup?title=In%20search%20of%20warmer%20climates%3F%20The%20impact%20of%20climate%20change%20on%20flows%20of%20British%20tourists&amp;author=DJ.%20Maddison&amp;journal=Clim%20Change&amp;volume=49&amp;pages=193-208&amp;publication_year=2001"><span><span>Google Scholar</span></span></a></span></span></div></li><li class="Citation"><div class="CitationContent" id="CR39">McKibbin WJ, Wilcoxen PJ (1998) The theoretical and empirical structure of the GCubed model. Econ Model 16(1):123–148<span class="Occurrences"><span class="Occurrence OccurrenceDOI"><a class="gtm-reference" data-reference-type="CrossRef" target="_blank" rel="noopener noreferrer" href="http://dx.doi.org/10.1016/S0264-9993(98)00035-2"><span><span>CrossRef</span></span></a></span><span class="Occurrence OccurrenceGS"><a target="_blank" rel="noopener noreferrer" class="google-scholar-link gtm-reference" data-reference-type="Google Scholar" href="http://scholar.google.com/scholar_lookup?title=The%20theoretical%20and%20empirical%20structure%20of%20the%20GCubed%20model&amp;author=WJ.%20McKibbin&amp;author=PJ.%20Wilcoxen&amp;journal=Econ%20Model&amp;volume=16&amp;issue=1&amp;pages=123-148&amp;publication_year=1998"><span><span>Google Scholar</span></span></a></span></span></div></li><li class="Citation"><div class="CitationContent" id="CR40">Morisugi H, Ohno E, Hoshi K, Takagi A, Takahashi Y (1995) Definition and measurement of a household’s damage cost caused by an increase in storm surge frequency due to sea level rise. J Glob Environ Eng 1:127–136<span class="Occurrences"><span class="Occurrence OccurrenceGS"><a target="_blank" rel="noopener noreferrer" class="google-scholar-link gtm-reference" data-reference-type="Google Scholar" href="http://scholar.google.com/scholar_lookup?title=Definition%20and%20measurement%20of%20a%20household%E2%80%99s%20damage%20cost%20caused%20by%20an%20increase%20in%20storm%20surge%20frequency%20due%20to%20sea%20level%20rise&amp;author=H.%20Morisugi&amp;author=E.%20Ohno&amp;author=K.%20Hoshi&amp;author=A.%20Takagi&amp;author=Y.%20Takahashi&amp;journal=J%20Glob%20Environ%20Eng&amp;volume=1&amp;pages=127-136&amp;publication_year=1995"><span><span>Google Scholar</span></span></a></span></span></div></li><li class="Citation"><div class="CitationContent" id="CR41">Nakicenovic N, Swart RJ (2000) Emissions scenarios 2000 – special report of the intergovernmental panel on climate change. Cambridge University Press, Cambridge<span class="Occurrences"><span class="Occurrence OccurrenceGS"><a target="_blank" rel="noopener noreferrer" class="google-scholar-link gtm-reference" data-reference-type="Google Scholar" href="http://scholar.google.com/scholar_lookup?title=Emissions%20scenarios%202000%20%E2%80%93%20special%20report%20of%20the%20intergovernmental%20panel%20on%20climate%20change&amp;author=N.%20Nakicenovic&amp;author=RJ.%20Swart&amp;publication_year=2000"><span><span>Google Scholar</span></span></a></span></span></div></li><li class="Citation"><div class="CitationContent" id="CR42">Nicholls RJ, Klein RJT (2003) Climate change and coastal management on Europe’s Coast. EVA W. P. No.3<span class="Occurrences"></span></div></li><li class="Citation"><div class="CitationContent" id="CR43">Nicholls RJ, Leatherman SP (1995) Global sea-level rise. In: Strzepek KM, Smith JB (eds) When climate changes: potential impact and implications. Cambridge University Press, Cambridge<span class="Occurrences"><span class="Occurrence OccurrenceGS"><a target="_blank" rel="noopener noreferrer" class="google-scholar-link gtm-reference" data-reference-type="Google Scholar" href="http://scholar.google.com/scholar_lookup?title=Global%20sea-level%20rise&amp;author=RJ.%20Nicholls&amp;author=SP.%20Leatherman&amp;publication_year=1995"><span><span>Google Scholar</span></span></a></span></span></div></li><li class="Citation"><div class="CitationContent" id="CR44">Nicholls RJ, Leatherman SP, Dennis KC, Volonte CR (1995) Impacts and responses to sea-level rise: qualitative and quantitative assessments. J Coast Res 14:26–43<span class="Occurrences"><span class="Occurrence OccurrenceGS"><a target="_blank" rel="noopener noreferrer" class="google-scholar-link gtm-reference" data-reference-type="Google Scholar" href="http://scholar.google.com/scholar_lookup?title=Impacts%20and%20responses%20to%20sea-level%20rise%3A%20qualitative%20and%20quantitative%20assessments&amp;author=RJ.%20Nicholls&amp;author=SP.%20Leatherman&amp;author=KC.%20Dennis&amp;author=CR.%20Volonte&amp;journal=J%20Coast%20Res&amp;volume=14&amp;pages=26-43&amp;publication_year=1995"><span><span>Google Scholar</span></span></a></span></span></div></li><li class="Citation"><div class="CitationContent" id="CR45">Nicholls RJ, Wong PP, Burkett VR, Codignotto JO, Hay JE, McLean RF, Ragoonaden S, Woodroffe CD (2007) Coastal systems and low-lying areas. In: Parry ML, Canziani OF, Palutikof JP, van der Linden PJ, Hanson CE (eds) Climate change 2007: impacts, adaptation and vulnerability. Contribution of Working Group II to the Fourth Assessment Report of the Intergovernmental Panel on Climate Change. Cambridge University Press, Cambridge, UK, pp 315–356<span class="Occurrences"><span class="Occurrence OccurrenceGS"><a target="_blank" rel="noopener noreferrer" class="google-scholar-link gtm-reference" data-reference-type="Google Scholar" href="http://scholar.google.com/scholar_lookup?title=Coastal%20systems%20and%20low-lying%20areas&amp;author=RJ.%20Nicholls&amp;author=PP.%20Wong&amp;author=VR.%20Burkett&amp;author=JO.%20Codignotto&amp;author=JE.%20Hay&amp;author=RF.%20McLean&amp;author=S.%20Ragoonaden&amp;author=CD.%20Woodroffe&amp;pages=315-356&amp;publication_year=2007"><span><span>Google Scholar</span></span></a></span></span></div></li><li class="Citation"><div class="CitationContent" id="CR46">OECD (2007) Climate change in the European Alps: adapting winter tourism and natural hazards management. Agrawala S (ed). Paris, France<span class="Occurrences"></span></div></li><li class="Citation"><div class="CitationContent" id="CR47">Rosselló J, Aguiló E, Riera A (2005) Modelling tourism demand dynamics. J Travel Res 44:111–116<span class="Occurrences"><span class="Occurrence OccurrenceDOI"><a class="gtm-reference" data-reference-type="CrossRef" target="_blank" rel="noopener noreferrer" href="http://dx.doi.org/10.1177/0047287505276602"><span><span>CrossRef</span></span></a></span><span class="Occurrence OccurrenceGS"><a target="_blank" rel="noopener noreferrer" class="google-scholar-link gtm-reference" data-reference-type="Google Scholar" href="http://scholar.google.com/scholar_lookup?title=Modelling%20tourism%20demand%20dynamics&amp;author=J.%20Rossell%C3%B3&amp;author=E.%20Aguil%C3%B3&amp;author=A.%20Riera&amp;journal=J%20Travel%20Res&amp;volume=44&amp;pages=111-116&amp;publication_year=2005"><span><span>Google Scholar</span></span></a></span></span></div></li><li class="Citation"><div class="CitationContent" id="CR48">Roson R (2003) Modelling the economic impact of climate change. EEE working paper n.9, ICTP, 2003, and presented at the EcoMod Conference, Istanbul, July 2003<span class="Occurrences"></span></div></li><li class="Citation"><div class="CitationContent" id="CR49">Roson R, Tol RSJ (2006) An integrated assessment model of economy-energy-climate – the model Wiagem: a comment. Integrated Assessment Journal 6(1):75–82<span class="Occurrences"><span class="Occurrence OccurrenceGS"><a target="_blank" rel="noopener noreferrer" class="google-scholar-link gtm-reference" data-reference-type="Google Scholar" href="http://scholar.google.com/scholar_lookup?title=An%20integrated%20assessment%20model%20of%20economy-energy-climate%20%E2%80%93%20the%20model%20Wiagem%3A%20a%20comment&amp;author=R.%20Roson&amp;author=RSJ.%20Tol&amp;journal=Integrated%20Assessment%20Journal&amp;volume=6&amp;issue=1&amp;pages=75-82&amp;publication_year=2006"><span><span>Google Scholar</span></span></a></span></span></div></li><li class="Citation"><div class="CitationContent" id="CR50">Saizar A (1997) Assessment of a potential sea level rise on the coast of Montevideo, Uruguay. Clim Res 9:73–79<span class="Occurrences"><span class="Occurrence OccurrenceDOI"><a class="gtm-reference" data-reference-type="CrossRef" target="_blank" rel="noopener noreferrer" href="http://dx.doi.org/10.3354/cr009073"><span><span>CrossRef</span></span></a></span><span class="Occurrence OccurrenceGS"><a target="_blank" rel="noopener noreferrer" class="google-scholar-link gtm-reference" data-reference-type="Google Scholar" href="http://scholar.google.com/scholar_lookup?title=Assessment%20of%20a%20potential%20sea%20level%20rise%20on%20the%20coast%20of%20Montevideo%2C%20Uruguay&amp;author=A.%20Saizar&amp;journal=Clim%20Res&amp;volume=9&amp;pages=73-79&amp;publication_year=1997"><span><span>Google Scholar</span></span></a></span></span></div></li><li class="Citation"><div class="CitationContent" id="CR51">Scott D, McBoyle G (2007) Climate change adaptation and the ski industry. Mitig Adapt Strategies Glob Chang 12:1411–1431<span class="Occurrences"><span class="Occurrence OccurrenceDOI"><a class="gtm-reference" data-reference-type="CrossRef" target="_blank" rel="noopener noreferrer" href="http://dx.doi.org/10.1007/s11027-006-9071-4"><span><span>CrossRef</span></span></a></span><span class="Occurrence OccurrenceGS"><a target="_blank" rel="noopener noreferrer" class="google-scholar-link gtm-reference" data-reference-type="Google Scholar" href="http://scholar.google.com/scholar_lookup?title=Climate%20change%20adaptation%20and%20the%20ski%20industry&amp;author=D.%20Scott&amp;author=G.%20McBoyle&amp;journal=Mitig%20Adapt%20Strategies%20Glob%20Chang&amp;volume=12&amp;pages=1411-1431&amp;publication_year=2007"><span><span>Google Scholar</span></span></a></span></span></div></li><li class="Citation"><div class="CitationContent" id="CR52">Scott D, McBoyle G, Schwartzentruber M (2004) Climate change and the distribution of climatic resources for tourism in North America. Clim Res 27:105–117<span class="Occurrences"><span class="Occurrence OccurrenceDOI"><a class="gtm-reference" data-reference-type="CrossRef" target="_blank" rel="noopener noreferrer" href="http://dx.doi.org/10.3354/cr027105"><span><span>CrossRef</span></span></a></span><span class="Occurrence OccurrenceGS"><a target="_blank" rel="noopener noreferrer" class="google-scholar-link gtm-reference" data-reference-type="Google Scholar" href="http://scholar.google.com/scholar_lookup?title=Climate%20change%20and%20the%20distribution%20of%20climatic%20resources%20for%20tourism%20in%20North%20America&amp;author=D.%20Scott&amp;author=G.%20McBoyle&amp;author=M.%20Schwartzentruber&amp;journal=Clim%20Res&amp;volume=27&amp;pages=105-117&amp;publication_year=2004"><span><span>Google Scholar</span></span></a></span></span></div></li><li class="Citation"><div class="CitationContent" id="CR53">Smith JB, Lazo JK (2001) A summary of climate change impact assessments from the US Country Studies Programme. Clim Change 50:1–29<span class="Occurrences"><span class="Occurrence OccurrenceDOI"><a class="gtm-reference" data-reference-type="CrossRef" target="_blank" rel="noopener noreferrer" href="http://dx.doi.org/10.1023/A%3A1010642529072"><span><span>CrossRef</span></span></a></span><span class="Occurrence OccurrenceGS"><a target="_blank" rel="noopener noreferrer" class="google-scholar-link gtm-reference" data-reference-type="Google Scholar" href="http://scholar.google.com/scholar_lookup?title=A%20summary%20of%20climate%20change%20impact%20assessments%20from%20the%20US%20Country%20Studies%20Programme&amp;author=JB.%20Smith&amp;author=JK.%20Lazo&amp;journal=Clim%20Change&amp;volume=50&amp;pages=1-29&amp;publication_year=2001"><span><span>Google Scholar</span></span></a></span></span></div></li><li class="Citation"><div class="CitationContent" id="CR54">Schlesinger ME, Williams LA (1998) Country-specific model for intertemporal climate. Electric Power Research Institute, Palo Alto<span class="Occurrences"><span class="Occurrence OccurrenceGS"><a target="_blank" rel="noopener noreferrer" class="google-scholar-link gtm-reference" data-reference-type="Google Scholar" href="http://scholar.google.com/scholar_lookup?title=Country-specific%20model%20for%20intertemporal%20climate&amp;author=ME.%20Schlesinger&amp;author=LA.%20Williams&amp;publication_year=1998"><span><span>Google Scholar</span></span></a></span></span></div></li><li class="Citation"><div class="CitationContent" id="CR55">Tol RSJ (2002) Estimates of the damage costs of climate change – part 1: benchmark estimates. Environ Resour Econ 21:47–73<span class="Occurrences"><span class="Occurrence OccurrenceDOI"><a class="gtm-reference" data-reference-type="CrossRef" target="_blank" rel="noopener noreferrer" href="http://dx.doi.org/10.1023/A%3A1014500930521"><span><span>CrossRef</span></span></a></span><span class="Occurrence OccurrenceGS"><a target="_blank" rel="noopener noreferrer" class="google-scholar-link gtm-reference" data-reference-type="Google Scholar" href="http://scholar.google.com/scholar_lookup?title=Estimates%20of%20the%20damage%20costs%20of%20climate%20change%20%E2%80%93%20part%201%3A%20benchmark%20estimates&amp;author=RSJ.%20Tol&amp;journal=Environ%20Resour%20Econ&amp;volume=21&amp;pages=47-73&amp;publication_year=2002"><span><span>Google Scholar</span></span></a></span></span></div></li><li class="Citation"><div class="CitationContent" id="CR56">Tol RSJ (2005) The marginal damage costs of carbon dioxide emissions: an assessment of the uncertainties. Energy Policy 33(16):2064–2074<span class="Occurrences"><span class="Occurrence OccurrenceDOI"><a class="gtm-reference" data-reference-type="CrossRef" target="_blank" rel="noopener noreferrer" href="http://dx.doi.org/10.1016/j.enpol.2004.04.002"><span><span>CrossRef</span></span></a></span><span class="Occurrence OccurrenceGS"><a target="_blank" rel="noopener noreferrer" class="google-scholar-link gtm-reference" data-reference-type="Google Scholar" href="http://scholar.google.com/scholar_lookup?title=The%20marginal%20damage%20costs%20of%20carbon%20dioxide%20emissions%3A%20an%20assessment%20of%20the%20uncertainties&amp;author=RSJ.%20Tol&amp;journal=Energy%20Policy&amp;volume=33&amp;issue=16&amp;pages=2064-2074&amp;publication_year=2005"><span><span>Google Scholar</span></span></a></span></span></div></li><li class="Citation"><div class="CitationContent" id="CR57">Tol RSJ (2007) The double trade off between adaptation and mitigation for sea level rise: an application of FUND. Mitig Adapt Strategies Glob Chang 5(12):741–753<span class="Occurrences"><span class="Occurrence OccurrenceDOI"><a class="gtm-reference" data-reference-type="CrossRef" target="_blank" rel="noopener noreferrer" href="http://dx.doi.org/10.1007/s11027-007-9097-2"><span><span>CrossRef</span></span></a></span><span class="Occurrence OccurrenceGS"><a target="_blank" rel="noopener noreferrer" class="google-scholar-link gtm-reference" data-reference-type="Google Scholar" href="http://scholar.google.com/scholar_lookup?title=The%20double%20trade%20off%20between%20adaptation%20and%20mitigation%20for%20sea%20level%20rise%3A%20an%20application%20of%20FUND&amp;author=RSJ.%20Tol&amp;journal=Mitig%20Adapt%20Strategies%20Glob%20Chang&amp;volume=5&amp;issue=12&amp;pages=741-753&amp;publication_year=2007"><span><span>Google Scholar</span></span></a></span></span></div></li><li class="Citation"><div class="CitationContent" id="CR58">Tol RSJ, Fankhauser S, Richels RG, Smith JB (2000) How much damage will climate change do? Recent estimates. World Econ 1(4):179–206<span class="Occurrences"><span class="Occurrence OccurrenceGS"><a target="_blank" rel="noopener noreferrer" class="google-scholar-link gtm-reference" data-reference-type="Google Scholar" href="http://scholar.google.com/scholar_lookup?title=How%20much%20damage%20will%20climate%20change%20do%3F%20Recent%20estimates&amp;author=RSJ.%20Tol&amp;author=S.%20Fankhauser&amp;author=RG.%20Richels&amp;author=JB.%20Smith&amp;journal=World%20Econ&amp;volume=1&amp;issue=4&amp;pages=179-206&amp;publication_year=2000"><span><span>Google Scholar</span></span></a></span></span></div></li><li class="Citation"><div class="CitationContent" id="CR59">Turner RK, Adger WN, Doktor P (1995) Assessing the economic costs of sea level rise. Environ Plan A 27:1777–1796<span class="Occurrences"><span class="Occurrence OccurrenceDOI"><a class="gtm-reference" data-reference-type="CrossRef" target="_blank" rel="noopener noreferrer" href="http://dx.doi.org/10.1068/a271777"><span><span>CrossRef</span></span></a></span><span class="Occurrence OccurrenceGS"><a target="_blank" rel="noopener noreferrer" class="google-scholar-link gtm-reference" data-reference-type="Google Scholar" href="http://scholar.google.com/scholar_lookup?title=Assessing%20the%20economic%20costs%20of%20sea%20level%20rise&amp;author=RK.%20Turner&amp;author=WN.%20Adger&amp;author=P.%20Doktor&amp;journal=Environ%20Plan%20A&amp;volume=27&amp;pages=1777-1796&amp;publication_year=1995"><span><span>Google Scholar</span></span></a></span></span></div></li><li class="Citation"><div class="CitationContent" id="CR60">US DoC (1992) Statistical Abstract of the United States. United States Department of Commerce Bureau of the Census, Washington, DC<span class="Occurrences"><span class="Occurrence OccurrenceGS"><a target="_blank" rel="noopener noreferrer" class="google-scholar-link gtm-reference" data-reference-type="Google Scholar" href="http://scholar.google.com/scholar_lookup?title=Statistical%20Abstract%20of%20the%20United%20States&amp;publication_year=1992"><span><span>Google Scholar</span></span></a></span></span></div></li><li class="Citation"><div class="CitationContent" id="CR61">US DoC (1993) Survey of current business United States Department of Commerce Bureau of Economic Analysis. Washington, DC<span class="Occurrences"><span class="Occurrence OccurrenceGS"><a target="_blank" rel="noopener noreferrer" class="google-scholar-link gtm-reference" data-reference-type="Google Scholar" href="http://scholar.google.com/scholar_lookup?title=Survey%20of%20current%20business%20United%20States%20Department%20of%20Commerce%20Bureau%20of%20Economic%20Analysis&amp;publication_year=1993"><span><span>Google Scholar</span></span></a></span></span></div></li><li class="Citation"><div class="CitationContent" id="CR62">Volonte CR, Arismendi J (1995) Sea level rise and Venezuela: potential impacts and responses. J Coast Res 14:285–302<span class="Occurrences"><span class="Occurrence OccurrenceGS"><a target="_blank" rel="noopener noreferrer" class="google-scholar-link gtm-reference" data-reference-type="Google Scholar" href="http://scholar.google.com/scholar_lookup?title=Sea%20level%20rise%20and%20Venezuela%3A%20potential%20impacts%20and%20responses&amp;author=CR.%20Volonte&amp;author=J.%20Arismendi&amp;journal=J%20Coast%20Res&amp;volume=14&amp;pages=285-302&amp;publication_year=1995"><span><span>Google Scholar</span></span></a></span></span></div></li><li class="Citation"><div class="CitationContent" id="CR63">Volonte CR, Nicholls RJ (1995) Uruguay and sea level rise: potential impacts and responses. J Coast Res 14:262–284<span class="Occurrences"><span class="Occurrence OccurrenceGS"><a target="_blank" rel="noopener noreferrer" class="google-scholar-link gtm-reference" data-reference-type="Google Scholar" href="http://scholar.google.com/scholar_lookup?title=Uruguay%20and%20sea%20level%20rise%3A%20potential%20impacts%20and%20responses&amp;author=CR.%20Volonte&amp;author=RJ.%20Nicholls&amp;journal=J%20Coast%20Res&amp;volume=14&amp;pages=262-284&amp;publication_year=1995"><span><span>Google Scholar</span></span></a></span></span></div></li><li class="Citation"><div class="CitationContent" id="CR64">Witt SF, Witt CA (1995) Forecasting tourism demand: a review of empirical research. Int J Forecast 11:447–475<span class="Occurrences"><span class="Occurrence OccurrenceDOI"><a class="gtm-reference" data-reference-type="CrossRef" target="_blank" rel="noopener noreferrer" href="http://dx.doi.org/10.1016/0169-2070(95)00591-7"><span><span>CrossRef</span></span></a></span><span class="Occurrence OccurrenceGS"><a target="_blank" rel="noopener noreferrer" class="google-scholar-link gtm-reference" data-reference-type="Google Scholar" href="http://scholar.google.com/scholar_lookup?title=Forecasting%20tourism%20demand%3A%20a%20review%20of%20empirical%20research&amp;author=SF.%20Witt&amp;author=CA.%20Witt&amp;journal=Int%20J%20Forecast&amp;volume=11&amp;pages=447-475&amp;publication_year=1995"><span><span>Google Scholar</span></span></a></span></span></div></li><li class="Citation"><div class="CitationContent" id="CR65">Yohe G, Schlesinger M (1998) Sea level change: the expected economic cost of protection or abandonment in the United States. Clim Change 38:447–472<span class="Occurrences"><span class="Occurrence OccurrenceDOI"><a class="gtm-reference" data-reference-type="CrossRef" target="_blank" rel="noopener noreferrer" href="http://dx.doi.org/10.1023/A%3A1005338413531"><span><span>CrossRef</span></span></a></span><span class="Occurrence OccurrenceGS"><a target="_blank" rel="noopener noreferrer" class="google-scholar-link gtm-reference" data-reference-type="Google Scholar" href="http://scholar.google.com/scholar_lookup?title=Sea%20level%20change%3A%20the%20expected%20economic%20cost%20of%20protection%20or%20abandonment%20in%20the%20United%20States&amp;author=G.%20Yohe&amp;author=M.%20Schlesinger&amp;journal=Clim%20Change&amp;volume=38&amp;pages=447-472&amp;publication_year=1998"><span><span>Google Scholar</span></span></a></span></span></div></li><li class="Citation"><div class="CitationContent" id="CR66">Yohe G, Neumann J, Marshall P, Ameden H (1996) The economic cost of greenhouse induced sea level rise for developed property in the United States. Clim Change 32:387–410<span class="Occurrences"><span class="Occurrence OccurrenceDOI"><a class="gtm-reference" data-reference-type="CrossRef" target="_blank" rel="noopener noreferrer" href="http://dx.doi.org/10.1007/BF00140353"><span><span>CrossRef</span></span></a></span><span class="Occurrence OccurrenceGS"><a target="_blank" rel="noopener noreferrer" class="google-scholar-link gtm-reference" data-reference-type="Google Scholar" href="http://scholar.google.com/scholar_lookup?title=The%20economic%20cost%20of%20greenhouse%20induced%20sea%20level%20rise%20for%20developed%20property%20in%20the%20United%20States&amp;author=G.%20Yohe&amp;author=J.%20Neumann&amp;author=P.%20Marshall&amp;author=H.%20Ameden&amp;journal=Clim%20Change&amp;volume=32&amp;pages=387-410&amp;publication_year=1996"><span><span>Google Scholar</span></span></a></span></span></div></li><li class="Citation"><div class="CitationContent" id="CR67">Zeider RB (1997) Climate change vulnerability and response strategies for the coastal zone of Poland. Clim Change 36:151–173<span class="Occurrences"><span class="Occurrence OccurrenceDOI"><a class="gtm-reference" data-reference-type="CrossRef" target="_blank" rel="noopener noreferrer" href="http://dx.doi.org/10.1023/A%3A1005394909182"><span><span>CrossRef</span></span></a></span><span class="Occurrence OccurrenceGS"><a target="_blank" rel="noopener noreferrer" class="google-scholar-link gtm-reference" data-reference-type="Google Scholar" href="http://scholar.google.com/scholar_lookup?title=Climate%20change%20vulnerability%20and%20response%20strategies%20for%20the%20coastal%20zone%20of%20Poland&amp;author=RB.%20Zeider&amp;journal=Clim%20Change&amp;volume=36&amp;pages=151-173&amp;publication_year=1997"><span><span>Google Scholar</span></span></a></span></span></div></li></ol></div></aside><section class="Section1 RenderAsSection1"><h2 class="Heading" id="copyrightInformation">Copyright information</h2><div class="ArticleCopyright content"><div class="ArticleCopyright">© Springer Science+Business Media B.V. 2007</div></div></section><section id="authorsandaffiliations" class="Section1 RenderAsSection1"><h2 class="Heading">Authors and Affiliations</h2><div class="content authors-affiliations u-interface"><ul class="test-contributor-names"><li><span itemprop="name" class="authors-affiliations__name">Andrea Bigano</span><ul class="authors-affiliations__indexes u-inline-list" data-role="AuthorsIndexes"><li data-affiliation="#affiliation-1">1</li><li data-affiliation="#affiliation-6">6</li></ul></li><li><span itemprop="name" class="authors-affiliations__name">Francesco Bosello</span><ul class="authors-affiliations__indexes u-inline-list" data-role="AuthorsIndexes"><li data-affiliation="#affiliation-1">1</li><li data-affiliation="#affiliation-7">7</li></ul><span class="author-information"><span class="author-information__contact u-icon-before icon--email-before"><a href="mailto:francesco.bosello@feem.it" itemprop="email" class="gtm-email-author">Email author</a></span></span></li><li><span itemprop="name" class="authors-affiliations__name">Roberto Roson</span><ul class="authors-affiliations__indexes u-inline-list" data-role="AuthorsIndexes"><li data-affiliation="#affiliation-1">1</li><li data-affiliation="#affiliation-2">2</li></ul></li><li><span itemprop="name" class="authors-affiliations__name">Richard S. J. Tol</span><ul class="authors-affiliations__indexes u-inline-list" data-role="AuthorsIndexes"><li data-affiliation="#affiliation-3">3</li><li data-affiliation="#affiliation-4">4</li><li data-affiliation="#affiliation-5">5</li></ul></li></ul><ol class="test-affiliations"><li id="affiliation-1" class="affiliation" itemprop="affiliation" itemscope="" itemtype="http://schema.org/Organization"><span class="affiliation__count">1.</span><span class="affiliation__item"><span itemprop="name" class="affiliation__name">Fondazione Eni Enrico Mattei</span><span itemprop="city" class="affiliation__city">Venice</span><span itemprop="country" class="affiliation__country">Italy</span></span></li><li id="affiliation-2" class="affiliation" itemprop="affiliation" itemscope="" itemtype="http://schema.org/Organization"><span class="affiliation__count">2.</span><span class="affiliation__item"><span itemprop="name" class="affiliation__name">Ca’Foscari University of Venice</span><span itemprop="city" class="affiliation__city">Venice</span><span itemprop="country" class="affiliation__country">Italy</span></span></li><li id="affiliation-3" class="affiliation" itemprop="affiliation" itemscope="" itemtype="http://schema.org/Organization"><span class="affiliation__count">3.</span><span class="affiliation__item"><span itemprop="department" class="affiliation__department">Research unit Sustainability and Global Change</span><span itemprop="name" class="affiliation__name">Hamburg University and Centre for Marine and Atmospheric Science</span><span itemprop="city" class="affiliation__city">Hamburg</span><span itemprop="country" class="affiliation__country">Germany</span></span></li><li id="affiliation-4" class="affiliation" itemprop="affiliation" itemscope="" itemtype="http://schema.org/Organization"><span class="affiliation__count">4.</span><span class="affiliation__item"><span itemprop="department" class="affiliation__department">Institute for Environmental Studies</span><span itemprop="name" class="affiliation__name">Vrije Universiteit</span><span itemprop="city" class="affiliation__city">Amsterdam</span><span itemprop="country" class="affiliation__country">The Netherlands</span></span></li><li id="affiliation-5" class="affiliation" itemprop="affiliation" itemscope="" itemtype="http://schema.org/Organization"><span class="affiliation__count">5.</span><span class="affiliation__item"><span itemprop="department" class="affiliation__department">Engineering and Public Policy</span><span itemprop="name" class="affiliation__name">Carnegie Mellon University</span><span itemprop="city" class="affiliation__city">Pittsburgh</span><span itemprop="country" class="affiliation__country">USA</span></span></li><li id="affiliation-6" class="affiliation" itemprop="affiliation" itemscope="" itemtype="http://schema.org/Organization"><span class="affiliation__count">6.</span><span class="affiliation__item"><span itemprop="name" class="affiliation__name">REF, Ricerche per l’Economia e la Finanza</span><span itemprop="city" class="affiliation__city">Milan</span><span itemprop="country" class="affiliation__country">Italy</span></span></li><li id="affiliation-7" class="affiliation" itemprop="affiliation" itemscope="" itemtype="http://schema.org/Organization"><span class="affiliation__count">7.</span><span class="affiliation__item"><span itemprop="name" class="affiliation__name">Dipartimento di Scienze Economiche Aziendali e Statistiche Università Statale di Milano</span><span itemprop="city" class="affiliation__city">Milan</span><span itemprop="country" class="affiliation__country">Italy</span></span></li></ol></div></section></div>
+
+                                <aside class="bibliographic-information">
+    <h2 class="Heading" id="aboutcontent">About this article</h2>
+    <div class="content bibliographic-information__container u-interface">
+        
+            <div class="crossmark__adjacent">
+                    <ul class="bibliographic-information__list bibliographic-information__list--inline">
+            <li class="bibliographic-information__item">
+                <span class="bibliographic-information__title">Publisher Name</span>
+                <span class="bibliographic-information__value" id="publisher-name">Springer Netherlands</span>
+            </li>
+            <li class="bibliographic-information__item">
+                <span class="bibliographic-information__title">Print ISSN</span>
+                <span class="bibliographic-information__value" id="print-issn">1381-2386</span>
+            </li>
+            <li class="bibliographic-information__item ">
+                <span class="bibliographic-information__title">Online ISSN</span>
+                <span class="bibliographic-information__value" id="electronic-issn">1573-1596</span>
+            </li>
+
+        
+    </ul>
+
+                <ul class="bibliographic-information__list">
+    <li class="bibliographic-information__item">
+        <a id="about-journal" class="bibliographic-information__misc-links" title="Visit Springer.com for information about this article&#39;s journal"
+           href="//www.springer.com/journal/11027/about">About this journal</a>
+    </li>
+    <li class="bibliographic-information__item">
+        <a id="reprintsandpermissions-link" class="u-external" target="_blank" rel="noopener noreferrer" href="https://s100.copyright.com/AppDispatchServlet?publisherName&#x3D;Springer&amp;orderBeanReset&#x3D;true&amp;orderSource&#x3D;SpringerLink&amp;author&#x3D;Andrea+Bigano&amp;issueNum&#x3D;8&amp;contentID&#x3D;10.1007%2Fs11027-007-9139-9&amp;openAccess&#x3D;false&amp;endPage&#x3D;791&amp;publicationDate&#x3D;2007&amp;startPage&#x3D;765&amp;volumeNum&#x3D;13&amp;title&#x3D;Economy-wide+impacts+of+climate+change%3A+a+joint+analysis+for+sea+level+rise+and+tourism&amp;imprint&#x3D;Springer+Science%2BBusiness+Media+B.V.&amp;publication&#x3D;1381-2386&amp;authorAddress&#x3D;Venice%2C+Italy" title="Visit RightsLink for information about reusing this article">Reprints and Permissions</a>
+    </li>
+</ul>
+            </div>
+
+        
+
+            
+    </div>
+</aside>
+
+                            </div>
+                        </div>
+
+                        <aside class="main-sidebar-right u-interface">
+                            <div data-role="sticky-wrapper">
+                                <div class="main-sidebar-right__content u-composite-layer" data-component="SpringerLink-StickySidebar">
+                                    <div class="article-actions" id="article-actions">
+                                        <h2 class="u-screenreader-only">Article actions</h2>
+                                        
+                                        <div id="download-content-placeholder" class="u-showTwoCol"></div>
+                                            <div id="buy">
+                                                
+
+<style type="text/css">
+    .buybox {
+        margin: 16px 0 0;
+        position: relative;
+    }
+    .buybox {
+        font-family: Source Sans Pro, Helvetica, Arial, sans-serif;
+        font-size: 14px;
+        font-size: .875rem;
+    }
+    .buybox {
+        zoom: 1;
+    }
+    .buybox:after,
+    .buybox:before {
+        content: '';
+        display: table;
+    }
+    .buybox:after {
+        clear: both;
+    }
+    /*---------------------------------*/
+    .buybox .buybox__header {
+        border: 1px solid #b3b3b3;
+        border-bottom: 0;
+        padding: 8px;
+        position: relative;
+        background-color: #f2f2f2;
+    }
+    .buybox__header .buybox__login {
+        font-family: Source Sans Pro, Helvetica, Arial, sans-serif;
+        font-size: 14px;
+        font-size: .875rem;
+        letter-spacing: .017em;
+        display: inline-block;
+        line-height: 1.2;
+        padding: 0;
+    }
+    .buybox__header .buybox__login:before {
+        position: absolute;
+        top: 50%;
+        -webkit-transform: perspective(1px) translateY(-50%);
+        transform: perspective(1px) translateY(-50%);
+        content: '\A';
+        width: 34px;
+        height: 34px;
+        left: 10px;
+    }
+    /*---------------------------------*/
+    .buybox .buybox__body {
+        padding: 0;
+        padding-bottom: 16px;
+        position: relative;
+        text-align: center;
+        background-color: #fcfcfc;
+        border: 1px solid #b3b3b3;
+    }
+    .buybox__body .buybox__section {
+        padding: 16px 12px 0 12px;
+        text-align: left;
+    }
+    .buybox__section .buybox__buttons {
+        text-align: center;
+        width: 100%;
+    }
+    /********** mycopy buybox specific **********/
+    .buybox.mycopy__buybox .buybox__section .buybox__buttons {
+        border-top: 0;
+        padding-top: 0;
+    }
+    /******/
+    .buybox__section:nth-child(2) .buybox__buttons {
+        border-top: 1px solid #b3b3b3;
+        padding-top: 20px;
+    }
+    .buybox__buttons .buybox__buy-button {
+        display: inline-block;
+        text-align: center;
+        margin-bottom: 5px;
+        padding: 6px 12px;
+    }
+    .buybox__buttons .buybox__price {
+        white-space: nowrap;
+        text-align: center;
+        font-size: larger;
+        padding-top: 6px;
+    }
+    .buybox__section .buybox__meta {
+        letter-spacing: 0;
+        padding-top: 12px;
+    }
+    .buybox__section .buybox__meta:only-of-type {
+        padding-top: 0;
+        position: relative;
+        bottom: 6px;
+    }
+    /********** mycopy buybox specific **********/
+    .buybox.mycopy__buybox .buybox__section .buybox__meta {
+        margin-top: 0;
+        margin-bottom: 0;
+    }
+    /******/
+    .buybox__meta .buybox__product-title {
+        display: inline;
+        font-weight: bold;
+    }
+    .buybox__meta .buybox__list {
+        line-height: 1.3;
+    }
+    .buybox__meta .buybox__list li {
+        position: relative;
+        padding-left: 1em;
+        list-style: none;
+        margin-bottom: 5px;
+    }
+    .buybox__meta .buybox__list li:before {
+        font-size: 1em;
+        content: '\2022';
+        float: left;
+        position: relative;
+        top: .1em;
+        font-family: serif;
+        font-weight: 600;
+        text-align: center;
+        line-height: inherit;
+        color: #666;
+        width: auto;
+        margin-left: -1em;
+    }
+    .buybox__meta .buybox__list li:last-child {
+        margin-bottom: 0;
+    }
+    /*---------------------------------*/
+    .buybox .buybox__footer {
+        border: 1px solid #b3b3b3;
+        border-top: 0;
+        padding: 8px;
+        position: relative;
+        border-style: dashed;
+        line-height: 1.3;
+    }
+    /*-----------------------------------------------------------------*/
+    @media screen and (min-width: 460px) and (max-width: 1074px) {
+        .buybox__body .buybox__section {
+            display: inline-block;
+            vertical-align: top;
+            padding: 12px 12px;
+            padding-bottom: 0;
+            text-align: left;
+            width: 48%;
+        }
+        .buybox__body .buybox__section {
+            padding-top: 16px;
+            padding-left: 0;
+        }
+        .buybox__section:nth-of-type(2) .buybox__meta {
+            border-left: 1px solid #d3d3d3;
+            padding-left: 28px;
+        }
+        .buybox__section:nth-of-type(2) .buybox__buttons {
+            border-top: 0;
+            padding-top: 0;
+            padding-left: 16px ;
+        }
+        .buybox__buttons .buybox__buy-button {
+        }
+        /********** article buybox specific **********/
+        .buybox.article__buybox .buybox__section:nth-of-type(2) {
+            margin-top: 16px;
+            padding-top: 0;
+        }
+        .buybox.article__buybox .buybox__section:nth-of-type(2) .buybox__meta {
+            margin-top: 40px;
+            padding-top: 0;
+            padding-bottom: 45px;
+        }
+        .buybox.article__buybox .buybox__section:nth-of-type(2) .buybox__meta:only-of-type {
+            margin-top: 8px;
+            padding-top: 12px;
+            padding-bottom: 12px;
+        }
+        /********** mycopy buybox specific **********/
+        .buybox.mycopy__buybox .buybox__section:first-child {
+            width: 69%;
+        }
+        .buybox.mycopy__buybox .buybox__section:last-child {
+            width: 29%;
+        }
+        /******/
+    }
+    /*-----------------------------------------------------------------*/
+    @media screen and (max-width: 459px) {
+        /********** mycopy buybox specific **********/
+        .buybox.mycopy__buybox .buybox__body {
+            padding-bottom: 5px;
+        }
+        .buybox.mycopy__buybox .buybox__section:last-child {
+            text-align: center;
+            width: 100%;
+        }
+        .buybox.mycopy__buybox .buybox__buttons {
+            display: inline-block;
+            width: 150px ;
+        }
+        /******/
+    }
+    /*-----------------------------------------------------------------*/
+</style>
+
+<div class="buybox article__buybox" data-webtrekkTrackId="196033507532344">
+    <div class="buybox__header">
+        <span class="buybox__login">Log in to check access</span>
+    </div>
+    <div class="buybox__body">
+        <div class="buybox__section">
+            <div class="buybox__buttons">
+                <form class="buybox__form" action="https://checkout.springer.com/checkout/add?wt_mc=ThirdParty.SpringerLink.3.EPR653.AbstractPage_Article-new" method="POST">
+                    
+                        <input type="hidden" name="type" value="article"/>
+                    
+                        <input type="hidden" name="doi" value="10.1007/s11027-007-9139-9"/>
+                    
+                        <input type="hidden" name="isxn" value="1573-1596"/>
+                    
+                        <input type="hidden" name="contenttitle" value="Economy-wide impacts of climate change: a joint analysis for sea level rise and tourism"/>
+                    
+                        <input type="hidden" name="copyrightyear" value="2007"/>
+                    
+                        <input type="hidden" name="year" value="2008"/>
+                    
+                        <input type="hidden" name="authors" value="Andrea Bigano, et al."/>
+                    
+                        <input type="hidden" name="title" value="Mitigation and Adaptation Strategies for Global Change"/>
+                    
+                        <input type="hidden" name="mac" value="fcf567cfbf5036831a08ae9d1539e487"/>
+                    
+                        <input type="hidden" name="returnurl" value="http://link.springer.com/article/10.1007/s11027-007-9139-9"/>
+                    
+                    <button
+                        class="buybox__buy-button button button--blue"
+                        data-product-id="10.1007/s11027-007-9139-9_Economy-wide impacts of climate ch"
+                        data-tracking-category="ppv"
+                        data-eCommerceParam_11="article-page"
+                        data-gtm="buybox__buy-button">
+                        <span class="buybox__buy" data-gtm="buybox__buy-button">Buy (PDF)</span>
+                    </button>
+                    <div class="buybox__price" data-gtm="buybox__buy-button">
+                        USD&nbsp;39.95
+                    </div>
+                </form>
+            </div>
+        
+            <div class="buybox__meta">
+                <ul class="buybox__list">
+                    <li>Unlimited access to the full article</li>
+                    <li>Instant download</li>
+                    <li>Include local sales tax if applicable</li>
+                </ul>
+            </div>
+        </div>
+        
+            <div class="buybox__section">
+                <div class="buybox__buttons">
+                    <a
+                    href="http://www.springer.com/11027?wt_mc=ThirdParty.SpringerLink.3.EPR653.ArticlePage_journal"
+                    class="buybox__buy-button button button--blue"
+                    data-gtm="buybox__buy-button-subscription">
+                        <span class="buybox__buy" data-gtm="buybox__buy-button">Subscribe to Journal</span>
+                    </a>
+                </div>
+                <div class="buybox__meta">
+                    Get Access to
+                    <div class="buybox__product-title">Mitigation and Adaptation Strategies for Global Change</div>
+                    for the whole of 2017
+                </div>
+            </div>
+        
+    </div>
+    <div class="buybox__footer">
+        <a class="js-buybox__inst-sub-link" data-gtm="buybox__inst-sub-link" href="http://www.springer.com/gp/shop/subscriptions?wt_mc=ThirdParty.SpringerLink.3.EPR653.ArticlePage_Institutional-customers">
+            Learn about institutional subscriptions</a>
+    </div>
+</div>
+
+
+
+<script>
+(function () {
+    var forEach = function (array, callback, scope) {
+        for (var i = 0; i < array.length; i++) {
+            callback.call(scope, i, array[i]);
+        }
+    };
+
+    var trackDomain = 'springergmbh01.webtrekk.net';
+    var domain = 'link.springer.com';
+    var loadEventSent = false;
+
+    var buyboxRoot = document.getElementsByClassName('buybox')[0];
+    var webtrekkTrackId = buyboxRoot.getAttribute('data-webtrekkTrackId');
+
+    function SubscriptionTrack(webtrekkTrackId) {
+        if (!webtrekkTrackId) return;
+
+        var data = {
+            trackDomain: trackDomain,
+            trackId: webtrekkTrackId,
+            domain: domain,
+            contentId: 'springer_com.buybox',
+            customSessionParameter: {
+                2: getBusinessPartnerIds()
+            }
+        };
+
+        if (!window.webtrekkV3 && console) {
+            console.log('No webtrekk found.', data);
+            return;
+        }
+
+        return new webtrekkV3(data);
+    }
+
+    function Track(product, webtrekkTrackId, eCommerceParam_11, action) {
+        if (!product) return;
+
+        var data = {
+            trackDomain: trackDomain,
+            trackId: webtrekkTrackId,
+            domain: domain,
+            contentId: 'SL-article',
+            product: product.id,
+            productStatus: action,
+            productCategory: {
+                1: product.trackingCategory
+            },
+            customEcommerceParameter: {
+                9: domain,
+                11: eCommerceParam_11
+            },
+            customSessionParameter: {
+                2: getBusinessPartnerIds()
+            }
+        };
+
+        if (!window.webtrekkV3 && console) {
+            console.log('No webtrekk found.', data);
+            return;
+        }
+
+        return new webtrekkV3(data);
+    }
+
+    function trackAddToCart(trackingConfig) {
+        if (!trackingConfig) return;
+        trackingConfig.sendinfo();
+    }
+
+    function trackOnLoad(trackingConfig) {
+        if (loadEventSent) return;
+        loadEventSent = true;
+        if (!trackingConfig) return;
+        trackingConfig.sendinfo();
+    }
+
+    function trackSubscription(trackingConfig) {
+        if (!trackingConfig) return;
+        trackingConfig.sendinfo({linkId: 'inst. subscription info'});
+    }
+
+    function getBusinessPartnerIds() {
+        var businessPartnerIDs = [];
+        try {
+            var ids = window.dataLayer[0]["user"]["license"]["businessPartnerID"];
+            if(ids && ids.length) businessPartnerIDs = ids;
+        } catch(e) {}
+        return businessPartnerIDs.join(";");
+    }
+
+    var bindClickLinkHandle = function (link) {
+        if (!link) return;
+
+        link.addEventListener('click', function (event) {
+            trackSubscription(SubscriptionTrack(webtrekkTrackId));
+        });
+    };
+
+    var bindLoadButtonHandle = function (button) {
+        if (!button) return;
+
+        var productId = button.getAttribute('data-product-id');
+        var trackingCategory = button.getAttribute('data-tracking-category');
+        var eCommerceParam_11 = button.getAttribute('data-eCommerceParam_11');
+
+        window.addEventListener('load', function (event) {
+            trackOnLoad(Track({
+                id: productId,
+                trackingCategory: trackingCategory
+            }, webtrekkTrackId, eCommerceParam_11, 'view'));
+        });
+    };
+
+    var bindClickButtonHandle = function (button) {
+        if (!button) return;
+
+        var productId = button.getAttribute('data-product-id');
+        var trackingCategory = button.getAttribute('data-tracking-category');
+        var eCommerceParam_11 = button.getAttribute('data-eCommerceParam_11');
+
+        button.addEventListener('click', function (event) {
+            trackAddToCart(Track({
+                id: productId,
+                trackingCategory: trackingCategory
+            }, webtrekkTrackId, eCommerceParam_11, 'add'));
+        });
+    };
+
+    var buyButtons = document.getElementsByClassName('buybox__buy-button');
+    forEach(buyButtons, function (index, button) {
+        bindLoadButtonHandle(button);
+        bindClickButtonHandle(button);
+    });
+
+    var sublinks = document.getElementsByClassName('js-buybox__inst-sub-link');
+    forEach(sublinks, function (index, link) {
+        bindClickLinkHandle(link);
+    });
+})();
+</script>
+
+                                            </div>
+                                        
+<div class="citations u-showTwoCol" data-component="SpringerLink-Dropdown" data-namespace="citations">
+    <h3 class="u-h4" data-role="button-dropdown__title">
+        Export citation
+    </h3>
+    <ul class="citations__content" data-role="button-dropdown__content">
+            <li>
+                <a href="http://citation-needed.services.springer.com/v2/references/10.1007/s11027-007-9139-9?format&#x3D;refman&amp;flavour&#x3D;citation"
+                   title="Download this article&#39;s citation as a .RIS file" class="gtm-export-citation" data-gtmlabel="RIS">
+                    <span class="citations__extension gtm-export-citation" data-gtmlabel="RIS">
+                        <svg class="u-vertical-align-absolute" width="12" height="14" viewBox="0 0 12 14" xmlns="http://www.w3.org/2000/svg"><path d="M7 7.269v-6.271c0-.551-.448-.998-1-.998-.556 0-1 .447-1 .998v6.271l-1.5-1.547c-.375-.387-1.01-.397-1.401-.006l.016-.016c-.397.397-.391 1.025-.001 1.416l3.178 3.178c.392.392 1.024.391 1.415 0l3.178-3.178c.392-.392.391-1.025-.001-1.416l.016.016c-.397-.397-1.018-.388-1.401.006l-1.5 1.547zm-7 5.731c0-.552.456-1 1.002-1h9.995c.554 0 1.002.444 1.002 1 0 .552-.456 1-1.002 1h-9.995c-.554 0-1.002-.444-1.002-1z" fill="#0176C3"/></svg>
+                        .RIS
+                    </span>
+                    <span class="citations__types">
+                            <span>
+                                Papers
+                            </span>
+                            <span>
+                                Reference Manager
+                            </span>
+                            <span>
+                                RefWorks
+                            </span>
+                            <span>
+                                Zotero
+                            </span>
+                    </span>
+                </a>
+            </li>
+            <li>
+                <a href="http://citation-needed.services.springer.com/v2/references/10.1007/s11027-007-9139-9?format&#x3D;endnote&amp;flavour&#x3D;citation"
+                   title="Download this article&#39;s citation as a .ENW file" class="gtm-export-citation" data-gtmlabel="ENW">
+                    <span class="citations__extension gtm-export-citation" data-gtmlabel="ENW">
+                        <svg class="u-vertical-align-absolute" width="12" height="14" viewBox="0 0 12 14" xmlns="http://www.w3.org/2000/svg"><path d="M7 7.269v-6.271c0-.551-.448-.998-1-.998-.556 0-1 .447-1 .998v6.271l-1.5-1.547c-.375-.387-1.01-.397-1.401-.006l.016-.016c-.397.397-.391 1.025-.001 1.416l3.178 3.178c.392.392 1.024.391 1.415 0l3.178-3.178c.392-.392.391-1.025-.001-1.416l.016.016c-.397-.397-1.018-.388-1.401.006l-1.5 1.547zm-7 5.731c0-.552.456-1 1.002-1h9.995c.554 0 1.002.444 1.002 1 0 .552-.456 1-1.002 1h-9.995c-.554 0-1.002-.444-1.002-1z" fill="#0176C3"/></svg>
+                        .ENW
+                    </span>
+                    <span class="citations__types">
+                            <span>
+                                EndNote
+                            </span>
+                    </span>
+                </a>
+            </li>
+            <li>
+                <a href="http://citation-needed.services.springer.com/v2/references/10.1007/s11027-007-9139-9?format&#x3D;bibtex&amp;flavour&#x3D;citation"
+                   title="Download this article&#39;s citation as a .BIB file" class="gtm-export-citation" data-gtmlabel="BIB">
+                    <span class="citations__extension gtm-export-citation" data-gtmlabel="BIB">
+                        <svg class="u-vertical-align-absolute" width="12" height="14" viewBox="0 0 12 14" xmlns="http://www.w3.org/2000/svg"><path d="M7 7.269v-6.271c0-.551-.448-.998-1-.998-.556 0-1 .447-1 .998v6.271l-1.5-1.547c-.375-.387-1.01-.397-1.401-.006l.016-.016c-.397.397-.391 1.025-.001 1.416l3.178 3.178c.392.392 1.024.391 1.415 0l3.178-3.178c.392-.392.391-1.025-.001-1.416l.016.016c-.397-.397-1.018-.388-1.401.006l-1.5 1.547zm-7 5.731c0-.552.456-1 1.002-1h9.995c.554 0 1.002.444 1.002 1 0 .552-.456 1-1.002 1h-9.995c-.554 0-1.002-.444-1.002-1z" fill="#0176C3"/></svg>
+                        .BIB
+                    </span>
+                    <span class="citations__types">
+                            <span>
+                                BibTeX
+                            </span>
+                            <span>
+                                JabRef
+                            </span>
+                            <span>
+                                Mendeley
+                            </span>
+                    </span>
+                </a>
+            </li>
+    </ul>
+</div>
+                                        <div class="share-this u-showTwoCol" data-component="SpringerLink-Dropdown" data-namespace="shareThis">
+    <h3 class="u-h4" data-role="button-dropdown__title">
+        Share article
+    </h3>
+    <ul class="share-this__content" data-role="button-dropdown__content">
+        <li>
+            <a class="test-shareby-email-link gtm-shareby-email-link" href="mailto:?to&#x3D;&amp;subject&#x3D;Read%20this%20article%20on%20SpringerLink&amp;body&#x3D;Economy-wide%20impacts%20of%20climate%20change%3A%20a%20joint%20analysis%20for%20sea%20level%20rise%20and%20tourism%0A%0Ahttps%3A%2F%2Flink.springer.com%2Farticle%2F10.1007%2Fs11027-007-9139-9" title="Share this article via email">
+                <span class="share-this__types">
+                    <svg width="24" height="24" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><g fill="none"><path fill-opacity="0" fill="#fff" d="M0 0h24v24h-24z"/><g transform="translate(3 5)"><rect fill="#F9F9F9" width="18" height="14" rx="2"/><path d="M1 2.006v9.988c0 .557.446 1.006.995 1.006h14.01c.549 0 .995-.449.995-1.006v-9.988c0-.557-.446-1.006-.995-1.006h-14.01c-.549 0-.995.449-.995 1.006zm-1 0c0-1.108.893-2.006 1.995-2.006h14.01c1.102 0 1.995.897 1.995 2.006v9.988c0 1.108-.893 2.006-1.995 2.006h-14.01c-1.102 0-1.995-.897-1.995-2.006v-9.988zM9 9l7-4v-1.443l-7 4-7-4v1.443z" fill="#666"/></g></g></svg>
+                    <span>Email</span>
+                </span>
+            </a>
+        </li>
+        <li>
+            <a class="test-shareby-facebook-link gtm-shareby-facebook-link" href="https://www.facebook.com/sharer/sharer.php?u&#x3D;https%3A%2F%2Flink.springer.com%2Farticle%2F10.1007%2Fs11027-007-9139-9" target="_blank" rel="noopener noreferrer" title="Share this article via Facebook">
+                <span class="share-this__types">
+                    <svg width="24" height="24" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><g fill="none"><path fill-opacity="0" fill="#fff" d="M0 0h24v24h-24z"/><path d="M12.717 19.091h-2.66v-6.274h-1.329v-2.162h1.329v-1.298c0-1.763.75-2.813 2.883-2.813h1.775v2.162h-1.11c-.83 0-.885.302-.885.866l-.004 1.082h2.011l-.235 2.162h-1.775v6.274z" fill="#666"/></g></svg>
+                    <span>Facebook</span>
+                </span>
+            </a>
+        </li>
+        <li>
+            <a class="test-shareby-twitter-link gtm-shareby-twitter-link" href="https://twitter.com/intent/tweet?text&#x3D;I%27m%20reading%20this%20on%20%23springerlink&amp;url&#x3D;https%3A%2F%2Flink.springer.com%2Farticle%2F10.1007%2Fs11027-007-9139-9" target="_blank" rel="noopener noreferrer" title="Share this article via Twitter">
+                <span class="share-this__types">
+                    <svg width="24" height="24" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><g fill="none"><path fill-opacity="0" fill="#fff" d="M0 0h24v24h-24z"/><path d="M16.651 9.189c.485-.306.858-.792 1.033-1.371-.454.284-.957.49-1.493.601-.428-.482-1.039-.783-1.715-.783-1.298 0-2.349 1.11-2.349 2.478 0 .194.019.384.06.564-1.952-.104-3.684-1.089-4.843-2.59-.202.367-.318.793-.318 1.247 0 .859.415 1.618 1.045 2.063-.385-.013-.748-.126-1.065-.31v.03c0 1.201.809 2.203 1.886 2.43-.198.058-.405.087-.62.087-.151 0-.299-.015-.442-.044.299.984 1.166 1.702 2.195 1.721-.805.665-1.818 1.061-2.919 1.061-.19 0-.377-.011-.561-.034 1.04.703 2.275 1.113 3.602 1.113 4.323 0 6.686-3.777 6.686-7.052l-.006-.321c.459-.35.859-.786 1.173-1.283-.422.197-.875.33-1.349.39z" fill="#666"/></g></svg>
+                    <span>Twitter</span>
+                </span>
+            </a>
+        </li>
+        <li>
+            <a class="test-shareby-linkedin-link gtm-shareby-linkedin-link" href="https://www.linkedin.com/shareArticle?mini&#x3D;true&amp;url&#x3D;https%3A%2F%2Flink.springer.com%2Farticle%2F10.1007%2Fs11027-007-9139-9&amp;title&#x3D;Economy-wide impacts of climate change: a joint analysis for sea level rise and tourism&amp;summary&#x3D;While climate change impacts on human life have well defined and different origins, the interactions among the diverse impacts are not yet fully understood. Their final effects, however, especially those involving social-economic responses, are like…" target="_blank" rel="noopener noreferrer" title="Share this article via LinkedIn">
+                <span class="share-this__types">
+                    <svg width="24" height="24" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><g fill="none"><path fill-opacity="0" fill="#fff" d="M0 0h24v24h-24z"/><path d="M6.821 10.044h2.126v7.41h-2.126v-7.41zm1.009-.927h-.015c-.77 0-1.269-.566-1.269-1.284 0-.732.514-1.287 1.299-1.287.784 0 1.267.554 1.282 1.285 0 .717-.498 1.286-1.297 1.286zm9.625 8.338h-2.411v-3.835c0-1.004-.377-1.688-1.206-1.688-.634 0-.987.462-1.151.908-.062.159-.052.382-.052.606v4.01h-2.389s.031-6.794 0-7.411h2.389v1.163c.141-.509.904-1.234 2.122-1.234 1.511 0 2.698 1.067 2.698 3.361v4.121z" fill="#666"/></g></svg>
+                    <span>LinkedIn</span>
+                </span>
+            </a>
+        </li>
+    </ul>
+</div>
+
+                                    </div>
+                                    
+
+                                </div>
+                                        <div class="skyscraper-ad u-hide" data-component="SpringerLink-GoogleAds"></div>
+
+                            </div>
+                        </aside>
+                    </div>
+                </article>
+            </main>
+
+            <section class="banner banner--cookies-policy u-js-hide" data-component="SpringerLink-CookiePolicy">
+    <div class="banner__content u-interface">
+        <h2 class="u-screenreader-only">Cookies</h2>
+        <span class="banner__cookie-text">We use cookies to improve your experience with our site.</span>
+        <a class="banner__link banner__link--cookie" href="/termsandconditions#cookies">More information</a>
+
+        <form class="banner__form" action="/acceptcookies" method="POST">
+            <button class="u-link-like banner__right-ui">Accept</button>
+        </form>
+    </div>
+</section>
+
+                <footer class="footer u-interface">
+        <div class="footer__aside-wrapper">
+            <div class="footer__content">
+                <div class="footer__aside">
+    <p class="footer__strapline">Over 10 million scientific documents at your fingertips</p>
+                <div class="footer__edition" data-component="SpringerLink-EditionSwitcher" data-namespace="editionSwitcher">
+                    <h3 class="u-hide" data-role="button-dropdown__title" data-btn-text="Switch between Academic &#38; Corporate Edition">Switch Edition</h3>
+                    <ul data-role="button-dropdown__content">
+                        <li class="selected"><a href="/siteEdition/link" id="siteedition-academic-link">Academic Edition</a></li>
+                        <li><a href="/siteEdition/rd" id="siteedition-corporate-link">Corporate Edition</a></li>
+                    </ul>
+                </div>
+</div>
+            </div>
+        </div>
+        <div class="footer__content">
+            <ul class="footer__nav">
+    <li>
+        <a href="/">Home</a>
+    </li>
+    <li>
+        <a href="/impressum">Impressum</a>
+    </li>
+    <li>
+        <a href="/termsandconditions">Legal Information</a>
+    </li>
+    <li>
+        <a id="contactus-footer-link" href="/contactus">Contact Us</a>
+    </li>
+</ul>
+            <a class="parent-logo"
+   target="_blank" rel="noreferrer noopener"
+   href="//www.springernature.com"
+   title="Go to Springer Nature">
+    <span class="u-screenreader-only">Springer Nature</span>
+    <svg width="125" height="12">
+        <image width="125" height="12" alt="Springer Nature logo"
+               src="/springerlink-static/57488484/images/png/springernature.png"
+               xmlns:xlink="http://www.w3.org/1999/xlink"
+               xlink:href="/springerlink-static/57488484/images/svg/springernature.svg">
+        </image>
+    </svg>
+</a>
+
+<p class="footer__copyright">&copy; 2017 Springer International Publishing AG. Part of <a target="_blank" rel="noreferrer noopener" href="//www.springernature.com">Springer Nature</a>.</p>
+
+    <p class="footer__user-access-info">
+        <span>Not logged in</span>
+        <span>Not affiliated</span>
+        <span>166.122.78.138</span>
+    </p>
+
+        </div>
+    </footer>
+
+        </div>
+            <script type="text/javascript">
+            (function() {
+                var linkEl = document.querySelector('.js-ctm');
+                if (window.matchMedia && window.matchMedia(linkEl.media)) {
+                    var scriptMathJax = document.createElement('script');
+                    scriptMathJax.async = true;
+                    scriptMathJax.src = '/springerlink-static/57488484/js/mathJax.js';
+                    var s0 = document.getElementsByTagName('script')[0];
+                    s0.parentNode.insertBefore(scriptMathJax, s0);
+                }
+            })();
+    </script>
+
+<script type="text/javascript">
+    (function() {
+        var linkEl = document.querySelector('.js-ctm');
+        if (window.matchMedia && window.matchMedia(linkEl.media)) {
+            // Add JS class
+            (function(h){h.className = h.className.replace('no-js', 'js')})(document.documentElement);
+            // Create global SpringerLink namespace
+            window.SpringerLink = window.SpringerLink || {};
+            window.SpringerLink.staticLocation = '/springerlink-static/57488484';
+            // Create and append scripts
+            var scriptJquery = document.createElement('script');
+            var scriptMain = document.createElement('script');
+            scriptJquery.async = false;
+            scriptJquery.src = '/springerlink-static/57488484/js/jquery-3.1.1.min.js';
+            scriptMain.async = false;
+            scriptMain.src = '/springerlink-static/57488484/js/main.js';
+            document.body.appendChild(scriptJquery);
+            document.body.appendChild(scriptMain);
+        }
+    })();
+</script>
+
+
+    <script class="kxct" data-id="KDqyaFZ_" data-timing="async" data-version="3.0" type="text/javascript">
+ window.Krux||((Krux=function(){Krux.q.push(arguments)}).q=[]);
+ (function(){
+   var k=document.createElement('script');k.type='text/javascript';k.async=true;
+   k.src=(location.protocol==='https:'?'https:':'http:')+'//cdn.krxd.net/controltag/KDqyaFZ_.js';
+   var s=document.getElementsByTagName('script')[0];s.parentNode.insertBefore(k,s);
+ }());
+</script>
+
+<script>
+    window.Krux||((Krux=function(){Krux.q.push(arguments);}).q=[]);
+    (function(){
+        function retrieve(n){
+            var m, k='kx'+n;
+            if (window.localStorage) {
+                return window.localStorage[k] || "";
+            } else if (navigator.cookieEnabled) {
+                m = document.cookie.match(k+'=([^;]*)');
+                return (m && unescape(m[1])) || "";
+            } else {
+                return '';
+            }
+        }
+        Krux.user = retrieve('user');
+        Krux.segments = retrieve('segs') && retrieve('segs').split(',') || [];
+    })();
+</script>
+    <script type="text/javascript">
+        var googletag = googletag || {};
+        googletag.cmd = googletag.cmd || [];
+        (function() {
+            var gads = document.createElement('script');
+            gads.async = true;
+            gads.type = 'text/javascript';
+            var useSSL = 'https:' == document.location.protocol;
+            gads.src = (useSSL ? 'https:' : 'http:') +
+                    '//www.googletagservices.com/tag/js/gpt.js';
+            var node = document.getElementsByTagName('script')[0];
+            node.parentNode.insertBefore(gads, node);
+        })();
+    </script>
+    <script type="text/javascript" id="googletag-push">
+        googletag.cmd.push(function() {
+                googletag.defineSlot('6313/casper/journal/article', [728, 90], 'doubleclick-leaderboard-ad').addService(googletag.pubads());
+                googletag.defineSlot('6313/casper/journal/article', [160, 600], 'doubleclick-ad').addService(googletag.pubads());
+                googletag.pubads().setTargeting("doi","10.1007-s11027-007-9139-9");
+                googletag.pubads().setTargeting("kwrd",["Climate_change","Sea_level_rise","Tourism","Computable_general_equilibrium_models","C68","D58","Q25"]);
+                googletag.pubads().setTargeting("eissn","1573-1596");
+                googletag.pubads().setTargeting("pissn","1381-2386");
+                googletag.pubads().setTargeting("ksg",Krux.segments);
+                googletag.pubads().setTargeting("kuid",Krux.uid);
+            googletag.pubads().enableSingleRequest();
+            googletag.pubads().enableAsyncRendering();
+            googletag.enableServices();
+        });
+    </script>
+
+<script src="//s3.amazonaws.com/assets.freshdesk.com/widget/freshwidget.js"></script>
+
+<script type="text/javascript">
+    var linkEl = document.querySelector('.js-ctm');
+    if (window.matchMedia && window.matchMedia(linkEl.media)) {
+        FreshWidget.init("", {
+            "queryString": "&widgetType=popup",
+            "utf8": "✓",
+            "widgetType": "popup",
+            "buttonType": "text",
+            "buttonText": "Support",
+            "buttonColor": "white",
+            "buttonBg": "#087be7",
+            "alignment": "4",
+            "offset": "-1500px",
+            "formHeight": "500px",
+            "url": "https://springeronlineservice.freshdesk.com"
+        });
+    }
+</script>
+
+
+        <span id="chat-widget" class="u-hide"></span>
+    </body>
+</html>

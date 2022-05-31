@@ -1,0 +1,623 @@
+
+    <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+    <html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://ogp.me/ns/fb#" xmlns:og="http://opengraphprotocol.org/schema/" xmlns:addthis="http://www.addthis.com/help/api-spec">
+        <head>
+            <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+			<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+            
+				<title>PsycNET - Option to Buy</title>
+			
+	<link rel="icon" type="image/png" href="/images/favicon.png"/>
+
+				<!--[if gte IE 8]><meta http-equiv="X-UA-Compatible" content="IE=7"><![endif]-->
+			
+                    <link rel="stylesheet" href="/css/option_to_buy.css" type="text/css" />
+                    
+                    <link rel="stylesheet" href="/css/dialog.css" type="text/css" />
+                    
+                    <link rel="stylesheet" href="/css/dialog_login.css" type="text/css" />
+                    
+                    <link rel="stylesheet" href="/css/psycnet3.css" type="text/css" />
+                    
+                    <link rel="stylesheet" href="/css/psycnet3_printer.css" type="text/css" media="print" />
+                    
+					<!--[if IE 6]><link rel="stylesheet" href="/css/ie6_hacks.css" type="text/css" /><![endif]-->
+				
+				<script language="JavaScript" type="text/javascript" src="/js/lib/jquery/jquery.js"></script>
+				
+	                <script type="text/javascript">
+						document.domain = "apa.org";						
+						myApaUrl = "http://my.apa.org/";
+					</script>
+					<script language="javascript" type="text/javascript" src="http://my.apa.org//apa/scripts/jquery.maskedinput-1.2.1.js"></script>
+	                <link type="text/css" href="http://my.apa.org//apa/css/overlay.css" rel="stylesheet"></link>
+	                <script language="javascript" type="text/javascript" src="http://my.apa.org//apa/scripts/apaAuth.js"></script>
+	                <script type="text/javascript" src="http://my.apa.org//apa/scripts/yahoo-ui-2.6.0-cookies-tabs-min.js"></script>
+								
+				<script language="JavaScript" type="text/javascript" src="/js/lib/jquery/jquery.qtip.min.js"></script>				
+				
+                    <script language="JavaScript" type="text/javascript" src="/js/mdetect.js"></script>
+				
+                    <script language="JavaScript" type="text/javascript" src="/js/mobileApp.js"></script>
+				
+                    <script language="JavaScript" type="text/javascript" src="/js/ajax/getAbstracts.js"></script>
+				
+                    <script language="JavaScript" type="text/javascript" src="/js/ajax/getAllAbstracts.js"></script>
+				
+                    <script language="JavaScript" type="text/javascript" src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script>
+				
+                    <script language="JavaScript" type="text/javascript" src="/js/psycnet3.js"></script>
+				
+                    <script language="JavaScript" type="text/javascript" src="/js/ajax/ajaxCFCInitRootRelative.js"></script>
+				
+				<noscript>
+					APA PsycNET
+					Our Apologies! - The following features are not available with your current Browser configuration.
+					 - get an abstract for a record - mobile App popup - get an abstract for a record - get all abstracts for all records - page navigation - memorize search form information - display database popup information - adjust limits on search form
+				</noscript>
+			
+				<script language="JavaScript" type="text/javascript" src="/js/googleanalytics.js"></script>
+				<script type="text/javascript" src="http://www.apa.org/js/xdomain.js"></script>
+			 
+        <script type="text/javascript" src="/ga242345.js" defer></script><style type="text/css">#d__fFH{position:absolute;top:-5000px;left:-5000px}#d__fF{font-family:serif;font-size:200px;visibility:hidden}#bbdfbyzbdtfcd{display:none!important}</style></head>
+        
+        
+        <body  onunload="">
+            <div id='SkipNavigation'><a href='#MainContent' title='Skip Navigation' accesskey='N'>Skip Navigation</a><span id="bbdfbyzbdtfcd"><a rel="file" style="display: none;" href="dcexvwbtfvftcy.html">qqwstsrb</a></span></div> 
+		
+			<div id="ContentZone">
+            
+                	
+                
+
+	<input type="hidden" id="sessionTimeOutLocale" value="Your APA PsycNET session timed out because it was inactive for 30 minutes.">
+	<input type="hidden" id="sessionWarningFiveMins" value="Your session will time out in 5 minutes.">
+	<input type="hidden" id="sessionContinueOk" value="To continue working, click OK.">
+	<input type="hidden" id="sessionContinueTip" value="Tip: Save your search strategies for future use at Recent Searches.">
+	
+	<div id="pnSessionWarningOverlay" style="display:none;">
+		<div class="pnSessionBox" >
+			<div class="pnSessionInfo pnSessionWarning" >
+				<div id="pnSessionWarningMessage"></div>	
+				<ul id='pnSessionWarningButtons'>
+					<li><input type='button' name='ok' value='Ok' onclick='pnSession.extend();' /></li>
+				</ul>			
+			</div>
+		</div>
+	</div>
+	
+	
+	<div id="pnSessionExpiredOverlay" style="display:none;">
+		<div class="pnSessionBox">
+			<div class="pnSessionInfo pnSessionTimeout" >
+				<div id="pnSessionTimeoutMessage"></div>	
+				<ul id="pnSessionWarningButtons">
+					
+					<li><input type="button" name="close" value="Restart" onclick="window.location='/index.cfm?fa=search.advancedSearchForm'" /></li>
+				</ul>
+			</div>
+		</div>
+	</div>
+
+<script language="JavaScript">
+		jQuery(document).ready(function() {				
+			clickDownloadApp();		
+		});	
+</script>
+
+	
+	<script language="JavaScript">
+
+	var mobileAppName="";
+
+        if(MobileEsp.DetectIphone())
+        {
+		mobileAppName='iPhone';
+              showMobileApp('iPhone');              
+        }
+        else if(MobileEsp.DetectAndroidPhone())
+        {
+		mobileAppName='android';
+		showMobileApp('android');
+	 }
+      	 else if(MobileEsp.DetectIpad())
+	{					
+		mobileAppName='Ipad';
+		showMobileApp('Ipad');		
+	}		
+	else if(MobileEsp.DetectAndroidTablet())
+	{
+		mobileAppName='androidTab';
+		showMobileApp('androidTab');
+	}
+	else
+	{
+		mobileAppName='desktop';
+	}	
+	</script>
+	
+
+
+<div id="BrandingBar" >
+	<h1 id="PsycNETLogo"><a href="/index.cfm?fa=search.defaultSearchForm" alt="PsycNET home" title="PsycNET home">Home</a></h1>
+	
+		
+		
+	
+	<h2 id="EntityLogo" class="noPrint" align="center">
+		
+		<a href="http://www.apa.org"><img style="display: inline;" alt="APA website home" title="http://www.apa.org" src="images/default_co-branding.gif" align="absmiddle"></a>
+	</h2>
+		
+	<div id="socialMediaFollows">
+	    <a href="https://www.facebook.com/APAPsycNET" target="_blank"><img src="/images/facebook25x25.gif" title="Follow us on Facebook" alt="Facebook image"></a>
+	    <a href="https://www.twitter.com/APAPsycNET" target="_blank"><img src="/images/twitter25x25.gif" title="Follow us on Twitter" alt="Twitter image"></a>
+	</div>		
+
+			
+		<div id="Login">
+			
+					<a href="http://psycnet.apa.org/index.cfm?fa=main.login&rURL=http%3A%2F%2Fmy%2Eapa%2Eorg%2Fapa%2Fidm%2Flogin%2Eseam%3FERIGHTS%5FTARGET%3Dhttp%253A%252F%252Fpsycnet%252Eapa%252Eorg%252F&preserveRequest=1">Login</a>
+				
+			&nbsp;&nbsp;
+			<u>
+  			<a id="localeLink" style="cursor:pointer;">Languages</a>&nbsp;
+			<a id="localeLinkArrow" style="width: 0;height: 0;border-left: 4px solid transparent;border-right: 4px solid transparent;border-top: 5px solid black;margin-top:4px; position:relative;float:right;cursor:pointer;text-decoration: underline;"></a>
+			</u>
+		</div>
+
+		
+		
+		<div id="mobileApp">
+		</div>
+		<div id="blockExceessiveUsageDiv">
+		</div>
+		<div id="idemValidUserDiv">
+		</div>
+		<div id="promoStatDiv">
+		</div>
+	<div id="Utilities" >		
+		<div id="alertLinkContainer">
+				
+		</div>
+		<ul id="HelpBar" class="noPrint">
+			
+				<li id="hBarShoppingCart"><a href="/index.cfm?fa=buy.cart">Cart&nbsp;<span id="CartQuantity"></span></a></li>
+			           
+             <li id="hbarHelp"><a href="http://help.psycnet.org/">Help</a></li>
+            
+			
+			<li id="hbarContact"><a href="/index.cfm?fa=main.contactUs">Contact Us</a></li>
+            
+			<li id="hbarFeedback"><a href="/index.cfm?fa=feedback.showForm">Feedback</a></li>
+			
+		</ul>
+	</div>	
+	
+	<div id="languagePreferencePopup" style="display:none;">
+				<div  id="innerPop" >
+							<div style="padding: 2px 5px;text-align: center;cursor:pointer;font-size: 9pt;" id="langPref_de" onclick="applyLocalisation('de');">Deutsch</div></br>
+							<div style="padding: 2px 5px;text-align: center;cursor:pointer;font-size: 9pt;" id="langPref_en" onclick="applyLocalisation('en');">English</div></br>
+							<div style="padding: 2px 5px;text-align: center;cursor:pointer;font-size: 9pt;" id="langPref_es" onclick="applyLocalisation('es');">Español</div></br>
+							<div style="padding: 2px 5px;text-align: center;cursor:pointer;font-size: 9pt;" id="langPref_fr" onclick="applyLocalisation('fr');">Français</div></br>
+							<div style="padding: 2px 5px;text-align: center;cursor:pointer;font-size: 9pt;" id="langPref_prt" onclick="applyLocalisation('prt');">Português</div></br>
+				</div>
+	</div>		
+	
+        	
+				<div id="downloadAppLinkInactive"></div>
+			
+	
+</div>
+
+
+
+
+		<ul id="PrimaryNavigation" >
+			<li id="pnavSearch" class="active"><a href="/index.cfm?fa=search.defaultSearchForm" id="linkPNavSearch">SEARCH</a></li>
+			
+				<li id="pnavBrowse" ><a href="/index.cfm?fa=browsePA.home" id="linkPNavBrowse">BROWSE</a></li>
+			
+			<li id="pnavSubjects" ><a href="/index.cfm?fa=termfinder.displayTerms" id="linkPNavTermFinder" title="Thesaurus of Psychological Index Terms">TERM FINDER</a></li>
+			<li id="pnavMyPsycNET" ><a href="/index.cfm?fa=myPsycNET.default" id="linkPNavMyPsycNET">MY PsycNET</a></li>
+		</ul>
+	
+
+<script>
+	if( typeof mobileAppName !== "undefined" ){
+	if(mobileAppName=='android' || mobileAppName=='androidTab') {
+		document.getElementById('downloadAppLink').innerHTML = "<a href='#'><img id='downloadAppAndroid' alt='Download Mobile App' src='images/Download_App_Link_New.jpg' style='border: none; width: 258px; height:54px;'></a>";
+		document.getElementById('downloadAppLink').style.height = "55px";
+		document.getElementById('downloadAppLink').style.float = "left";
+		document.getElementById('downloadAppLink').style.display = "inline";
+	}
+	else if(mobileAppName=='iPhone' || mobileAppName=='Ipad') {
+       	document.getElementById('downloadAppLink').innerHTML = "<a href='#'><img id='downloadAppiTunes' alt='Download Mobile App' src='images/Download_App_Link_New.jpg' style='border: none; width: 250px; height:54px;'></a>";
+		document.getElementById('downloadAppLink').style.height = "55px";
+		document.getElementById('downloadAppLink').style.float = "left";
+		document.getElementById('downloadAppLink').style.display = "inline";
+	}
+	else {
+		document.getElementById('downloadAppLink').style.clear = "both";
+	}
+	}
+</script>
+<a name='MainContent' id='MainContent'></a> 
+<script language="javascript">
+
+	
+		activeRemoteRequestCount = 0;
+		comboPassAlreadyInCartHtml = '<div id="obArticleButton"><a id="comboIsInCartLink" href="/index.cfm?fa=buy.cart">VIEW CART</a>Combo&nbsp;Pass&nbsp;in&nbsp;cart</div>';
+		doChangeDayPassHtml = false;
+		itemAddedIsComboItem = false;
+		optionToBuyPreviousPage = "";		
+		passAlreadyInCartHtml = '<div id="obArticleButton"><a id="isInCartLink" href="/index.cfm?fa=buy.cart">VIEW CART</a>This item is already in your cart.</div>';
+		passJustAddedToCart = false;
+		shoppingCartLink = "/index.cfm?fa=buy.cart";
+	
+
+	//	when the page loads we check to see if the item, pass and/or combo pass are already in the cart
+	jQuery(document).ready(function($) {	
+		
+			apaItemCode = '2700001';
+			comboApaItemCode = '4840001';
+			itemUID = '1996-05971-005';
+	
+			
+	
+				//	if item is in cart
+				if(itemIsInCart(apaItemCode, itemUID)){
+					alreadyInCartHtml = jQuery('#obArticleButtonAlreadyInCart').html();					
+					jQuery('#obArticleButton').html(alreadyInCartHtml);					
+					jQuery("#purchaseLink").removeClass("addToCartButton addingItemToCart").addClass("itemInCart");
+				}	
+			
+			
+		
+	});	
+	
+	//	checks to see if the item is already in the cart...used by jQuery.ready (above)
+	function itemIsInCart(apaItemCode, itemUID){
+		
+		//	can call Shantanu's isInCart() function, but we'll use ours for now
+		//	returnVar = isInCart(itemUID);
+		
+			returnVar = false;
+			
+			if(apaItemCode == '4840001'){
+				returnVar = false;
+			}
+		
+
+		return returnVar;
+	}
+	
+	//	fires when a user clicks 'add to cart'
+	function purchaseItem(apaItemCode, itemUID){	
+		
+		var shoppingCartLink = '#variables.shoppingCartLink#';
+		
+		if(! arguments[1]){
+			itemUID = '0';
+		}
+		
+		
+		
+		/*		Validate PsycINFO, PsycEXTRA and PsycCRITIQUES day passes are added to ShoppingCart. 
+				If so, convert it into Combo day pass. 
+		*/
+		var hasPI=false
+		var hasPE=false
+		var hasPQ=false
+	
+		// PsycCRITIQUES 2020001
+		if(apaItemCode == '2020001'){
+			if(hasPI && hasPE){
+				apaItemCode='4840001';
+			}
+		} // PsycINFO 3500001
+		else if(apaItemCode == '3500001'){
+			if(hasPQ && hasPE){
+				apaItemCode='4840001';
+			}
+		}else{
+			if(hasPI && hasPQ){
+				apaItemCode='4840001';
+			}
+		}
+		
+		shoppingCartLink = '/index.cfm?fa=buy.cart';
+		productCode = 'PA_Document';
+		if(apaItemCode == '4840001'){
+			productCode = 'DayPassCombo';				
+		}
+			
+			
+				//	combo day pass
+				if(apaItemCode == '4840001'){
+					name = 'Day Pass Combo';
+					imageUrl = 'http://psycnet.apa.org/images/db_triple_gray.gif';
+					productUrl = '';					
+					isOfpPurchase = false;
+					
+					itemAddedIsComboItem = true;
+					doChangeDayPassHtml = true;	
+					
+					//	if the day pass is already in the cart, remove it!
+					//	if(false == true){
+					//	}					
+
+					//	remove all day passes from cart
+					removeDayPassesFromCart();
+										
+				//	item
+				}else{
+					name = "Violent storms and violent people: How meteorology can inform risk communication in mental health law.";
+					var description = 'Monahan, John; Steadman, Henry J.<br />American Psychologist,  Vol 51(9), Sep   1996, 931-938.';
+					var imageUrl = 'http://www.apa.org/pubs/journals/images/amp-100.gif';
+					var productUrl = 'http://psycnet.apa.org/journals/amp/51/9/931';
+
+					//	if the item being added is a day pass, indicate it in the constant
+					if(itemUID == '0'){
+						passJustAddedToCart = true;
+					}
+				
+				}
+				documentCode = 'amp';
+				isOfpPurchase = 'false';
+				sessionId = '';
+			
+			
+			activeRemoteRequestCount = activeRemoteRequestCount + 1;
+			addPsycnetProductToCart
+				(
+				sessionId, 
+				apaItemCode, 
+				itemUID, 
+				name, 
+				description, 
+				imageUrl, 
+				productUrl, 
+				documentCode, 
+				isOfpPurchase, 
+				onItemAddedToCart
+				);
+		
+	}
+
+	function removeDayPassesFromCart(){
+		activeRemoteRequestCount = activeRemoteRequestCount + 3;
+		removeProduct('3700001', onItemRemovedFromCart);
+		removeProduct('3500001', onItemRemovedFromCart);
+		removeProduct('2020001', onItemRemovedFromCart);
+	}
+	
+	function onItemRemovedFromCart(response){
+
+		activeRemoteRequestCount = activeRemoteRequestCount - 1;
+
+		/*
+		response.status		means
+		0					success
+		1					failure
+		*/
+		
+		if(passJustAddedToCart == true){
+			jQuery('#passButtonContainer').html(comboPassAlreadyInCartHtml);
+		}
+		if(activeRemoteRequestCount < 1){
+			onAllRemoteRequestsEnd();
+		}
+	}
+	
+	function onAllRemoteRequestsEnd(){
+		
+		//	update cart count
+		activeRemoteRequestCount = activeRemoteRequestCount + 1;
+		refreshCart();	//TODO: need function name from Shantanu
+		activeRemoteRequestCount = activeRemoteRequestCount - 1;
+	}
+	
+	function onItemAddedToCart(response) {
+
+		activeRemoteRequestCount = activeRemoteRequestCount - 1;
+		
+		/*
+		0: Success
+		1: User is not logged in (this is used to purchase items for which user need to be logged in)
+		2: User is not authorized to buy this product (something like a  member only product)
+		3: Product not found in DB
+		4: User already have active license and cannot purchase this (this is currently strictly for CE items)
+		5: Quantity requested not available
+		6: User not allowed to buy more than one at a time
+		7: CESAS related (overlook this)
+		*/
+		cartResponse = response.addToCartResponse;
+		if(cartResponse == 0){
+			updateShoppingCart(response.quantity, 0);
+			
+			if(doChangeDayPassHtml == true){
+				jQuery('#passButtonContainer').html(comboPassAlreadyInCartHtml);
+			}
+			
+			if(itemAddedIsComboItem){			
+
+				updateComboPurchaseLink(shoppingCartLink);
+				updateComboPriceDiv();
+			}else{
+				updatePurchaseLink(shoppingCartLink);
+				updatePriceDiv();
+			}
+				showDialog('purchaseConfirmationDialog');
+
+		}else{
+			showDialog('alreadyPurchasedDialog');
+		}
+		
+		if(activeRemoteRequestCount < 1){
+			onAllRemoteRequestsEnd();
+		}
+	}
+
+	//	hides all dialogues and redirects users back to the previous page
+	function continueShopping(){
+		jQuery('#purchaseConfirmationDialog').hide();
+		jQuery('#alreadyPurchasedDialog').hide();
+		window.location.replace(optionToBuyPreviousPage);
+	}
+	
+	//	sends users to checkout
+	function goToCheckout(theLink){
+		window.location.replace(theLink);
+	}
+	
+	function updateComboPriceDiv(){
+		jQuery("#theComboPrice").html(jQuery('#addedToCartLocale').val());	
+	}
+	
+	function updateComboPurchaseLink(){
+		jQuery("#comboPurchaseLink").html(jQuery('#viewCartLocale').val());	
+		jQuery("#comboPurchaseLink").attr("href", shoppingCartLink);		
+		jQuery("#comboPurchaseLink,#comboIsInCartLink").removeClass("addToCartButton addingItemToCart").addClass("itemInCart");
+	}
+	
+	function updatePriceDiv(){
+		jQuery("#thePrice").html(jQuery('#addedToCartLocale').val());	
+	}
+	
+	function updatePurchaseLink(){
+		jQuery("#purchaseLink").html(jQuery('#viewCartLocale').val());	
+		jQuery("#purchaseLink").attr("href", shoppingCartLink);
+		jQuery("#purchaseLink").removeClass("addToCartButton addingItemToCart").addClass("itemInCart");
+	}	
+	
+	function showAddingToCart(targetID){	
+		if(jQuery("#"+targetID).hasClass("addItemToCart")){
+			jQuery("#"+targetID).removeClass("addItemToCart").addClass("addingItemToCart").html(jQuery('#adddingToCartLocale').val());
+		}				
+	}
+	
+</script>
+
+	<input type="hidden" id="addedToCartLocale" value="Added to cart">
+	<input type="hidden" id="viewCartLocale" value="VIEW CART">
+	<input type="hidden" id="adddingToCartLocale" value="ADDING TO CART">
+
+    <div id="PrimaryNavigationShadow">
+        <div id="obHeaderTop">
+            <div id="obHeaderTitle">APA PsycNET Direct</div>     
+        </div>
+    </div>
+	<input type="hidden" id="hideAllAbstractsLocale" value="Hide All Abstracts">
+	<input type="hidden" id="hideAbstractLocale" value="Hide Abstract">
+	<input type="hidden" id="hideAllSummariesLocale" value="Hide All Summaries">
+	<input type="hidden" id="hideSummaryLocale" value="Hide Summary">
+	<input type="hidden" id="hideAllDescriptionsLocale" value="Hide All Descriptions">
+	<input type="hidden" id="hideDescriptionLocale" value="Hide Description">
+	
+	<input type="hidden" id="showAllAbstractsLocale" value="Show All Abstracts">
+	<input type="hidden" id="showAbstractLocale" value="Show Abstract">
+	<input type="hidden" id="showAllSummariesLocale" value="Show All Summaries">
+	<input type="hidden" id="showSummaryLocale" value="Show Summary">
+	<input type="hidden" id="showAllDescriptionsLocale" value="Show All Descriptions">
+	<input type="hidden" id="showDescriptionLocale" value="Show Description">
+	<input type="hidden" id="loadingAbstractLocale" value="Loading abstract">
+	<input type="hidden" id="loadingSummaryLocale" value="Loading summary">
+	 
+	
+	    
+        <div id="obArticleSelected">
+            <div id="obArticleHeaderText">
+				Article Selected 
+			</div>        
+          
+           	
+			
+
+				<div id="obArticleButton" >				
+								
+						<a rel="nofollow" id="purchaseLink" class="addToCartButton addItemToCart" href="#" onclick="showAddingToCart(this.id);purchaseItem('2700001', '1996-05971-005'); return false;">Add to Cart</a>
+					
+					<br />
+					<div id="thePrice">$11.95</div>
+				</div>
+				<div id="obArticleButtonAlreadyInCart" style="visibility:hidden;">
+					<a rel="nofollow" id="purchaseLink"  href="/index.cfm?fa=buy.cart">VIEW CART</a>
+						<br />
+						This item is already in your cart.
+				</div>
+            	
+			
+			         
+            <div id="obArticleTitleHighlighted">Violent storms and violent people: How meteorology can inform risk communication in mental health law.</div>	             
+            <div id="obArticleTitleContent">
+                <div id="obAuthor">By Monahan, John; Steadman, Henry J.</div>					
+				<div id="obSource">American Psychologist,  Vol 51(9), Sep   1996, 931-938.</div>		
+                				
+				<div id="obAbstractLabel">Abstract</div>
+               <div id="obAbstract">
+               
+				Meteorology is often thought of as a field with highly developed techniques for forecasting rare and severe events. Risk assessment of another type of rare and severe event—violence to others—occurs in mental health law. The analogy between these 2 forms of risk assessment is explored in this article. How meteorologists go about assessing the risk of harmful weather is described. Implications from the meteorological analogy are drawn for 1 aspect of violence prediction that is routinely ignored in mental health law: the communication of risk "forecasts." (PsycINFO Database Record (c) 2016 APA, all rights reserved) 				
+			   </div>                    
+            </div>
+            
+			<div id="bottomArticle"></div>                  
+        </div>
+     
+			<div id="purchaseConfirmationDialog" style="display:none;" >
+				<div class="pn3DialogBox" style="width:450px;">		
+					<div class="pn3DialogInnerBox">			
+						<div class="dialog">
+							 <div class="content">
+							  	<div class="t"></div>							
+								Selected item is added to your cart.<br /><br />
+<input type="button" name="continue" value="Look for more articles/chapters" id="idConfirmContinue" onclick="continueShopping();return false;" />
+<input type="button" name="checkout" value="Checkout" onclick="goToCheckout(shoppingCartLink);return false;" />
+
+							 </div>
+							 <div class="b"><div></div></div>
+						</div>
+					</div>
+				</div>
+			</div>
+			
+			<div id="alreadyPurchasedDialog" style="display:none;" >
+				<div class="pn3DialogBox" style="width:450px;">		
+					<div class="pn3DialogInnerBox">			
+						<div class="dialog">
+							 <div class="content">
+							  	<div class="t"></div>							
+								This item is already in your cart.<br /><br />
+<input type="button" name="continue" value="Look for more articles/chapters" id="idConfirmContinue" onclick="continueShopping();return false;" />
+<input type="button" name="checkout" value="Checkout" onclick="goToCheckout(shoppingCartLink);hideDialog('purchaseConfirmationDialog');return false;" />
+
+							 </div>
+							 <div class="b"><div></div></div>
+						</div>
+					</div>
+				</div>
+			</div>
+			
+	<div id="pnFooterBlueBar">
+		<ul id="pnBlueFooter">
+			<li class="year">&copy;2017 American Psychological Association</li>
+			<li>By using this product, you agree to the terms set forth in the <a href="" onclick="openUsageStatement('/index.cfm?fa=main.usageStatement'); return false;">Appropriate Usage Statement</a>.</li>
+		</ul>
+	</div>
+	<div id="PrimaryNavigationShadow"></div>
+
+            
+            </div>
+            
+	<script type='text/javascript'>
+        var cartContents = "";
+        
+        jQuery(document).ready(function($) {
+            createIframe();
+            createShopIframe();
+        });
+    </script>
+
+		</body>
+	</html>
